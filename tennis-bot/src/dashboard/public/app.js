@@ -2541,10 +2541,17 @@ let _anStratSort = { col: 'name', dir: 'asc' };
 let _anStratRows = [];
 
 function renderAnalysisStratTable(bets) {
+  // Build a client-side filter pass function from the active Filter Lab state
+  const filtPasses = _anFilter ? _flBuildPassFn(_anFilter) : null;
+
   const byStrat = {};
   for (const b of bets) {
     const key = `${b.strategy_name || 'Unknown'}|${b.side || ''}`;
-    if (!byStrat[key]) byStrat[key] = { name: b.strategy_name || 'Unknown', side: b.side || '—', bets: 0, wins: 0, pnl: 0, stakes: 0, oddsSum: 0, live: 0, dry: 0 };
+    if (!byStrat[key]) byStrat[key] = {
+      name: b.strategy_name || 'Unknown', side: b.side || '—',
+      bets: 0, wins: 0, pnl: 0, stakes: 0, oddsSum: 0, live: 0, dry: 0,
+      fBets: 0, fWins: 0, fPnl: 0, fStakes: 0,
+    };
     const s = byStrat[key];
     s.bets++;
     if (b.pnl != null && b.pnl > 0) s.wins++;
@@ -2552,15 +2559,23 @@ function renderAnalysisStratTable(bets) {
     s.stakes += b.stake || 0;
     s.oddsSum += b.requested_odds || 0;
     if (b.dry_run) s.dry++; else s.live++;
+    if (filtPasses && filtPasses(b)) {
+      s.fBets++;
+      if (b.pnl != null && b.pnl > 0) s.fWins++;
+      s.fPnl    += b.pnl || 0;
+      s.fStakes += b.stake || 0;
+    }
   }
 
   _anStratRows = Object.values(byStrat)
     .filter(s => s.name && s.name !== 'Unknown' && s.name !== 'null' && s.name !== 'undefined')
     .map(s => ({
       ...s,
-      wr:  s.bets ? (s.wins / s.bets * 100) : 0,
-      roi: s.stakes > 0 ? (s.pnl / s.stakes * 100) : 0,
-      avg: s.bets ? (s.oddsSum / s.bets) : 0,
+      wr:   s.bets ? (s.wins / s.bets * 100) : 0,
+      roi:  s.stakes > 0 ? (s.pnl / s.stakes * 100) : 0,
+      avg:  s.bets ? (s.oddsSum / s.bets) : 0,
+      fWr:  s.fBets ? (s.fWins / s.fBets * 100) : 0,
+      fRoi: s.fStakes > 0 ? (s.fPnl / s.fStakes * 100) : 0,
     }));
 
   _anStratBindHeaders();
@@ -2587,7 +2602,7 @@ function _anStratBindHeaders() {
 function _anStratRedraw() {
   const rows = _anStratRows;
   if (!rows.length) {
-    $('an-strat-tbody').innerHTML = '<tr><td colspan="10" class="empty">No data</td></tr>';
+    $('an-strat-tbody').innerHTML = `<tr><td colspan="${_anFilter ? 14 : 10}" class="empty">No data</td></tr>`;
     return;
   }
   const { col, dir } = _anStratSort;
@@ -2596,6 +2611,11 @@ function _anStratRedraw() {
     if (col === 'name') return _stratCompare(a.name, b.name) * mult;
     if (col === 'side') return (a.side || '').localeCompare(b.side || '') * mult;
     return ((a[col] ?? 0) - (b[col] ?? 0)) * mult;
+  });
+
+  // Show / hide Filter Lab columns
+  document.querySelectorAll('#an-strat-table .an-fl-col').forEach(el => {
+    el.style.display = _anFilter ? '' : 'none';
   });
 
   // Reflect sort state in header chevrons
@@ -2616,6 +2636,12 @@ function _anStratRedraw() {
       <td>${s.avg > 0 ? s.avg.toFixed(2) : '—'}</td>
       <td>${s.live}</td>
       <td>${s.dry}</td>
+      ${_anFilter ? `
+        <td>${s.fBets}</td>
+        <td class="${pnlClass(s.fWr - 50)}">${s.fBets ? fmt.pct(s.fWr) : '—'}</td>
+        <td class="${pnlClass(s.fPnl)}">${s.fBets ? fmt.pnl(s.fPnl) : '—'}</td>
+        <td class="${pnlClass(s.fRoi)}">${s.fBets ? fmt.pct(s.fRoi) : '—'}</td>
+      ` : ''}
     </tr>`).join('');
 }
 
