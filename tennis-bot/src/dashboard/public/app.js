@@ -2486,24 +2486,30 @@ function initAiAnalysis() {
 
 // ── ANALYSIS TAB ──────────────────────────────────────────────────────────────
 let _anChart     = null;
-let _anSince     = '-7 days';
+let _anSince     = '-365 days';
 let _anChartType = 'pnl';
 let _anBets      = [];
+let _anAllBets   = [];
 let _anDaily     = [];
+let _anFilter    = null;
 
 async function loadAnalysis() {
   try {
-    const [betsResp, daily] = await Promise.all([
+    const isAllTime = _anSince === '-365 days';
+    const [betsResp, allBetsResp, daily, flState] = await Promise.all([
       api(`/api/db/bets?since=${encodeURIComponent(_anSince)}&limit=5000`),
+      isAllTime ? Promise.resolve(null) : api('/api/db/bets?since=-3650 days&limit=5000'),
       api('/api/db/bets/daily-pnl'),
+      api('/api/filter-lab/state').catch(() => null),
     ]);
-    _anBets  = betsResp.bets || [];
-    _anDaily = daily;
+    _anBets    = betsResp.bets || [];
+    _anAllBets = isAllTime ? _anBets : (allBetsResp?.bets || []);
+    _anDaily   = daily;
+    _anFilter  = flState && Object.keys(flState).length ? flState : null;
     renderAnalysisSummary(_anBets);
-    renderAnalysisStratTable(_anBets);
-    renderAnalysisDailyTable(daily);
+    renderAnalysisFilteredSummary(_anAllBets);
+    renderAnalysisStratTable(_anBets, _anAllBets);
     renderAnalysisChart();
-    renderAnalysisBets(_anBets);
   } catch (e) {
     $('an-strat-tbody').innerHTML = `<tr><td colspan="11" class="empty">Error: ${e.message}</td></tr>`;
   }
@@ -2533,11 +2539,27 @@ function renderAnalysisSummary(bets) {
 let _anStratSort = { col: 'name', dir: 'asc' };
 let _anStratRows = [];
 
-function renderAnalysisStratTable(bets) {
+function renderAnalysisStratTable(bets, allBets) {
+  const filtPasses = _anFilter ? _flBuildPassFn(_anFilter) : null;
+
+  const byStratFilt = {};
+  if (filtPasses && allBets) {
+    for (const b of allBets) {
+      if (!filtPasses(b)) continue;
+      const key = `${b.strategy_name || 'Unknown'}|${b.side || ''}`;
+      if (!byStratFilt[key]) byStratFilt[key] = { fBets: 0, fWins: 0, fPnl: 0, fStakes: 0 };
+      const f = byStratFilt[key];
+      f.fBets++;
+      if (b.pnl != null && b.pnl > 0) f.fWins++;
+      f.fPnl    += b.pnl || 0;
+      f.fStakes += b.stake || 0;
+    }
+  }
+
   const byStrat = {};
   for (const b of bets) {
     const key = `${b.strategy_name || 'Unknown'}|${b.side || ''}`;
-    if (!byStrat[key]) byStrat[key] = { name: b.strategy_name || 'Unknown', side: b.side || '—', bets: 0, wins: 0, pnl: 0, stakes: 0, oddsSum: 0, live: 0, dry: 0 };
+    if (!byStrat[key]) byStrat[key] = { name: b.strategy_name || 'Unknown', side: b.side || '—', bets: 0, wins: 0, pnl: 0, stakes: 0, oddsSum: 0, live: 0, dry: 0, fBets: 0, fWins: 0, fPnl: 0, fStakes: 0 };
     const s = byStrat[key];
     s.bets++;
     if (b.pnl != null && b.pnl > 0) s.wins++;
@@ -2545,6 +2567,14 @@ function renderAnalysisStratTable(bets) {
     s.stakes += b.stake || 0;
     s.oddsSum += b.requested_odds || 0;
     if (b.dry_run) s.dry++; else s.live++;
+  }
+
+  for (const [key, f] of Object.entries(byStratFilt)) {
+    if (byStrat[key]) {
+      Object.assign(byStrat[key], f);
+    } else {
+      byStrat[key] = { name: key.split('|')[0], side: key.split('|')[1] || '—', bets: 0, wins: 0, pnl: 0, stakes: 0, oddsSum: 0, live: 0, dry: 0, ...f };
+    }
   }
 
   _anStratRows = Object.values(byStrat)
