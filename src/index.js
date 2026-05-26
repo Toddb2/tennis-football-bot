@@ -101,7 +101,7 @@ const BetfairClient     = require('./execution/betfairClient');
 const BfbmClient        = require('./execution/bfbmClient');
 const bfbmExport        = require('./execution/bfbmExport');
 const BetfairStream     = require('./collector/betfairStream');
-const CbbPoller         = require('./collector/cbbPoller');
+const CbbStream         = require('./collector/cbbStream');
 const StatsPoller       = require('./collector/statsPoller');
 const HistoricalLoader  = require('./collector/historicalLoader');
 const MarketRecorder    = require('./collector/marketRecorder');
@@ -144,7 +144,7 @@ process.on('unhandledRejection', async (reason) => {
 let telegram      = null;
 let betfairClient    = null;
 let betfairStream    = null;
-let cbbPoller        = null;
+let cbbStream_cbb    = null;
 let marketRecorder   = null;
 let statsPoller      = null;
 let historicalLoader = null;
@@ -1205,7 +1205,7 @@ async function shutdown(signal) {
 
   // Stop data collection
   if (statsPoller)    statsPoller.stop();
-  if (cbbPoller)      cbbPoller.stop();
+  if (cbbStream_cbb) cbbStream_cbb.stop();
   if (betfairStream)  betfairStream.disconnect();
   if (marketRecorder) { marketRecorder.flush(); logger.info('index: market recorder flushed'); }
 
@@ -1351,7 +1351,7 @@ async function main() {
   await dashboard.start();
 
   // ── 6a. CBB poller (primary price source) ──────────────────────────────────
-  cbbPoller = new CbbPoller();
+  cbbStream_cbb = new CbbStream();
 
   // ── 6. Betfair stream ─────────────────────────────────────────────────────
   betfairStream = new BetfairStream({
@@ -1428,15 +1428,15 @@ async function main() {
     }
   };
   // Wire CBB as primary — Betfair stream only fires when CBB is degraded
-  cbbPoller.on('marketUpdate', onMarketUpdate);
-  cbbPoller.on('degraded', () => {
+  cbbStream_cbb.on('marketUpdate', onMarketUpdate);
+  cbbStream_cbb.on('degraded', () => {
     logger.warn('index: CBB degraded — enabling Betfair stream fallback');
   });
-  cbbPoller.on('recovered', () => {
+  cbbStream_cbb.on('recovered', () => {
     logger.info('index: CBB recovered — Betfair stream remains as backup');
   });
   betfairStream.on('marketUpdate', (update) => {
-    if (cbbPoller.isDegraded) onMarketUpdate(update);
+    if (cbbStream_cbb.isDegraded) onMarketUpdate(update);
   });
   betfairStream.on('connected', () => {
     logger.info('index: Betfair stream connected');
@@ -1460,7 +1460,7 @@ async function main() {
   });
 
   betfairStream.connect();
-  cbbPoller.start();
+  cbbStream_cbb.start();
 
   // ── 7. Stats poller ───────────────────────────────────────────────────────
   statsPoller = new StatsPoller({ stateStore, betfairStream });
