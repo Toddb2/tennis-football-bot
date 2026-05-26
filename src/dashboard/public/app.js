@@ -1553,7 +1553,7 @@ function initBetsTab() {
       'strategy_name','player_key','player_name','side',
       'requested_odds','actual_odds','stake','size_matched','liability',
       'pnl','settlement_type','dry_run','exit_config','hedge_odds',
-      'momentum_at_bet','edge_at_bet',
+      'momentum_at_bet','edge_at_bet','volume_at_bet',
       'betfair_market_id','placed_at','settled_at','reason','latest_sets',
       'serve_quality_s1_a','serve_quality_s1_b','serve_quality_diff_s1',
       'serve_quality_s2_a','serve_quality_s2_b','serve_quality_diff_s2',
@@ -1591,6 +1591,7 @@ function initBetsTab() {
       hedge_odds: 'Hedge Odds',
       momentum_at_bet: 'Momentum at Bet',
       edge_at_bet: 'Edge at Bet (pp)',
+      volume_at_bet: 'Matched Volume at Bet (£)',
       betfair_market_id: 'Betfair Market ID',
       placed_at: 'Placed At (UTC)',
       settled_at: 'Settled At (UTC)',
@@ -2492,7 +2493,7 @@ function initAiAnalysis() {
 
 // ── ANALYSIS TAB ──────────────────────────────────────────────────────────────
 let _anChart     = null;
-let _anSince     = '-7 days';
+let _anSince     = '-365 days';
 let _anChartType = 'pnl';
 let _anBets      = [];
 let _anAllBets   = [];
@@ -2649,7 +2650,7 @@ function _anStratRedraw() {
 
   // Show / hide Filter Lab columns
   document.querySelectorAll('#an-strat-table .an-fl-col').forEach(el => {
-    el.style.display = _anFilter ? '' : 'none';
+    el.style.display = '';
   });
 
   // Reflect sort state in header chevrons
@@ -5020,6 +5021,7 @@ function exportFilterLabCsv() {
     ['Profit/Loss (£)', 'pnl'],
     ['Momentum at Bet', 'momentum_at_bet'],
     ['Edge at Bet (pp)', 'edge_at_bet'],
+    ['Matched Volume at Bet (£)', 'volume_at_bet'],
     ['Settlement Type', 'settlement_type'],
     ['Dry Run', 'dry_run'],
     ['Hedge Odds', 'hedge_odds'],
