@@ -2687,11 +2687,31 @@ function renderAnalysisChart() {
   if (_anChartType === 'pnl') {
     if (titleEl) titleEl.textContent = 'Cumulative P&L';
     let cum = 0;
-    mkChart('line', {
-      labels: _anDaily.map(d => d.day),
-      datasets: [{ label: 'Cum P&L', data: _anDaily.map(d => { cum += d.pnl || 0; return parseFloat(cum.toFixed(2)); }),
-        borderColor: '#4f8ef7', backgroundColor: 'rgba(79,142,247,.08)', borderWidth: 2, fill: true, pointRadius: 2, tension: 0.3 }],
-    }, { ...axisDefaults('P&L (£)'), plugins: { legend: { display: false } } });
+    const datasets = [{
+      label: 'All bets',
+      data: _anDaily.map(d => { cum += d.pnl || 0; return parseFloat(cum.toFixed(2)); }),
+      borderColor: '#4f8ef7', backgroundColor: 'rgba(79,142,247,.08)', borderWidth: 2, fill: true, pointRadius: 2, tension: 0.3,
+    }];
+
+    if (_anFilter) {
+      const filtPasses = _flBuildPassFn(_anFilter);
+      const filtByDay = {};
+      for (const b of _anBets) {
+        if (b.pnl == null || !filtPasses(b)) continue;
+        const day = (b.placed_at || b.settled_at || '').slice(0, 10);
+        if (day) filtByDay[day] = (filtByDay[day] || 0) + b.pnl;
+      }
+      let fCum = 0;
+      datasets.push({
+        label: 'Filtered',
+        data: _anDaily.map(d => { fCum += filtByDay[d.day] || 0; return parseFloat(fCum.toFixed(2)); }),
+        borderColor: '#22c55e', backgroundColor: 'transparent', borderWidth: 2, fill: false,
+        pointRadius: 2, tension: 0.3, borderDash: [4, 3],
+      });
+    }
+
+    mkChart('line', { labels: _anDaily.map(d => d.day), datasets },
+      { ...axisDefaults('P&L (£)'), plugins: { legend: { display: !!_anFilter, position: 'top', labels: { font: { size: 10 }, boxWidth: 20 } } } });
 
   } else if (_anChartType === 'daily-pnl') {
     if (titleEl) titleEl.textContent = 'Daily P&L';
