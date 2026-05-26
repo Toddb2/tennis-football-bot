@@ -17,7 +17,7 @@
  */
 
 const EventEmitter = require('events');
-const axios        = require('axios');
+const http         = require('http');
 const logger       = require('../utils/logger');
 
 const CBB_URL            = process.env.CBB_URL       || 'http://77.72.7.148:6616';
@@ -28,6 +28,7 @@ class CbbPoller extends EventEmitter {
   constructor() {
     super();
     this._timer       = null;
+    this._polling     = false;
     this._failures    = 0;
     this._degraded    = false;   // true = CBB failing, fallback active
     this._lastMarkets = new Map(); // marketId → last update ts
@@ -47,14 +48,25 @@ class CbbPoller extends EventEmitter {
   get isDegraded() { return this._degraded; }
 
   async _poll() {
+    if (this._polling) return;
+    this._polling = true;
     const date = new Date().toISOString().slice(0, 10);
     try {
-      const resp = await axios.get(`${CBB_URL}/api/tennis/external/prices`, {
-        params:  { date },
-        timeout: 4000,
+      const resp = await new Promise((resolve, reject) => {
+        const url = new URL(`${CBB_URL}/api/tennis/external/prices?date=${date}`);
+        const req = http.get({ hostname: url.hostname, port: url.port, path: url.pathname + url.search, timeout: 10000, headers: { 'Connection': 'close' } }, (res) => {
+          let data = '';
+          res.on('data', chunk => { data += chunk; });
+          res.on('end', () => {
+            try { resolve(JSON.parse(data)); }
+            catch (e) { reject(new Error('JSON parse failed')); }
+          });
+        });
+        req.on('error', reject);
+        req.on('timeout', () => { req.destroy(); reject(new Error('timeout')); });
       });
 
-      if (!Array.isArray(resp.data)) throw new Error('Unexpected response shape');
+      if (!Array.isArray(resp)) throw new Error('Unexpected response shape');
 
       this._failures = 0;
       if (this._degraded) {
@@ -63,7 +75,9 @@ class CbbPoller extends EventEmitter {
         this.emit('recovered');
       }
 
-      for (const market of resp.data) {
+      this._polling = false;
+      logger.info('CbbPoller: poll ok', { markets: resp.length });
+      for (const market of resp) {
         // Skip non-MATCH_ODDS and closed markets with no runners
         if (market.market_type && market.market_type !== 'MATCH_ODDS') continue;
         if (!Array.isArray(market.runners) || market.runners.length < 2) continue;
@@ -73,6 +87,7 @@ class CbbPoller extends EventEmitter {
       }
 
     } catch (err) {
+      this._polling = false;
       this._failures++;
       logger.warn('CbbPoller: poll failed', {
         message:  err.message,
