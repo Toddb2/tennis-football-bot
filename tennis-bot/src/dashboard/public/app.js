@@ -2509,11 +2509,34 @@ async function loadAnalysis() {
     _anDaily  = daily;
     _anFilter = flState && Object.keys(flState).length ? flState : null;
     renderAnalysisSummary(_anBets);
+    renderAnalysisFilteredSummary(_anBets);
     renderAnalysisStratTable(_anBets);
     renderAnalysisChart();
   } catch (e) {
     $('an-strat-tbody').innerHTML = `<tr><td colspan="15" class="empty">Error: ${e.message}</td></tr>`;
   }
+}
+
+function renderAnalysisFilteredSummary(bets) {
+  const wrap = $('an-filt-summary');
+  if (!wrap) return;
+  if (!_anFilter) { wrap.style.display = 'none'; return; }
+  const filtPasses = _flBuildPassFn(_anFilter);
+  const filtered   = bets.filter(filtPasses);
+  const settled    = filtered.filter(b => b.pnl != null);
+  const wins       = settled.filter(b => b.pnl > 0);
+  const pnl        = settled.reduce((s, b) => s + b.pnl, 0);
+  const stakes     = settled.reduce((s, b) => s + (b.stake || 0), 0);
+  const wr         = settled.length ? wins.length / settled.length * 100 : 0;
+  const roi        = stakes > 0 ? pnl / stakes * 100 : 0;
+  wrap.style.display = '';
+  $('an-filt-total').textContent = filtered.length;
+  $('an-filt-wins').textContent  = wins.length;
+  $('an-filt-wr').textContent    = settled.length ? fmt.pct(wr) : '—';
+  $('an-filt-pnl').textContent   = fmt.pnl(pnl);
+  $('an-filt-pnl').className     = 'val ' + pnlClass(pnl);
+  $('an-filt-roi').textContent   = stakes > 0 ? fmt.pct(roi) : '—';
+  $('an-filt-roi').className     = 'val ' + pnlClass(roi);
 }
 
 function renderAnalysisSummary(bets) {
