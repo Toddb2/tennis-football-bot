@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": 1774403520835,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403520835,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403700782,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403700782,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403822072,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403822072,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404002073,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404002073,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404123363,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404123363,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404303364,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404303364,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404424635,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404424635,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404604636,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404604636,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404725907,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404725907,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404905908,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404905908,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405027164,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405027164,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405207165,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405207165,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405328410,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405328410,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405508411,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405508411,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405629657,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405629657,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405809658,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405809658,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405930909,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405930909,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406110910,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406110910,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406232197,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406232197,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406412198,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406412198,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406533436,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406533436,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406713437,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406713437,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406834757,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406834757,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407014758,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407014758,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407136029,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407136029,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407316030,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407316030,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407437295,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407437295,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407617296,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407617296,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407738566,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407738566,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407918568,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407918568,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408039807,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408039807,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408219809,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408219809,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408341093,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408341093,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408521094,
+    "marketId": "1.255655573",
+    "selectionId": "41506190",
+    "selectionName": "Alex Hernandez",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408521094,
+    "marketId": "1.255655573",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

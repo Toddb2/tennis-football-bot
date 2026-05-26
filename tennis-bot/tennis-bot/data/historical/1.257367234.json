@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1777169588841,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777169588841,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777169768795,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777169768795,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777169890071,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777169890071,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170070072,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170070072,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170191342,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170191342,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170371343,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170371343,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170492608,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170492608,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170672609,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170672609,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170793912,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170793912,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170974038,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777170974038,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171095190,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171095190,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171275191,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171275191,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171396528,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171396528,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171576529,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171576529,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171697863,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171697863,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171877865,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171877865,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171999124,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777171999124,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172179125,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172179125,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172300378,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172300378,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172480380,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172480380,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172601720,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172601720,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172781721,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777172781721,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777173505555,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777173505555,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777173685558,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777173685558,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777173806828,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777173806828,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777173986830,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777173986830,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777174108151,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777174108151,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777174288153,
+    "marketId": "1.257367234",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777174288153,
+    "marketId": "1.257367234",
+    "selectionId": "18849369",
+    "selectionName": "Anastasia Zolotareva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

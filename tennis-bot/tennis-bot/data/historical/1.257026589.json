@@ -1,0 +1,6212 @@
+[
+  {
+    "timestamp": 1776711530717,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711530717,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711710660,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711710660,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711832046,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711832046,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712012047,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712012047,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712133331,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712133331,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712313333,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712313333,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712434711,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712434711,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712614714,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712614714,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712741380,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712741380,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712921382,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712921382,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713042703,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713042703,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713222706,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713222706,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713343975,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713343975,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713523977,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713523977,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713646251,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713646251,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713826253,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713826253,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713947567,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713947567,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714127569,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714127569,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714249006,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714249006,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714429008,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714429008,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714550282,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714550282,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714730285,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714730285,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714851621,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714851621,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715031624,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715031624,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715153226,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715153226,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715333228,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715333228,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715455218,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715455218,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715635219,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715635219,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715756879,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715756879,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715936880,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715936880,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716058235,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716058235,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716238236,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716238236,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716360263,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716360263,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716540264,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716540264,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716661560,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716661560,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716841561,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716841561,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716963701,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776716963701,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717143703,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717143703,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717265006,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717265006,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717445007,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717445007,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717566685,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717566685,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717746686,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717746686,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717868748,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776717868748,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718048750,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718048750,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718170091,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718170091,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718350092,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718350092,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718472064,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718472064,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718652066,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718652066,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718773417,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718773417,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718953419,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776718953419,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719074684,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719074684,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719254685,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719254685,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719376005,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719376005,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719556006,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719556006,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719677254,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719677254,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719857255,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719857255,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719978531,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776719978531,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720158532,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720158532,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720279970,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720279970,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720459971,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720459971,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720581824,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720581824,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720761826,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720761826,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720883682,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776720883682,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721063684,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721063684,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721365028,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721365028,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721666614,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721666614,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721787867,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721787867,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721967867,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776721967867,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722089234,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722089234,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722269235,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722269235,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722391552,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722391552,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722571554,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722571554,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722692810,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722692810,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722872811,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722872811,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722994146,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776722994146,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723174147,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723174147,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723295472,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723295472,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723475473,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723475473,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723596731,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723596731,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723776732,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776723776732,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776724200027,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776724200027,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776724380029,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776724380029,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776724681970,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776724681970,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776724987768,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776724987768,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776725289041,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776725289041,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776725410721,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776725410721,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776725590722,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776725590722,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776725892363,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776725892363,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726013633,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726013633,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726193634,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726193634,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726315145,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726315145,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726616756,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726616756,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726796757,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776726796757,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776727098227,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776727098227,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776727399512,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776727399512,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776727828209,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776727828209,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776728309963,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776728309963,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776728611450,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776728611450,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776728732722,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776728732722,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776728912723,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776728912723,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776729033978,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776729033978,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776729213979,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776729213979,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776729515247,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776729515247,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730239561,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730239561,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730494702,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730494702,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730541115,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730541115,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730721115,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730721115,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730843098,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776730843098,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776731145080,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776731145080,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776731446814,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776731446814,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776731928574,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776731928574,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776732050234,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776732050234,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776732351768,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776732351768,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776732653256,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776732653256,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776732833257,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776732833257,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733134949,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733134949,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733256247,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733256247,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733557819,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733557819,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733737820,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733737820,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733859087,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776733859087,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734039088,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734039088,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734160352,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734160352,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734340353,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734340353,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734641629,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734641629,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734762982,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776734762982,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776735064585,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776735064585,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776735365853,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776735365853,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776735667231,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776735667231,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776735847231,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776735847231,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776736148517,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776736148517,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776736269759,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776736269759,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776736449759,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776736449759,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776736571960,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776736571960,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776737060678,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776737060678,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776737174449,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776737174449,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776737655731,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776737655731,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738380610,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738380610,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738861865,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738861865,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739163121,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739163121,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739284922,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739284922,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739464924,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739464924,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739766378,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739766378,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739887696,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739887696,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740067697,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740067697,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740491492,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740491492,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740792754,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740792754,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740972756,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740972756,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741274017,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741274017,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741395311,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741395311,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741696829,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741696829,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741876831,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741876831,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742178098,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742178098,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742479358,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742479358,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742600624,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742600624,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742780625,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742780625,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742902369,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742902369,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743082370,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743082370,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743203928,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743203928,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743383929,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743383929,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743685287,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743685287,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776744107845,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776744107845,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776744890416,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776744890416,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776745011986,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776745011986,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776745191987,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776745191987,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776745917059,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776745917059,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776746398318,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776746398318,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776746820964,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776746820964,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776747000965,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776747000965,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776747122332,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776747122332,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776747603611,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776747603611,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776748507568,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776748507568,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776748629530,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776748629530,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776748809532,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776748809532,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749234053,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749234053,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749535319,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749535319,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749715321,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749715321,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749836575,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749836575,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750016576,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750016576,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750619169,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750619169,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750740462,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750740462,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750920463,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750920463,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751221716,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751221716,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751946309,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751946309,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752126310,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752126310,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752549740,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752549740,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752729742,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752729742,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752851076,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752851076,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753633625,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753633625,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753760271,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753760271,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753940273,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753940273,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754061595,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754061595,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754241597,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754241597,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754362986,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754362986,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754542988,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754542988,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754664253,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754664253,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755266792,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755266792,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755446793,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755446793,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755748737,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755748737,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755870346,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755870346,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756050348,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756050348,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756171701,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756171701,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756774294,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756774294,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776757075680,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776757075680,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776757255681,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776757255681,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776757557342,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776757557342,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776757980044,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776757980044,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776758160046,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776758160046,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776758885610,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776758885610,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776759367243,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776759367243,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776759668539,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776759668539,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776759969809,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776759969809,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760092283,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760092283,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760272285,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760272285,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760574044,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760574044,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760875350,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760875350,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760996748,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776760996748,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776761176750,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776761176750,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776761601403,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776761601403,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776762384605,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776762384605,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776762505872,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776762505872,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776762685874,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776762685874,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763108785,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763108785,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763288786,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763288786,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763594678,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763594678,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763715942,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763715942,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763895944,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776763895944,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764017552,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764017552,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764318941,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764318941,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764498945,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764498945,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764620939,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764620939,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764800942,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776764800942,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776765223513,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776765223513,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776765403515,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776765403515,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776765525220,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776765525220,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776765705222,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776765705222,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776766006634,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776766006634,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776767635870,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776767635870,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776767815873,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776767815873,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776769143957,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776769143957,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776769323961,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776769323961,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776770832436,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776770832436,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771134064,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771134064,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776772159646,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776772159646,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776773545130,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776773545130,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776773666457,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776773666457,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776773846461,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776773846461,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776774147724,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776774147724,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776774449784,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776774449784,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776774751578,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776774751578,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776774872862,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776774872862,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776775052867,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776775052867,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776775354554,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776775354554,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776775475855,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776775475855,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776775777778,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776775777778,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776776079085,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776776079085,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776776381110,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776776381110,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776776561114,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776776561114,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778678308,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778678308,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778799776,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778799776,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778979778,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778979778,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779402463,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779402463,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779582465,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779582465,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779883883,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779883883,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780005823,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780005823,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780185825,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780185825,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780487644,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780487644,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780609066,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780609066,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780910374,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780910374,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781090376,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781090376,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781213173,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781213173,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781393176,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781393176,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781514535,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781514535,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781694537,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781694537,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781815879,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776781815879,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782297155,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782297155,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782419613,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782419613,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782599615,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782599615,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782720949,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782720949,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782900951,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776782900951,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783022448,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783022448,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783202452,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783202452,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783324318,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783324318,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783504320,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783504320,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783625583,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783625583,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783805587,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783805587,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783927611,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776783927611,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784107613,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784107613,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784228886,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784228886,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784408890,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784408890,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784531517,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784531517,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784711519,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784711519,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784832820,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776784832820,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785012824,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785012824,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785134177,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785134177,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785314179,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785314179,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785438236,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785438236,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785618240,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785618240,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785739842,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785739842,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785919846,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776785919846,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786041111,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786041111,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786221113,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786221113,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786342429,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786342429,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786644372,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786644372,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786676217,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786676217,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786856135,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786856135,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786978332,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776786978332,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787158334,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787158334,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787279620,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787279620,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787459622,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787459622,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787580900,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787580900,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787760902,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776787760902,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788062178,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788062178,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788183446,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788183446,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788363449,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788363449,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788484726,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788484726,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788664728,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788664728,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788786927,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788786927,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788966929,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776788966929,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789088452,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789088452,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789268455,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789268455,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789389780,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789389780,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789569783,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789569783,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789692157,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789692157,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789872160,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789872160,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789995114,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776789995114,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790175118,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790175118,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790296519,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790296519,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790476521,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790476521,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790597872,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790597872,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790777874,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790777874,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790903892,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776790903892,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791083894,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791083894,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791205842,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791205842,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791385844,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791385844,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791507319,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791507319,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791687322,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791687322,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791808588,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791808588,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791988590,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776791988590,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792109875,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792109875,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792289878,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792289878,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792411399,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792411399,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792713299,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792713299,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792893301,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792893301,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793015034,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793015034,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793195036,
+    "marketId": "1.257026589",
+    "selectionId": "9632269",
+    "selectionName": "Aziz Dougaz",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793195036,
+    "marketId": "1.257026589",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

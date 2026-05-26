@@ -1,0 +1,1388 @@
+[
+  {
+    "timestamp": 1779213593951,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213593951,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213683964,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213683964,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213773984,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213773984,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213953995,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213953995,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213954088,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213954088,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214044129,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214044129,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214134179,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214134179,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214224228,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214224228,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214314269,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214314269,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214404328,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214404328,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214494357,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214494357,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214584403,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214584403,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214674433,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214674433,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214764477,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214764477,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214854549,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214854549,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214944568,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779214944568,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215034617,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215034617,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215124658,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215124658,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215214707,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215214707,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215304750,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215304750,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215394787,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215394787,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215484834,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215484834,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215574885,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215574885,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215664932,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215664932,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215754970,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215754970,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215845009,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215845009,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215935056,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779215935056,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216025117,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216025117,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216115148,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216115148,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216205190,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216205190,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216295234,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216295234,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216385276,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216385276,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216475320,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216475320,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216565361,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216565361,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216655414,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216655414,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216745465,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216745465,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216835520,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216835520,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216925560,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779216925560,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217015607,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217015607,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217105662,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217105662,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217195712,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217195712,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217285772,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217285772,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217375814,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217375814,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217465866,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217465866,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217555912,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217555912,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217645960,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217645960,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217736011,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217736011,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217826056,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217826056,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217916099,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779217916099,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218006145,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218006145,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218096186,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218096186,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218186230,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218186230,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218276276,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218276276,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218366368,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218366368,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218456415,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218456415,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218546461,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218546461,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218636512,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218636512,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218726554,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218726554,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218816594,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218816594,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218996600,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218996600,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218996689,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779218996689,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219176693,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219176693,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219356695,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219356695,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219536696,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219536696,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219716699,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219716699,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219896700,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779219896700,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220076702,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220076702,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220256703,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220256703,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220436705,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220436705,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220616706,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220616706,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220617331,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220617331,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220797333,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220797333,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220977335,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779220977335,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779221157337,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779221157337,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779221337338,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779221337338,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779221517339,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779221517339,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779221697340,
+    "marketId": "1.258302033",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779221697340,
+    "marketId": "1.258302033",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

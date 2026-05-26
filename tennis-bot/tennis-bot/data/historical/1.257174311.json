@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 1776878212395,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878212395,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878392322,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878392322,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878513577,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878513577,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878693581,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878693581,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878814875,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878814875,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878994878,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776878994878,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879116257,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879116257,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879296262,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879296262,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879417544,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879417544,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879597548,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879597548,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879718852,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879718852,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879898854,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776879898854,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880020134,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880020134,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880200137,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880200137,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880321459,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880321459,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880501463,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880501463,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880622829,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880622829,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880802833,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880802833,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880924123,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776880924123,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881104127,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881104127,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881225464,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881225464,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881405469,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881405469,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881526788,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881526788,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881706793,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881706793,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881828074,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776881828074,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882008079,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882008079,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882129350,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882129350,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882309353,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882309353,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882430613,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882430613,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882610618,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882610618,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882731900,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882731900,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882912337,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776882912337,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883033249,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883033249,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883213253,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883213253,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883334518,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883334518,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883514520,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883514520,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883635818,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883635818,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883815823,
+    "marketId": "1.257174311",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883815823,
+    "marketId": "1.257174311",
+    "selectionId": "13369546",
+    "selectionName": "Katie Volynets",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

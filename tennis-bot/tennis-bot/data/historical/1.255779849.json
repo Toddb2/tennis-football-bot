@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 1774442987882,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774442987882,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443167831,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443167831,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443289126,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443289126,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443469129,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443469129,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443590418,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443590418,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443770420,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443770420,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443891722,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774443891722,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444071725,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444071725,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444193044,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444193044,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444373047,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444373047,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444494332,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444494332,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444674334,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444674334,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444795679,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444795679,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444975682,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444975682,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445096944,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445096944,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445276947,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445276947,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445398253,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445398253,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445578255,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445578255,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445699500,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445699500,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445879502,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445879502,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446000821,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446000821,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446180823,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446180823,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446302138,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446302138,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446482140,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446482140,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446603418,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446603418,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446783421,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446783421,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446904685,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446904685,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447084686,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447084686,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447206030,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447206030,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447386033,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447386033,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447507296,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447507296,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447687298,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447687298,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447808585,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447808585,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447988587,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447988587,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448109880,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448109880,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448289882,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448289882,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448411159,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448411159,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448591165,
+    "marketId": "1.255779849",
+    "selectionId": "9345645",
+    "selectionName": "Oana Georgeta Simion",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448591165,
+    "marketId": "1.255779849",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

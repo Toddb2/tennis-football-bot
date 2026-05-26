@@ -1,0 +1,650 @@
+[
+  {
+    "timestamp": 1779657648160,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779657648160,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779657828102,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779657828102,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658008104,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658008104,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658188105,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658188105,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658368106,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658368106,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658548107,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658548107,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658728108,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658728108,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658908109,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779658908109,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659088110,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659088110,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659268111,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659268111,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659448112,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659448112,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659628113,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659628113,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659808114,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659808114,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659988115,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779659988115,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660168116,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660168116,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660348117,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660348117,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660528118,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660528118,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660708119,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660708119,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660888120,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779660888120,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661068121,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661068121,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661248122,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661248122,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661428124,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661428124,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661608125,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661608125,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661788126,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661788126,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661968127,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779661968127,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662148128,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662148128,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662328129,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662328129,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662508130,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662508130,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662688130,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662688130,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662868132,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779662868132,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663048132,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663048132,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663228133,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663228133,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663408133,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663408133,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663588133,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663588133,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663768134,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663768134,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663948134,
+    "marketId": "1.258550197",
+    "selectionId": "49712548",
+    "selectionName": "Jerry Roddick",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779663948134,
+    "marketId": "1.258550197",
+    "selectionId": "9633989",
+    "selectionName": "Christian Langmo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "timestamp": 1777117464291,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777117464291,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777117644223,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777117644223,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777117765564,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777117765564,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777117945570,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777117945570,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118066846,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118066846,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118246853,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118246853,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118368118,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118368118,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118548123,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118548123,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118669413,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118669413,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118849419,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118849419,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118970706,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777118970706,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119150713,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119150713,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119271980,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119271980,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119451985,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119451985,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119573312,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119573312,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119753317,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119753317,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119874562,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119874562,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120054570,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120054570,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120175863,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120175863,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120355868,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120355868,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120477254,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120477254,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120657259,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120657259,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120778534,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120778534,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120958537,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120958537,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121079802,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121079802,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121259807,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121259807,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121381138,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121381138,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121561142,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121561142,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121682438,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121682438,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121862444,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121862444,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121983736,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121983736,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122163740,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122163740,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122285110,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122285110,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122465116,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122465116,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122586413,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122586413,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122766418,
+    "marketId": "1.257307041",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122766418,
+    "marketId": "1.257307041",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

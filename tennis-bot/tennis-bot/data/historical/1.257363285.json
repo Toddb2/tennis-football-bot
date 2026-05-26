@@ -1,0 +1,542 @@
+[
+  {
+    "timestamp": 1777299982873,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777299982873,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300162812,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300162812,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300284074,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300284074,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300464077,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300464077,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300585344,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300585344,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300765346,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300765346,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300886625,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777300886625,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301066626,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301066626,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301187908,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301187908,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301367912,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301367912,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301489260,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301489260,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301669263,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301669263,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301790539,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301790539,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301970543,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777301970543,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302091812,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302091812,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302271816,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302271816,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302393111,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302393111,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302573114,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302573114,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302694408,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302694408,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302874411,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302874411,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302995718,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777302995718,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303175721,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303175721,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303297048,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303297048,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303477051,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303477051,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303598366,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303598366,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303778369,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303778369,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303899699,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777303899699,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777304079702,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777304079702,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777304200960,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777304200960,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777304380963,
+    "marketId": "1.257363285",
+    "selectionId": "48445924",
+    "selectionName": "Justin Engel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777304380963,
+    "marketId": "1.257363285",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

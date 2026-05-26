@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1776962717850,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776962717850,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776962897781,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776962897781,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963019076,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963019076,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963199079,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963199079,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963320385,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963320385,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963500388,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963500388,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963621681,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963621681,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963801685,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963801685,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963922957,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963922957,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964102959,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964102959,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964224276,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964224276,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964404279,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964404279,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964525544,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964525544,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964826935,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964826935,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965006938,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965006938,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965128194,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965128194,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965308197,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965308197,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965429471,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965429471,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965609474,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965609474,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965730762,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965730762,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965910765,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965910765,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966032131,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966032131,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966212134,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966212134,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966333439,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966333439,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966513442,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966513442,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966634733,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966634733,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966814737,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966814737,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966936105,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966936105,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967116108,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967116108,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967237398,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967237398,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967417402,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967417402,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967538658,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967538658,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967718663,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967718663,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967839930,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967839930,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968019933,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968019933,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968141209,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968141209,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968321212,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968321212,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968442510,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968442510,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968622514,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968622514,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968743786,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968743786,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968923789,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968923789,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969045061,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969045061,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969225063,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969225063,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969346322,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969346322,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969526324,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969526324,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969647629,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969647629,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969827632,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969827632,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969948927,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969948927,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970128930,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970128930,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970250293,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970250293,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970430295,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970430295,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970551553,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970551553,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970731555,
+    "marketId": "1.257173960",
+    "selectionId": "48658461",
+    "selectionName": "Karim Bennani",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776970731555,
+    "marketId": "1.257173960",
+    "selectionId": "12085604",
+    "selectionName": "Paul Jubb",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

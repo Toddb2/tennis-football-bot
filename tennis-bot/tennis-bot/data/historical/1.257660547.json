@@ -1,0 +1,884 @@
+[
+  {
+    "timestamp": 1777959212060,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959212060,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959392011,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959392011,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959572012,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959572012,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959573550,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959573550,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959753551,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959753551,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959754969,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959754969,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959934970,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777959934970,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960114971,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960114971,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960206490,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960206490,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960297848,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960297848,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960389191,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960389191,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960480551,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960480551,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960571906,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960571906,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960751907,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960751907,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960844655,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960844655,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960936007,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777960936007,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961027423,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961027423,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961118828,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961118828,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961210250,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961210250,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961301608,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961301608,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961483029,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961483029,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961574421,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961574421,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961754423,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961754423,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961847136,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961847136,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961938472,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777961938472,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962029814,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962029814,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962209815,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962209815,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962389817,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962389817,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962569818,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962569818,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962749819,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962749819,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962929821,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777962929821,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963109823,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963109823,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963289825,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963289825,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963471813,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963471813,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963651816,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963651816,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963831818,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777963831818,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964011821,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964011821,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964191823,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964191823,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964371825,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964371825,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964551827,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964551827,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964731829,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964731829,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964911830,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777964911830,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965003993,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965003993,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965183996,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965183996,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965363998,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965363998,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965544000,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965544000,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965724001,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965724001,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965904004,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777965904004,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777966084005,
+    "marketId": "1.257660547",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777966084005,
+    "marketId": "1.257660547",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

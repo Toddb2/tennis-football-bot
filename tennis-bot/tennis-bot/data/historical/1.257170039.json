@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1776964525601,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964525601,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964705548,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964705548,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964826935,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964826935,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965006938,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965006938,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965128194,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965128194,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965308197,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965308197,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965429471,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965429471,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965609474,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965609474,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965730762,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965730762,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965910765,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965910765,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966032131,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966032131,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966212134,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966212134,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966333439,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966333439,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966513442,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966513442,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966634733,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966634733,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966814737,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966814737,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966936105,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966936105,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967116108,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967116108,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967237398,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967237398,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967417402,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967417402,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967538658,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967538658,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967718663,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967718663,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967839930,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967839930,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968019933,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968019933,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968141209,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968141209,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968321212,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968321212,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968442510,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968442510,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 200,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968622514,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968622514,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968743786,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968743786,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968923789,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776968923789,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969045061,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969045061,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969225063,
+    "marketId": "1.257170039",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776969225063,
+    "marketId": "1.257170039",
+    "selectionId": "42553821",
+    "selectionName": "Kaitlin Quevedo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1774353178471,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353178471,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353358397,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353358397,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353479660,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353479660,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353659662,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353659662,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353780935,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353780935,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353960938,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774353960938,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354082213,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354082213,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354262215,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354262215,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354383657,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354383657,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354563660,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354563660,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354685019,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354685019,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354865021,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354865021,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354986306,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774354986306,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355166309,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355166309,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355287566,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355287566,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355467568,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355467568,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355588828,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355588828,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355768830,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355768830,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355890103,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355890103,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356070106,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356070106,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356191381,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356191381,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356371384,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356371384,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356492679,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356492679,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356672681,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356672681,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356793947,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356793947,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356973952,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356973952,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357095211,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357095211,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357275214,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357275214,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357396481,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357396481,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357576483,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357576483,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357697790,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357697790,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357877793,
+    "marketId": "1.255737665",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357877793,
+    "marketId": "1.255737665",
+    "selectionId": "17980033",
+    "selectionName": "Pablo Llamas Ruiz",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  }
+]

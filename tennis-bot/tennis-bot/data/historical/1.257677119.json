@@ -1,0 +1,668 @@
+[
+  {
+    "timestamp": 1777906952438,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777906952438,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907043779,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907043779,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907135176,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907135176,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907226646,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907226646,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907318035,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907318035,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907350462,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907350462,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907441680,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907441680,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907532998,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907532998,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907624432,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907624432,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907715769,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907715769,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907807122,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907807122,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907876777,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907876777,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907968071,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907968071,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908148073,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908148073,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908240915,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908240915,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908332271,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908332271,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908512274,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908512274,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908513686,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908513686,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908605096,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908605096,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908696468,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908696468,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908787839,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908787839,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908879199,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908879199,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908970606,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908970606,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909061957,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909061957,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909153316,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909153316,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909244642,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909244642,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909336062,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909336062,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909427522,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909427522,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909518903,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909518903,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909610294,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909610294,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909790298,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909790298,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909882994,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909882994,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909974368,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909974368,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910065729,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910065729,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910157074,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910157074,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910248419,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910248419,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910339787,
+    "marketId": "1.257677119",
+    "selectionId": "8908205",
+    "selectionName": "Juan Pablo Ficovich",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910339787,
+    "marketId": "1.257677119",
+    "selectionId": "36157022",
+    "selectionName": "Guy Den Ouden",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

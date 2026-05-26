@@ -1,0 +1,398 @@
+[
+  {
+    "timestamp": 1779608561542,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779608561542,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779608651558,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779608651558,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779608741592,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779608741592,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779608921593,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779608921593,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609101594,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609101594,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609281595,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609281595,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609461596,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609461596,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609641599,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609641599,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609821600,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779609821600,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610001603,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610001603,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610181606,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610181606,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610272200,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610272200,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610362241,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610362241,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610452285,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610452285,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610632286,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610632286,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610632362,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610632362,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610812365,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610812365,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610992368,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610992368,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611172370,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611172370,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611352372,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611352372,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611532374,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611532374,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611712376,
+    "marketId": "1.258540504",
+    "selectionId": "44349383",
+    "selectionName": "Aurel Ciocanu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611712376,
+    "marketId": "1.258540504",
+    "selectionId": "8304957",
+    "selectionName": "Denis Yevseyev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

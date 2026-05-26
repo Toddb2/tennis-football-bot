@@ -1,0 +1,794 @@
+[
+  {
+    "timestamp": 1777759520968,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777759700971,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777760002284,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777760002284,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777766452225,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777766452225,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777767837585,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777767837585,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777768440335,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777768440335,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777769947006,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777769947006,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777770068347,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777770068347,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777770248349,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777770248349,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777771453877,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777771453877,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777771575218,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777771575218,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777772056544,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777772056544,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777772960616,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777772960616,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777773684675,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777773684675,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777774166071,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777774166071,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777775070040,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777775070040,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777775974070,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777775974070,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777776095459,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777776095459,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777776396763,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777776396763,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777776576765,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777776576765,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777777179392,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777777179392,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777777480709,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777777480709,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777781519416,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777781519416,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777781699419,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777781699419,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777781820776,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777781820776,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782000777,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782000777,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782122110,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782122110,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782302111,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782302111,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782423580,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782423580,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782603581,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782603581,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782724926,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782724926,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782904927,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777782904927,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783026236,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783026236,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783206237,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783206237,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783327600,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783327600,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783507601,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783507601,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783628987,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783628987,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783808988,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783808988,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783930327,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777783930327,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784110328,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784110328,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784231750,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784231750,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784411752,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784411752,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784533174,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784533174,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784713177,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784713177,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784834496,
+    "marketId": "1.257659657",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777784834496,
+    "marketId": "1.257659657",
+    "selectionId": "12023038",
+    "selectionName": "Tsung-Hao Huang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

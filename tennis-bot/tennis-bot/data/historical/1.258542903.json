@@ -1,0 +1,650 @@
+[
+  {
+    "timestamp": 1779610362286,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610362286,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610452285,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610452285,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610632286,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610632286,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610632362,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610632362,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610812365,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610812365,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610992368,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779610992368,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611172370,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611172370,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611352372,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611352372,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611532374,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611532374,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611712376,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611712376,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611892378,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779611892378,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612072380,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612072380,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612072931,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612072931,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612162968,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612162968,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612252994,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612252994,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612432998,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612432998,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612612999,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612612999,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612793002,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612793002,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612973004,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779612973004,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613153005,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613153005,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613243406,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613243406,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613423408,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613423408,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613603410,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613603410,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613783412,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613783412,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613873720,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613873720,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613963787,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613963787,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614053848,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614053848,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614143912,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614143912,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614233964,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614233964,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614324012,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614324012,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614414063,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614414063,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614504129,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614504129,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614594183,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614594183,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614684237,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614684237,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614774284,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614774284,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614864335,
+    "marketId": "1.258542903",
+    "selectionId": "61655802",
+    "selectionName": "Dillon Beckles",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614864335,
+    "marketId": "1.258542903",
+    "selectionId": "51943814",
+    "selectionName": "Naoya Honda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  }
+]

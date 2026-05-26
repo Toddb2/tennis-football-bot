@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1778667689630,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667689630,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667779618,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667779618,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667869666,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667869666,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049673,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049673,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049756,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049756,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668139843,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668139843,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668229887,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668229887,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668319930,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668319930,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668409975,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668409975,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668500019,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668500019,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668590065,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668590065,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668680111,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668680111,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668770163,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668770163,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668860218,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668860218,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668950273,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668950273,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669040307,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669040307,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669130355,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669130355,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669220409,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669220409,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669310449,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669310449,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669400490,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669400490,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669490526,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669490526,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669580568,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669580568,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669670624,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669670624,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669760645,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669760645,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669940652,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669940652,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669940723,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669940723,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670120733,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670120733,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670120831,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670120831,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670210890,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670210890,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670300920,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670300920,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670390970,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670390970,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670481004,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670481004,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670571045,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670571045,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670661071,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670661071,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670751117,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670751117,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670841151,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670841151,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670931210,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670931210,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671021249,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671021249,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671111313,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671111313,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671201332,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671201332,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671291388,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671291388,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671381419,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671381419,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671471462,
+    "marketId": "1.258125303",
+    "selectionId": "2386498",
+    "selectionName": "Shuai Zhang",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778671471462,
+    "marketId": "1.258125303",
+    "selectionId": "51425210",
+    "selectionName": "Yuliia Starodubtseva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

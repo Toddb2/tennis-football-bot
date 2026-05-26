@@ -1,0 +1,884 @@
+[
+  {
+    "timestamp": 1779031573458,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779031573458,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779031753412,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779031753412,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779031753498,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779031753498,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779031843536,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779031843536,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779031933593,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779031933593,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032023626,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032023626,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032113672,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032113672,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032203715,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032203715,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032293765,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032293765,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032383798,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032383798,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032563803,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032563803,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032563882,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032563882,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032653937,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032653937,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032743976,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032743976,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032834023,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032834023,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032924060,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779032924060,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033014110,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033014110,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033104146,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033104146,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033194184,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033194184,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033284228,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033284228,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033464233,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033464233,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033464313,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033464313,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033554353,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033554353,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033734359,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033734359,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033734462,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033734462,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033824523,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779033824523,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034004526,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034004526,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034184529,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034184529,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034364531,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034364531,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034544534,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034544534,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034724536,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034724536,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034904539,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779034904539,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035084541,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035084541,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035264543,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035264543,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035444545,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035444545,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035624547,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035624547,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035804550,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035804550,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035984552,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779035984552,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036164555,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036164555,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036344558,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036344558,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036524560,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036524560,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036704562,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036704562,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036884564,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779036884564,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037064566,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037064566,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037244568,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037244568,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037424570,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037424570,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037604573,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037604573,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037784575,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037784575,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037964577,
+    "marketId": "1.258270632",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779037964577,
+    "marketId": "1.258270632",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

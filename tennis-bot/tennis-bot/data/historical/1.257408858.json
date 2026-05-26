@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1777287328591,
+    "marketId": "1.257408858",
+    "selectionId": "24623222",
+    "selectionName": "Matyas Cerny",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287328591,
+    "marketId": "1.257408858",
+    "selectionId": "10508984",
+    "selectionName": "Rudolf Molleker",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287508545,
+    "marketId": "1.257408858",
+    "selectionId": "24623222",
+    "selectionName": "Matyas Cerny",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287508545,
+    "marketId": "1.257408858",
+    "selectionId": "10508984",
+    "selectionName": "Rudolf Molleker",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287629801,
+    "marketId": "1.257408858",
+    "selectionId": "24623222",
+    "selectionName": "Matyas Cerny",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287629801,
+    "marketId": "1.257408858",
+    "selectionId": "10508984",
+    "selectionName": "Rudolf Molleker",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287809803,
+    "marketId": "1.257408858",
+    "selectionId": "24623222",
+    "selectionName": "Matyas Cerny",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287809803,
+    "marketId": "1.257408858",
+    "selectionId": "10508984",
+    "selectionName": "Rudolf Molleker",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287931065,
+    "marketId": "1.257408858",
+    "selectionId": "24623222",
+    "selectionName": "Matyas Cerny",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287931065,
+    "marketId": "1.257408858",
+    "selectionId": "10508984",
+    "selectionName": "Rudolf Molleker",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288111068,
+    "marketId": "1.257408858",
+    "selectionId": "24623222",
+    "selectionName": "Matyas Cerny",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288111068,
+    "marketId": "1.257408858",
+    "selectionId": "10508984",
+    "selectionName": "Rudolf Molleker",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  }
+]

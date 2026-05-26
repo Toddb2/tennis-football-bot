@@ -1,0 +1,596 @@
+[
+  {
+    "timestamp": 1776302735509,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776302735509,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776302915462,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776302915462,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303036950,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303036950,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303216951,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303216951,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303338274,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303338274,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303518275,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303518275,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303639666,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303639666,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303819667,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303819667,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303941225,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303941225,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304121226,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304121226,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304243046,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304243046,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304423048,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304423048,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304544342,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304544342,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304724343,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304724343,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304845605,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304845605,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305025607,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305025607,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305147523,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305147523,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305327524,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305327524,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305448804,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305448804,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305628806,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305628806,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305750086,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305750086,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256835688",
+    "selectionId": "8326752",
+    "selectionName": "Federico Coria",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256835688",
+    "selectionId": "21067278",
+    "selectionName": "Gonzalo Bueno",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

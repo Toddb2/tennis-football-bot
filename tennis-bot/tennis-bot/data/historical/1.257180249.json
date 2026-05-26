@@ -1,0 +1,884 @@
+[
+  {
+    "timestamp": 1776849369116,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849369116,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849548962,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849548962,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849670258,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849670258,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849850261,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849850261,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849971579,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849971579,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850151581,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850151581,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850272850,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850272850,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850452853,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850452853,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850574131,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850574131,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850754135,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850754135,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850875431,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850875431,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851055436,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851055436,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851176765,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851176765,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851356769,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851356769,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851478075,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851478075,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851658079,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851658079,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851779334,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851779334,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851959339,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851959339,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852080605,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852080605,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852260609,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852260609,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852381858,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852381858,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852561861,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852561861,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852683270,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852683270,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852863273,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852863273,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852984533,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852984533,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853164537,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853164537,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853285887,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853285887,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853465890,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853465890,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853587159,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853587159,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853767162,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853767162,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853888462,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853888462,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854068467,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854068467,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854189751,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854189751,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854369755,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854369755,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854491139,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854491139,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854671143,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854671143,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854792430,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854792430,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854972435,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854972435,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855093709,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855093709,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855273714,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855273714,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855395084,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855395084,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855575087,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855575087,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855696393,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855696393,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855876398,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855876398,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855997683,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855997683,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776856177688,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776856177688,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776856299053,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776856299053,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776856479057,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776856479057,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776856600348,
+    "marketId": "1.257180249",
+    "selectionId": "66283423",
+    "selectionName": "Jana Otzipka",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776856600348,
+    "marketId": "1.257180249",
+    "selectionId": "7368513",
+    "selectionName": "Katy Dunne",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

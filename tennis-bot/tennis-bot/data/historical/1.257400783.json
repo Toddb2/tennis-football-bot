@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1777310019625,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310019625,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310199580,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310199580,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310320820,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310320820,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310500825,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310500825,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310622080,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310622080,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310802083,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310802083,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310923332,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777310923332,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311103334,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311103334,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311224578,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311224578,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311404580,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311404580,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311525835,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311525835,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311705837,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311705837,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311827103,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777311827103,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312007106,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312007106,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312128368,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312128368,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312308370,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312308370,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312429633,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312429633,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312609637,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312609637,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312730904,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312730904,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312910907,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777312910907,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313032170,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313032170,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313212172,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313212172,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313333490,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313333490,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313513493,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313513493,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313634760,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313634760,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313814762,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313814762,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313936038,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313936038,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314116040,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314116040,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314237403,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314237403,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314417406,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314417406,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314538668,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314538668,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314718671,
+    "marketId": "1.257400783",
+    "selectionId": "11694656",
+    "selectionName": "Marta Kostyuk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314718671,
+    "marketId": "1.257400783",
+    "selectionId": "11583969",
+    "selectionName": "Catherine Mcnally",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  }
+]

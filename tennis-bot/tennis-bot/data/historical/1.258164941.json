@@ -1,0 +1,812 @@
+[
+  {
+    "timestamp": 1778766215552,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766215552,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766305550,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766305550,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766395605,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766395605,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766485654,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766485654,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766665659,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766665659,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766665756,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766665756,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766755803,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766755803,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766935808,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766935808,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766935900,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766935900,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767025946,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767025946,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767115985,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767115985,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767206029,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767206029,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767296082,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767296082,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767386126,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767386126,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767476169,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767476169,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767566220,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767566220,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767656261,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767656261,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767746300,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767746300,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767836342,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767836342,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767926400,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767926400,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768016441,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768016441,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768106496,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768106496,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768196540,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768196540,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768376544,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768376544,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768376713,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768376713,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768466774,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768466774,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768556872,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768556872,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768646922,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768646922,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768736967,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768736967,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768827009,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768827009,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768917051,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778768917051,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769097055,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769097055,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769097182,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769097182,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769187235,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769187235,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769277281,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769277281,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769367329,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769367329,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769457365,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769457365,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769547407,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769547407,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769727410,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769727410,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769727503,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769727503,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769817553,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769817553,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769907592,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769907592,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769997656,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778769997656,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778770177659,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778770177659,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778770177745,
+    "marketId": "1.258164941",
+    "selectionId": "15134228",
+    "selectionName": "Tristan Boyer",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778770177745,
+    "marketId": "1.258164941",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  }
+]

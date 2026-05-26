@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": 1779283681356,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779283681356,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779283771344,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779283771344,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779283951351,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779283951351,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779283951427,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779283951427,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284041455,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284041455,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284221461,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284221461,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284221557,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284221557,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284311585,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284311585,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284401632,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284401632,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284581638,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284581638,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284581751,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284581751,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284671776,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284671776,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284761829,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284761829,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284851876,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284851876,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284941917,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779284941917,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285031970,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285031970,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285122017,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285122017,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285212067,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285212067,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285302103,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285302103,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285392195,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285392195,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285482237,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285482237,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285572290,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285572290,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285662335,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285662335,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285752377,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285752377,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285842417,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285842417,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285932480,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779285932480,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 200,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286022528,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286022528,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 200,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286112563,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286112563,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286202611,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286202611,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286292647,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286292647,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 500,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286382699,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286382699,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 500,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286472764,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286472764,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 500,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286562800,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286562800,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 1000,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286652843,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286652843,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 1000,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286742880,
+    "marketId": "1.258361511",
+    "selectionId": "7283310",
+    "selectionName": "Aliaksandra Sasnovich",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779286742880,
+    "marketId": "1.258361511",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  }
+]

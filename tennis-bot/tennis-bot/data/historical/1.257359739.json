@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1777287328590,
+    "marketId": "1.257359739",
+    "selectionId": "51615565",
+    "selectionName": "Manas Dhamne",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287328590,
+    "marketId": "1.257359739",
+    "selectionId": "97597044",
+    "selectionName": "Nikita Belozertsev",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287508545,
+    "marketId": "1.257359739",
+    "selectionId": "51615565",
+    "selectionName": "Manas Dhamne",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287508545,
+    "marketId": "1.257359739",
+    "selectionId": "97597044",
+    "selectionName": "Nikita Belozertsev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287629801,
+    "marketId": "1.257359739",
+    "selectionId": "51615565",
+    "selectionName": "Manas Dhamne",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287629801,
+    "marketId": "1.257359739",
+    "selectionId": "97597044",
+    "selectionName": "Nikita Belozertsev",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287809803,
+    "marketId": "1.257359739",
+    "selectionId": "51615565",
+    "selectionName": "Manas Dhamne",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287809803,
+    "marketId": "1.257359739",
+    "selectionId": "97597044",
+    "selectionName": "Nikita Belozertsev",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287931065,
+    "marketId": "1.257359739",
+    "selectionId": "51615565",
+    "selectionName": "Manas Dhamne",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777287931065,
+    "marketId": "1.257359739",
+    "selectionId": "97597044",
+    "selectionName": "Nikita Belozertsev",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288111068,
+    "marketId": "1.257359739",
+    "selectionId": "51615565",
+    "selectionName": "Manas Dhamne",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288111068,
+    "marketId": "1.257359739",
+    "selectionId": "97597044",
+    "selectionName": "Nikita Belozertsev",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  }
+]

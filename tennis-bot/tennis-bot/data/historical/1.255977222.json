@@ -1,0 +1,470 @@
+[
+  {
+    "timestamp": 1774788011363,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788011363,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788191315,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788191315,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788312654,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788312654,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788492655,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788492655,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788613972,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788613972,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788793974,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788793974,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788915245,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774788915245,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789095247,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789095247,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789216578,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789216578,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789396580,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789396580,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789517943,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789517943,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789697945,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789697945,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789819208,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789819208,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789999210,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774789999210,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790120965,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790120965,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790300966,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790300966,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790421984,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790421984,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790601986,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790601986,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790723257,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790723257,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790903259,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774790903259,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791024518,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791024518,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791204520,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791204520,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791325793,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791325793,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791505886,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791505886,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791627162,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791627162,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791807164,
+    "marketId": "1.255977222",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791807164,
+    "marketId": "1.255977222",
+    "selectionId": "9433880",
+    "selectionName": "Louis Wessels",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  }
+]

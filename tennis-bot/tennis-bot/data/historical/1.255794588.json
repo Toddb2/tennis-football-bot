@@ -1,0 +1,722 @@
+[
+  {
+    "timestamp": 1774481553400,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481553400,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481733351,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481733351,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481854609,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481854609,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482034610,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482034610,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482155860,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482155860,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482335861,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482335861,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482457121,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482457121,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482637123,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482637123,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482758409,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482758409,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482938410,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482938410,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483059784,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483059784,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483239786,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483239786,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483361078,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483361078,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483541079,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483541079,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483662357,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483662357,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483842358,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483842358,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483963611,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483963611,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484143612,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484143612,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484264870,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484264870,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484444872,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484444872,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484566165,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484566165,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484746166,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484746166,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484867449,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484867449,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485047451,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485047451,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485168711,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485168711,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485348712,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485348712,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485470026,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485470026,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485650027,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485650027,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485771333,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485771333,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485951334,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485951334,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486072616,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486072616,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486252618,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486252618,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486373896,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486373896,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486553897,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486553897,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486675165,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486675165,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486855167,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486855167,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486976408,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774486976408,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774487156410,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774487156410,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774487277665,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774487277665,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774487457666,
+    "marketId": "1.255794588",
+    "selectionId": "9629446",
+    "selectionName": "Johan Nikles",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774487457666,
+    "marketId": "1.255794588",
+    "selectionId": "17806082",
+    "selectionName": "Cannon Kingsley",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

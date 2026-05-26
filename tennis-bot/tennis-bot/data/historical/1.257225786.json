@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": 1776962717851,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776962717851,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776962897781,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776962897781,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963019076,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963019076,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963199079,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963199079,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963320385,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963320385,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963500388,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963500388,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963621681,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963621681,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963801685,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963801685,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963922957,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776963922957,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964102959,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964102959,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964224276,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964224276,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964404279,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964404279,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964525544,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964525544,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964705548,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964705548,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964826935,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776964826935,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965006938,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965006938,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965128194,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965128194,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965308197,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965308197,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965429471,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965429471,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965609474,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965609474,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965730762,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965730762,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965910765,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776965910765,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966032131,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966032131,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966212134,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966212134,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966333439,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966333439,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966513442,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966513442,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966634733,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966634733,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966814737,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966814737,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966936105,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776966936105,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967116108,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967116108,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967237398,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967237398,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967417402,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967417402,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967538658,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967538658,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967718663,
+    "marketId": "1.257225786",
+    "selectionId": "76084084",
+    "selectionName": "Kristina Liutova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776967718663,
+    "marketId": "1.257225786",
+    "selectionId": "11546652",
+    "selectionName": "Elizabeth Mandlik",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

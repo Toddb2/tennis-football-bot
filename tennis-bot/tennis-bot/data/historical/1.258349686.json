@@ -1,0 +1,524 @@
+[
+  {
+    "timestamp": 1779165533419,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165533419,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165713376,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165713376,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165713451,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165713451,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165893451,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165893451,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165893525,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165893525,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165983559,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779165983559,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166073597,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166073597,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166253599,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166253599,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166253667,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166253667,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166343716,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166343716,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166433746,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166433746,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166523778,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166523778,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166613824,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166613824,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166703863,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166703863,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166883865,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166883865,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166973982,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779166973982,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167153984,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167153984,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167154056,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167154056,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167244097,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167244097,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167334133,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167334133,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167424174,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167424174,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167604176,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167604176,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167784177,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167784177,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167784329,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167784329,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167964331,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779167964331,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779168144332,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779168144332,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779168324333,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779168324333,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779168504334,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779168504334,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779169044337,
+    "marketId": "1.258349686",
+    "selectionId": "22450935",
+    "selectionName": "Christopher Papa",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779169044337,
+    "marketId": "1.258349686",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

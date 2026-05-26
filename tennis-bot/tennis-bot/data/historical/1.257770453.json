@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1778155510139,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155510139,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155600106,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155600106,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155690154,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155690154,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155780195,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155780195,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960200,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960200,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960279,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960279,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156050326,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156050326,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156140389,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156140389,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156230438,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156230438,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156320477,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156320477,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156410531,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156410531,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156500573,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156500573,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156590610,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156590610,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156680660,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156680660,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156770697,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156770697,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156860777,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156860777,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156950822,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156950822,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157040879,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157040879,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220885,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220885,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220994,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220994,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401000,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401000,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401081,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401081,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157491129,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157491129,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157581178,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157581178,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157671214,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157671214,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157761256,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157761256,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157851297,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157851297,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157941342,
+    "marketId": "1.257770453",
+    "selectionId": "8230256",
+    "selectionName": "Marcos Giron",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157941342,
+    "marketId": "1.257770453",
+    "selectionId": "2263681",
+    "selectionName": "Marin Cilic",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  }
+]

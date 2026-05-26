@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1776255695739,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255695739,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255875628,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255875628,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255997621,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255997621,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256177625,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256177625,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256298893,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256298893,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256478895,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256478895,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256600750,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256600750,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256780752,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256780752,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256902043,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256902043,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257082047,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257082047,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257203302,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257203302,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257383305,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257383305,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257504610,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257504610,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257684613,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257684613,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257805964,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257805964,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257985966,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257985966,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258107267,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258107267,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258287269,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258287269,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258408582,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258408582,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258588585,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258588585,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258709862,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258709862,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258889865,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258889865,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259011150,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259011150,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259191152,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259191152,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259312440,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259312440,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259492443,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259492443,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259614201,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259614201,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259794204,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259794204,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259915914,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259915914,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260095916,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260095916,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260217221,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260217221,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260397225,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260397225,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260518642,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260518642,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260698646,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260698646,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260819920,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260819920,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260999923,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260999923,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261121249,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261121249,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261301253,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261301253,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261423195,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261423195,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261603198,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261603198,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261724487,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261724487,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261904490,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261904490,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776262027041,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776262027041,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776262207045,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776262207045,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776262328344,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776262328344,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776262508347,
+    "marketId": "1.256777355",
+    "selectionId": "11144238",
+    "selectionName": "Kamilla Rakhimova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776262508347,
+    "marketId": "1.256777355",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

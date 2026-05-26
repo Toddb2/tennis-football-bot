@@ -1,0 +1,659 @@
+[
+  {
+    "timestamp": 1776992725548,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060200854,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060200854,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060380859,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060380859,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060502194,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060502194,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060682196,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060682196,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060803520,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060803520,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060983523,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060983523,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061104822,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061104822,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061284825,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061284825,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061406110,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061406110,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061586113,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061586113,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061707380,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061707380,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061887383,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061887383,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062008674,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062008674,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062188677,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062188677,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062310030,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062310030,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062490033,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062490033,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062611307,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062611307,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062791309,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062791309,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062912612,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062912612,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063092614,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063092614,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063213895,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063213895,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063393897,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063393897,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063515161,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063515161,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063695163,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063695163,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063816541,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063816541,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063996542,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777063996542,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064117818,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064117818,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064297819,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064297819,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064419088,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064419088,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064599090,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064599090,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064720517,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064720517,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064900518,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777064900518,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777065021808,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777065021808,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777065201810,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777065201810,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777065323078,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777065323078,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777065503080,
+    "marketId": "1.257209069",
+    "selectionId": "6215852",
+    "selectionName": "Jessica Pegula",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777065503080,
+    "marketId": "1.257209069",
+    "selectionId": "8619018",
+    "selectionName": "Katie Boulter",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

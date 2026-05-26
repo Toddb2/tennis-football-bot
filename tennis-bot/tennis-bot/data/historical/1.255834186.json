@@ -1,0 +1,560 @@
+[
+  {
+    "timestamp": 1774572186201,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572186201,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572366149,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572366149,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572487465,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572487465,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572667466,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572667466,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572788724,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572788724,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572968725,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774572968725,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573090028,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573090028,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573270030,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573270030,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573391391,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573391391,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573571394,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573571394,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573692664,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573692664,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573872666,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573872666,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573993961,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774573993961,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574173962,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574173962,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574295226,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574295226,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574475227,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574475227,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574596553,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574596553,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574776554,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574776554,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574897810,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774574897810,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575077813,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575077813,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575199101,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575199101,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575379103,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575379103,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575500414,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575500414,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575680415,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575680415,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575801697,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575801697,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575981699,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774575981699,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576102986,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576102986,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576282987,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576282987,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576404268,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576404268,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576584269,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576584269,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576705585,
+    "marketId": "1.255834186",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774576705585,
+    "marketId": "1.255834186",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "timestamp": 1777868009259,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868009259,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868189209,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868189209,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868310530,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868310530,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868490530,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868490530,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868611828,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868611828,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868791828,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868791828,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868913246,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777868913246,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869093246,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869093246,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869214632,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869214632,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869394633,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869394633,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869515966,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869515966,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869695967,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869695967,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869817266,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869817266,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869997266,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869997266,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870118574,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870118574,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870298574,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870298574,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870419903,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870419903,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870599904,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870599904,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870721253,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870721253,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870901254,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777870901254,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777871022589,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777871022589,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777871202589,
+    "marketId": "1.257696237",
+    "selectionId": "38374952",
+    "selectionName": "Petr Bar Biryukov",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777871202589,
+    "marketId": "1.257696237",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  }
+]

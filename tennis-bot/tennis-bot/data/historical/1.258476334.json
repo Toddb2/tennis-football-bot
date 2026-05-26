@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 1779457469781,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457469781,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457559755,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457559755,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457649800,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457649800,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457739847,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457739847,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457919852,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457919852,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457919951,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457919951,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458009992,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458009992,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458100064,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458100064,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458190109,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458190109,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458280168,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458280168,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458460173,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458460173,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458460346,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458460346,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458640352,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458640352,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458820355,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458820355,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459000358,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459000358,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459090657,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459090657,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459270660,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459270660,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459270738,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459270738,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459450742,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459450742,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459456844,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459456844,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459636752,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459636752,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459816756,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459816756,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459816936,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459816936,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459906985,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459906985,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459997025,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779459997025,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460087060,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460087060,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460177108,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460177108,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460267142,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460267142,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460357190,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460357190,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460447218,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460447218,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460537260,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460537260,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460627299,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460627299,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460717345,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460717345,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460807386,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460807386,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460897426,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460897426,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460987469,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779460987469,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779461077505,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779461077505,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779461167557,
+    "marketId": "1.258476334",
+    "selectionId": "11439844",
+    "selectionName": "Aleksandar Kovacevic",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779461167557,
+    "marketId": "1.258476334",
+    "selectionId": "25215601",
+    "selectionName": "Ignacio Buse",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

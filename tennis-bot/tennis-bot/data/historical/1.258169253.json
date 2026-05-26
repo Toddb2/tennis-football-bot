@@ -1,0 +1,992 @@
+[
+  {
+    "timestamp": 1778760657181,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760657181,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760747189,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760747189,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760837216,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760837216,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760927269,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760927269,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761107276,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761107276,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761107353,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761107353,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761197401,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761197401,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761287448,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761287448,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761467454,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761467454,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761557596,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761557596,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761647639,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761647639,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761737688,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761737688,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761827717,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761827717,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761917761,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761917761,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762007801,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762007801,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762187806,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762187806,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762187872,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762187872,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762277926,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762277926,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762367959,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762367959,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762458003,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762458003,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762638009,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762638009,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762638094,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762638094,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762728121,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762728121,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762818175,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762818175,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762908203,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762908203,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762998277,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762998277,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763088324,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763088324,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763178391,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763178391,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763268425,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763268425,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763448429,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763448429,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763448505,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763448505,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763628510,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763628510,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763628614,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763628614,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763718682,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763718682,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763808727,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763808727,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763898787,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763898787,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763988826,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763988826,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764078870,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764078870,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764168919,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764168919,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764258957,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764258957,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764349008,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764349008,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764439066,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764439066,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764529106,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764529106,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764619153,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764619153,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764709304,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764709304,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764799341,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764799341,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764889379,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764889379,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764979431,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764979431,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765069468,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765069468,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765134907,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765134907,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765224972,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765224972,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765404977,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765404977,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765405082,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765405082,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765495113,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765495113,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765675119,
+    "marketId": "1.258169253",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765675119,
+    "marketId": "1.258169253",
+    "selectionId": "8226987",
+    "selectionName": "Hugo Dellien",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "timestamp": 1777955591956,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777955591956,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777955771903,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777955771903,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777955864685,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777955864685,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777955956040,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777955956040,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956047462,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956047462,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956227463,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956227463,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956408868,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956408868,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956588870,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956588870,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956768871,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956768871,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956948874,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956948874,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956950454,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777956950454,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957041795,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957041795,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957133161,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957133161,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957224510,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957224510,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957315850,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957315850,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957407299,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957407299,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957498653,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957498653,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957678657,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957678657,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957860022,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777957860022,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777958040023,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777958040023,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777958220025,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777958220025,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777958400026,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777958400026,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777958580027,
+    "marketId": "1.257660275",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777958580027,
+    "marketId": "1.257660275",
+    "selectionId": "8957119",
+    "selectionName": "Kaichi Uchida",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

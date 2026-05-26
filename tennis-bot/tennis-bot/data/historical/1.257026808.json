@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1776812240720,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812240720,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812420666,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812420666,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812542420,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812542420,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812722421,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812722421,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812843694,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812843694,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813023695,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813023695,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813145217,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813145217,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813325219,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813325219,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813447154,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813447154,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813627155,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813627155,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813749292,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813749292,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813929293,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813929293,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814050827,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814050827,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814230829,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814230829,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814352101,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814352101,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814532102,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814532102,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814653366,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814653366,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814833367,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814833367,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814954660,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814954660,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815134661,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815134661,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815255953,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815255953,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815435955,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815435955,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815558356,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815558356,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815738357,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815738357,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815863612,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815863612,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816043613,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816043613,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816164895,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816164895,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816344896,
+    "marketId": "1.257026808",
+    "selectionId": "20706140",
+    "selectionName": "Sebastian Gima",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816344896,
+    "marketId": "1.257026808",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1777083098955,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083098955,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083278909,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083278909,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083400267,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083400267,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083580268,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083580268,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083701513,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083701513,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083881515,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777083881515,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084002789,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084002789,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084182791,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084182791,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084304048,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084304048,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084484050,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084484050,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084605325,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084605325,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084785327,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084785327,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084906613,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777084906613,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085086614,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085086614,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085207948,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085207948,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085387949,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085387949,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085509206,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085509206,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085689207,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085689207,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085810469,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085810469,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085990470,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777085990470,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086111755,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086111755,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086291756,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086291756,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086413046,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086413046,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086593047,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086593047,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086714321,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086714321,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086894322,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777086894322,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087015692,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087015692,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087195694,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087195694,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087316957,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087316957,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087496958,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087496958,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087618249,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087618249,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087798250,
+    "marketId": "1.257271988",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777087798250,
+    "marketId": "1.257271988",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  }
+]

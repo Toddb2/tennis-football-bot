@@ -1,0 +1,866 @@
+[
+  {
+    "timestamp": 1779269783370,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779269783370,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779269873359,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779269873359,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779269963406,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779269963406,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270053511,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270053511,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270143543,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270143543,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270233586,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270233586,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270323629,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270323629,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270413669,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270413669,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270503715,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270503715,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270593763,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270593763,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270773768,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270773768,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270773837,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270773837,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270863906,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270863906,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270953940,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270953940,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270993681,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270993681,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271083585,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271083585,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271173640,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271173640,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271353645,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271353645,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271353759,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271353759,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271443810,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271443810,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271533849,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271533849,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271623905,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271623905,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271713954,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271713954,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271804013,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271804013,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271894065,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271894065,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271984112,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271984112,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272074148,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272074148,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272186894,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272186894,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272276834,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272276834,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272366882,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272366882,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272456918,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272456918,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272546953,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272546953,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272637022,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272637022,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272727055,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272727055,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272937854,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272937854,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273027780,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273027780,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273118080,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273118080,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273208120,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273208120,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273298154,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273298154,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273478160,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273478160,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273478242,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273478242,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273568322,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273568322,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273658375,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273658375,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273748411,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273748411,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273838456,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273838456,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273928547,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273928547,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274018593,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274018593,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274108628,
+    "marketId": "1.258354997",
+    "selectionId": "2923342",
+    "selectionName": "Sloane Stephens",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274108628,
+    "marketId": "1.258354997",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1778523207106,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523207106,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523297091,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523297091,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523387127,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523387127,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523477171,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523477171,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523567209,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523567209,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523657247,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523657247,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523747293,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523747293,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523927297,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523927297,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524017438,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524017438,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524107520,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524107520,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524197567,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524197567,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377571,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377571,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377653,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377653,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524557656,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524557656,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524647791,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524647791,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827795,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827795,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827896,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827896,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524917932,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524917932,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525007982,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525007982,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525187986,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525187986,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525278124,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525278124,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525458128,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525458128,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525548264,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525548264,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525638306,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525638306,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525728346,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525728346,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525818396,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525818396,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525908441,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525908441,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525998493,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525998493,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526088553,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526088553,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268555,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268555,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268641,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268641,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448644,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448644,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448770,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448770,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628773,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628773,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628867,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628867,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808870,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808870,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808963,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808963,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526899013,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526899013,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526989048,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526989048,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169053,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169053,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169162,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169162,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527259198,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527259198,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439200,
+    "marketId": "1.258034340",
+    "selectionId": "8784972",
+    "selectionName": "Barbora Krejcikova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439200,
+    "marketId": "1.258034340",
+    "selectionId": "35532640",
+    "selectionName": "Victoria Jimenez Kasintseva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

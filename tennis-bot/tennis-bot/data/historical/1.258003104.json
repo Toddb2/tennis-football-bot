@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1778508181729,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508181729,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508271654,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508271654,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508361711,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508361711,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508451777,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508451777,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508541808,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508541808,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508631859,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508631859,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508721918,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508721918,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508811976,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508811976,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508902983,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508902983,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508992079,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508992079,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509082141,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509082141,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509172187,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509172187,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509352192,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509352192,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509352366,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509352366,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509442414,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509442414,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509532473,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509532473,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509622524,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509622524,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509712575,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509712575,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509802614,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509802614,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509892663,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509892663,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509982715,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509982715,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510072748,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510072748,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510162802,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510162802,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510252843,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510252843,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510342893,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510342893,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510432940,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510432940,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510522995,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510522995,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510613025,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510613025,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510703082,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510703082,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510823673,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510823673,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510913733,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510913733,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093738,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093738,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 200,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093834,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093834,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 200,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511183880,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511183880,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 210,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511273930,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511273930,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 250,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511364613,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511364613,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 390,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511454013,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511454013,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 260,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511544094,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511544094,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 260,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724101,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724101,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 260,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724144,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724144,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 260,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511814171,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511814171,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1000,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511904208,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511904208,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1000,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512084213,
+    "marketId": "1.258003104",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512084213,
+    "marketId": "1.258003104",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

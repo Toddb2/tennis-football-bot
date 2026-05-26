@@ -1,0 +1,812 @@
+[
+  {
+    "timestamp": 1776992424331,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992424331,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992545482,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992545482,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992725487,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992725487,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992846760,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992846760,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776993328090,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776993328090,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776994051960,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776994051960,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776994231962,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776994231962,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776994834643,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776994834643,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776994956081,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776994956081,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995257357,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995257357,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995437359,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995437359,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995558652,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995558652,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995738654,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995738654,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995860342,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995860342,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996040344,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996040344,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996161621,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996161621,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996341623,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996341623,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997065578,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997065578,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997245579,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997245579,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997366853,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997366853,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997546855,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997546855,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997668128,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997668128,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997848130,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997848130,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997969408,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776997969408,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998149410,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998149410,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998270665,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998270665,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998450666,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998450666,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998572010,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998572010,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998752013,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998752013,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998873356,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776998873356,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999053358,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999053358,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999174625,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999174625,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999354627,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999354627,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999475889,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999475889,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999655891,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999655891,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999777171,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999777171,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999957173,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776999957173,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000078475,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000078475,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000258477,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000258477,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000379781,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000379781,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000559784,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000559784,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000681205,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000681205,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000861207,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000861207,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000982485,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777000982485,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777001162486,
+    "marketId": "1.257222754",
+    "selectionId": "30048220",
+    "selectionName": "James McCabe",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777001162486,
+    "marketId": "1.257222754",
+    "selectionId": "28081306",
+    "selectionName": "Leandro Riedi",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

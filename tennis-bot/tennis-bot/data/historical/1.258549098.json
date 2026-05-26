@@ -1,0 +1,974 @@
+[
+  {
+    "timestamp": 1779641741858,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779641741858,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779641831836,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779641831836,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779641921874,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779641921874,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642101878,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642101878,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642102017,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642102017,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642192058,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642192058,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642372065,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642372065,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642462193,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642462193,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642642198,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642642198,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642642269,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642642269,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642732310,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642732310,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642822348,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642822348,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642912394,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779642912394,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643002426,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643002426,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643092471,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643092471,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643182508,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643182508,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643272574,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643272574,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643362590,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643362590,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643452642,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643452642,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643542678,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643542678,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643632721,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643632721,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643722769,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643722769,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643812857,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643812857,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643902916,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643902916,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643992955,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779643992955,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644083003,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644083003,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644173052,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644173052,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644263089,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644263089,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644353137,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644353137,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644443183,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644443183,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644533224,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644533224,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644623266,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644623266,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644713310,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644713310,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644893314,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644893314,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644893415,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644893415,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644983458,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779644983458,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645073495,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645073495,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645163541,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645163541,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645253589,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645253589,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645343633,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645343633,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645433695,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645433695,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645523745,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645523745,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645613785,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645613785,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645703828,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645703828,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645883832,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779645883832,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646063835,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646063835,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646154032,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646154032,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646244077,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646244077,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646334124,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646334124,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646424159,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646424159,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646604162,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646604162,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646694298,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646694298,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646784339,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646784339,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646874383,
+    "marketId": "1.258549098",
+    "selectionId": "42698187",
+    "selectionName": "Henry Searle",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779646874383,
+    "marketId": "1.258549098",
+    "selectionId": "50561120",
+    "selectionName": "Nicolas Arseneault",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  }
+]

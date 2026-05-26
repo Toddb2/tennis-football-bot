@@ -1,0 +1,524 @@
+[
+  {
+    "timestamp": 1776992545574,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992725487,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035329364,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035329364,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035509367,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035509367,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035630630,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035630630,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035810634,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035810634,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035931911,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777035931911,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036111915,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036111915,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036233165,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036233165,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036413170,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036413170,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036534434,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036534434,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036714438,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036714438,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036835752,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036835752,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037015755,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037015755,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037137105,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037137105,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037317109,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037317109,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037438362,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037438362,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037618367,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037618367,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037739621,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037739621,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037919627,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037919627,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038040892,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038040892,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038220897,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038220897,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038342300,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038342300,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038522304,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038522304,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038643569,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038643569,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038823575,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038823575,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038944960,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038944960,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039124964,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039124964,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039246232,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039246232,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039426237,
+    "marketId": "1.257201175",
+    "selectionId": "22088831",
+    "selectionName": "Linda Noskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039426237,
+    "marketId": "1.257201175",
+    "selectionId": "10350216",
+    "selectionName": "Emiliana Arango",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

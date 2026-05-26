@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1777119874639,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777119874639,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120054570,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120054570,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120175863,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120175863,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120355868,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120355868,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120477254,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120477254,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120657259,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120657259,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120778534,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120778534,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120958537,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777120958537,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121079802,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121079802,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121259807,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121259807,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121381138,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121381138,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121561142,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121561142,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121682438,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121682438,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121862444,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121862444,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121983736,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777121983736,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122163740,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122163740,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122285110,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122285110,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122465116,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122465116,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122586413,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122586413,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122766418,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122766418,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122887763,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122887763,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123067767,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123067767,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123189028,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123189028,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123369051,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123369051,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123490375,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123490375,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123670380,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123670380,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123791651,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123791651,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123971656,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123971656,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124093054,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124093054,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124273058,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124273058,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124394324,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124394324,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124574329,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124574329,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124695589,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124695589,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124875594,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124875594,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124996869,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124996869,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125176875,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125176875,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125298133,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125298133,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125478138,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125478138,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125599404,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125599404,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125779409,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125779409,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125900688,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125900688,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126080691,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126080691,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126203371,
+    "marketId": "1.257288966",
+    "selectionId": "13714711",
+    "selectionName": "Dalibor Svrcina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126203371,
+    "marketId": "1.257288966",
+    "selectionId": "76429294",
+    "selectionName": "Jacopo Vasami",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

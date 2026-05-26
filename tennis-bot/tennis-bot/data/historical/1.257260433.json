@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1777066829465,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777066829465,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067009421,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067009421,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067130662,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067130662,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067310664,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067310664,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067432008,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067432008,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067612010,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067612010,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067733281,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067733281,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067913282,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777067913282,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068034526,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068034526,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068214528,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068214528,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068335854,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068335854,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068515855,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068515855,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068637125,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068637125,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068817126,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068817126,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068938375,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777068938375,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069118377,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069118377,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069239642,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069239642,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069419643,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069419643,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069540942,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069540942,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069720943,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069720943,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069842197,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777069842197,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070022198,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070022198,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070143473,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070143473,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070323475,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070323475,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070444822,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070444822,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070624824,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070624824,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070746081,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070746081,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070926082,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777070926082,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071047347,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071047347,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071227348,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071227348,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071348706,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071348706,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071528707,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071528707,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071649966,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071649966,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071829967,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071829967,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071951230,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777071951230,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072131231,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072131231,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072252472,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072252472,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072432474,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072432474,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072553736,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072553736,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072733737,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072733737,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072854992,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777072854992,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073034993,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073034993,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073156259,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073156259,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073336260,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073336260,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073457553,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073457553,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073637554,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073637554,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073758835,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073758835,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073938836,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777073938836,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074060176,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074060176,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074240177,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074240177,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074361445,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074361445,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074541446,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074541446,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074662791,
+    "marketId": "1.257260433",
+    "selectionId": "19924836",
+    "selectionName": "Mitchell Krueger",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777074662791,
+    "marketId": "1.257260433",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "timestamp": 1779790318457,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790318457,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790408449,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790408449,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588456,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588456,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588549,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588549,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790678578,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790678578,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790768632,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790768632,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948640,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948640,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948707,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948707,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791038760,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791038760,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791128790,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791128790,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791218824,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791218824,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791308896,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791308896,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791398910,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791398910,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791578916,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791578916,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791579013,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791579013,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791669057,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791669057,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791759098,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791759098,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791849153,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791849153,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791939187,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791939187,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792029228,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792029228,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792119263,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792119263,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792124864,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792124864,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792214731,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792214731,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792304778,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792304778,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792394826,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792394826,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574831,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574831,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574964,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574964,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792665027,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792665027,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792755075,
+    "marketId": "1.258464830",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792755075,
+    "marketId": "1.258464830",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  }
+]

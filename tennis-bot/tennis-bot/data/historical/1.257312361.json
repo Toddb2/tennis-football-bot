@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1777144581521,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777144581521,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777144761442,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777144761442,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777144882701,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777144882701,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145062703,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145062703,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145183982,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145183982,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145363985,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145363985,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145485253,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145485253,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145665255,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145665255,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145786511,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145786511,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145966513,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777145966513,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146087811,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146087811,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146267813,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146267813,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146389108,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146389108,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146569110,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146569110,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146690376,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146690376,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146870378,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146870378,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146991648,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777146991648,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147171650,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147171650,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147292904,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147292904,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147472908,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147472908,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147594232,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147594232,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147774235,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147774235,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147895524,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147895524,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148075527,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148075527,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148196805,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148196805,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148376808,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148376808,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148498097,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148498097,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148678099,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148678099,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148799380,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148799380,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148979382,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148979382,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149100691,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149100691,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149280693,
+    "marketId": "1.257312361",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149280693,
+    "marketId": "1.257312361",
+    "selectionId": "7287667",
+    "selectionName": "Calvin Hemery",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

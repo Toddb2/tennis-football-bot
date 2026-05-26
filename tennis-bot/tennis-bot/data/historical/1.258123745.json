@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1778666879186,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666879186,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666969188,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666969188,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667059237,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667059237,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667149282,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667149282,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329287,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329287,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329392,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329392,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667419443,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667419443,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667509482,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667509482,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667599530,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667599530,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667689575,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667689575,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667779618,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667779618,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667869666,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667869666,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049673,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049673,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049756,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049756,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668139843,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668139843,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668229887,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668229887,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668319930,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668319930,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668409975,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668409975,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668500019,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668500019,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668590065,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668590065,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668680111,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668680111,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668770163,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668770163,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668860218,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668860218,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668950273,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668950273,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669040307,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669040307,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669130355,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669130355,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669220409,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669220409,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669310449,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669310449,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669400490,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669400490,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669490526,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669490526,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669580568,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669580568,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669670624,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669670624,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669760645,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669760645,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669940652,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669940652,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669940723,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778669940723,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670120733,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670120733,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670120831,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670120831,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670210890,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670210890,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670300920,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670300920,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670390970,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670390970,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670481004,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670481004,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670571045,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670571045,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670661071,
+    "marketId": "1.258123745",
+    "selectionId": "43659135",
+    "selectionName": "Tiago Pereira",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778670661071,
+    "marketId": "1.258123745",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,2666 @@
+[
+  {
+    "timestamp": 1777767234933,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777767234933,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777771273875,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777771273875,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833052682,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833052682,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833232684,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833232684,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833354083,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833354083,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833534085,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833534085,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833655396,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833655396,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833835398,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833835398,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833956705,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833956705,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834136706,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834136706,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834258017,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834258017,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834438019,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834438019,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834559414,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834559414,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834739416,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834739416,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834860761,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834860761,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835040763,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835040763,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835162119,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835162119,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835342120,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835342120,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835463586,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835463586,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835764907,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835764907,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835944908,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835944908,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836066278,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836066278,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836246279,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836246279,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836547633,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836547633,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837271683,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837271683,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837573050,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837573050,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837753051,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837753051,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838054358,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838054358,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838175684,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838175684,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838355686,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838355686,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838477017,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838477017,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838958419,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838958419,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839259733,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839259733,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839381097,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839381097,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839862489,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839862489,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840766601,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840766601,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841068001,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841068001,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841189378,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841189378,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841670702,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841670702,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841972042,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841972042,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842273364,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842273364,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842394741,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842394741,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843298776,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843298776,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843478777,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843478777,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843780179,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843780179,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843901560,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843901560,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844202895,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844202895,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844684297,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844684297,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844985635,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844985635,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777845106942,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777845106942,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777845286943,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777845286943,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777845588274,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777845588274,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777846492373,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777846492373,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777847396390,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777847396390,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777850711020,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777850711020,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777854025719,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777854025719,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777854327043,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777854327043,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777857462065,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777857462065,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777857642066,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777857642066,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777857763376,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777857763376,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777857943376,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777857943376,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777860655531,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777860655531,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777861078230,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777861078230,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777861258230,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777861258230,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777863790393,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777863790393,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777864091709,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777864091709,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777865477052,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777865477052,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777865598363,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777865598363,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777866682419,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777866682419,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777867105112,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777867105112,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777867707825,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777867707825,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869695967,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777869695967,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777871202589,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777871202589,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777873132318,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777873132318,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777874638970,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777874638970,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777874818971,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777874818971,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777875120336,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777875120336,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777875241768,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777875241768,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777875844665,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777875844665,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777876326058,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777876326058,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777878736753,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777878736753,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777882172783,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777882172783,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777883859440,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777883859440,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777886994185,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777886994185,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887295517,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887295517,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887475518,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887475518,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887776850,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887776850,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777889405182,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777889405182,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777889585183,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777889585183,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777889706518,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777889706518,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777891514428,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777891514428,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777893021176,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777893021176,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777894707970,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777894707970,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777895009394,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777895009394,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777895310728,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777895310728,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777896214752,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777896214752,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777896336152,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777896336152,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777900875896,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777900875896,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777901177136,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777901177136,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777901779864,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777901779864,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902081244,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902081244,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902261246,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902261246,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777903286604,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777903286604,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777905274789,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777905274789,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907350479,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907350479,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907532998,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907532998,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907624432,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907624432,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907715769,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907715769,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907807122,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907807122,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907876771,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907876771,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907968071,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777907968071,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908148073,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908148073,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908149564,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908149564,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908240915,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908240915,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908332271,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908332271,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908512274,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908512274,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908513686,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908513686,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908605096,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908605096,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908696468,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908696468,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908787839,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908787839,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908879199,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908879199,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908970606,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777908970606,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909061957,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909061957,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909153316,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909153316,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909244642,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909244642,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909336062,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909336062,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909427522,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909427522,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909518903,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909518903,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909610294,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909610294,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909790298,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909790298,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909791671,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909791671,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909882994,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909882994,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909974368,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777909974368,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910065729,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910065729,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910157074,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910157074,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910248419,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910248419,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910339787,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910339787,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910431157,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910431157,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910522516,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910522516,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910613859,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910613859,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910705261,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910705261,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910796618,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910796618,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910888031,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910888031,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910979451,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777910979451,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777911162149,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777911162149,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777911344940,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777911344940,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777911619021,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777911619021,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777911710379,
+    "marketId": "1.257685913",
+    "selectionId": "98104562",
+    "selectionName": "Rai Vicente De Araujo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777911710379,
+    "marketId": "1.257685913",
+    "selectionId": "11665080",
+    "selectionName": "Fermin Tenti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

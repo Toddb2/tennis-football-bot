@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": 1774453834095,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774453834095,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454014049,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454014049,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454135304,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454135304,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454315305,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454315305,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454436580,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454436580,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454616583,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454616583,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454737837,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454737837,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454917840,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774454917840,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455039085,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455039085,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455219087,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455219087,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455340405,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455340405,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455520407,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455520407,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455641711,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455641711,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455821714,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455821714,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455943007,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774455943007,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456123009,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456123009,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456244285,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456244285,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456424287,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456424287,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456545529,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456545529,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456725531,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456725531,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456846809,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774456846809,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457026810,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457026810,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457148059,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457148059,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457328061,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457328061,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457449318,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457449318,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457629319,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457629319,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457750570,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457750570,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457930571,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774457930571,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458051849,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458051849,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458231850,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458231850,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458353147,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458353147,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458533148,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458533148,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458654437,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458654437,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458834439,
+    "marketId": "1.255779828",
+    "selectionId": "67194745",
+    "selectionName": "Alja Senica",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774458834439,
+    "marketId": "1.255779828",
+    "selectionId": "18849010",
+    "selectionName": "Radka Zelnickova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "timestamp": 1778504088297,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504088297,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504178175,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504178175,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504268239,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504268239,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504358299,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504358299,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504448350,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504448350,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504538395,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504538395,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504628454,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504628454,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504718480,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504718480,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504808542,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504808542,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504898579,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504898579,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504988637,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504988637,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505168645,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505168645,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505168763,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505168763,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505258806,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505258806,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505348877,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505348877,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505438915,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505438915,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505528952,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505528952,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505618995,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505618995,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505709060,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505709060,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505799085,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505799085,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505889130,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505889130,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505979184,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505979184,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506069231,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506069231,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506159280,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506159280,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506200529,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506200529,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506290417,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506290417,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506380488,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506380488,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506470535,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506470535,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506560575,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506560575,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506740581,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506740581,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506740702,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506740702,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506830776,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506830776,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506920814,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506920814,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507010859,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507010859,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507100912,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507100912,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507190956,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507190956,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507280988,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507280988,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507371043,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507371043,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551050,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551050,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551232,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551232,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507641278,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507641278,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507731335,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507731335,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507821384,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507821384,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507911436,
+    "marketId": "1.258031862",
+    "selectionId": "8196374",
+    "selectionName": "Maddison Inglis",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507911436,
+    "marketId": "1.258031862",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

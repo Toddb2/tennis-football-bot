@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1779622788740,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779622788740,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779622878727,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779622878727,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779622968766,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779622968766,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623148772,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623148772,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623148838,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623148838,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623238894,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623238894,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623328941,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623328941,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623418982,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623418982,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623509010,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623509010,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623599062,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623599062,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623689118,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623689118,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623779169,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623779169,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623869202,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779623869202,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624049207,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624049207,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624049263,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624049263,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624229270,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624229270,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624229371,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624229371,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624319418,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624319418,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624499424,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624499424,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624499529,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624499529,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624589569,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624589569,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624769576,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624769576,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624769652,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624769652,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624949657,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779624949657,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625039796,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625039796,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625129834,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625129834,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625219877,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625219877,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625597422,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625597422,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625687311,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625687311,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625777364,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625777364,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625867411,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625867411,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625957520,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779625957520,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626047558,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626047558,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626139709,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626139709,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626229643,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626229643,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626409649,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626409649,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626409754,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626409754,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626499795,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626499795,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626591759,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626591759,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626681720,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626681720,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626771770,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626771770,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626861832,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779626861832,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627041837,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627041837,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627041996,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627041996,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627132060,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627132060,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627222110,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627222110,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627243489,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627243489,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627333445,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627333445,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627423496,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627423496,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627513551,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627513551,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627603600,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627603600,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627693651,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627693651,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627783706,
+    "marketId": "1.258542902",
+    "selectionId": "35635710",
+    "selectionName": "Luc Koenig",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779627783706,
+    "marketId": "1.258542902",
+    "selectionId": "65619140",
+    "selectionName": "Kris Van Wyk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  }
+]

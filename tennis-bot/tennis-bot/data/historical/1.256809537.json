@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1776335894745,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776335894745,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336074696,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336074696,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336195960,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336195960,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336375963,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336375963,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336497651,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336497651,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336677656,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336677656,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336799050,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336799050,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336979053,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776336979053,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337100338,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337100338,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337280343,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337280343,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337401598,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337401598,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337581602,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337581602,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337703391,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337703391,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337883395,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776337883395,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338004699,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338004699,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338184702,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338184702,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338306699,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338306699,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338486704,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338486704,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338607971,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338607971,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338787975,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338787975,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338909260,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776338909260,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339089263,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339089263,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339210935,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339210935,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339390938,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339390938,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339512209,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339512209,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339692213,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339692213,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339813495,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339813495,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339993499,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776339993499,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340115093,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340115093,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340295097,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340295097,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340416476,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340416476,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340596479,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340596479,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340717766,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340717766,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340897769,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776340897769,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341019450,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341019450,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341199453,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341199453,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341321926,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341321926,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341501930,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341501930,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341623639,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341623639,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341803642,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341803642,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341925316,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776341925316,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776342105318,
+    "marketId": "1.256809537",
+    "selectionId": "9632088",
+    "selectionName": "Daniel Altmaier",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776342105318,
+    "marketId": "1.256809537",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

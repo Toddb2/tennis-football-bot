@@ -1,0 +1,704 @@
+[
+  {
+    "timestamp": 1777266539421,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777266539421,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777266719373,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777266719373,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777266840661,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777266840661,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267020662,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267020662,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267141932,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267141932,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267321933,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267321933,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267443234,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267443234,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267623235,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267623235,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267744499,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267744499,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267924501,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267924501,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268045770,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268045770,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268225772,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268225772,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268347024,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268347024,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268527025,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268527025,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268648317,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268648317,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268828320,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268828320,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268949661,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268949661,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269129664,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269129664,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269250934,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269250934,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269430936,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269430936,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269552214,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269552214,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269732216,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269732216,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269853514,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269853514,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270033516,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270033516,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270154773,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270154773,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270334775,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270334775,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270456113,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270456113,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270636115,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270636115,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270757410,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270757410,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270937411,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270937411,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271058733,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271058733,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 900,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271540001,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271540001,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 900,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272745077,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272745077,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272866445,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272866445,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273167698,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273167698,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273347699,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273347699,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274372943,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274372943,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 210,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274552945,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274552945,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 210,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274975490,
+    "marketId": "1.257386104",
+    "selectionId": "42554047",
+    "selectionName": "Svyatoslav Gulin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274975490,
+    "marketId": "1.257386104",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

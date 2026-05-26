@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1777731175193,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731175193,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731355124,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731355124,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731476438,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731476438,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731656442,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731656442,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731777800,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731777800,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731957802,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777731957802,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777732977155,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777732977155,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733157099,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733157099,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733278389,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733278389,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733458392,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733458392,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733579816,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733579816,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733759820,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733759820,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733882644,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777733882644,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734062590,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734062590,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734183880,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734183880,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734363884,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734363884,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734485194,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734485194,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734598632,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734598632,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734778567,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734778567,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734899864,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777734899864,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777735079867,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777735079867,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777735201241,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777735201241,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777735764257,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777735764257,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777735944167,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777735944167,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736065524,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736065524,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736245528,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736245528,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736366848,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736366848,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736546854,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736546854,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736668185,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736668185,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736757964,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736757964,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736937891,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777736937891,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737059230,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737059230,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737239233,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737239233,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737360550,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737360550,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737540554,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737540554,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737661847,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737661847,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737841850,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737841850,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737963234,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777737963234,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738143236,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738143236,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738264541,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738264541,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738444543,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738444543,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738565840,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738565840,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738745858,
+    "marketId": "1.257635939",
+    "selectionId": "38310228",
+    "selectionName": "Ethan Quinn",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777738745858,
+    "marketId": "1.257635939",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "timestamp": 1778661710781,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661710781,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661800762,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661800762,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661890810,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661890810,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661980850,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661980850,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662160854,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662160854,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662160942,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662160942,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662250982,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662250982,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662341021,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662341021,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662431072,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662431072,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662521109,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662521109,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662611151,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662611151,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662701197,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662701197,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662791241,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662791241,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662881288,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662881288,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662971335,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778662971335,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663061381,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663061381,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663151434,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663151434,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663241476,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663241476,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663331566,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663331566,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663421614,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663421614,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663511661,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663511661,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663541927,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663541927,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663632032,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663632032,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663722091,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663722091,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663812125,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663812125,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663902182,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663902182,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663992219,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663992219,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664082263,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664082263,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664172305,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664172305,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664262388,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664262388,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664352423,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664352423,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664442459,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664442459,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664537787,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664537787,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664627879,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664627879,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664717914,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664717914,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664807977,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664807977,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664897998,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664897998,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664988047,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664988047,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665078092,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665078092,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665168130,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665168130,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665258175,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665258175,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665348222,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665348222,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665438265,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665438265,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665528295,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665528295,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665618345,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665618345,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665708391,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665708391,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665798447,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665798447,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665888501,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665888501,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665978546,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665978546,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666068593,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666068593,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666158632,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666158632,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666248692,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666248692,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666338723,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666338723,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666428914,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666428914,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608921,
+    "marketId": "1.258126499",
+    "selectionId": "61152062",
+    "selectionName": "Nicolai Budkov Kjaer",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608921,
+    "marketId": "1.258126499",
+    "selectionId": "9657480",
+    "selectionName": "Miomir Kecmanovic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

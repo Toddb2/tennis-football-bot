@@ -1,0 +1,470 @@
+[
+  {
+    "timestamp": 1778048426498,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778048426498,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778048516492,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778048516492,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778048696495,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778048696495,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778048876496,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778048876496,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049056499,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049056499,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049236501,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049236501,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049326838,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049326838,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049506841,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049506841,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049686842,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049686842,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049866845,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778049866845,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050046847,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050046847,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050226849,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050226849,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050406851,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050406851,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050586852,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050586852,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050766853,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050766853,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050946855,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778050946855,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051126857,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051126857,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051306858,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051306858,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051397722,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051397722,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051577724,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051577724,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051757725,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051757725,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051937726,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778051937726,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778052117727,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778052117727,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778052297728,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778052297728,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778052477729,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778052477729,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778052657730,
+    "marketId": "1.257811488",
+    "selectionId": "7550871",
+    "selectionName": "Carol Zhao",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778052657730,
+    "marketId": "1.257811488",
+    "selectionId": "9458785",
+    "selectionName": "Xiaodi You",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

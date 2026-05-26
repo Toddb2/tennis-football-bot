@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": 1776313284256,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313284256,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313464201,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313464201,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313585465,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313585465,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313765466,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313765466,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313886739,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313886739,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314066740,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314066740,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314188548,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314188548,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314368549,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314368549,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314489811,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314489811,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314669812,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314669812,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314791296,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314791296,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314971297,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314971297,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315092568,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315092568,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315272570,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315272570,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315393868,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315393868,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315573869,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315573869,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315695129,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315695129,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315875130,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315875130,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315997040,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315997040,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316177042,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316177042,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316298749,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316298749,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316478751,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316478751,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316600025,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316600025,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316780027,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316780027,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316901330,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316901330,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317081332,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317081332,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317202583,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317202583,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317382584,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317382584,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317504247,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317504247,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317684248,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317684248,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317805536,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317805536,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317985538,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317985538,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318106830,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318106830,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318286832,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318286832,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318408128,
+    "marketId": "1.256799691",
+    "selectionId": "5626816",
+    "selectionName": "Liam Broady",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318408128,
+    "marketId": "1.256799691",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

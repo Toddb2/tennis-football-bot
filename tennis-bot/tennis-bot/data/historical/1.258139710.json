@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1778687319305,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687319305,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687409298,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687409298,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687589305,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687589305,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687589430,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687589430,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687679477,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687679477,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687769517,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687769517,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687859573,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687859573,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687949609,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687949609,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688039658,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688039658,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688219667,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688219667,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688219749,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688219749,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688309794,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688309794,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688399836,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688399836,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688489911,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688489911,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688579950,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688579950,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688670004,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688670004,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688760058,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688760058,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688850105,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688850105,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688940142,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688940142,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689030194,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689030194,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689120238,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689120238,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689210293,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689210293,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689300341,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689300341,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689390378,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689390378,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689480449,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689480449,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689570475,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689570475,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689660540,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689660540,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689750596,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689750596,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930605,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930605,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930686,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930686,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690020739,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690020739,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690110783,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690110783,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690200812,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690200812,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690290855,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690290855,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470863,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470863,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470933,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470933,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690560970,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690560970,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690740977,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690740977,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690741056,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690741056,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690831103,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690831103,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011110,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011110,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011210,
+    "marketId": "1.258139710",
+    "selectionId": "24432273",
+    "selectionName": "Juan Bautista Torres",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011210,
+    "marketId": "1.258139710",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  }
+]

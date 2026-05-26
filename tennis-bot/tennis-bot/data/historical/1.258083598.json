@@ -1,0 +1,1478 @@
+[
+  {
+    "timestamp": 1778597341311,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597341311,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597431299,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597431299,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597521340,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597521340,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597611377,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597611377,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597701418,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597701418,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597791466,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597791466,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597881504,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597881504,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597971546,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778597971546,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598151553,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598151553,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598151652,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598151652,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598241679,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598241679,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598331724,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598331724,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598421762,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598421762,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598511805,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598511805,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598691809,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598691809,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598691894,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598691894,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598781923,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598781923,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598871977,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598871977,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598962029,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778598962029,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599052059,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599052059,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599142106,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599142106,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599322111,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599322111,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599322217,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599322217,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599412256,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599412256,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599502321,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599502321,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599592360,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599592360,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599682399,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599682399,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599772453,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599772453,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599862492,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599862492,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599952545,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778599952545,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600042592,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600042592,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600132644,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600132644,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600222692,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600222692,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600312756,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600312756,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600402800,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600402800,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600492851,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600492851,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600582912,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600582912,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600672953,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600672953,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600763008,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600763008,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600853047,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600853047,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600943094,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778600943094,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601033148,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601033148,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601123183,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601123183,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601213221,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601213221,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601303266,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601303266,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601393318,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601393318,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601483352,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601483352,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601573383,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601573383,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601663424,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601663424,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601753458,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601753458,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601933463,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601933463,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601933554,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778601933554,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602023602,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602023602,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602113630,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602113630,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602203674,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602203674,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602293704,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602293704,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602383740,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602383740,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602473804,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602473804,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602563843,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602563843,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602653900,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602653900,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602743911,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602743911,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602833955,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602833955,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602923994,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778602923994,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603014035,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603014035,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603104069,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603104069,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603194127,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603194127,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603284152,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603284152,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603374197,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603374197,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603554201,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603554201,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603554279,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603554279,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603644325,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603644325,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603734383,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603734383,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603824420,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603824420,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603914464,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778603914464,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604004494,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604004494,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604094539,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604094539,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604184577,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604184577,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604364582,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604364582,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604364639,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604364639,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604454702,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604454702,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604544731,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604544731,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604634775,
+    "marketId": "1.258083598",
+    "selectionId": "52394201",
+    "selectionName": "Yi Zhou",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778604634775,
+    "marketId": "1.258083598",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

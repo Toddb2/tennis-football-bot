@@ -1,0 +1,524 @@
+[
+  {
+    "timestamp": 1774428225060,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774428225060,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774428405018,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774428405018,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774428526310,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774428526310,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774428706310,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774428706310,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774428827668,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774428827668,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429007669,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429007669,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429128953,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429128953,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429308954,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429308954,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429430219,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429430219,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429610220,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429610220,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429731467,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429731467,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429911468,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774429911468,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430032753,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430032753,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430212754,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430212754,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430334020,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430334020,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430514021,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430514021,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430635295,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430635295,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430815297,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430815297,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430936583,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774430936583,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431116584,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431116584,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431237840,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431237840,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431417841,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431417841,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431539088,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431539088,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431719090,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431719090,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431840363,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774431840363,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774432020364,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774432020364,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774432141639,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774432141639,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774432321641,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774432321641,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774432443003,
+    "marketId": "1.255779837",
+    "selectionId": "19728224",
+    "selectionName": "Matilde Jorge",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774432443003,
+    "marketId": "1.255779837",
+    "selectionId": "10032952",
+    "selectionName": "Anna Siskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1779800130812,
+    "generatedAt": "2026-05-26T12:55:30.812Z",
+    "analysis": "## Overall Performance Summary\n418 bets over 18 days generated £40.68 P&L at a 48.3% win rate with average entry odds of 2.81 — a respectable ROI of roughly 9.7%. However, performance is highly concentrated: Week 18 delivered +£53.51 while the last three weeks have been flat to negative (-£12.83 combined), suggesting edge decay or changed market conditions. Clay is carrying the entire book (+£42.21 across 380 bets) while hard court is marginally negative on a small sample.\n\n## Strategy Breakdown\n\n**Strat7P1**: Top performer with £13.46 P&L from 46 bets at 63% WR (avg odds 2.02). Consistent mid-odds back strategy — clear edge. ✅ KEEP\n\n**Strat9P1**: £14.30 P&L despite only 26.1% WR — this is a high-odds (3.0–10.0, avg 4.83) longshot back strategy where the maths works. Volatile but profitable. ✅ KEEP\n\n**Strat8P2**: 80% WR on 20 bets for £10.98 P&L at avg odds 1.98 — outstanding but small sample. ✅ KEEP (monitor for regression)\n\n**Strat11P2 / Strat12P2 / Strat11P1 / Strat7P2**: All solidly profitable (£4.80–£6.63) with WRs 54–68%. Core book contributors. ✅ KEEP\n\n**Strat9P2**: -£18.90 from 61 bets at 16.4% WR (avg odds 4.68). Same longshot profile as 9P1 but the maths isn't working — single biggest loser in the book. ❌ DROP\n\n**Strat12P1**: 35 bets, 60% WR, but only £0.07 P&L — winning lots of short-odds (avg 1.66) bets that barely cover the losses. Marginal. ⚠️ TUNE (raise minimum odds)\n\n**Strat10P2**: 21 bets, 52.4% WR, £0.03 P&L — break-even noise. ⚠️ TUNE\n\n**Strat10P1 (-£1.97, 6 bets) / Strat8P1 (-£0.66, 15 bets)**: Small samples, mildly negative. ⚠️ TUNE or expand sample before judging.\n\n## Surface Analysis\nClay is the entire edge: £42.21 P&L on 380 bets (47.9% WR — profitable due to odds value, not hit rate). Hard court is -£0.53 on 37 bets — too small to conclude but no evidence of edge. The bot is effectively a clay specialist, which aligns with the May date range (European clay swing).\n\n## Actionable Recommendations\n1. **Disable Strat9P2 immediately** — it's nearly identical odds-wise to the profitable 9P1 but loses money. Investigate what selection logic differs between P1 and P2 variants before re-enabling.\n2. **Investigate the W20–W21 decline** (-£14.35 across 169 bets vs +£55 in W18). Check if specific strategies turned negative or if it correlates with the surface/tournament shift as clay season progresses toward Roland Garros.\n3. **Raise minimum odds threshold on Strat12P1** from 1.17 to ~1.50 — winning 60% at avg 1.66 odds is barely break-even; the very short prices are dragging returns to zero.\n4. **Do not extrapolate Strat8P2's 80% WR** — 20 bets is too small. Cap stake until sample reaches 50+.\n5. **Address the SET_SCORE rejection volume** (Strat4/4h/1h each rejecting ~2,979x). This indicates the set-score filter is firing on nearly every candidate — either the filter is too strict or these strategies are mis-configured and should be paused pending review.\n\n## Risk Flags\n- **Trend deterioration**: Last 3 weeks negative after a strong W18. The £40 total P&L is essentially one good week — edge may be eroding.\n- **Concentration risk**: 91% of bets are on clay; book has no proven edge once the clay season ends in ~2 weeks.\n- **Strat9P2 drawdown**: -£18.90 on a single strategy is ~46% of total profit being given back.\n- **Small samples**: Strat10P1 (6 bets) and Strat8P1 (15 bets) have insufficient data for any conclusion.",
+    "tokenUsage": {
+      "input_tokens": 2097,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1481,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 418,
+      "totalPnl": 40.68,
+      "strategies": 12
+    }
+  },
+  {
+    "id": 1779384238291,
+    "generatedAt": "2026-05-21T17:23:58.290Z",
+    "analysis": "## Overall Performance Summary\n359 bets over 13 days produced £45.49 P&L at a 49.4% win rate (avg odds 2.7) — a healthy +12.7% ROI on stake, but heavily concentrated. Strat9_P1 alone contributes £23.20 (51% of total profit) despite a brutal 30.2% win rate, meaning profitability hinges on a single high-odds strategy. Clay is carrying the entire book (+£47.02 from 321 bets) while hard court is marginally negative. Weekly trend is concerning: W18 +£50.95 → W19 +£0.06 → W20 -£5.53, suggesting edge is decaying.\n\n## Strategy Breakdown\n**Strat9_P1 (BACK, avg odds 5.1):** 53 bets, 30.2% WR, +£23.20. Top earner — high-odds backing where occasional winners pay big. Variance is significant but expectation is clearly positive. ✅ KEEP\n\n**Strat7_P1 (BACK, avg odds 2.0):** 43 bets, 65.1% WR, +£13.59. Best risk-adjusted performer with the largest healthy sample. Consistent and reliable. ✅ KEEP\n\n**Strat12_P2, Strat11_P2, Strat8_P2:** Solid mid-volume backers (12–27 bets), 58–75% WR, all +£4.84 to +£6.05. Strong WR vs odds suggests genuine edge. ✅ KEEP\n\n**Strat11_P1, Strat3h (LAY):** 21 and 12 bets, 66.7% WR each, +£4.34 and +£2.94. Both performing well — Strat3h is the only profitable LAY strategy. ✅ KEEP\n\n**Strat9_P2 (BACK, avg odds 4.98):** 34 bets, 17.6% WR, -£8.90. Same high-odds profile as Strat9_P1 but inverted result — WR is too low even for these odds (break-even ≈20%). ❌ DROP or rework entry filters.\n\n**Strat2 & Strat2h (BACK):** 18 bets combined, 33% WR, -£6.84. Losing consistently at avg odds ~2.3 where 43%+ WR is needed. ❌ DROP\n\n**Strat1h (LAY, avg odds 1.32):** 7 bets, 28.6% WR, -£0.93. Laying short prices and losing — expensive losses per hit. Small sample but trajectory bad. ⚠️ TUNE (tighten entry or drop)\n\n**Strat9P2, Strat7P1, Strat10_P1, Strat6_P2:** Tiny samples (1–4 bets), all losing, all -£1 to -£4. Either retire or treat as still-in-test. ⚠️ TUNE\n\n**Strat10_P2, Strat7_P2, Strat4, Strat4h, Strat5_P2, Strat8_P1:** Marginal performers near breakeven. Keep monitoring but not pulling weight. ⚠️ TUNE\n\n## Surface Analysis\nClay is the entire business: 321 bets, +£47.02 (+14.6% ROI). Hard court is -£1.53 on 38 bets — not catastrophic but no evidence of edge. The strategies are clearly clay-calibrated. No grass data at all, which is a gap given the season transition.\n\n## Actionable Recommendations\n1. **Drop Strat9_P2, Strat2, and Strat2h immediately** — combined -£15.74. Strat9_P2 in particular: compare entry filters head-to-head with Strat9_P1 to find what differs, since the odds profile is near-identical but results inverted.\n2. **Disable or restrict hard-court entries** until you have a profitable subset identified — break out each strategy's hard-court P&L separately before grass season hits.\n3. **Investigate the W19→W20 decay** (+£0.06 then -£5.53). Check whether specific strategies dropped off or if market conditions (tournament tier, player pool) shifted. Don't scale stakes until trend stabilises.\n4. **Review SET_SCORE rejection filters** on Strat4/Strat4h/Strat1h (~2,460 rejections each in 30 days). That's extreme filtering producing only 5–7 bets — either the filter is too tight (losing edge) or the strategy genuinely has rare triggers. Audit whether rejected setups would have won.\n5. **Prepare for grass season now**: backtest the top 5 strategies (Strat7_P1, Strat9_P1, Strat12_P2, Strat11_P2, Strat8_P2) on historical grass data before deploying live, given zero grass exposure to date.\n\n## Risk Flags\n- **Concentration risk:** 51% of P&L from Strat9_P1 (53 bets, 30% WR). One bad variance week could wipe out monthly profit.\n- **Sample size:** 13 days of data is short — £45 P&L could be noise. Avoid stake increases.\n- **Trend decay:** Weekly P&L going +£51 → +£0 → -£5 is a red flag pattern that warrants pausing new strategy deployment until root cause identified.\n- **3 open bets all placed same day (2026-05-21)** — confirm settlement pipeline isn't backing up.",
+    "tokenUsage": {
+      "input_tokens": 3061,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1787,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 359,
+      "totalPnl": 45.49,
+      "strategies": 26
+    }
+  },
+  {
+    "id": 1779278952191,
+    "generatedAt": "2026-05-20T12:09:12.191Z",
+    "analysis": "## Overall Performance Summary\n337 bets over 12 days produced £95.1 P&L at a 49.9% win rate with avg odds 2.72 — a solid ROI of ~28% per bet, but this is entirely dry-run data so unfilled/slippage risk is not yet tested. Performance is heavily concentrated on clay (£98.16 over 299 bets) while hard court is slightly negative (-£3.06). Worryingly, weekly P&L has collapsed from +£101.91 in W18 to +£0.12 in W19 and -£6.93 in W20 — the edge appears to be fading fast.\n\n## Strategy Breakdown\n**Strat7_P1 (BACK)** — Top earner: 42 bets, 64.3% WR, +£25.06 at avg odds 2.0. Consistent volume and high WR for the odds range. ✅ KEEP\n\n**Strat9_P1 (BACK)** — 52 bets, only 28.8% WR but +£40.5 thanks to high odds (avg 5.12). Variance-heavy longshot strategy; the P&L is real but fragile — one cold streak could wipe it. ⚠️ TUNE (cap stake, monitor closely)\n\n**Strat9_P2 (BACK)** — Same longshot territory (avg 5.02) but only 18.2% WR and -£13.8 over 33 bets. The P1/P2 split is clearly broken here. ❌ DROP\n\n**Strat12_P2, Strat11_P2, Strat8_P2, Strat11_P1, Strat12_P1** — All clustered between +£2.84 and +£14.1 with 58–66% WR at sensible odds (1.65–2.08). Core profitable book. ✅ KEEP\n\n**Strat7_P2 (BACK)** — 29 bets, 55.2% WR, +£7.04. Decent but weaker sibling of P1. ✅ KEEP\n\n**Strat10_P2 (BACK)** — 19 bets, 52.6% WR, only +£0.96. Marginal. ⚠️ TUNE\n\n**Strat2 / Strat2h (BACK)** — Combined 16 bets, ~31% WR, -£13.69. Both losing at similar odds (avg 2.31). ❌ DROP\n\n**Strat8_P1 (BACK)** — 6 bets, -£1.6 vs Strat8_P2's +£9.68 on identical odds territory. P1 leg looks broken. ⚠️ TUNE or drop P1 only\n\n**Strat1h (LAY)** — 6 bets, 33% WR, -£0.3. Tiny sample at very short odds. ⚠️ TUNE (need more data)\n\n**Strat3h (LAY)** — 10 bets, 60% WR, +£3.32 laying 1.31 avg. Working as intended. ✅ KEEP\n\n**Strat4h (BACK)** — 4 bets, 75% WR, +£0.77. Too small to judge, but positive. ✅ KEEP (with caution)\n\n**Strat4, Strat5_P1, Strat5_P2, Strat6_P2, Strat10_P1** — All under 5 bets. Insufficient sample. ⚠️ TUNE — leave running for data collection only.\n\n## Surface Analysis\nClay is doing all the heavy lifting: £98.16 across 299 bets (~33p/bet). Hard court is essentially break-even-to-negative at -£3.06 over 38 bets — sample is small but no edge is showing. The strategies look clay-calibrated; with Roland Garros and the clay swing ending soon, this is a major concern.\n\n## Actionable Recommendations\n1. **Drop Strat9_P2 and Strat2/Strat2h immediately** — combined -£20.69 with no path to recovery at current WR. Free up bankroll for winners.\n2. **Investigate the W18→W20 P&L collapse before scaling**: +£101.91 → +£0.12 → -£6.93 suggests either market adaptation, schedule/surface change, or an entry condition that fired in W18 and stopped. Pull bet-level logs for W18 vs W20.\n3. **Cap Strat9_P1 stake at 50% of standard** — 28.8% WR at avg 5.12 odds means a 10-bet losing run is normal; the +£40.5 is fragile and should be ringfenced.\n4. **Surface-gate all strategies to clay only** until you have ≥100 hard-court bets per strategy. Current hard-court evidence is negative across the board.\n5. **Audit Strat5_P1 and Strat6_P1 PRE_MATCH_ODDS / ENTRY_ODDS rejections** (1681x and 1000x in 30 days) — these filters are blocking nearly all signals; either the threshold is wrong or the strategy is mismatched to current market odds.\n\n## Risk Flags\n- **All results are dry-run** — real execution will face slippage, partial fills, and lay-side liquidity issues especially on Strat9_P1's 5.12 avg odds. Do not assume £95.1 transfers to live.\n- **Sharp weekly decline** (101.91 → 0.12 → -6.93) is the biggest red flag in the dataset; the edge may already be gone.\n- **Only 12 days of data** despite \"90-day\" header — sample is far smaller than it appears; many sub-strategies have <10 bets.\n- **Concentration risk**: 92 of 337 bets (27%) are Strat9 longshots. Strip those out and the rest of the book is +£68.4 at much lower variance — consider whether Strat9 belongs in the portfolio at all.",
+    "tokenUsage": {
+      "input_tokens": 2622,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1886,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 337,
+      "totalPnl": 95.1,
+      "strategies": 21
+    }
+  },
+  {
+    "id": 1779192621301,
+    "generatedAt": "2026-05-19T12:10:21.300Z",
+    "analysis": "## Overall Performance Summary\n132 bets over 11 days produced £14.89 profit at a 52.3% win rate and average odds of 2.31 — a solid but modest ROI of ~11%. Profit is heavily concentrated in three strategies (Strat7_P1, Strat12_P1, Strat9_P1) and almost entirely on clay (£24.73), while hard and unknown surfaces are bleeding money (-£9.84 combined). The weekly trend shows W18 was the best week (+£9.25 from just 17 bets) with volume exploding in W19 but margins compressing — suggesting edge dilution as volume scaled.\n\n## Strategy Breakdown\n**Strat7_P1 (BACK)**: The flagship — 29 bets, 62.1% WR, +£10.76 across a healthy odds range (1.41–2.88). Largest sample, best absolute P&L, and strong WR at avg 1.93 odds. ✅ KEEP\n\n**Strat12_P1 (BACK)**: 18 bets, 66.7% WR, +£3.00 at avg 1.65. Strong hit rate at short odds. ✅ KEEP\n\n**Strat11_P1 (BACK)**: 16 bets, 62.5% WR, +£1.22 at avg 1.68. Profitable but margin is thin — likely needs slightly higher odds threshold to lift ROI. ⚠️ TUNE\n\n**Strat9_P1 (BACK)**: 27 bets, only 26.9% WR but +£2.10 at avg odds 3.99 — the longshot strategy is working on raw P&L but variance is enormous. Needs more sample before scaling. ⚠️ TUNE\n\n**Strat2 (BACK)**: 6 bets, 33.3% WR, -£2.80 at avg 2.47. Losing. ❌ DROP (or pause pending review)\n\n**Strat2h (BACK)**: 6 bets, 50% WR but still -£2.89 — losing despite even record, meaning losers are bigger than winners. ❌ DROP\n\n**Strat1h (LAY)**: 5 bets, 20% WR, -£2.30 laying at 1.31 avg — small sample but laying short favourites is mathematically punishing on losses. ❌ DROP\n\n**Strat3h (LAY)**: 7 bets, 66.7% WR, +£1.45 laying at 1.33. Working — opposite profile to Strat1h. ✅ KEEP\n\n**Strat4 / Strat4h / Strat5 / Strat8_P1**: All small samples (3–5 bets), all marginally profitable. ⚠️ TUNE — keep running but don't draw conclusions yet.\n\n**Strat10_P2 / Strat9_P2**: 1 bet each, no signal. ⚠️ TUNE — insufficient data.\n\n## Surface Analysis\nClay is carrying the entire book: 71 bets, 54.3% WR, +£24.73. Hard (-£1.48 on 16 bets) and \"unknown\" (-£8.36 on 45 bets) are both losing. The \"unknown\" surface tag is the single biggest problem — 34% of all bets have no surface classification and they collectively lose money. Either the tagging pipeline is broken or these are events you shouldn't be betting on.\n\n## Actionable Recommendations\n1. **Fix the surface tagging immediately** — 45 \"unknown\" bets losing £8.36 is the highest-impact issue. Either resolve the data feed or block bets where surface is unidentified.\n2. **Disable Strat2, Strat2h, and Strat1h** — combined -£7.99 across 17 bets with no profitable variant. Re-examine entry logic before reactivating.\n3. **Investigate the SET_SCORE rejections on Strat1h/Strat4/Strat4h (2126x each)** — identical rejection counts suggest a shared filter is firing too aggressively and may be blocking valid setups. Audit the condition.\n4. **Cap Strat9_P1 stake size** — 26.9% WR at odds ~4 is correct mathematically, but a 3–4 bet losing streak is normal and would wipe the £2.10 edge. Keep flat-staking and don't scale until sample exceeds 50+ bets.\n5. **Concentrate stake on clay + Strat7_P1/Strat12_P1** — these two strategies on clay are the proven engine. Consider a 1.5× stake multiplier on this combination while keeping others flat.\n\n## Risk Flags\n- **Short date range (11 days)** — all conclusions are preliminary; 90-day header is misleading.\n- **Strat9_P1 variance**: at avg odds 3.99 with 27 bets, current +£2.10 is well within noise — could easily swing to -£15 next week.\n- **Massive PRE_MATCH_ODDS rejections on Strat2/2h/3h (1300+ each)** suggest odds filters may be miscalibrated relative to current market pricing — worth a review.",
+    "tokenUsage": {
+      "input_tokens": 2349,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1674,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 132,
+      "totalPnl": 14.89,
+      "strategies": 14
+    }
+  },
+  {
+    "id": 1779026313617,
+    "generatedAt": "2026-05-17T13:58:33.616Z",
+    "analysis": "## Overall Performance Summary\n124 bets over 10 days yielded £17.19 profit at 52.4% win rate with avg odds 2.25 — a solid ~13.9% ROI. Performance is heavily concentrated in clay (£30.73 profit) while non-clay surfaces are net negative. Strat7 is the standout earner (£9.84), and the portfolio is propped up by 4 strong strategies offsetting 3 clear losers. Weekly trend is positive but the date range is very short (10 days), so sample sizes are limited.\n\n## Strategy Breakdown\n\n**Strat7 (BACK)** — 27 bets, 63% WR, +£9.84 at avg 1.91. The flagship: largest sample, highest profit, balanced odds range. Working as intended. ✅ KEEP\n\n**Strat12 (BACK)** — 18 bets, 66.7% WR, +£3.00 at avg 1.65. High strike rate at short odds, consistent. ✅ KEEP\n\n**Strat11 (BACK)** — 16 bets, 62.5% WR, +£1.22 at avg 1.68. Profitable but P&L is thin given the high win rate — suggests stake sizing or close-odds wins. ✅ KEEP\n\n**Strat9 (BACK)** — 24 bets, 29.2% WR, +£6.10 at avg 3.93. Low strike but high-odds longshot strategy producing real profit. The model is working — losses are priced in. ✅ KEEP\n\n**Strat3h (LAY)** — 6 bets, 66.7% WR, +£1.45 at avg 1.33. Small sample but the only profitable LAY. ⚠️ TUNE (need more volume to confirm)\n\n**Strat5 (BACK)** — 5 bets, 60% WR, +£2.10. Small sample, decent return. ⚠️ TUNE\n\n**Strat4 / Strat4h / Strat8** — Tiny samples (3–4 bets each), marginally positive. Insufficient data. ⚠️ TUNE\n\n**Strat2 (BACK)** — 6 bets, 33.3% WR, −£2.80 at avg 2.47. Losing on a small sample at mid odds. ⚠️ TUNE\n\n**Strat2h (BACK)** — 6 bets, 50% WR, −£2.89 at avg 2.47. Winning half but still losing money — losers are landing on higher-odds picks. ⚠️ TUNE\n\n**Strat1h (LAY)** — 5 bets, 0% WR, −£3.08 at avg 1.31. Laying short favourites and getting beaten every time. With 2043 rejections suggesting tight filters, the trigger condition is clearly broken. ❌ DROP\n\n## Surface Analysis\nClay is the engine: 67 bets at 56.7% WR delivering +£30.73. Hard court is breakeven-negative (−£1.48 on 16 bets). The \"unknown\" surface bucket lost £12.06 across 41 bets — a third of total volume is being bet without surface classification, and it's unprofitable.\n\n## Actionable Recommendations\n1. **Fix surface tagging immediately** — 41 of 124 bets (33%) have unknown surface and are losing £12.06. Resolve the data feed/mapping so these get correctly classified before further analysis.\n2. **Disable Strat1h** — 0/5 record laying sub-1.36 favourites is a clear losing pattern; short-priced lays have no margin for error and the trigger is wrong.\n3. **Restrict Strat2/Strat2h** to clay only — both are losing at mid-range odds (2.04–2.82); check if losses are concentrated in the unknown/hard buckets before fully dropping.\n4. **Scale up Strat7 and Strat12 on clay** — consider increasing stake size 25–50% for these on confirmed clay matches given their robust win rates and sample sizes.\n5. **Investigate SET_SCORE rejections on Strat1h/Strat4/Strat4h (2043x each)** — identical reject counts suggest a shared filter is firing too aggressively and may be blocking valid entries; audit the rule.\n\n## Risk Flags\n- **Sample size**: 10-day window is too short for confident verdicts on strategies with <10 bets (Strat4, Strat4h, Strat5, Strat8, Strat3h, Strat1h). Wait for 30+ bets before structural changes beyond the obvious drops.\n- **All trades are dry-run** — no live execution validation yet. Slippage and unmatched bets could materially erode the £17.19 edge.\n- **Concentration risk**: Strat7 + Strat9 + Strat12 account for £18.94 of profit — if any one degrades, the portfolio goes negative.",
+    "tokenUsage": {
+      "input_tokens": 2016,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1601,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 124,
+      "totalPnl": 17.19,
+      "strategies": 12
+    }
+  },
+  {
+    "id": 1778604706139,
+    "generatedAt": "2026-05-12T16:51:46.138Z",
+    "analysis": "## Overall Performance Summary\nThe bot has placed 37 bets over a 5-day window (not 90 days — data range is very short), settled 33, and is up £9.55 at a 54.5% win rate with avg odds of 2.36. Week-on-week momentum has collapsed: W18 generated +£9.25 from 17 bets, while W19 has flatlined at +£0.30 from 16 bets. The headline profit is heavily concentrated in a few strategies (Strat5, Strat7, Strat9) and is being dragged down by Strat2/2h and \"unknown surface\" bets.\n\n## Strategy Breakdown\n**Strat5 (BACK, odds ~2.00, clay-heavy):** 4 bets, 75% WR, +£4.10. Best ROI per bet in the book. Small sample but the odds band (1.83–2.20) is the sweet spot. ✅ KEEP\n\n**Strat9 (BACK, odds 3.0–5.8):** 7 bets, only 33% WR but +£6.10 P&L thanks to the longer odds paying off. Variance risk is high — one losing streak wipes this out. ⚠️ TUNE (tighten entry filters or cap stake)\n\n**Strat7 (BACK, odds 1.55–2.86):** 6 bets, 60% WR, +£3.26. Solid mid-odds performer. ✅ KEEP\n\n**Strat4h (BACK, hard court, odds ~2.2):** 2 bets, 100% WR, +£2.15. Sample far too small but early signs are positive. ⚠️ TUNE (monitor, do not scale yet)\n\n**Strat3h (LAY at 1.28–1.35):** 4 bets, 75% WR, +£1.16. Working as designed — laying short favourites. ✅ KEEP\n\n**Strat11 (BACK, odds ~1.67):** 4 bets, 66.7% WR, +£0.82. Marginal but positive. ✅ KEEP\n\n**Strat4 (BACK, odds ~2.2):** 2 bets, 50% WR, +£0.20. Effectively breakeven, tiny sample. ⚠️ TUNE\n\n**Strat12 (BACK, odds ~1.62):** 4 bets, 66.7% WR but −£0.24. Wins aren't covering losses at these short odds. ⚠️ TUNE (raise odds floor)\n\n**Strat2 & Strat2h (BACK, odds 2.54–2.76):** Combined 4 bets, 0% WR, −£8.00. Both variants firing on the same selections and both losing. ❌ DROP (or suspend pending re-test)\n\n## Surface Analysis\n- **Clay:** 27 bets, 60.9% WR, +£13.75 — the engine of profitability.\n- **Hard:** 6 bets, 66.7% WR, +£3.80 — strong but small sample.\n- **Unknown:** 4 bets, 0% WR, −£8.00 — every single bet without surface metadata lost. This is a data quality problem, not a strategy problem.\n\n## Actionable Recommendations\n1. **Block all bets where surface = unknown** immediately. 100% loss rate on 4 bets cost £8 — fix the surface lookup or hard-reject these entries.\n2. **Suspend Strat2 and Strat2h** until you've back-tested the 2.50–2.80 odds band on clay. They are duplicates losing identical money — also investigate why both variants are firing on the same matches (possible config bug).\n3. **Investigate the SET_SCORE rejection volume** — Strat1h, Strat4, Strat4h each rejected 1,793x on SET_SCORE. That's identical counts, suggesting a shared filter is too restrictive or a logic bug. Strat1h has placed zero bets as a result.\n4. **Raise the minimum odds floor on Strat12** from 1.33 to ~1.60. At avg 1.62 it's already losing money; the 1.33 leg destroyed expected value.\n5. **Cap Strat9 stake at 50% of standard** until the sample exceeds 20 bets. A 33% WR at avg 4.06 needs ~36% WR to break even — current edge is thin and variance-driven.\n\n## Risk Flags\n- **Sample size:** 5 days of data, not 90. Do not draw firm conclusions on any strategy with <10 bets (that's 8 of 10 strategies).\n- **Profit concentration:** Strat9's +£6.10 came from 2 winning bets at long odds. Remove those and total P&L drops to ~£3.45.\n- **Momentum stall:** W19 P&L is +£0.30 vs W18 +£9.25 on similar volume — edge may be decaying or variance reverting. Monitor closely before scaling stakes.\n- **Strat1h is dead:** 1,793 SET_SCORE rejections, 237 odds rejections, zero bets placed. Either fix or decommission.",
+    "tokenUsage": {
+      "input_tokens": 2045,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1657,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 37,
+      "totalPnl": 9.55,
+      "strategies": 10
+    }
+  },
+  {
+    "id": 1778496459410,
+    "generatedAt": "2026-05-11T10:47:39.410Z",
+    "analysis": "## Overall Performance Summary\n45 bets over 5 days yielded a marginal £0.75 profit at 51.1% win rate — essentially breakeven. The numbers are heavily skewed: Strat2/Strat2h combined to lose £15.13, while Strat5, Strat9, and Strat4h carried the entire portfolio. Sample size is very small (5 days of real activity), and the single bet in W19 already lost £2, suggesting fragility. Clay accounts for 91% of volume and is profitable; hard court is a small but clear negative.\n\n## Strategy Breakdown\n**Strat1h (LAY, 3 bets, +£1.22)**: Small sample but laying short prices (avg 1.34) at 66.7% WR is consistent with the strategy's logic. Heavy SET_SCORE rejections (1637x) suggest filters are working. ✅ KEEP (monitor).\n\n**Strat2 (BACK, 8 bets, -£7.36)**: 25% WR at avg 2.30 odds is catastrophic — needed ~44% to break even. Worst performer in absolute P&L. ❌ DROP (or suspend pending review).\n\n**Strat2h (BACK, 8 bets, -£7.77)**: Mirror of Strat2 with marginally better WR (37.5%) but worst P&L. Same odds profile, same problem. ❌ DROP.\n\n**Strat3h (LAY, 8 bets, +£0.93)**: 62.5% WR laying at avg 1.30 is solid. Profit is thin because lay liability at short odds limits upside, but it's working as designed. ✅ KEEP.\n\n**Strat4 (BACK, 5 bets, -£0.04)**: Effectively flat. 40% WR at avg 2.33 is roughly break-even. Too small to judge. ⚠️ TUNE — needs more data before any verdict.\n\n**Strat4h (BACK, 5 bets, +£3.57)**: 80% WR and best ROI per bet. Same odds range as Strat4 but vastly better outcome — the \"h\" variant filter is clearly adding value. ✅ KEEP and scale carefully.\n\n**Strat5 (BACK, 3 bets, +£4.16)**: 100% WR, but n=3. Cannot draw conclusions. ⚠️ TUNE — keep running but don't increase stake until 15+ bets.\n\n**Strat7 (BACK, 2 bets, +£0.44)**: n=2 — no signal. ⚠️ TUNE (insufficient data).\n\n**Strat9 (BACK, 3 bets, +£5.60)**: 33% WR at avg 5.57 odds — high-variance longshot strategy that paid off. Profitable by design but n=3 makes this lucky rather than proven. ⚠️ TUNE — keep low stakes until larger sample confirms edge.\n\n## Surface Analysis\nClay (41 bets, +£5.50, 53.7% WR) is carrying the entire bot. Hard court (4 bets, -£4.75, 25% WR) is small-sample but uniformly bad. No grass data. The bot is effectively a clay-court bot right now — which is appropriate given the May calendar (clay swing).\n\n## Actionable Recommendations\n1. **Suspend Strat2 and Strat2h immediately** — combined -£15.13 across 16 bets at avg 2.30 odds is a clear structural problem, not variance. Review entry triggers before re-enabling.\n2. **Disable hard-court betting** for back strategies until you have 20+ bets per strategy on hard — current -£4.75 across 4 bets is a red flag worth pausing on.\n3. **Investigate what makes Strat4h beat Strat4** — same odds range, but 80% vs 40% WR. Whatever filter \"h\" adds, consider porting it to Strat2 logic (which lacks it: Strat2h is also bad, suggesting the \"h\" filter doesn't help backing at 2.30).\n4. **Cap Strat9 stake** until sample reaches 15+ bets — single £5.60 win at 5.57 odds is masking a 33% WR which is below the 18%+ breakeven but only just.\n5. **Investigate SET_SCORE rejection volumes (1637x for three strategies)** — identical counts suggest a shared filter; verify it isn't over-rejecting valid setups and starving you of sample size.\n\n## Risk Flags\n- **Sample size is critically small**: 44 of 45 bets came in a single week. The £0.75 profit has no statistical significance.\n- **W19 already -£2 on 1 bet** — early sign trend may be reversing.\n- **Strategy concentration risk**: Strat2/Strat2h have produced 36% of total bets but -£15.13. If left running, they will likely erase profits within days.\n- **All results are dry-run** — no live execution edge confirmed yet. Do not increase stakes until live slippage/rejection is measured.",
+    "tokenUsage": {
+      "input_tokens": 1814,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1653,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 45,
+      "totalPnl": 0.75,
+      "strategies": 9
+    }
+  },
+  {
+    "id": 1778415009413,
+    "generatedAt": "2026-05-10T12:10:09.413Z",
+    "analysis": "## Overall Performance Summary\n42 bets over just 5 days (2026-05-06 → 2026-05-10) with a 55.3% win rate but a small net loss of £-1.29 at avg odds 2.02. The headline number masks a stark divide: clay is profitable at +£3.46 (38 bets) while hard court is bleeding at -£4.75 from only 4 bets. The losses are concentrated in Strat2 and Strat2h (combined -£11.13), which are dragging down what would otherwise be a strongly profitable book. Sample size is very small — 5 days is not 90 days of real data.\n\n## Strategy Breakdown\n\n**Strat1h (LAY):** 3 bets, 66.7% WR, +£1.22 at avg odds 1.34. Laying short prices is working but sample is tiny (3 bets). Directionally fine. ⚠️ TUNE — need more data before committing.\n\n**Strat2 (BACK):** 9 bets, 28.6% WR, -£5.36 at avg odds 2.35. Worst performer. Backing at mid-range odds with a sub-30% strike rate is structurally broken — break-even at odds 2.35 needs ~43% WR. ❌ DROP (or pause and re-spec).\n\n**Strat2h (BACK):** 9 bets, 42.9% WR, -£5.77 at avg odds 2.35. Slightly better strike rate but still losing meaningfully. The \"h\" variant isn't fixing the core edge problem. ❌ DROP.\n\n**Strat3h (LAY):** 8 bets, 62.5% WR, +£0.93 at avg odds 1.30. Profitable laying favourites; consistent with Strat1h pattern. Decent sample. ✅ KEEP.\n\n**Strat4 (BACK):** 5 bets, 40% WR, -£0.04 at avg odds 2.33. Essentially flat. Inconclusive. ⚠️ TUNE.\n\n**Strat4h (BACK):** 5 bets, 80% WR, +£3.57 at avg odds 2.33. Best ROI strategy by some margin, but only 5 bets. ✅ KEEP — monitor closely for regression.\n\n**Strat5 (BACK):** 3 bets, 100% WR, +£4.16 at avg odds 1.69. Tiny sample but clean. ✅ KEEP — needs volume before scaling stake.\n\n## Surface Analysis\nClay: 38 bets, 58.8% WR, +£3.46 — clearly the bot's edge surface (and timing aligns with European clay swing).\nHard: 4 bets, 25% WR, -£4.75 — every losing strategy bet appears concentrated here. Sample tiny but the loss is disproportionate.\n\n## Actionable Recommendations\n1. **Pause Strat2 and Strat2h immediately** — combined -£11.13 from 18 bets at sub-43% WR on backs at 2.35 odds is a structural edge problem, not variance. Re-examine entry signal before re-enabling.\n2. **Restrict all BACK strategies to clay only** until hard-court sample grows — the -£4.75 hard-court P&L is concentrated in losing back strategies.\n3. **Investigate the 1568x SET_SCORE rejections** for Strat1h/Strat4/Strat4h — that's an enormous filter rate suggesting the rule may be too tight and starving your two best back strategies (Strat4h, Strat5) of volume.\n4. **Scale stake on Strat3h and Strat1h (lay favs at 1.20–1.40)** once Strat1h reaches 10+ bets — both lay strategies are profitable with consistent logic.\n5. **Settle the 4 open Strat2/Strat2h bets at odds 2.76 before re-enabling** — don't compound exposure on the worst-performing strategies while reviewing.\n\n## Risk Flags\n- **Sample size deception**: data labelled \"last 90 days\" but actual range is 5 days (2026-05-06 to 2026-05-10). All conclusions are provisional — do not scale stakes based on this window.\n- **Concentration risk**: 4 simultaneously open bets at odds 2.76 are all on the two worst-performing strategies (Strat2/Strat2h), and appear to be duplicates (same time, same odds). Check for double-firing bug.\n- **Hard court P&L** (-£4.75 from 4 bets) is too small to act on definitively but worth flagging.",
+    "tokenUsage": {
+      "input_tokens": 1813,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1499,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 42,
+      "totalPnl": -1.29,
+      "strategies": 7
+    }
+  },
+  {
+    "id": 1778413336368,
+    "generatedAt": "2026-05-10T11:42:16.368Z",
+    "analysis": "## Overall Performance Summary\n38 bets over just 4 days produced a 55.3% win rate but a small loss of £-1.29 at avg odds 1.95. The portfolio is essentially break-even, masked by a stark surface split: clay is profitable at +£3.46 (34 bets), while hard is bleeding at -£4.75 from only 4 bets. Strat2/Strat2h are the primary drag (-£11.13 combined), while Strat5, Strat4h, and the LAY strategies are clearly profitable.\n\n## Strategy Breakdown\n**Strat1h (LAY)**: 3 bets, 66.7% WR, +£1.22 at low odds (1.29–1.40). Tiny sample but consistent with the LAY-low-odds thesis. ⚠️ TUNE (need more volume to confirm).\n\n**Strat2 (BACK)**: 7 bets, 28.6% WR, -£5.36 at avg 2.23. Worst performer — win rate is well below break-even (needs ~45% at these odds). ❌ DROP (or rebuild entry filter).\n\n**Strat2h (BACK)**: 7 bets, 42.9% WR, -£5.77. Slightly better hit rate than Strat2 but still loss-making, and the \"h\" variant is supposed to be the refined version. ❌ DROP.\n\n**Strat3h (LAY)**: 8 bets, 62.5% WR, +£0.93 at very tight odds (1.20–1.36). Largest sample of the LAY strategies and quietly profitable. ✅ KEEP.\n\n**Strat4 (BACK)**: 5 bets, 40% WR, -£0.04. Effectively flat — sample too small to judge, but unimpressive vs its hedged sibling. ⚠️ TUNE.\n\n**Strat4h (BACK)**: 5 bets, 80% WR, +£3.57. Strong outperformance vs vanilla Strat4 — the hedge/filter logic is clearly adding edge here. ✅ KEEP.\n\n**Strat5 (BACK)**: 3 bets, 100% WR, +£4.16. Best ROI but tiny sample and a MOMENTUM filter rejecting 16 candidates suggests it's highly selective. ✅ KEEP (monitor closely).\n\n## Surface Analysis\nClay is the engine: 58.8% WR, +£3.46 across 34 bets — keep feeding it. Hard court is a disaster: 25% WR and -£4.75 from just 4 bets. Sample is small but the loss magnitude relative to total turnover is alarming. The bot should be heavily restricted or paused on hard until more data exists.\n\n## Actionable Recommendations\n1. **Disable Strat2 and Strat2h immediately** — combined -£11.13 from 14 bets is the entire reason the portfolio is negative; without them P&L is +£9.84.\n2. **Pause hard-court entries across all BACK strategies** until you have ≥20 hard-court bets logged in dry-run; current -£4.75 from 4 bets is unsustainable.\n3. **Investigate why Strat4 underperforms Strat4h so dramatically** (40% vs 80% WR on identical odds range) — promote the \"h\" filter logic to Strat2/Strat5 if applicable.\n4. **Review the SET_SCORE rejection filter** — 1545x rejections on Strat1h/4/4h vs only 3–5 actual bets each suggests the filter may be too aggressive and starving good strategies of volume.\n5. **Extend the evaluation window** — 4 days and 38 bets is far too small to draw firm conclusions; lock current settings and re-evaluate at 150+ bets before further changes.\n\n## Risk Flags\n- **Sample size is critically small**: 4 days of data, several strategies have ≤5 bets. All conclusions are provisional.\n- **Hard-court exposure**: -119% ROI on hard suggests either a model mismatch or coincidence — do not scale stakes until resolved.\n- **Rejection-to-bet ratio**: Strat1h has ~520 SET_SCORE rejections per executed bet. Either the filter is broken or the strategy is over-constrained.",
+    "tokenUsage": {
+      "input_tokens": 1673,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1409,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 38,
+      "totalPnl": -1.29,
+      "strategies": 7
+    }
+  },
+  {
+    "id": 1778347314415,
+    "generatedAt": "2026-05-09T17:21:54.415Z",
+    "analysis": "## Overall Performance Summary\n34 bets over a 4-day window produced £2.28 profit at a 57.6% win rate — modestly positive but the sample is tiny and compressed into a single week (W18). Clay is carrying the entire book (+£7.03 across 30 bets) while hard court is bleeding (-£4.75 from just 4 bets). The headline P&L masks significant divergence between strategies, with two BACK strategies (Strat2/Strat2h) collectively down £7.13.\n\n## Strategy Breakdown\n**Strat1h (LAY)**: 3 bets, 66.7% WR, +£1.22 at avg odds 1.34. Laying short prices is working but the sample is too small to draw firm conclusions. ⚠️ TUNE (need more data)\n\n**Strat2 (BACK)**: 6 bets, 33.3% WR, **-£3.36** at avg odds 2.29. Worst performer by win rate — backing mid-priced selections that aren't landing. ❌ DROP (or pause pending review)\n\n**Strat2h (BACK)**: 6 bets, 50% WR but **-£3.77**. Even at break-even WR it loses money, suggesting losers occur at higher odds than winners — poor selection value. ❌ DROP\n\n**Strat3h (LAY)**: 7 bets, 57.1% WR, +£0.16 at avg odds 1.29. Essentially flat — laying very short favourites means losses (when they happen) wipe out many wins. ⚠️ TUNE\n\n**Strat4 (BACK)**: 5 bets, 50% WR, +£1.96 at avg odds 2.33. Decent ROI but tiny sample. ⚠️ TUNE\n\n**Strat4h (BACK)**: 5 bets, 80% WR, **+£3.57** — top performer. The \"h\" variant of Strat4 dramatically outperforms the base version on identical odds range. ✅ KEEP\n\n**Strat5 (BACK)**: 2 bets, 100% WR, +£2.50. Sample far too small to validate but no red flags. ⚠️ TUNE (monitor)\n\n## Surface Analysis\nClay is the entire edge: 62.1% WR, +£7.03 across 30 bets. Hard court is a disaster at 25% WR and -£4.75 from only 4 bets — sample is small but every hard-court bet is dragging the book down. Grass not represented.\n\n## Actionable Recommendations\n1. **Disable Strat2 and Strat2h immediately** — combined -£7.13 across 12 bets at avg odds 2.29. The \"h\" variant losing despite 50% WR indicates a stake/odds-selection mismatch.\n2. **Restrict all strategies to clay** until a hard-court sample of ≥20 bets per strategy proves otherwise. Hard-court P&L is -£4.75 with no winning strategy on that surface.\n3. **Investigate why Strat4h (+£3.57) outperforms Strat4 (+£1.96) on identical odds** — replicate the \"h\" filter logic across other base strategies if the differentiator is identifiable.\n4. **Review the 1,476 SET_SCORE rejections on Strat1h/Strat4/Strat4h** — this is the dominant rejection reason and may be too restrictive given Strat4h's 80% WR; loosening could unlock more volume on a winning strategy.\n5. **Extend the data window before further changes** — all 34 bets fall within 4 days (W18). Hold tuning decisions on Strat1h, Strat4, Strat5 until each has ≥15 settled bets.\n\n## Risk Flags\n- **Sample size**: 34 bets across 4 days is statistically insignificant; +£2.28 could easily reverse next week.\n- **Concentration risk**: 88% of bets are on clay — clay-court season ending will collapse volume unless hard-court logic is fixed.\n- **Strat2h anomaly**: losing money at 50% WR on BACK bets suggests systematic value leak (entry timing, slippage, or odds drift) that warrants a code-level review.",
+    "tokenUsage": {
+      "input_tokens": 1722,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1371,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 34,
+      "totalPnl": 2.28,
+      "strategies": 7
+    }
+  },
+  {
+    "id": 1778198178381,
+    "generatedAt": "2026-05-07T23:56:18.380Z",
+    "analysis": "## Overall Performance Summary\nAcross 23 settled bets over just 2 days, the bot is marginally negative at £-0.36 with a respectable 56.5% win rate. The sample is far too small to draw firm conclusions — this is essentially 48 hours of data, not 90 days of activity. Clay (21 bets, +£0.39) is carrying the book while hard court (2 bets, -£0.75) is a non-sample. The headline issue is that win rate and P&L are diverging: you're winning more than half but losing money, suggesting losing bets are at higher odds than winners.\n\n## Strategy Breakdown\n**Strat1h (LAY):** 2/2 winners at avg 1.31, +£1.36. Tiny sample but laying short-priced favourites is working. ✅ KEEP\n\n**Strat2 (BACK):** 2W/3L at avg 2.25 odds, -£1.36 — the worst performer in absolute terms. Backing at mid-range odds isn't paying off. ⚠️ TUNE\n\n**Strat2h (BACK):** 3W/2L (60% WR) but still -£1.77 — the biggest loser despite a winning record. Losses are clearly bigger than wins; classic high-odds-back problem where one big loss wipes multiple small wins. ⚠️ TUNE\n\n**Strat3h (LAY):** 2W/2L, -£0.23 at avg odds 1.28. Laying short prices means losses bite hard when they hit. Roughly break-even. ⚠️ TUNE\n\n**Strat4 (BACK):** 1W/2L, -£0.24 at avg 2.41. Small sample, mildly negative. ⚠️ TUNE\n\n**Strat4h (BACK):** 2W/1L (66.7% WR), +£1.42 at avg 2.41 — best P&L. Same odds range as Strat4 but profitable, suggesting the \"h\" trigger variant is adding genuine edge. ✅ KEEP\n\n**Strat5 (BACK):** 1/1 at 1.23, +£0.46. Effectively no sample. ⚠️ TUNE (need more data before verdict)\n\n## Surface Analysis\nClay is the entire book (21 of 23 bets) and is mildly profitable at +£0.39. Hard court has just 2 bets and is uninformative — don't read anything into the -£0.75. The bot is currently a clay-court bot whether by design or filter behaviour.\n\n## Actionable Recommendations\n1. **Investigate Strat2h's loss size** — it has a 60% win rate but the worst P&L (-£1.77). Check whether losing bets are clustered at the top end of the 1.69–2.98 odds range and consider capping entry odds at ~2.20.\n2. **Compare Strat4 vs Strat4h directly** — same odds range, opposite P&L (+£1.42 vs -£0.24). Identify what the \"h\" filter does and consider applying that same filter to Strat2 and Strat4 base versions.\n3. **Review SET_SCORE rejection logic** — 1353 rejections each on Strat1h/Strat4/Strat4h is extreme relative to 23 placed bets. Either the filter is too strict or it's evaluating far too many candidate states; verify it's not blocking valid entries.\n4. **Stop drawing conclusions until ~100+ bets** — current sample is 2 days. Hold strategy decisions and run as-is until you have at least 4 weeks of settled bets per strategy.\n5. **Add hard-court bet count to monitoring** — only 2 hard-court bets in the period suggests a filter is over-restricting non-clay markets. Confirm this is intentional.\n\n## Risk Flags\n- **Sample size**: \"90 days\" of data contains only 2 days of activity (2026-05-06 to 2026-05-07). All P&L figures are noise-dominated.\n- **PRE_MATCH_ODDS rejections (1060–1084x)** on Strat2/Strat2h/Strat3h indicate the odds filter is rejecting the vast majority of candidates — confirm the threshold isn't accidentally mis-set.\n- All results are dry-run; live execution slippage and unmatched bets are not yet reflected in these numbers.",
+    "tokenUsage": {
+      "input_tokens": 1670,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1413,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 23,
+      "totalPnl": -0.36,
+      "strategies": 7
+    }
+  },
+  {
+    "id": 1778188648384,
+    "generatedAt": "2026-05-07T21:17:28.384Z",
+    "analysis": "## Overall Performance Summary\n23 bets over just 2 days (May 6–7) produced a 56.5% win rate but a marginal loss of £-0.36. The win rate is solid, but P&L is dragged down by Strat2h (-£1.77) and Strat2 (-£1.36) despite reasonable strike rates. Sample size is far too small (2 days) to draw firm conclusions on most strategies. Clay accounts for 91% of volume and is essentially break-even (+£0.39).\n\n## Strategy Breakdown\n**Strat1h (LAY):** 2/2 wins, +£1.36 at low odds (avg 1.31). Lay strategy at short prices is doing its job but n=2 is meaningless. ⚠️ TUNE (monitor — too small to confirm)\n\n**Strat2 (BACK):** 2W/3L, -£1.36 at avg odds 2.25. Losing despite mid-range odds; the 40% WR at 2.25 is below break-even (~44% needed). ❌ DROP (or tighten filters)\n\n**Strat2h (BACK):** 3W/2L (60% WR) yet still -£1.77 — this is a red flag. Wins are coming at short prices and losses at the longer end of the 1.69–2.98 range, indicating poor odds selection. ⚠️ TUNE urgently — cap entry odds.\n\n**Strat3h (LAY):** 2W/2L, -£0.23 at avg 1.28. Near break-even, low-stakes laying. ⚠️ TUNE (acceptable but unproven).\n\n**Strat4 (BACK):** 1W/2L, -£0.24 at avg 2.41. Smallest of the back strategies and underwater. ❌ DROP unless n grows fast.\n\n**Strat4h (BACK):** 2W/1L (67%), +£1.42 at avg 2.41 — best £ performer. The 'h' variant clearly outperforms its sibling Strat4. ✅ KEEP.\n\n**Strat5 (BACK):** 1/1, +£0.46 at 1.23. n=1, no conclusions possible. ⚠️ TUNE (monitor).\n\n## Surface Analysis\nClay: 21 bets, 57.1% WR, +£0.39 — the only meaningful sample, marginally profitable.\nHard: 2 bets, -£0.75 — non-existent sample, ignore for now but note both 'hard' bets came with a loss.\n\n## Actionable Recommendations\n1. **Cap Strat2h entry odds at ~2.00** — a 60% WR losing money means you're winning small and losing big; the 2.98 ceiling is bleeding equity.\n2. **Pause Strat2 and Strat4** until each has ≥20 bets — both are below break-even WR for their odds range and currently dragging the book.\n3. **Investigate why 'h' variants outperform base versions** (Strat4h +£1.42 vs Strat4 -£0.24, same odds range) — replicate the 'h' filter logic into Strat2 if possible.\n4. **Review PRE_MATCH_ODDS rejections** (~3,200+ across Strat2/2h/3h) — filters may be too loose pre-match if this many qualify but only 14 settle; consider tightening to reduce noise OR loosen if you're missing good entries.\n5. **Extend evaluation window** — re-run this analysis after 30+ days; 2 days of data cannot validate or kill any strategy.\n\n## Risk Flags\n- **Sample size critical**: entire dataset spans 2 days. Do not make permanent strategy changes on this alone.\n- **Strat2h paradox**: profitable WR but negative P&L = asymmetric loss sizing, the most dangerous pattern in the book.\n- **Hard court untested**: 2 bets is not a strategy signal — don't extrapolate.",
+    "tokenUsage": {
+      "input_tokens": 1670,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1288,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 23,
+      "totalPnl": -0.36,
+      "strategies": 7
+    }
+  },
+  {
+    "id": 1778171272026,
+    "generatedAt": "2026-05-07T16:27:52.026Z",
+    "analysis": "## Overall Performance Summary\n21 bets over just 2 days (5–7 May) produced a 52.4% win rate but a £-4.63 loss, driven almost entirely by Strat2's BACK leg (£-4.40). Sample size is far too small to draw firm conclusions — this is essentially 2 days of dry-run data, not 90 days of activity. The headline issue is that BACK strategies at avg odds 2.18–2.41 are bleeding money while LAY strategies at short odds (1.28–1.31) and the \"h\" hedge variants are mostly profitable.\n\n## Strategy Breakdown\n**Strat1h (LAY)**: 2/2 wins, £+1.36 at odds 1.29–1.34. Tiny sample but laying heavy favourites is working as expected. ✅ KEEP\n\n**Strat2 (BACK)**: 1W/3L, £-4.40 — the single worst performer and responsible for ~95% of total losses. Backing at avg 2.18 with 25% WR implies the entry trigger is poorly calibrated. ⚠️ TUNE\n\n**Strat2h (BACK)**: 2W/2L but still £-3.00 — the hedge variant softens but doesn't fix the underlying Strat2 signal problem. ⚠️ TUNE\n\n**Strat3h (LAY)**: 2W/2L, £-0.23 at avg 1.28. Essentially break-even; laying short-priced favourites is marginal — needs more data. ⚠️ TUNE\n\n**Strat4 (BACK)**: 1W/2L, £-0.24 at avg 2.41. Near break-even, sample too small. ⚠️ TUNE\n\n**Strat4h (BACK)**: 2W/1L, £+1.42 at avg 2.41 — the hedge version is clearly outperforming the raw Strat4. ✅ KEEP\n\n**Strat5 (BACK)**: 1/1 win, £+0.46 at 1.23. One bet — no verdict possible. ⚠️ TUNE (monitor)\n\n## Surface Analysis\nClay dominates the dataset (19/21 bets) and is losing at £-3.88 despite a 52.6% WR — losses are concentrated in BACK strategies, not surface-specific. Hard court has only 2 bets (£-0.75) — statistically meaningless.\n\n## Actionable Recommendations\n1. **Pause Strat2 (raw BACK) immediately** until you have ≥30 bets of evidence — it's the sole reason the bot is in the red. Run only Strat2h variant in the meantime.\n2. **Investigate the SET_SCORE rejection filter on Strat1h, Strat4, Strat4h (1,278x each)** — these filters are blocking the very strategies that are profitable. Loosening this filter slightly could increase volume on your winners.\n3. **Tighten PRE_MATCH_ODDS filter on Strat2/Strat2h (1,031 rejections each)** — clearly the odds entry band is letting through marginal spots; narrow the range to test whether selectivity improves the 25% WR.\n4. **Do not act on surface or weekly trends yet** — 21 bets across 2 days is not 90 days of data. Continue dry-run for at least 4 more weeks before committing real stakes.\n5. **Promote Strat4h over Strat4** — the hedge variant has 66.7% WR vs 33.3% on identical odds range; the raw version adds no value.\n\n## Risk Flags\n- **Sample size**: \"90-day\" report contains only 2 days of bets — verify the bot is actually running and placing bets, or that data ingestion isn't broken.\n- **Massive SET_SCORE rejection volume** (1,278x on three strategies) suggests this filter may be misconfigured or overly strict — worth a code review.\n- **Single-strategy concentration risk**: Strat2 alone produced 95% of losses; ensure stake sizing caps prevent any one strategy from dominating P&L.",
+    "tokenUsage": {
+      "input_tokens": 1671,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1333,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 21,
+      "totalPnl": -4.63,
+      "strategies": 7
+    }
+  },
+  {
+    "id": 1777919046505,
+    "generatedAt": "2026-05-04T18:24:06.505Z",
+    "analysis": "## Overall Performance Summary\nSample size is critically small: just 4 bets over a single day (2026-05-04), all in dry-run mode. The bot is 0W/3L on settled bets with one still open, P&L £-2.7 at avg entry odds 1.72. There is not enough data here to draw any statistically meaningful conclusions — this is essentially a smoke test, not a performance review.\n\n## Strategy Breakdown\n**Strat2a (BACK):** 2 bets, 0W/1L, P&L £-2, odds 1.68–2.48 (avg 2.08). One bet still open. Backing at these odds with zero wins tells us nothing on n=1 settled, but the strategy is at least firing. Verdict: ⚠️ TUNE — needs 30+ settled bets before judgement.\n\n**Strat3 (LAY):** 2 bets, 0W/2L, P&L £-0.7, all at odds 1.35. Laying short-priced favourites at 1.35 is high-risk/low-reward by design — you risk ~2.85 to win 1. Two losses in a row is expected variance, not a signal. Verdict: ⚠️ TUNE — monitor, but the odds band is unforgiving.\n\n**Strat1, Strat2b, Strat4a, Strat4b, Strat5:** Zero bets placed in the period. All blocked by filters (see rejections). Verdict: ⚠️ TUNE — filters may be too tight to ever fire.\n\n## Surface Analysis\nAll 4 bets logged as `unknown` surface. This is a data quality issue, not a surface insight — surface tagging is broken or not being populated. Fix this before any surface-based analysis is possible.\n\n## Actionable Recommendations\n1. **Fix surface tagging immediately** — 100% of bets are tagged `unknown`. Without this, you cannot evaluate clay/hard/grass edge, which is the single most important segmentation in tennis.\n2. **Investigate SET_SCORE rejections (1,617 total across strategies)** — this is by far the dominant filter blocker. Either the rule is correctly conservative, or it's mis-coded and killing valid entries. Log a sample of rejected matches and verify manually.\n3. **Review PRE_MATCH_ODDS filter for Strat1 (107 rejections)** — Strat1 placed zero bets despite being the second-most-evaluated. Either widen the odds band or accept the strategy is dormant in current market conditions.\n4. **Do not draw conclusions or change stakes yet** — 3 settled bets in one day is noise. Run dry-run for at least 4 weeks / 50+ settled bets per active strategy before live deployment or strategy cuts.\n5. **Reconsider Strat3's 1.35 lay band** — even with edge, laying at 1.35 requires ~74% win rate to break even. Confirm the model genuinely projects above that threshold; if not, raise the minimum lay odds to 1.50+.\n\n## Risk Flags\n- **Sample size**: 4 bets is not a dataset. Any P&L commentary at this stage is meaningless.\n- **Data integrity**: All bets tagged `unknown` surface — fix before going live.\n- **Dormant strategies**: 5 of 7 strategies placed zero bets. Confirm this is intentional filtering, not a bug.\n- **Open position**: 1 bet still open with no exit logged — verify the settlement/cash-out logic is working.",
+    "tokenUsage": {
+      "input_tokens": 1259,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1152,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "dataSnapshot": {
+      "totalBets": 4,
+      "totalPnl": -2.7,
+      "strategies": 2
+    }
+  }
+]

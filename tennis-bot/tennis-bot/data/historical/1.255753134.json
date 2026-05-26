@@ -1,0 +1,740 @@
+[
+  {
+    "timestamp": 1774404725951,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404725951,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404905908,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404905908,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405027164,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405027164,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405207165,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405207165,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405328410,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405328410,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405508411,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405508411,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405629657,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405629657,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405809658,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405809658,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405930909,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405930909,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406110910,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406110910,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406232197,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406232197,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406412198,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406412198,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406533436,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406533436,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406713437,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406713437,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406834757,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406834757,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407014758,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407014758,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407136029,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407136029,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407316030,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407316030,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407437295,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407437295,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407617296,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407617296,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407738566,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407738566,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407918568,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774407918568,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408039807,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408039807,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408219809,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408219809,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408341093,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408341093,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408521094,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408521094,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408642344,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408642344,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408822345,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408822345,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408943595,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774408943595,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409123596,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409123596,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409244863,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409244863,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409424864,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409424864,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409546148,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409546148,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409726149,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409726149,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409847427,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774409847427,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410027428,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410027428,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410148688,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410148688,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410328689,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410328689,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410449940,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410449940,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410629941,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 270,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410629941,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410751215,
+    "marketId": "1.255753134",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410751215,
+    "marketId": "1.255753134",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

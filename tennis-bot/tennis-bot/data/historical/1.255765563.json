@@ -1,0 +1,182 @@
+[
+  {
+    "timestamp": 1774441481518,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774441481518,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774441661473,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774441661473,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774441782762,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774441782762,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774441962763,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774441962763,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774442084023,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774442084023,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774442264026,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774442264026,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445096944,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445096944,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445276947,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445276947,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445398253,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445398253,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445578255,
+    "marketId": "1.255765563",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445578255,
+    "marketId": "1.255765563",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,740 @@
+[
+  {
+    "timestamp": 1778004849950,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778004849950,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005029906,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005029906,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005209909,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005209909,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005389911,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005389911,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005569912,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005569912,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005749915,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005749915,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005929916,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005929916,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006109919,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006109919,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006289920,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006289920,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006469922,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006469922,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006649923,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006649923,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006829925,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006829925,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006830692,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006830692,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007010695,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007010695,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007190696,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007190696,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007280883,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007280883,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007460885,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007460885,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007640887,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007640887,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007820888,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007820888,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007821115,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007821115,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008001116,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008001116,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008181117,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008181117,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008361118,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008361118,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008361352,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008361352,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008541354,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008541354,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008631474,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008631474,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008811475,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008811475,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008991477,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008991477,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009081675,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009081675,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009261677,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009261677,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009441678,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009441678,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009531871,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009531871,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009711873,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009711873,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009891874,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009891874,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010071875,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010071875,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010251876,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010251876,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010431877,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010431877,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010611878,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010611878,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010791879,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010791879,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010971880,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010971880,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778011151881,
+    "marketId": "1.257686229",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778011151881,
+    "marketId": "1.257686229",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

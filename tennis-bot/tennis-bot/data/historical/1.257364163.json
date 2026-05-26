@@ -1,0 +1,434 @@
+[
+  {
+    "timestamp": 1777288232405,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288232405,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288412352,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288412352,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288533632,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288533632,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288713635,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288713635,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288834899,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777288834899,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289014901,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289014901,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289136195,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289136195,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289316197,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289316197,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289437482,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289437482,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289617485,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289617485,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289738789,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289738789,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289918791,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777289918791,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290040068,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290040068,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290220070,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290220070,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290341341,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290341341,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290521343,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290521343,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290642634,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290642634,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290822636,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290822636,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290943877,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777290943877,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291123880,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291123880,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291245169,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291245169,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291425171,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291425171,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291546449,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291546449,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291726452,
+    "marketId": "1.257364163",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777291726452,
+    "marketId": "1.257364163",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  }
+]

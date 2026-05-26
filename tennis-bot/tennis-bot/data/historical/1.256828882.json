@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1776352480784,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352480784,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352660714,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352660714,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352781981,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352781981,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352961984,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352961984,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353083281,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353083281,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353263285,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353263285,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353384686,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353384686,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353564690,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353564690,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353686107,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353686107,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353866110,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353866110,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353987408,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353987408,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354167420,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354167420,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354288679,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354288679,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354468682,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354468682,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354590149,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354590149,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354770152,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354770152,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354892572,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776354892572,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355072575,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355072575,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355193826,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355193826,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355373830,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355373830,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355495109,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355495109,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355675112,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355675112,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355796382,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355796382,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355976384,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776355976384,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776356097632,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776356097632,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776356277636,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776356277636,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776356398960,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776356398960,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776356578963,
+    "marketId": "1.256828882",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776356578963,
+    "marketId": "1.256828882",
+    "selectionId": "41341015",
+    "selectionName": "Diana Shnaider",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

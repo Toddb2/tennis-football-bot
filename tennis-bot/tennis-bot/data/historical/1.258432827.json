@@ -1,0 +1,974 @@
+[
+  {
+    "timestamp": 1779451403351,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451403351,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451493332,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451493332,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451673337,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451673337,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451673418,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451673418,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451763475,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451763475,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451853501,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451853501,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451943534,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451943534,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452123539,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452123539,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452123626,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452123626,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452213663,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452213663,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452303706,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452303706,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452393753,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452393753,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452483789,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452483789,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452573829,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452573829,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452663863,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452663863,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452843867,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452843867,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452843941,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452843941,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452933995,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452933995,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453024020,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453024020,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453114071,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453114071,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453204104,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453204104,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453294145,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453294145,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453384187,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453384187,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453474234,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453474234,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453564263,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453564263,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453654314,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453654314,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453744335,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453744335,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453834376,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453834376,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453924414,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453924414,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454014475,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454014475,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454194479,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454194479,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454194554,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454194554,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454284591,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454284591,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454374649,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454374649,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454464676,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454464676,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454554717,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454554717,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454644780,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454644780,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454734823,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454734823,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454942768,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454942768,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455032693,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455032693,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455122752,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455122752,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455212782,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455212782,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455303033,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455303033,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455393075,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455393075,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455483122,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455483122,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455573156,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455573156,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455663192,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455663192,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455753243,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455753243,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455843273,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455843273,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456023278,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456023278,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456023352,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456023352,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456113408,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456113408,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456293413,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456293413,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456293485,
+    "marketId": "1.258432827",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456293485,
+    "marketId": "1.258432827",
+    "selectionId": "13181195",
+    "selectionName": "Pedro Martinez",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  }
+]

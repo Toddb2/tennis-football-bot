@@ -1,0 +1,794 @@
+[
+  {
+    "timestamp": 1776326850776,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776326850776,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327030734,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327030734,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327152789,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327152789,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327332794,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327332794,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327454042,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327454042,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327634043,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327634043,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327755411,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327755411,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327935414,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776327935414,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328056695,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328056695,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328236697,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328236697,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328358171,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328358171,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328538173,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328538173,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328659447,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328659447,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328839448,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328839448,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328960820,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776328960820,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329140821,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329140821,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329262085,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329262085,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329442086,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329442086,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329563669,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329563669,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329743670,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329743670,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329864946,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776329864946,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330044947,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330044947,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330167407,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330167407,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330347408,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330347408,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330468670,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330468670,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330648672,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330648672,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330769953,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330769953,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330949954,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776330949954,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331071204,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331071204,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331251206,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331251206,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331372463,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331372463,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331552466,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331552466,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331673719,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331673719,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331853720,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331853720,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331974979,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776331974979,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332154981,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332154981,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332276332,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332276332,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332456333,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332456333,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332577728,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332577728,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332757731,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332757731,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332879000,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776332879000,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776333059002,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776333059002,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776333180289,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776333180289,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776333360292,
+    "marketId": "1.256846559",
+    "selectionId": "9632237",
+    "selectionName": "Blake Ellis",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776333360292,
+    "marketId": "1.256846559",
+    "selectionId": "2609424",
+    "selectionName": "Mikhail Kukushkin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,920 @@
+[
+  {
+    "timestamp": 1778522216566,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522216566,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522306560,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522306560,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522396589,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522396589,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522576594,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522576594,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522576685,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522576685,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522666717,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522666717,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522758364,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522758364,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522846900,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522846900,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522936930,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778522936930,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523026955,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523026955,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523206959,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523206959,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523207044,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523207044,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523297091,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523297091,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523387127,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523387127,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523477171,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523477171,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523567209,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523567209,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523657247,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523657247,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523747293,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523747293,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523927297,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778523927297,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524017438,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524017438,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524107520,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524107520,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524197567,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524197567,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377571,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377571,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377653,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377653,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524557656,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524557656,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524647791,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524647791,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827795,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827795,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827896,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827896,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524917932,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524917932,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525007982,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525007982,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525187986,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525187986,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525278124,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525278124,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525458128,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525458128,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525548264,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525548264,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525638306,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525638306,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525728346,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525728346,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525818396,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525818396,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525908441,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525908441,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525998493,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525998493,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526088553,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526088553,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268555,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268555,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268641,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268641,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448644,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448644,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448770,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448770,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628773,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628773,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628867,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628867,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808870,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808870,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808963,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808963,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526899013,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526899013,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526989048,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526989048,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169053,
+    "marketId": "1.258039534",
+    "selectionId": "64406703",
+    "selectionName": "Naomi Osaka",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169053,
+    "marketId": "1.258039534",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": 1777094547708,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777094547708,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777094727662,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777094727662,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777094848946,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777094848946,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095028947,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095028947,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095150229,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095150229,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095330232,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095330232,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095451490,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095451490,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095631492,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095631492,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095752759,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095752759,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095932761,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777095932761,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096054019,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096054019,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096234021,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096234021,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096355286,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096355286,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096535287,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096535287,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096656568,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096656568,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096836570,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096836570,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096957924,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777096957924,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097137925,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097137925,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097259185,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097259185,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097439187,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097439187,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097560594,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097560594,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097740595,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097740595,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097861849,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777097861849,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098041852,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098041852,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098163119,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098163119,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098343122,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098343122,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098464462,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098464462,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098644464,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098644464,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098765717,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098765717,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098945718,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777098945718,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777099066972,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777099066972,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777099246973,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777099246973,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777099368248,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777099368248,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777099548250,
+    "marketId": "1.257312016",
+    "selectionId": "10350145",
+    "selectionName": "Mai Hontama",
+    "lastTradedPrice": 700,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777099548250,
+    "marketId": "1.257312016",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

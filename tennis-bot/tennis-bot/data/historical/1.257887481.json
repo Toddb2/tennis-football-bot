@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": 1778222141079,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222141079,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222321037,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222321037,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222501038,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222501038,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222681041,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222681041,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222861043,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222861043,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222861322,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778222861322,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223041324,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223041324,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223221327,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223221327,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223401330,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223401330,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223581332,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223581332,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223671659,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223671659,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223851661,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778223851661,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224031663,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224031663,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224211666,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224211666,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224391668,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224391668,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224571670,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224571670,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224751673,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224751673,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224931675,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778224931675,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225111678,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225111678,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225291681,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225291681,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225471685,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225471685,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225651688,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225651688,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225831690,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778225831690,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226011694,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226011694,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226191696,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226191696,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226371698,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226371698,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226551700,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226551700,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226731702,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226731702,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226911704,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778226911704,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227091705,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227091705,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227093157,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227093157,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227273160,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227273160,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227453162,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227453162,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227633164,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227633164,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227723514,
+    "marketId": "1.257887481",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778227723514,
+    "marketId": "1.257887481",
+    "selectionId": "8194193",
+    "selectionName": "Akira Santillan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  }
+]

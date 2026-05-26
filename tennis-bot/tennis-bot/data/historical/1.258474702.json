@@ -1,0 +1,704 @@
+[
+  {
+    "timestamp": 1779451763534,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451763534,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451853501,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451853501,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451943534,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779451943534,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452123539,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452123539,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452123626,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452123626,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452213663,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452213663,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452303706,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452303706,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452393753,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452393753,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452483789,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452483789,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452573829,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452573829,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452663863,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452663863,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452843867,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452843867,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452843941,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452843941,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452933995,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779452933995,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453024020,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453024020,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453114071,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453114071,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453204104,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453204104,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453294145,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453294145,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453384187,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453384187,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453474234,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453474234,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453564263,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453564263,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453654314,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453654314,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453744335,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453744335,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453834376,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453834376,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453924414,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779453924414,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454014475,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454014475,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454194479,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454194479,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454194554,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454194554,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454284591,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454284591,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454374649,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454374649,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454464676,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454464676,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454554717,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454554717,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454644780,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454644780,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454734823,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454734823,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454942771,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454942771,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455032693,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455032693,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455122752,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455122752,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455212782,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455212782,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455303033,
+    "marketId": "1.258474702",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455303033,
+    "marketId": "1.258474702",
+    "selectionId": "8907168",
+    "selectionName": "Anhelina Kalinina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  }
+]

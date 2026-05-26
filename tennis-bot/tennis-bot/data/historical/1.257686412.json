@@ -1,0 +1,794 @@
+[
+  {
+    "timestamp": 1778014213785,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014213785,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014393733,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014393733,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014573735,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014573735,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014753737,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014753737,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014933740,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014933740,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015113741,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015113741,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015293742,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015293742,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015473743,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015473743,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015564399,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015564399,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015744401,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015744401,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015924402,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015924402,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016104403,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016104403,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016284404,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016284404,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016464405,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016464405,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016644406,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016644406,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016824407,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016824407,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017004408,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017004408,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017184409,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017184409,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017364410,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017364410,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017544411,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017544411,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017724412,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017724412,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017904413,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017904413,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018084414,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018084414,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018264415,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018264415,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018444416,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018444416,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018624417,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018624417,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018804418,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018804418,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018984419,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018984419,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019164420,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019164420,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019344422,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019344422,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019524423,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019524423,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019704424,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019704424,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019884425,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019884425,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020064426,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020064426,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020065964,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020065964,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020245966,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020245966,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020425967,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020425967,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020605968,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020605968,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020785969,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020785969,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020965970,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778020965970,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778021145971,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778021145971,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778021325972,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778021325972,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778021505973,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778021505973,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778021685974,
+    "marketId": "1.257686412",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778021685974,
+    "marketId": "1.257686412",
+    "selectionId": "42698165",
+    "selectionName": "Ryan Dickerson",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

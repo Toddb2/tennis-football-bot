@@ -1,0 +1,866 @@
+[
+  {
+    "timestamp": 1776950364523,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776950364523,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776950544474,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776950544474,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776950665727,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776950665727,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776950845734,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776950845734,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776950967002,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776950967002,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951147013,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951147013,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951268293,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951268293,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951448298,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951448298,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951569654,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951569654,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951749660,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951749660,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951870927,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776951870927,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952050936,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952050936,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952172208,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952172208,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952352212,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952352212,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952473498,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952473498,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952653503,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952653503,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952774769,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952774769,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952954774,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776952954774,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953076033,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953076033,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953256037,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953256037,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953377330,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953377330,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953557336,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953557336,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953678604,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953678604,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953858609,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953858609,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953979974,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776953979974,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954159981,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954159981,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954281250,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954281250,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954461255,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954461255,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954582521,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954582521,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954762525,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954762525,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954883782,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776954883782,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955063786,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955063786,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955185043,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955185043,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955365047,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955365047,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955486337,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955486337,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955666341,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955666341,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955787645,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955787645,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955967649,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776955967649,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956089019,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956089019,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956269023,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956269023,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956390272,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956390272,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956570277,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956570277,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956691566,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956691566,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956871570,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956871570,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956992837,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776956992837,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776957172840,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776957172840,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776957294166,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776957294166,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776957474171,
+    "marketId": "1.257172508",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776957474171,
+    "marketId": "1.257172508",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,740 @@
+[
+  {
+    "timestamp": 1776255695742,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255695742,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255875628,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255875628,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255997621,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776255997621,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256177625,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256177625,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256298893,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256298893,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256478895,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256478895,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256600750,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256600750,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256780752,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256780752,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256902043,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776256902043,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257082047,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257082047,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257203302,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257203302,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257383305,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257383305,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257504610,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257504610,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257684613,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257684613,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257805964,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257805964,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257985966,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776257985966,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258107267,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258107267,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258287269,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258287269,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258408582,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258408582,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258588585,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258588585,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258709862,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258709862,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258889865,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776258889865,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259011150,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259011150,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259191152,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259191152,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259312440,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259312440,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259492443,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259492443,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259614201,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259614201,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259794204,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259794204,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259915914,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776259915914,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260095916,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260095916,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260217221,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260217221,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260397225,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260397225,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260518642,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260518642,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260698646,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260698646,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260819920,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260819920,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260999923,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776260999923,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261121249,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261121249,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261301253,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261301253,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261423195,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261423195,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261603198,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261603198,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261724487,
+    "marketId": "1.256695974",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776261724487,
+    "marketId": "1.256695974",
+    "selectionId": "18848406",
+    "selectionName": "Elsa Jacquemot",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

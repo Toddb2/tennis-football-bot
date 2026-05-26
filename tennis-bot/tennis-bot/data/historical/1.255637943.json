@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1774355588888,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355588888,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355768830,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355768830,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355890103,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774355890103,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356070106,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356070106,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356191381,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356191381,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356371384,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356371384,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356492679,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356492679,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356672681,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356672681,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356793947,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356793947,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356973952,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774356973952,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357095211,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357095211,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357275214,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357275214,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357396481,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357396481,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357576483,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357576483,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357697790,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357697790,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357877793,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357877793,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357999066,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774357999066,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358179068,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358179068,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358300332,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358300332,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358480334,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358480334,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358601624,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358601624,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358781626,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358781626,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358902905,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774358902905,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359082907,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359082907,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359204202,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359204202,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359384204,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359384204,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359505466,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359505466,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359685468,
+    "marketId": "1.255637943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359685468,
+    "marketId": "1.255637943",
+    "selectionId": "15388409",
+    "selectionName": "George Loffhagen",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  }
+]

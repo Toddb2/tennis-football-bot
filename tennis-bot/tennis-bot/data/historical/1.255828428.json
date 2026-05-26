@@ -1,0 +1,866 @@
+[
+  {
+    "timestamp": 1774523197348,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523197348,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523377286,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523377286,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523498555,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523498555,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523678558,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523678558,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523799835,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523799835,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523979838,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523979838,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524101104,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524101104,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524277412,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524277412,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524457415,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524457415,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524578686,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524578686,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524758688,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524758688,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524879954,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524879954,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525059959,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525059959,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525181240,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525181240,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525361243,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525361243,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525482566,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525482566,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525662569,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525662569,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525784193,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525784193,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525964195,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525964195,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526085454,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526085454,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526265457,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526265457,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526386717,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526386717,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526566719,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526566719,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526687996,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526687996,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526868000,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526868000,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526989284,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526989284,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527169286,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527169286,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527290547,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527290547,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527470549,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527470549,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527591822,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527591822,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527771824,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527771824,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527893927,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527893927,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528073930,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528073930,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528195709,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528195709,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528375711,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528375711,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528497013,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528497013,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528677016,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528677016,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528798323,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528798323,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528978326,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528978326,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529099610,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529099610,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529279612,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529279612,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529400890,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529400890,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529580892,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529580892,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529702168,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529702168,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529882170,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529882170,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530003522,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530003522,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530183524,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530183524,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530304791,
+    "marketId": "1.255828428",
+    "selectionId": "9628769",
+    "selectionName": "Jessika Ponchet",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530304791,
+    "marketId": "1.255828428",
+    "selectionId": "10347151",
+    "selectionName": "Gabriela Knutson",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

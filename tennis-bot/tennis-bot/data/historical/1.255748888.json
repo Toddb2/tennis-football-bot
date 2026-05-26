@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1774480348289,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774480348289,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774480528243,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774480528243,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774480649511,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774480649511,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774480829512,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774480829512,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774480950758,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774480950758,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481130759,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481130759,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481252031,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481252031,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481432032,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481432032,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481553350,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481553350,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481733351,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481733351,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481854609,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774481854609,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482034610,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482034610,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482155860,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482155860,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482335861,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482335861,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482457121,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482457121,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482637123,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482637123,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482758409,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482758409,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482938410,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774482938410,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483059784,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483059784,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483239786,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483239786,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483361078,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483361078,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483541079,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483541079,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483662357,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483662357,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483842358,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483842358,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483963611,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774483963611,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484143612,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484143612,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484264870,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484264870,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484444872,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484444872,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484566165,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484566165,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484746166,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484746166,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484867449,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774484867449,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485047451,
+    "marketId": "1.255748888",
+    "selectionId": "73219778",
+    "selectionName": "Aryna Sabalenka",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774485047451,
+    "marketId": "1.255748888",
+    "selectionId": "12737427",
+    "selectionName": "Hailey Baptiste",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

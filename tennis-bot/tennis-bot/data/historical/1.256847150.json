@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": 1776312681668,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776312681668,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776312861628,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776312861628,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776312982902,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776312982902,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313162903,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313162903,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313284199,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313284199,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313464201,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313464201,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313585465,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313585465,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313765466,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313765466,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313886739,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776313886739,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314066740,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314066740,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314188548,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314188548,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314368549,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314368549,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314489811,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314489811,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314669812,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314669812,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314791296,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314791296,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314971297,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314971297,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315092568,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315092568,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315272570,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315272570,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315393868,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315393868,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315573869,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315573869,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315695129,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315695129,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315875130,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315875130,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315997040,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315997040,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316177042,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316177042,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316298749,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316298749,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316478751,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316478751,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316600025,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316600025,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316780027,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316780027,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316901330,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316901330,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317081332,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317081332,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317202583,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317202583,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317382584,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317382584,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317504247,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 750,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317504247,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317684248,
+    "marketId": "1.256847150",
+    "selectionId": "17608292",
+    "selectionName": "Justin Boulais",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317684248,
+    "marketId": "1.256847150",
+    "selectionId": "19728183",
+    "selectionName": "Giles Hussey",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

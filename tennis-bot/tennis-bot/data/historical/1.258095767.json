@@ -1,0 +1,938 @@
+[
+  {
+    "timestamp": 1778695288675,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778695288675,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778695468631,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778695468631,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778695558763,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778695558763,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778695648804,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778695648804,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778695828808,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778695828808,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696008810,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696008810,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696008972,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696008972,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696188976,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696188976,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696189067,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696189067,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696369071,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696369071,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696549075,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696549075,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696729078,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696729078,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696909081,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778696909081,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697089085,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697089085,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697269089,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697269089,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697449092,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697449092,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697629095,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697629095,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697809100,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697809100,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697989102,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778697989102,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698169105,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698169105,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698349108,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698349108,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698529112,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698529112,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698709114,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698709114,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698889119,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778698889119,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699069122,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699069122,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699249125,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699249125,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699429128,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699429128,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699609130,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699609130,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699789132,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699789132,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699969135,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778699969135,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700149137,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700149137,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700329140,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700329140,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700509142,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700509142,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700689143,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700689143,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700869147,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778700869147,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701049149,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701049149,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701229151,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701229151,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701321266,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701321266,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701501270,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701501270,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701681273,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701681273,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701861275,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778701861275,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702041278,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702041278,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702221280,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702221280,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702401282,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702401282,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702581284,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702581284,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702761287,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702761287,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702941288,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778702941288,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703121289,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703121289,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703301290,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703301290,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703481291,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703481291,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703661294,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703661294,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703841296,
+    "marketId": "1.258095767",
+    "selectionId": "6324464",
+    "selectionName": "Elina Svitolina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778703841296,
+    "marketId": "1.258095767",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

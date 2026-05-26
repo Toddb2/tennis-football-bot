@@ -1,0 +1,452 @@
+[
+  {
+    "timestamp": 1779207790369,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779207790369,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779207879879,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779207879879,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779207969922,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779207969922,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208059962,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208059962,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208150489,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208150489,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208198642,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208198642,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208288592,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208288592,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208378647,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208378647,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208468701,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208468701,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208558726,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208558726,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208648765,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208648765,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208738797,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208738797,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208828838,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208828838,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208918881,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779208918881,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209008933,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209008933,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209098979,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209098979,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209189025,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209189025,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209279069,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209279069,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209369111,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209369111,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209459151,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209459151,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209549198,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209549198,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209729204,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209729204,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209729292,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209729292,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209909297,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209909297,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209909375,
+    "marketId": "1.258389287",
+    "selectionId": "73657730",
+    "selectionName": "Ivan Ivanov",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209909375,
+    "marketId": "1.258389287",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

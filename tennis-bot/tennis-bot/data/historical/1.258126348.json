@@ -1,0 +1,668 @@
+[
+  {
+    "timestamp": 1778688760114,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688760114,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688850105,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688850105,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688940142,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688940142,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689030194,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689030194,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689120238,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689120238,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689210293,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689210293,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689300341,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689300341,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689390378,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689390378,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689480449,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689480449,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689570475,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689570475,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689660540,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689660540,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689750596,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689750596,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930605,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930605,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930686,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930686,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690020739,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690020739,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690110783,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690110783,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690200812,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690200812,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690290855,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690290855,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470863,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470863,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470933,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470933,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690560970,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690560970,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690740977,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690740977,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690741056,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690741056,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690831103,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690831103,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011110,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011110,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011210,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011210,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692227315,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692227315,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692407200,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692407200,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692587203,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692587203,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692767208,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692767208,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692947212,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692947212,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693127215,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693127215,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693217688,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693217688,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693397692,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693397692,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693577696,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693577696,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 190,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693757699,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693757699,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693937702,
+    "marketId": "1.258126348",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693937702,
+    "marketId": "1.258126348",
+    "selectionId": "8173434",
+    "selectionName": "Taro Daniel",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1779716353496,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716353496,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716443483,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716443483,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716533518,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716533518,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716623566,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716623566,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716713625,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716713625,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716893632,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716893632,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716893727,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716893727,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716983779,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779716983779,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717163785,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717163785,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717163889,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717163889,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717253934,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717253934,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717343967,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717343967,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717434014,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717434014,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717524068,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717524068,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717614120,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717614120,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717704178,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717704178,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717794221,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717794221,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717884271,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717884271,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717974308,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717974308,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718064370,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718064370,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718154425,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718154425,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718244464,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718244464,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718334504,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718334504,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718424561,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718424561,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718514612,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718514612,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718604650,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718604650,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718694716,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718694716,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718784742,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718784742,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718874789,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718874789,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718964856,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718964856,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719054887,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719054887,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719144943,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719144943,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719324951,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719324951,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719325027,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719325027,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719415074,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719415074,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719505108,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719505108,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719595178,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719595178,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719685223,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719685223,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719775276,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719775276,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719865325,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719865325,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720045332,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720045332,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720045448,
+    "marketId": "1.258469408",
+    "selectionId": "11174011",
+    "selectionName": "Panna Udvardy",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720045448,
+    "marketId": "1.258469408",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

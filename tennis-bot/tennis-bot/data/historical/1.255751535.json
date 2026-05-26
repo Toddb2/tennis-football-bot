@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1774372186836,
+    "marketId": "1.255751535",
+    "selectionId": "8194278",
+    "selectionName": "Marc Polmans",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774372186836,
+    "marketId": "1.255751535",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774372366792,
+    "marketId": "1.255751535",
+    "selectionId": "8194278",
+    "selectionName": "Marc Polmans",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774372366792,
+    "marketId": "1.255751535",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377610107,
+    "marketId": "1.255751535",
+    "selectionId": "8194278",
+    "selectionName": "Marc Polmans",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377610107,
+    "marketId": "1.255751535",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377790108,
+    "marketId": "1.255751535",
+    "selectionId": "8194278",
+    "selectionName": "Marc Polmans",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377790108,
+    "marketId": "1.255751535",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377911339,
+    "marketId": "1.255751535",
+    "selectionId": "8194278",
+    "selectionName": "Marc Polmans",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377911339,
+    "marketId": "1.255751535",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774378091341,
+    "marketId": "1.255751535",
+    "selectionId": "8194278",
+    "selectionName": "Marc Polmans",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774378091341,
+    "marketId": "1.255751535",
+    "selectionId": "8700270",
+    "selectionName": "Facundo Mena",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  }
+]

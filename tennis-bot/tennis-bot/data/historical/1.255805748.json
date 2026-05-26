@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1774546273819,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774546273819,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774546453751,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774546453751,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774546574806,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774546574806,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774546754808,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774546754808,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774546876062,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774546876062,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547056064,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547056064,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547177369,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547177369,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547357372,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547357372,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547478634,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547478634,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547658637,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547658637,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547779926,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547779926,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547959929,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774547959929,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548081204,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548081204,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548261206,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548261206,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548382494,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548382494,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548562497,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548562497,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548683742,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548683742,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548863744,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548863744,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548985027,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774548985027,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549165030,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549165030,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549286289,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549286289,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549466291,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549466291,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549587548,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549587548,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549767551,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549767551,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549888822,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774549888822,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550068827,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550068827,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550190086,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550190086,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550370087,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550370087,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550491397,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550491397,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550671399,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550671399,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550792664,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550792664,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550972666,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774550972666,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551093954,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551093954,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551273955,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551273955,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551395234,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551395234,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551575235,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551575235,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551698055,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551877975,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774551999254,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774552179255,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774552300555,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774552480557,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774552601944,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774552601944,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774552781945,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774552781945,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774552903221,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774552903221,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774553083224,
+    "marketId": "1.255805748",
+    "selectionId": "69355063",
+    "selectionName": "Luna Maria Cinalli",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774553083224,
+    "marketId": "1.255805748",
+    "selectionId": "9627564",
+    "selectionName": "Victoria Bosio",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

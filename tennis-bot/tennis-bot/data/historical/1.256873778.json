@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1776303941288,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303941288,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304121226,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304121226,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304243046,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304243046,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304423048,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304423048,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304544342,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304544342,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304724343,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304724343,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304845605,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304845605,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305025607,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305025607,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305147523,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305147523,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305327524,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305327524,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305448804,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305448804,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305628806,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305628806,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305750086,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305750086,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307738264,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307738264,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307860188,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307860188,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308040189,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308040189,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308161746,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308161746,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308341748,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308341748,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308463057,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308463057,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308643059,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308643059,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308764331,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308764331,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308944332,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308944332,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309065809,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309065809,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309245810,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309245810,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309367093,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309367093,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309547094,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309547094,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309668359,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309668359,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309848360,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309848360,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309969800,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309969800,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310149802,
+    "marketId": "1.256873778",
+    "selectionId": "39207393",
+    "selectionName": "Ena Koike",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310149802,
+    "marketId": "1.256873778",
+    "selectionId": "10293941",
+    "selectionName": "Eri Shimizu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "timestamp": 1774858361549,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858361549,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858541501,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858541501,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858662771,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858662771,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858842773,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858842773,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858964052,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858964052,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859144054,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859144054,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859265423,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859265423,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859445426,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859445426,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859566755,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859566755,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859746757,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859746757,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859868054,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859868054,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860048055,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860048055,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860169419,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860169419,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860349420,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860349420,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860470839,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860470839,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860650840,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860650840,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860772123,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860772123,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860952125,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860952125,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861073441,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861073441,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861253444,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861253444,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861374718,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861374718,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861554720,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861554720,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861676006,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861676006,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861856008,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861856008,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861977304,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861977304,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862157306,
+    "marketId": "1.256019374",
+    "selectionId": "11144225",
+    "selectionName": "Francesco Forti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862157306,
+    "marketId": "1.256019374",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

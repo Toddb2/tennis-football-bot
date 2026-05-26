@@ -1,0 +1,2936 @@
+[
+  {
+    "timestamp": 1777820395295,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777820395295,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777820575249,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777820575249,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777820696598,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777820696598,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777820876599,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777820876599,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777820998011,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777820998011,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821178013,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821178013,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821299379,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821299379,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821479381,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821479381,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821600701,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821600701,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821780703,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821780703,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821902152,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777821902152,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822082159,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822082159,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822203823,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822203823,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822383826,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822383826,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822505109,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822505109,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822685111,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822685111,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822806560,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822806560,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822986562,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777822986562,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823107955,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823107955,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823287958,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823287958,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823409294,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823409294,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823589296,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823589296,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823710637,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823710637,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823890639,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777823890639,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824011979,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824011979,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824191982,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824191982,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824313326,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824313326,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824493328,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824493328,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824614721,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824614721,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824794723,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824794723,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824916065,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777824916065,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825096067,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825096067,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825217417,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825217417,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825397419,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825397419,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825518839,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825518839,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825698841,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825698841,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825820151,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777825820151,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826000154,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826000154,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826121566,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826121566,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826301569,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826301569,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826422945,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826422945,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826602946,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826602946,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826724257,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826724257,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826904258,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777826904258,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827025595,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827025595,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827205596,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827205596,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827327009,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827327009,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827507010,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827507010,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827628326,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827628326,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827808327,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827808327,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827929641,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777827929641,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828109642,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828109642,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828231056,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828231056,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828411058,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828411058,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828532410,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828532410,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828712413,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828712413,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828833811,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777828833811,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829013813,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829013813,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829135170,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829135170,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829315172,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829315172,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829436551,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829436551,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829616554,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829616554,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829737928,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829737928,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829917940,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777829917940,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830039273,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830039273,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830219275,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830219275,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830340592,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830340592,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830520594,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830520594,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830641900,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830641900,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830821901,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830821901,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830943340,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777830943340,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831123341,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831123341,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831244655,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831244655,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831424656,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831424656,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831546065,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831546065,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831726066,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831726066,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831847391,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777831847391,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832027392,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832027392,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832148696,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832148696,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832328697,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832328697,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832450023,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832450023,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832630025,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832630025,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832751376,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832751376,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832931377,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777832931377,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833052682,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833052682,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833232684,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833232684,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833354083,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833354083,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833534085,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833534085,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833655396,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833655396,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833835398,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833835398,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833956705,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777833956705,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834136706,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834136706,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834258017,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834258017,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834438019,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834438019,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834559414,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834559414,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834739416,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834739416,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834860761,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777834860761,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835040763,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835040763,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835162119,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835162119,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835342120,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835342120,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835463586,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835463586,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835643587,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835643587,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835764907,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835764907,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835944908,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777835944908,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836066278,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836066278,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836246279,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836246279,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836367632,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836367632,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836547633,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836547633,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836668939,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836668939,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836848940,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836848940,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836970284,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777836970284,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837150285,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837150285,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837271683,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837271683,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837451684,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837451684,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837573050,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837573050,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837753051,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837753051,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837874356,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777837874356,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838054358,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838054358,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838175684,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838175684,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838355686,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838355686,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838477017,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838477017,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838657018,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838657018,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838778418,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838778418,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838958419,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777838958419,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839079732,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839079732,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839259733,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839259733,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839381097,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839381097,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839561099,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839561099,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839682488,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839682488,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839862489,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839862489,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839983884,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777839983884,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840163885,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840163885,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840285216,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840285216,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840465217,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840465217,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840586601,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840586601,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840766601,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840766601,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840888000,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777840888000,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841068001,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841068001,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841189378,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841189378,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841369379,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841369379,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841490701,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841490701,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841670702,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841670702,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841792041,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841792041,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841972042,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777841972042,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842093363,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842093363,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842273364,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842273364,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842394741,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842394741,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842574742,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842574742,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842696094,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842696094,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842876095,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842876095,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842997412,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777842997412,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843177412,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843177412,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843298776,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843298776,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843478777,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843478777,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843600178,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843600178,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843780179,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843780179,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843901560,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777843901560,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844081561,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844081561,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844202895,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844202895,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844382895,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844382895,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844504296,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844504296,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844684297,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844684297,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844805635,
+    "marketId": "1.257694902",
+    "selectionId": "13268651",
+    "selectionName": "Julia Riera",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777844805635,
+    "marketId": "1.257694902",
+    "selectionId": "46846061",
+    "selectionName": "Amelia Honer",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

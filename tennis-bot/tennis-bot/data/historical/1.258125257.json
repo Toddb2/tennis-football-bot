@@ -1,0 +1,884 @@
+[
+  {
+    "timestamp": 1778663632107,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663632107,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663722091,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663722091,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663812125,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663812125,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663902182,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663902182,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663992219,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663992219,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664082263,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664082263,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664172305,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664172305,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664262388,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664262388,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664352423,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664352423,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664442459,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664442459,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664537787,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664537787,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664627879,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664627879,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664717914,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664717914,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664807977,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664807977,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664897998,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664897998,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664988047,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664988047,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665078092,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665078092,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665168130,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665168130,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665258175,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665258175,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665348222,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665348222,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665438265,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665438265,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665528295,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665528295,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665618345,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665618345,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665708391,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665708391,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665798447,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665798447,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665888501,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665888501,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665978546,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665978546,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666068593,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666068593,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666158632,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666158632,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666248692,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666248692,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666338723,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666338723,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666428914,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666428914,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608921,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608921,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608994,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608994,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666699044,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666699044,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666789102,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666789102,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666879135,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666879135,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666969188,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666969188,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667059237,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667059237,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667149282,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667149282,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329287,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329287,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329392,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329392,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667419443,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667419443,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667509482,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667509482,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667599530,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667599530,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667689575,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667689575,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667779618,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667779618,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667869666,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667869666,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049673,
+    "marketId": "1.258125257",
+    "selectionId": "65756990",
+    "selectionName": "Joel Schwaerzler",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778668049673,
+    "marketId": "1.258125257",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

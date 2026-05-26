@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1774514760956,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774514760956,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774514940905,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774514940905,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515062214,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515062214,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515242214,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515242214,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515363522,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515363522,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515543523,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515543523,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515664789,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515664789,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515844789,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515844789,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515966065,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774515966065,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516146066,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516146066,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516267357,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516267357,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516447358,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516447358,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516568651,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516568651,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516748652,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516748652,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516869957,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774516869957,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517049958,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517049958,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517171246,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517171246,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517351247,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517351247,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517472539,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517472539,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517652541,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517652541,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517773815,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517773815,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517953816,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774517953816,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518075122,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518075122,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518255124,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518255124,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518376426,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518376426,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518556429,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518556429,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518677687,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518677687,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518857688,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518857688,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518979050,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774518979050,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519159051,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519159051,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519280363,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519280363,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519460366,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519460366,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519526875,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519526875,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519581687,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519581687,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519761690,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519761690,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519883006,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519883006,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520063010,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520063010,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520184312,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520184312,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520364314,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520364314,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520485590,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520485590,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520665593,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520665593,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520786900,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520786900,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520966903,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520966903,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521088193,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521088193,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521268195,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521268195,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521389473,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521389473,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521569475,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521569475,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521690737,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521690737,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521870740,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521870740,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521992022,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521992022,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522172024,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522172024,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522293324,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522293324,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522473326,
+    "marketId": "1.255828426",
+    "selectionId": "20832533",
+    "selectionName": "Linda Klimovicova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522473326,
+    "marketId": "1.255828426",
+    "selectionId": "9630030",
+    "selectionName": "Mariam Bolkvadze",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

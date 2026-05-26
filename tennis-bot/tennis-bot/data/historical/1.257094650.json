@@ -1,0 +1,902 @@
+[
+  {
+    "timestamp": 1776749234101,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749234101,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749414055,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749414055,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749535319,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749535319,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749715321,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749715321,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749836575,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776749836575,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750016576,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750016576,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750137854,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750137854,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750317855,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750317855,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750439167,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750439167,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750619169,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750619169,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750740462,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750740462,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750920463,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776750920463,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751041714,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751041714,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751221716,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751221716,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751342995,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751342995,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751522997,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751522997,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751644748,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751644748,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751824749,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751824749,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751946309,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776751946309,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752126310,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752126310,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752248471,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752248471,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752428473,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752428473,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752549740,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752549740,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752729742,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752729742,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752851076,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776752851076,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753031078,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753031078,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753152351,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753152351,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753332354,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753332354,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753453624,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753453624,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753633625,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753633625,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753760271,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753760271,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753940273,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776753940273,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754061595,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754061595,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754241597,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754241597,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754362986,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754362986,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754542988,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754542988,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754664253,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754664253,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754844256,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754844256,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754965526,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776754965526,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755145527,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755145527,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755266792,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755266792,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755446793,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755446793,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755568735,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755568735,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755748737,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755748737,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755870346,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776755870346,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756050348,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756050348,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756171701,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756171701,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756351703,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756351703,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756473014,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756473014,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756653015,
+    "marketId": "1.257094650",
+    "selectionId": "17980077",
+    "selectionName": "Dane Sweeny",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776756653015,
+    "marketId": "1.257094650",
+    "selectionId": "8699708",
+    "selectionName": "Tung-Lin Wu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

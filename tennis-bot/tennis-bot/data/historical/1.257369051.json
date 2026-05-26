@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": 1777191607501,
+    "marketId": "1.257369051",
+    "selectionId": "11144234",
+    "selectionName": "Federico Iannaccone",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777191607501,
+    "marketId": "1.257369051",
+    "selectionId": "15134248",
+    "selectionName": "Dusan Obradovic",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777191787461,
+    "marketId": "1.257369051",
+    "selectionId": "11144234",
+    "selectionName": "Federico Iannaccone",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777191787461,
+    "marketId": "1.257369051",
+    "selectionId": "15134248",
+    "selectionName": "Dusan Obradovic",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777191908723,
+    "marketId": "1.257369051",
+    "selectionId": "11144234",
+    "selectionName": "Federico Iannaccone",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777191908723,
+    "marketId": "1.257369051",
+    "selectionId": "15134248",
+    "selectionName": "Dusan Obradovic",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192088725,
+    "marketId": "1.257369051",
+    "selectionId": "11144234",
+    "selectionName": "Federico Iannaccone",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192088725,
+    "marketId": "1.257369051",
+    "selectionId": "15134248",
+    "selectionName": "Dusan Obradovic",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192210018,
+    "marketId": "1.257369051",
+    "selectionId": "11144234",
+    "selectionName": "Federico Iannaccone",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192210018,
+    "marketId": "1.257369051",
+    "selectionId": "15134248",
+    "selectionName": "Dusan Obradovic",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192390020,
+    "marketId": "1.257369051",
+    "selectionId": "11144234",
+    "selectionName": "Federico Iannaccone",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192390020,
+    "marketId": "1.257369051",
+    "selectionId": "15134248",
+    "selectionName": "Dusan Obradovic",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192511276,
+    "marketId": "1.257369051",
+    "selectionId": "11144234",
+    "selectionName": "Federico Iannaccone",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192511276,
+    "marketId": "1.257369051",
+    "selectionId": "15134248",
+    "selectionName": "Dusan Obradovic",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192691278,
+    "marketId": "1.257369051",
+    "selectionId": "11144234",
+    "selectionName": "Federico Iannaccone",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777192691278,
+    "marketId": "1.257369051",
+    "selectionId": "15134248",
+    "selectionName": "Dusan Obradovic",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  }
+]

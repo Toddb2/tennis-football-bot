@@ -1,0 +1,560 @@
+[
+  {
+    "timestamp": 1778616063149,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616063149,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616243103,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616243103,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616423104,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616423104,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616513250,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616513250,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616693252,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616693252,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616873253,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616873253,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617053254,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617053254,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617233255,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617233255,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617413256,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617413256,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617503615,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617503615,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617683617,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617683617,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617863618,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778617863618,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618043619,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618043619,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618223620,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618223620,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618403621,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618403621,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618583622,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618583622,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618763623,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618763623,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618943624,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778618943624,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619123625,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619123625,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619303626,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619303626,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619483627,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619483627,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619663628,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619663628,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619754492,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619754492,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619934494,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778619934494,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620114495,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620114495,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620204649,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620204649,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620384651,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620384651,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620564652,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620564652,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620744653,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620744653,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620924654,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778620924654,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778621104655,
+    "marketId": "1.258095629",
+    "selectionId": "11233238",
+    "selectionName": "Thiago Agustin Tirante",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778621104655,
+    "marketId": "1.258095629",
+    "selectionId": "19924831",
+    "selectionName": "Daniil Medvedev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

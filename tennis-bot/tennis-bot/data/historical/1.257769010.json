@@ -1,0 +1,794 @@
+[
+  {
+    "timestamp": 1778059200987,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059200987,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059290930,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059290930,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059380980,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059380980,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059471048,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059471048,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059651054,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059651054,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059651189,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059651189,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059741230,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059741230,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059831283,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059831283,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060011288,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060011288,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060011383,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060011383,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060101434,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060101434,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060191484,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060191484,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060281528,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060281528,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060371581,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060371581,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060461630,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060461630,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060551669,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060551669,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060641723,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060641723,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060731777,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060731777,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060821867,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060821867,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060911919,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060911919,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061001975,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061001975,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061092010,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061092010,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061182051,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061182051,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061272094,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061272094,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061362150,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061362150,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061452190,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061452190,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061542243,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061542243,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061632286,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061632286,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061722337,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061722337,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061812417,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061812417,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061902449,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061902449,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061992481,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778061992481,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062082543,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062082543,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062262547,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062262547,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062262633,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062262633,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062352687,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062352687,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062442722,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062442722,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062532766,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062532766,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062622811,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062622811,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062712863,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062712863,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062802921,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062802921,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062892956,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062892956,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062983000,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778062983000,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778063073053,
+    "marketId": "1.257769010",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778063073053,
+    "marketId": "1.257769010",
+    "selectionId": "9543224",
+    "selectionName": "Vit Kopriva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  }
+]

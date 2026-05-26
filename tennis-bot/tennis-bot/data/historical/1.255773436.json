@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1774410148728,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410148728,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410328689,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410328689,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410449940,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410449940,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410629941,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410629941,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410751215,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410751215,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410931215,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774410931215,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411052455,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411052455,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411232456,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411232456,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411353727,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411353727,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411533729,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411533729,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411655003,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411655003,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411835004,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411835004,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411956263,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774411956263,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412136264,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412136264,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412257535,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412257535,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412437536,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412437536,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412558867,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412558867,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412738867,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412738867,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412860137,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774412860137,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413040138,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413040138,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413161409,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413161409,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413341409,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413341409,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413462675,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413462675,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413642675,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413642675,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413763934,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413763934,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413943934,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774413943934,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414065199,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414065199,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414245200,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414245200,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414366444,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414366444,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414546446,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414546446,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414667746,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414667746,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414847747,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414847747,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414969016,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774414969016,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415149016,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415149016,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415270294,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415270294,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415450295,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415450295,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415571566,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415571566,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415751567,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415751567,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415872819,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774415872819,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416052819,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416052819,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416174104,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416174104,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416354105,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416354105,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416475381,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416475381,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416655381,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416655381,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416776650,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416776650,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416956651,
+    "marketId": "1.255773436",
+    "selectionId": "12646446",
+    "selectionName": "Jiaqi Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774416956651,
+    "marketId": "1.255773436",
+    "selectionId": "21746614",
+    "selectionName": "Aliona Falei",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1774821895041,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774821895041,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822074998,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822074998,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822196304,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822196304,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822376305,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822376305,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822497568,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822497568,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822677569,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822677569,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822798828,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822798828,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822978829,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774822978829,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823100188,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823100188,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823280189,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823280189,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823401542,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823401542,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823581543,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823581543,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823702857,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823702857,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823882857,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774823882857,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824004251,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824004251,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824184251,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824184251,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824305642,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824305642,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824485642,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824485642,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824607018,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824607018,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824787019,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824787019,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824908320,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774824908320,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825088322,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825088322,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825209591,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825209591,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825389593,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825389593,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825510942,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825510942,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825690943,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825690943,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825812312,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825812312,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825992313,
+    "marketId": "1.256028897",
+    "selectionId": "56255632",
+    "selectionName": "Theodore Winegar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774825992313,
+    "marketId": "1.256028897",
+    "selectionId": "45377235",
+    "selectionName": "Rafael Alfonso De Alba ",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

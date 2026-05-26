@@ -1,0 +1,839 @@
+[
+  {
+    "timestamp": 1776992244271,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992725487,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776992725487,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776993328090,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776993328090,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776993930684,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776993930684,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995136083,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995136083,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996040344,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996040344,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126503714,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126503714,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126683719,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126683719,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126805085,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126805085,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126985090,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126985090,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127106346,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127106346,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127286350,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127286350,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127407633,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127407633,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127587639,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127587639,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127708918,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127708918,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127888921,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127888921,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128010225,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128010225,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128190229,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128190229,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128311524,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128311524,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128491529,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128491529,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128612911,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128612911,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128793153,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128793153,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128914192,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128914192,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129094197,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129094197,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129215461,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129215461,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129395465,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129395465,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129516746,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129516746,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129697235,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129697235,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129818049,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129818049,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129998054,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129998054,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130119327,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130119327,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130299331,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130299331,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130420609,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130420609,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130600614,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130600614,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130721881,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130721881,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130901885,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130901885,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131023188,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131023188,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131203194,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131203194,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131324467,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131324467,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131504472,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131504472,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131625817,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131625817,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131805822,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131805822,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131927119,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131927119,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132107124,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132107124,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132228388,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132228388,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132408393,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132408393,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777133312229,
+    "marketId": "1.257238396",
+    "selectionId": "21809027",
+    "selectionName": "Mariano Navone",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777133312229,
+    "marketId": "1.257238396",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

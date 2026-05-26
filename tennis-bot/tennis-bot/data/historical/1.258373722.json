@@ -1,0 +1,740 @@
+[
+  {
+    "timestamp": 1779252136052,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252136052,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252315912,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252315912,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252405988,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252405988,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252496016,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252496016,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252676017,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252676017,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252856018,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779252856018,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253036019,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253036019,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253216020,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253216020,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253396021,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253396021,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253576022,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253576022,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253756023,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253756023,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253936024,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779253936024,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254116025,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254116025,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254296026,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254296026,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254476027,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254476027,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254566730,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254566730,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254746732,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254746732,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254836838,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779254836838,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255016839,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255016839,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255196840,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255196840,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255376841,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255376841,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255556842,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255556842,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255736843,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255736843,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255916844,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779255916844,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256096845,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256096845,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256276846,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256276846,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256456847,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256456847,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256636848,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256636848,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256816849,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256816849,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256996850,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779256996850,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257176852,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257176852,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257356853,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257356853,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257536854,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257536854,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257716855,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257716855,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257896856,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257896856,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257987986,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779257987986,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258167989,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258167989,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258347990,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258347990,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258527991,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258527991,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258707992,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258707992,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258887993,
+    "marketId": "1.258373722",
+    "selectionId": "19931598",
+    "selectionName": "Dominik Palan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779258887993,
+    "marketId": "1.258373722",
+    "selectionId": "11260413",
+    "selectionName": "Alastair Gray",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

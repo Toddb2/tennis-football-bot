@@ -1,0 +1,974 @@
+[
+  {
+    "timestamp": 1778687319306,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687319306,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687409298,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687409298,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687589305,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687589305,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687589430,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687589430,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687679477,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687679477,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687769517,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687769517,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687859573,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687859573,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687949609,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778687949609,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688039658,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688039658,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688219667,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688219667,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688219749,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688219749,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688309794,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688309794,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688399836,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688399836,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688489911,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688489911,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688579950,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688579950,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688670004,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688670004,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688760058,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688760058,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688850105,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688850105,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688940142,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778688940142,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689030194,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689030194,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689120238,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689120238,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689210293,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689210293,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689300341,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689300341,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689390378,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689390378,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689480449,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689480449,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689570475,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689570475,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689660540,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689660540,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689750596,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689750596,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930605,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930605,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930686,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778689930686,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690020739,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690020739,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690110783,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690110783,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690200812,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690200812,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690290855,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690290855,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470863,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470863,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470933,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690470933,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690560970,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690560970,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690740977,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690740977,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690741056,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690741056,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690831103,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778690831103,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011110,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011110,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011210,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778691011210,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692227312,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692227312,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692407200,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692407200,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692587203,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692587203,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692767208,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692767208,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692947212,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778692947212,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693127215,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693127215,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693217688,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693217688,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693397692,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693397692,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693577696,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693577696,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693757699,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693757699,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693937702,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778693937702,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778694117705,
+    "marketId": "1.258127990",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778694117705,
+    "marketId": "1.258127990",
+    "selectionId": "3120169",
+    "selectionName": "Grigor Dimitrov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

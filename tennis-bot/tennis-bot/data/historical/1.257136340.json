@@ -1,0 +1,254 @@
+[
+  {
+    "timestamp": 1776778498349,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778498349,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778678308,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778678308,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778799776,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778799776,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778979778,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776778979778,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779101142,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779101142,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779281144,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779281144,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779402463,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779402463,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779703880,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776779703880,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780005823,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780005823,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780185825,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780185825,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780307642,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780307642,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780487644,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780487644,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780609066,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780609066,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780789070,
+    "marketId": "1.257136340",
+    "selectionId": "9630567",
+    "selectionName": "Alice Rame",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780789070,
+    "marketId": "1.257136340",
+    "selectionId": "68064249",
+    "selectionName": "Noelia Manta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  }
+]

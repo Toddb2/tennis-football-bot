@@ -1,0 +1,434 @@
+[
+  {
+    "timestamp": 1774375501119,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774375501119,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774375681067,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774375681067,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774375802343,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774375802343,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774375982346,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774375982346,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376103619,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376103619,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376283621,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376283621,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376404919,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376404919,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376584922,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376584922,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376706220,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376706220,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376886222,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774376886222,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377007522,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377007522,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377187524,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377187524,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377308781,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377308781,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377488783,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377488783,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377610107,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377610107,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377790108,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377790108,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377911339,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774377911339,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774378091341,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774378091341,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774378212588,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774378212588,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774378392589,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774378392589,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383033022,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383033022,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383213024,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383213024,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383334290,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383334290,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383514293,
+    "marketId": "1.255706236",
+    "selectionId": "9631219",
+    "selectionName": "Valentin Vacherot",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383514293,
+    "marketId": "1.255706236",
+    "selectionId": "38374961",
+    "selectionName": "Arthur Fils",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

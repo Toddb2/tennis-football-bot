@@ -1,0 +1,596 @@
+[
+  {
+    "timestamp": 1778155510148,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155510148,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155600106,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155600106,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155690154,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155690154,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155780195,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155780195,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960200,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960200,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960279,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960279,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156050326,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156050326,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156140389,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156140389,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156230438,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156230438,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156320477,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156320477,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156410531,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156410531,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156500573,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156500573,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156590610,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156590610,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156680660,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156680660,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156770697,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156770697,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156860777,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156860777,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156950822,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156950822,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157040879,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157040879,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220885,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220885,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220994,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220994,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401000,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401000,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401081,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401081,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157491129,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157491129,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157581178,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157581178,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157671214,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157671214,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157761256,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157761256,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157851297,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157851297,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157941342,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157941342,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158031366,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158031366,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158121420,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158121420,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158211453,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158211453,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158301508,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 500,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158301508,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158481512,
+    "marketId": "1.257853894",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158481512,
+    "marketId": "1.257853894",
+    "selectionId": "51395204",
+    "selectionName": "Sorana Cirstea ",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

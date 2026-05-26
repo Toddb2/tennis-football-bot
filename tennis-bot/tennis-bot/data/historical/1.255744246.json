@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 1774379417721,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774379417721,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774379597661,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774379597661,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774379718966,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774379718966,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774379898968,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774379898968,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380020270,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380020270,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380200273,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380200273,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380321559,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380321559,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380501560,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380501560,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380622819,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380622819,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380802820,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380802820,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380924119,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774380924119,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381104120,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381104120,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381225371,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381225371,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381405372,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381405372,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381526627,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381526627,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381706633,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381706633,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381827992,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774381827992,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382007993,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382007993,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382129265,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382129265,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382309267,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382309267,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382430507,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382430507,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382610510,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382610510,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382731757,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382731757,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382911760,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774382911760,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383033022,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383033022,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383213024,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383213024,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383334290,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383334290,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383514293,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383514293,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383636571,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383636571,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383816574,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383816574,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383937851,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774383937851,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384117854,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384117854,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384239138,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384239138,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384419139,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384419139,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384540407,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384540407,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384720409,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384720409,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384841696,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774384841696,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774385021700,
+    "marketId": "1.255744246",
+    "selectionId": "69058169",
+    "selectionName": "Samuel Alejandro Linde ",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774385021700,
+    "marketId": "1.255744246",
+    "selectionId": "21256235",
+    "selectionName": "Christopher Li",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

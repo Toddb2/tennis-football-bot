@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1777373797857,
+    "marketId": "1.257363031",
+    "selectionId": "10460261",
+    "selectionName": "Henri Squire",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777373797857,
+    "marketId": "1.257363031",
+    "selectionId": "10033649",
+    "selectionName": "Ugo Blanchet",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777373977803,
+    "marketId": "1.257363031",
+    "selectionId": "10460261",
+    "selectionName": "Henri Squire",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777373977803,
+    "marketId": "1.257363031",
+    "selectionId": "10033649",
+    "selectionName": "Ugo Blanchet",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374099108,
+    "marketId": "1.257363031",
+    "selectionId": "10460261",
+    "selectionName": "Henri Squire",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374099108,
+    "marketId": "1.257363031",
+    "selectionId": "10033649",
+    "selectionName": "Ugo Blanchet",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374279111,
+    "marketId": "1.257363031",
+    "selectionId": "10460261",
+    "selectionName": "Henri Squire",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374279111,
+    "marketId": "1.257363031",
+    "selectionId": "10033649",
+    "selectionName": "Ugo Blanchet",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374400437,
+    "marketId": "1.257363031",
+    "selectionId": "10460261",
+    "selectionName": "Henri Squire",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374400437,
+    "marketId": "1.257363031",
+    "selectionId": "10033649",
+    "selectionName": "Ugo Blanchet",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374580439,
+    "marketId": "1.257363031",
+    "selectionId": "10460261",
+    "selectionName": "Henri Squire",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374580439,
+    "marketId": "1.257363031",
+    "selectionId": "10033649",
+    "selectionName": "Ugo Blanchet",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  }
+]

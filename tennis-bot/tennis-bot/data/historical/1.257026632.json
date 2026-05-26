@@ -1,0 +1,794 @@
+[
+  {
+    "timestamp": 1776812843743,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776812843743,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813023695,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813023695,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813145217,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813145217,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813325219,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813325219,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813447154,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813447154,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813627155,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813627155,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813749292,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813749292,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813929293,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776813929293,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814050827,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814050827,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814230829,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814230829,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814352101,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814352101,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814532102,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814532102,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814653366,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814653366,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814833367,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814833367,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814954660,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776814954660,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815134661,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815134661,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815255953,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815255953,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815435955,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815435955,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815558356,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815558356,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815738357,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815738357,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815863612,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776815863612,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816043613,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816043613,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816164895,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816164895,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816344896,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816344896,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816466608,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816466608,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816646609,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816646609,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816767980,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816767980,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816947981,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776816947981,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817069233,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817069233,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817249234,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817249234,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817370559,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817370559,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817550560,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817550560,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817671866,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817671866,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817851867,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817851867,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817973287,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776817973287,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818153288,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818153288,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818275114,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818275114,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818455114,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818455114,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818582863,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818582863,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818762864,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818762864,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818885607,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776818885607,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776819065608,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776819065608,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776819186895,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776819186895,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776819366895,
+    "marketId": "1.257026632",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776819366895,
+    "marketId": "1.257026632",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

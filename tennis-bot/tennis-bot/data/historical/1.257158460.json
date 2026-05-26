@@ -1,0 +1,938 @@
+[
+  {
+    "timestamp": 1776841226569,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841226569,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841406516,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841406516,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841527971,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841527971,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841707972,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841707972,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841830286,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841830286,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842010287,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842010287,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842132950,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842132950,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842312951,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842312951,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842434257,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842434257,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842614258,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842614258,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842735756,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842735756,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842915757,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842915757,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843037035,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843037035,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843217037,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843217037,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843338288,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843338288,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843518289,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843518289,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843639642,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843639642,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843819643,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843819643,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843941813,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843941813,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844121814,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844121814,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844243077,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844243077,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844423079,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844423079,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844544907,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844544907,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844724910,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844724910,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844846197,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844846197,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845026199,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845026199,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845148639,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845148639,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845328640,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845328640,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845449902,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845449902,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845629903,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845629903,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845751486,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845751486,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845931487,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845931487,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846052739,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846052739,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846232740,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846232740,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846354369,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846354369,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846534371,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846534371,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846655895,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846655895,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846835898,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846835898,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846957828,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846957828,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847137829,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847137829,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847259795,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847259795,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847439796,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847439796,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847561049,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847561049,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847741050,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847741050,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847862397,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776847862397,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848042399,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848042399,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848163653,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848163653,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848343654,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848343654,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848464965,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848464965,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848644966,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848644966,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848766239,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848766239,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848946240,
+    "marketId": "1.257158460",
+    "selectionId": "9028628",
+    "selectionName": "Justina Mikulskyte",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776848946240,
+    "marketId": "1.257158460",
+    "selectionId": "9629413",
+    "selectionName": "Amy Zhu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

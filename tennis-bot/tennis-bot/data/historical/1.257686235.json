@@ -1,0 +1,812 @@
+[
+  {
+    "timestamp": 1778011872889,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778011872889,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012052842,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012052842,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012232843,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012232843,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012412845,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012412845,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012503090,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012503090,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012683092,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012683092,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012863093,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778012863093,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013043094,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013043094,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013223095,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013223095,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013403096,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013403096,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013493455,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013493455,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013583506,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013583506,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013763509,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013763509,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013943510,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778013943510,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014123511,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014123511,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014213731,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014213731,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014393733,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014393733,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014573735,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014573735,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014753737,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014753737,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014933740,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778014933740,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015113741,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015113741,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015293742,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015293742,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015473743,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015473743,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015564399,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015564399,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015744401,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015744401,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015924402,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778015924402,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016104403,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016104403,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016284404,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016284404,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016464405,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016464405,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016644406,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016644406,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016824407,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778016824407,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017004408,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017004408,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017184409,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017184409,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017364410,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017364410,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017544411,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017544411,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017724412,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017724412,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017904413,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778017904413,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018084414,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018084414,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018264415,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018264415,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018444416,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018444416,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018624417,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018624417,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018804418,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018804418,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018984419,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778018984419,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019164420,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019164420,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019344422,
+    "marketId": "1.257686235",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778019344422,
+    "marketId": "1.257686235",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

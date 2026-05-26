@@ -1,0 +1,722 @@
+[
+  {
+    "timestamp": 1779368892949,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779368892949,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369072905,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369072905,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369073002,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369073002,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369163030,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369163030,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369253082,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369253082,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369343113,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369343113,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369433157,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369433157,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369613162,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369613162,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369703306,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369703306,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369793355,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369793355,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369883398,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369883398,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369973433,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779369973433,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370063479,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370063479,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370243484,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370243484,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370243567,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370243567,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370333622,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370333622,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370423649,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370423649,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370513692,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370513692,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370603744,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370603744,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370693789,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370693789,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370853766,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779370853766,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371033676,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371033676,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371123858,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371123858,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371303864,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371303864,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371303961,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371303961,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371528283,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371528283,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371618249,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371618249,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371708310,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371708310,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371798366,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371798366,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371888392,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371888392,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371978437,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779371978437,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372068482,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372068482,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372158532,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372158532,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372248575,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372248575,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372338640,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372338640,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372406166,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372406166,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372496222,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372496222,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372586279,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372586279,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372676364,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372676364,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372766394,
+    "marketId": "1.258428796",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779372766394,
+    "marketId": "1.258428796",
+    "selectionId": "9629711",
+    "selectionName": "Casper Ruud",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  }
+]

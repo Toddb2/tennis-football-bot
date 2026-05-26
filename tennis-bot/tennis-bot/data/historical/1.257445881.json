@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1777368072275,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368072275,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368252220,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368252220,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368373522,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368373522,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368553525,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368553525,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368674890,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368674890,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368854892,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368854892,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368976237,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777368976237,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369156242,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369156242,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369277544,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369277544,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369457547,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369457547,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369578929,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369578929,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369758934,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369758934,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369880335,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777369880335,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370060337,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370060337,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370181649,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370181649,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370361651,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370361651,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370482956,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370482956,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370662958,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370662958,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370784426,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370784426,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370964429,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777370964429,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371085761,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371085761,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371265765,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371265765,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371688463,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371688463,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371868464,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371868464,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371989773,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371989773,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777372169775,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777372169775,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777372291127,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777372291127,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777372471132,
+    "marketId": "1.257445881",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777372471132,
+    "marketId": "1.257445881",
+    "selectionId": "38309200",
+    "selectionName": "Sean Cuenin",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  }
+]

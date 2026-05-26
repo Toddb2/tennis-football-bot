@@ -1,0 +1,812 @@
+[
+  {
+    "timestamp": 1776849067682,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849067682,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849247606,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849247606,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849368960,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849368960,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849548962,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849548962,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849670258,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849670258,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849850261,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849850261,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849971579,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776849971579,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850151581,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850151581,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850272850,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850272850,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850452853,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850452853,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850574131,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850574131,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850754135,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850754135,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850875431,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776850875431,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851055436,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851055436,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851176765,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851176765,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851356769,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851356769,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851478075,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851478075,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851658079,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851658079,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851779334,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851779334,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851959339,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776851959339,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852080605,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852080605,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852260609,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852260609,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852381858,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852381858,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852561861,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852561861,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852683270,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852683270,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852863273,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852863273,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852984533,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776852984533,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853164537,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853164537,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853285887,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853285887,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853465890,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853465890,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853587159,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853587159,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853767162,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853767162,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853888462,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776853888462,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854068467,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854068467,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854189751,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854189751,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854369755,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854369755,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854491139,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854491139,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854671143,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854671143,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854792430,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854792430,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854972435,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776854972435,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855093709,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855093709,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855273714,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855273714,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855395084,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855395084,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855575087,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855575087,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855696393,
+    "marketId": "1.257064346",
+    "selectionId": "12177911",
+    "selectionName": "Zeynep Sonmez",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776855696393,
+    "marketId": "1.257064346",
+    "selectionId": "12177904",
+    "selectionName": "Carlota Martinez Cirez",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

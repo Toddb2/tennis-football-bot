@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1779379817638,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379817638,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379997600,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379997600,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380177604,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380177604,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380357607,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380357607,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380537610,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380537610,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380717613,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380717613,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380897616,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380897616,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380898655,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380898655,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381078659,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381078659,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381258663,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381258663,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381348853,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381348853,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381528859,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381528859,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381708864,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381708864,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381888867,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381888867,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382068871,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382068871,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382248875,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382248875,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382428878,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382428878,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382608883,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382608883,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382788886,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382788886,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382968892,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779382968892,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383148896,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383148896,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383328900,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383328900,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383508903,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383508903,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383688906,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383688906,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383868910,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779383868910,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384048913,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384048913,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384228917,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384228917,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384408920,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384408920,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384588924,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384588924,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384768927,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384768927,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384948931,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779384948931,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385128933,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385128933,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385308936,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385308936,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385488940,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385488940,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385668943,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385668943,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385848946,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779385848946,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386028949,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386028949,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386031951,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386031951,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386211955,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386211955,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386391958,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386391958,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386392089,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386392089,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386572093,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386572093,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386752096,
+    "marketId": "1.258435071",
+    "selectionId": "38374924",
+    "selectionName": "Alex Michelsen",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779386752096,
+    "marketId": "1.258435071",
+    "selectionId": "42082091",
+    "selectionName": "Learner Tien",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

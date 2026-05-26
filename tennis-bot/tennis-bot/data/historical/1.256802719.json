@@ -1,0 +1,974 @@
+[
+  {
+    "timestamp": 1776271976925,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776271976925,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272156881,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272156881,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272278230,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272278230,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272458234,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272458234,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272579530,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272579530,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272759533,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272759533,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272880868,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776272880868,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273060874,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273060874,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273182430,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273182430,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273362434,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273362434,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273483494,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273483494,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273663496,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273663496,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273784772,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273784772,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273964776,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776273964776,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274086820,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274086820,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274266824,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274266824,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274388813,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274388813,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274568817,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274568817,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274690145,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274690145,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274870149,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274870149,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274992299,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776274992299,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275172302,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275172302,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275294013,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275294013,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275474017,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275474017,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275595289,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275595289,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275775293,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275775293,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275896576,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275896576,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276076580,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276076580,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276198493,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276198493,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276378495,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276378495,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276499805,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276499805,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276679809,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276679809,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276801104,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276801104,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276981107,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276981107,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277103867,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277103867,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277283870,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277283870,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277405151,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277405151,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277585154,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277585154,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277706458,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277706458,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277886460,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277886460,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278007938,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278007938,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278187940,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278187940,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278309743,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278309743,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278489745,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278489745,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278611280,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278611280,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278791283,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278791283,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278913378,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278913378,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279093382,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279093382,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279214739,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279214739,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279394742,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279394742,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279516546,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279516546,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279696547,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279696547,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279817819,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279817819,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279997821,
+    "marketId": "1.256802719",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279997821,
+    "marketId": "1.256802719",
+    "selectionId": "10555106",
+    "selectionName": "Jurij Rodionov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

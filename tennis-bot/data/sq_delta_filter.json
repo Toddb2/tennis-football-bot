@@ -1,0 +1,29 @@
+{
+  "name": "Delta Quality v1",
+  "description": "Per-strategy sqDiffTrigger (bet SQ minus opp SQ at trigger set) range. null = no filter for that strategy.",
+  "source": "image upload 2026-05-24",
+  "activatedAt": "2026-05-24T13:00:00.000Z",
+  "ranges": {
+    "Strat10P1": null,
+    "Strat10P2": { "min": -20, "max":  40 },
+    "Strat11P1": { "min": -40, "max":  20 },
+    "Strat11P2": { "min": -20, "max":  40 },
+    "Strat12P1": { "min": -10, "max":  50 },
+    "Strat12P2": { "min": -40, "max":  20 },
+    "Strat1h":   null,
+    "Strat2":    null,
+    "Strat2h":   null,
+    "Strat3h":   null,
+    "Strat4":    null,
+    "Strat4h":   null,
+    "Strat5P1":  null,
+    "Strat5P2":  null,
+    "Strat6P2":  null,
+    "Strat7P1":  { "min": -10, "max":  40 },
+    "Strat7P2":  { "min": -40, "max":  10 },
+    "Strat8P1":  null,
+    "Strat8P2":  null,
+    "Strat9P1":  { "min": -40, "max":  10 },
+    "Strat9P2":  { "min": -10, "max":  40 }
+  }
+}

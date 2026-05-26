@@ -1,0 +1,942 @@
+{
+  "probabilityModel": {
+    "minGamesForLiveStats": 3,
+    "fullTrustAfterGames": 10,
+    "surfaceAdjustment": true,
+    "surfaces": [
+      "clay",
+      "hard",
+      "grass"
+    ]
+  },
+  "signalEngine": {
+    "minEdgePercent": 3,
+    "minMatchedVolume": 5000,
+    "onlyEntryAfterBreak": false
+  },
+  "liquidity": {
+    "minPreMatchVolume": 20000,
+    "minVolumeAtTrigger": 100000
+  },
+  "riskManager": {
+    "stakeGBP": 2,
+    "maxOpenBets": 10
+  },
+  "filters": {
+    "allowedTournaments": [],
+    "blockedTournaments": [
+      "ITF"
+    ],
+    "minOddsToBack": 1.3,
+    "maxOddsToBack": 6,
+    "minOddsToLay": 1.1,
+    "maxOddsToLay": 4,
+    "surfaces": [
+      "clay",
+      "hard",
+      "grass"
+    ]
+  },
+  "bfbmExportSettings": {
+    "enabled": true
+  },
+  "telegramSettings": {
+    "notifyBetPlaced": true,
+    "notifyTradeOut": true,
+    "notifyStopLoss": true,
+    "notifySystemMatch": true,
+    "notifyLowLiquidity": false,
+    "notifyError": true
+  },
+  "systems": [
+    {
+      "name": "Strat1h",
+      "description": "Bet on: P1 | Side: LAY | Pre-match: P1 odds 1.75-2.30 | In-play LAY odds: 1.20-1.40 | Trigger: end of Set 1, P1 wins 6-4/7-5/7-6 | Exit: hedge if P1 loses Set 2 (level at 1-1)",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "set_result",
+        "setNumber": 2,
+        "hedgeWhen": "bet_player_loses_set"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "B",
+          "allowedSetScores": [
+            "6-4",
+            "7-5",
+            "7-6"
+          ],
+          "preMatchOddsWinner": {
+            "min": 1.75,
+            "max": 2.3
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "LAY",
+          "minOdds": 1.2,
+          "maxOdds": 1.4
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat2",
+      "description": "Bet on: P1 (favourite) | Side: BACK | Pre-match: P1 odds 1.10-1.60 | In-play BACK odds: 1.60-3.00 | Trigger: end of Set 1, P1 loses 4-6/5-7/6-7 | Exit: straight bet to settlement, no hedge",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "A",
+          "allowedSetScores": [
+            "4-6",
+            "5-7",
+            "6-7"
+          ],
+          "preMatchOddsLoser": {
+            "min": 1.1,
+            "max": 1.6
+          }
+        },
+        "entry": {
+          "player": "loser",
+          "side": "BACK",
+          "minOdds": 1.6,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat2h",
+      "description": "Bet on: P1 (favourite) | Side: BACK | Pre-match: P1 odds 1.10-1.60 | In-play BACK odds: 1.60-3.00 | Trigger: end of Set 1, P1 loses 4-6/5-7/6-7 | Exit: hedge if P1 wins Set 2 (level at 1-1)",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "set_result",
+        "setNumber": 2,
+        "hedgeWhen": "bet_player_wins_set"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "A",
+          "allowedSetScores": [
+            "4-6",
+            "5-7",
+            "6-7"
+          ],
+          "preMatchOddsLoser": {
+            "min": 1.1,
+            "max": 1.6
+          }
+        },
+        "entry": {
+          "player": "loser",
+          "side": "BACK",
+          "minOdds": 1.6,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat3h",
+      "description": "Bet on: P2 | Side: LAY | Pre-match: P2 odds 1.75-2.30 | In-play LAY odds: 1.20-1.40 | Trigger: end of Set 1, P2 wins 6-4/7-5/7-6 (i.e. P1 loses 4-6/5-7/6-7) | Exit: hedge if P2 loses Set 2 (level at 1-1)",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "set_result",
+        "setNumber": 2,
+        "hedgeWhen": "bet_player_loses_set"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "A",
+          "allowedSetScores": [
+            "4-6",
+            "5-7",
+            "6-7"
+          ],
+          "preMatchOddsWinner": {
+            "min": 1.75,
+            "max": 2.3
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "LAY",
+          "minOdds": 1.2,
+          "maxOdds": 1.4
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat4",
+      "description": "Bet on: P2 (favourite) | Side: BACK | Pre-match: P2 odds 1.10-1.60 | In-play BACK odds: 1.60-3.00 | Trigger: end of Set 1, P2 loses 6-4/7-5/7-6 (i.e. P1 wins 6-4/7-5/7-6) | Exit: straight bet to settlement, no hedge",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "B",
+          "allowedSetScores": [
+            "6-4",
+            "7-5",
+            "7-6"
+          ],
+          "preMatchOddsLoser": {
+            "min": 1.1,
+            "max": 1.6
+          }
+        },
+        "entry": {
+          "player": "loser",
+          "side": "BACK",
+          "minOdds": 1.6,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat4h",
+      "description": "Bet on: P2 (favourite) | Side: BACK | Pre-match: P2 odds 1.10-1.60 | In-play BACK odds: 1.60-3.00 | Trigger: end of Set 1, P2 loses 6-4/7-5/7-6 | Exit: hedge if P2 wins Set 2 (level at 1-1)",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "set_result",
+        "setNumber": 2,
+        "hedgeWhen": "bet_player_wins_set"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "B",
+          "allowedSetScores": [
+            "6-4",
+            "7-5",
+            "7-6"
+          ],
+          "preMatchOddsLoser": {
+            "min": 1.1,
+            "max": 1.6
+          }
+        },
+        "entry": {
+          "player": "loser",
+          "side": "BACK",
+          "minOdds": 1.6,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat5",
+      "description": "Bet on: highest-momentum player (P1 or P2 — splits into Strat5-P1 / Strat5-P2) | Side: BACK | Pre-match: BOTH players 1.80-2.20 (even match) | In-play BACK odds: 1.70-2.30 | Trigger: start of Set 3 (sets 1-1) on player whose momentum > opponent | Exit: straight bet to settlement, no hedge. Experimental — needs minMatchedVolume £100k+.",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ],
+        "momentumFavoursBetPlayer": true,
+        "minMatchedVolume": 100000
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 2,
+          "preMatchOddsWinner": {
+            "min": 1.8,
+            "max": 2.2
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.7,
+          "maxOdds": 2.3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat6",
+      "description": "Bet on: Set 2 winner (P1 or P2 — splits into Strat6-P1 / Strat6-P2) | Side: LAY | Pre-match: winner 1.20-1.80 | In-play LAY odds: 1.10-1.30 | Trigger: end of Set 2, bet player wins 6-4/7-5/7-6 AND momentum favours bet player | Exit: hedge if bet player loses Set 3. minMatchedVolume £100k+.",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ],
+        "minMatchedVolume": 100000,
+        "momentumFavoursBetPlayer": true
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "set_result",
+        "setNumber": 2,
+        "hedgeWhen": "bet_player_loses_set"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 2,
+          "allowedSetScores": [
+            "6-4",
+            "7-5",
+            "7-6"
+          ],
+          "preMatchOddsWinner": {
+            "min": 1.2,
+            "max": 1.8
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "LAY",
+          "minOdds": 1.1,
+          "maxOdds": 1.3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat7_P1",
+      "description": "Bet on: P1 (Set 2 winner; P1-side) | Side: BACK | Pre-match: any | In-play BACK odds: 1.40-3.00 | Trigger: end of Set 2, sets split 1-1 with P1 winning Set 2 (6-4/6-3/6-2/6-1/6-0/7-5/7-6) | Exit: straight bet to settlement. Source: 184-match study, +25.9% EV n=89.",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 2,
+          "loserMustBe": "B",
+          "requireSplitSets": true,
+          "allowedSetScores": [
+            "6-4",
+            "6-3",
+            "6-2",
+            "6-1",
+            "6-0",
+            "7-5",
+            "7-6"
+          ]
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.4,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat8_P1",
+      "description": "Bet on: P1 (Set 1 underdog winner; P1-side) | Side: BACK | Pre-match: P1 odds 2.50+ (underdog) | In-play BACK odds: 1.50-3.00 | Trigger: end of Set 1, P1 wins (6-4/6-3/6-2/6-1/6-0/7-5/7-6) | Exit: straight bet to settlement. Source: 184-match study, +16.6% EV n=49.",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "B",
+          "allowedSetScores": [
+            "6-4",
+            "6-3",
+            "6-2",
+            "6-1",
+            "6-0",
+            "7-5",
+            "7-6"
+          ],
+          "preMatchOddsWinner": {
+            "min": 2.5,
+            "max": 99
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.5,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat9_P1",
+      "description": "Bet on: P1 (Set 1 loser drifting; P1-side) | Side: BACK | Pre-match: any | In-play BACK odds: 3.00-10.00 (drifted) | Trigger: end of Set 1, P1 loses (4-6/5-7/6-7/3-6/2-6/1-6/0-6) AND post-S1 odds in 3.0-10.0 band | Exit: straight bet to settlement. Source: 184-match study, +30.6% EV n=99.",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "A",
+          "allowedSetScores": [
+            "4-6",
+            "5-7",
+            "6-7",
+            "3-6",
+            "2-6",
+            "1-6",
+            "0-6"
+          ]
+        },
+        "entry": {
+          "player": "loser",
+          "side": "BACK",
+          "minOdds": 3,
+          "maxOdds": 10
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat10_P1",
+      "description": "Bet on: P1 (Set 1 winner with serve edge; P1-side) | Side: BACK | Pre-match: any | In-play BACK odds: 1.50-3.00 | Trigger: end of Set 1, P1 wins (6-4/6-3/6-2/6-1/6-0/7-5/7-6) AND P1's 1st-serve-won % is ≥20pp higher than P2's | Exit: straight bet to settlement. Source: 184-match study, +18.4% EV n=22 (1.5-3.0 band).",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ],
+        "minFirstServeWonDiff": 20
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "B",
+          "allowedSetScores": [
+            "6-4",
+            "6-3",
+            "6-2",
+            "6-1",
+            "6-0",
+            "7-5",
+            "7-6"
+          ],
+          "filters": {
+            "p1MinFirstServeWon": 60,
+            "p2MaxFirstServeWon": 40
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.5,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat11_P1",
+      "description": "Bet on: P1 (Set 2 winner with serve edge; P1-side) | Side: BACK | Pre-match: any | In-play BACK odds: 1.50-3.00 | Trigger: end of Set 2, sets split 1-1, P1 wins Set 2 (6-4/6-3/6-2/6-1/6-0/7-5/7-6) AND P1's S2 1st-serve-won % is ≥10pp higher than P2's | Exit: straight bet to settlement. Source: 184-match study, +5.7% EV n=29 (tighter Strat7).",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ],
+        "minFirstServeWonDiff": 10
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 2,
+          "loserMustBe": "B",
+          "requireSplitSets": true,
+          "allowedSetScores": [
+            "6-4",
+            "6-3",
+            "6-2",
+            "6-1",
+            "6-0",
+            "7-5",
+            "7-6"
+          ],
+          "filters": {
+            "p1MinFirstServeWon": 55,
+            "p2MaxFirstServeWon": 45
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.5,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat12_P1",
+      "description": "Bet on: P1 (pre-match favourite recovering; P1-side) | Side: BACK | Pre-match: P1 odds 1.01-1.99 (favourite) | In-play BACK odds: 1.01-3.00 | Trigger: end of Set 2, sets split 1-1, P1 won Set 2 (6-4/6-3/6-2/6-1/6-0/7-5/7-6) after losing Set 1 | Exit: straight bet to settlement. Source: 184-match study, -2.9% EV n=50 (NEGATIVE — leave DISABLED unless paper-trading).",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 2,
+          "loserMustBe": "B",
+          "requireSplitSets": true,
+          "allowedSetScores": [
+            "6-4",
+            "6-3",
+            "6-2",
+            "6-1",
+            "6-0",
+            "7-5",
+            "7-6"
+          ],
+          "preMatchOddsWinner": {
+            "min": 1.01,
+            "max": 1.99
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.01,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat7_P2",
+      "description": "Bet on: P2 (Set 2 winner; P2-side mirror of Strat7_P1) | Side: BACK | Pre-match: any | In-play BACK odds: 1.40-3.00 | Trigger: end of Set 2, sets split 1-1 with P2 winning Set 2 (4-6/3-6/2-6/1-6/0-6/5-7/6-7) | Exit: straight bet to settlement. Source: 184-match study, +25.9% EV n=89 (untested on P2-side; no live bets yet).",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 2,
+          "loserMustBe": "A",
+          "requireSplitSets": true,
+          "allowedSetScores": [
+            "4-6",
+            "3-6",
+            "2-6",
+            "1-6",
+            "0-6",
+            "5-7",
+            "6-7"
+          ]
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.4,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat8_P2",
+      "description": "Bet on: P2 (Set 1 underdog winner; P2-side mirror of Strat8_P1) | Side: BACK | Pre-match: P2 odds 2.50+ (underdog) | In-play BACK odds: 1.50-3.00 | Trigger: end of Set 1, P2 wins (4-6/3-6/2-6/1-6/0-6/5-7/6-7) | Exit: straight bet to settlement. Source: 184-match study, +16.6% EV n=49 (untested on P2-side; no live bets yet).",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "A",
+          "allowedSetScores": [
+            "4-6",
+            "3-6",
+            "2-6",
+            "1-6",
+            "0-6",
+            "5-7",
+            "6-7"
+          ],
+          "preMatchOddsWinner": {
+            "min": 2.5,
+            "max": 99
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.5,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat9_P2",
+      "description": "Bet on: P2 (Set 1 loser drifting; P2-side mirror of Strat9_P1) | Side: BACK | Pre-match: any | In-play BACK odds: 3.00-10.00 (drifted) | Trigger: end of Set 1, P2 loses (6-4/7-5/7-6/6-3/6-2/6-1/6-0) AND post-S1 odds in 3.0-10.0 band | Exit: straight bet to settlement. Source: 184-match study, +30.6% EV n=99 (untested on P2-side; no live bets yet).",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "B",
+          "allowedSetScores": [
+            "6-4",
+            "7-5",
+            "7-6",
+            "6-3",
+            "6-2",
+            "6-1",
+            "6-0"
+          ]
+        },
+        "entry": {
+          "player": "loser",
+          "side": "BACK",
+          "minOdds": 3,
+          "maxOdds": 10
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat10_P2",
+      "description": "Bet on: P2 (Set 1 winner with serve edge; P2-side mirror of Strat10_P1) | Side: BACK | Pre-match: any | In-play BACK odds: 1.50-3.00 | Trigger: end of Set 1, P2 wins (4-6/3-6/2-6/1-6/0-6/5-7/6-7) AND P2's 1st-serve-won % is ≥20pp higher than P1's | Exit: straight bet to settlement. Source: 184-match study, +18.4% EV n=22 (1.5-3.0 band) (untested on P2-side; no live bets yet).",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ],
+        "minFirstServeWonDiff": 20
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 1,
+          "loserMustBe": "A",
+          "allowedSetScores": [
+            "4-6",
+            "3-6",
+            "2-6",
+            "1-6",
+            "0-6",
+            "5-7",
+            "6-7"
+          ],
+          "filters": {
+            "p2MinFirstServeWon": 60,
+            "p1MaxFirstServeWon": 40
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.5,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat11_P2",
+      "description": "Bet on: P2 (Set 2 winner with serve edge; P2-side mirror of Strat11_P1) | Side: BACK | Pre-match: any | In-play BACK odds: 1.50-3.00 | Trigger: end of Set 2, sets split 1-1, P2 wins Set 2 (4-6/3-6/2-6/1-6/0-6/5-7/6-7) AND P2's S2 1st-serve-won % is ≥10pp higher than P1's | Exit: straight bet to settlement. Source: 184-match study, +5.7% EV n=29 (tighter Strat7) (untested on P2-side; no live bets yet).",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ],
+        "minFirstServeWonDiff": 10
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 2,
+          "loserMustBe": "A",
+          "requireSplitSets": true,
+          "allowedSetScores": [
+            "4-6",
+            "3-6",
+            "2-6",
+            "1-6",
+            "0-6",
+            "5-7",
+            "6-7"
+          ],
+          "filters": {
+            "p2MinFirstServeWon": 55,
+            "p1MaxFirstServeWon": 45
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.5,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "name": "Strat12_P2",
+      "description": "Bet on: P2 (pre-match favourite recovering; P2-side mirror of Strat12_P1) | Side: BACK | Pre-match: P2 odds 1.01-1.99 (favourite) | In-play BACK odds: 1.01-3.00 | Trigger: end of Set 2, sets split 1-1, P2 won Set 2 (4-6/3-6/2-6/1-6/0-6/5-7/6-7) after losing Set 1 | Exit: straight bet to settlement. Source: 184-match study, -2.9% EV n=50 (NEGATIVE — leave DISABLED unless paper-trading).",
+      "enabled": true,
+      "filters": {
+        "surfaces": [
+          "hard",
+          "clay",
+          "grass"
+        ]
+      },
+      "staking": {
+        "stakeGBP": 2
+      },
+      "exit": {
+        "type": "none"
+      },
+      "backtest": {
+        "trigger": {
+          "setNumber": 2,
+          "loserMustBe": "A",
+          "requireSplitSets": true,
+          "allowedSetScores": [
+            "4-6",
+            "3-6",
+            "2-6",
+            "1-6",
+            "0-6",
+            "5-7",
+            "6-7"
+          ],
+          "preMatchOddsWinner": {
+            "min": 1.01,
+            "max": 1.99
+          }
+        },
+        "entry": {
+          "player": "winner",
+          "side": "BACK",
+          "minOdds": 1.01,
+          "maxOdds": 3
+        },
+        "exit": {
+          "type": "none"
+        }
+      }
+    }
+  ]
+}

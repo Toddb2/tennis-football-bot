@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1776737777704,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776737777704,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776737957660,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776737957660,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738079337,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738079337,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738259338,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738259338,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738380610,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738380610,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738560611,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738560611,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738681864,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738681864,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738861865,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738861865,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738983119,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776738983119,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739163121,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739163121,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739284922,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739284922,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739464924,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739464924,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739586377,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739586377,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739766378,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739766378,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739887696,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776739887696,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740067697,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740067697,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740189383,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740189383,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740369384,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740369384,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740491492,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740491492,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740671493,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740671493,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740792754,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740792754,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740972756,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776740972756,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741094016,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741094016,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741274017,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741274017,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741395311,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741395311,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741575312,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741575312,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741696829,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741696829,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741876831,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741876831,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741998097,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776741998097,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742178098,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742178098,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742299357,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742299357,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742479358,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742479358,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742600624,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742600624,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742780625,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742780625,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742902369,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776742902369,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743082370,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743082370,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743203928,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743203928,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743383929,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743383929,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743505285,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743505285,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743685287,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743685287,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743806586,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743806586,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 460,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743986587,
+    "marketId": "1.257132021",
+    "selectionId": "71082741",
+    "selectionName": "Jiayi Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776743986587,
+    "marketId": "1.257132021",
+    "selectionId": "61721886",
+    "selectionName": "Yuhan Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

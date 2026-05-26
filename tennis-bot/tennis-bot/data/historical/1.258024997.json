@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1778500126016,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500126016,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500216009,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500216009,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500306062,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500306062,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500396103,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500396103,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500486154,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500486154,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500576189,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500576189,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500666236,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500666236,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500756305,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500756305,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500846442,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500846442,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500936477,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500936477,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501026533,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501026533,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501116586,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501116586,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501206655,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501206655,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501296695,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501296695,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501386753,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501386753,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501476801,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501476801,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501566828,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501566828,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501656877,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501656877,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501746921,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501746921,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501836969,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501836969,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501927008,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501927008,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502017060,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502017060,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502107105,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502107105,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502197167,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502197167,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502287201,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502287201,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502377251,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502377251,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502467294,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502467294,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502557342,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502557342,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502647375,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502647375,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502737432,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502737432,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502827469,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502827469,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502917515,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778502917515,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503007568,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503007568,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503097624,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503097624,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503187671,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503187671,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503277713,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503277713,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503367776,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503367776,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503457818,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503457818,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503547854,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503547854,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503637919,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503637919,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503817925,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503817925,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503817995,
+    "marketId": "1.258024997",
+    "selectionId": "53865389",
+    "selectionName": "Lorenzo Carboni",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503817995,
+    "marketId": "1.258024997",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

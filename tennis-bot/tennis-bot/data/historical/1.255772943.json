@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1774612862435,
+    "marketId": "1.255772943",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774612862435,
+    "marketId": "1.255772943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613042349,
+    "marketId": "1.255772943",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613042349,
+    "marketId": "1.255772943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613163619,
+    "marketId": "1.255772943",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613163619,
+    "marketId": "1.255772943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613343622,
+    "marketId": "1.255772943",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613343622,
+    "marketId": "1.255772943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613464926,
+    "marketId": "1.255772943",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613464926,
+    "marketId": "1.255772943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613644928,
+    "marketId": "1.255772943",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774613644928,
+    "marketId": "1.255772943",
+    "selectionId": "49712568",
+    "selectionName": "Alexander Vasilev",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  }
+]

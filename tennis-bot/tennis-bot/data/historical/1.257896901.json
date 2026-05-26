@@ -1,0 +1,1406 @@
+[
+  {
+    "timestamp": 1778233126041,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233126041,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233305997,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233305997,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233306098,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233306098,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233396143,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233396143,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233576149,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233576149,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233576245,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233576245,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233666301,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233666301,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233756347,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233756347,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233936353,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233936353,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233936459,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778233936459,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234026486,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234026486,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234116528,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234116528,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234206576,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234206576,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234296621,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234296621,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234386683,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234386683,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234476736,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234476736,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234566783,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234566783,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234656828,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234656828,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234746894,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234746894,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234836928,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234836928,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234926990,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778234926990,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235017024,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235017024,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235107072,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235107072,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235197135,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235197135,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235287183,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235287183,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235377218,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235377218,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235557223,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235557223,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235557331,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235557331,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235647378,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235647378,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235737429,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235737429,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235827474,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235827474,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235917526,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235917526,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236007565,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236007565,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236097604,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236097604,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236187682,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236187682,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236277700,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236277700,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236367752,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236367752,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236457829,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236457829,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236637835,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236637835,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236637962,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236637962,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236728096,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236728096,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236818129,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236818129,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236908177,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236908177,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236998212,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236998212,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237088264,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237088264,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237178312,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237178312,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237268362,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237268362,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237358409,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237358409,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237448452,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237448452,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237538514,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237538514,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237628572,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237628572,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237718617,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237718617,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237808656,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237808656,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237898726,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237898726,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237988748,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237988748,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238168754,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238168754,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238168867,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238168867,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238348873,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238348873,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238348973,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238348973,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238439014,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238439014,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238529074,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238529074,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238619113,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238619113,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799119,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799119,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799197,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799197,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238889247,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238889247,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238979290,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238979290,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239069334,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239069334,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239159385,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239159385,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239249421,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239249421,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239339473,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239339473,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239429521,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239429521,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239609527,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239609527,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239609609,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239609609,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239699654,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239699654,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239879659,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239879659,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239879811,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239879811,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239969940,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239969940,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240059982,
+    "marketId": "1.257896901",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240059982,
+    "marketId": "1.257896901",
+    "selectionId": "10349869",
+    "selectionName": "Francesca Jones",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  }
+]

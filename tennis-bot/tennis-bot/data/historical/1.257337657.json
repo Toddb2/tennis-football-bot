@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1777295764637,
+    "marketId": "1.257337657",
+    "selectionId": "11204210",
+    "selectionName": "Francisco Cerundolo",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777295764637,
+    "marketId": "1.257337657",
+    "selectionId": "83847847",
+    "selectionName": "Luciano Darderi",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777295944576,
+    "marketId": "1.257337657",
+    "selectionId": "11204210",
+    "selectionName": "Francisco Cerundolo",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777295944576,
+    "marketId": "1.257337657",
+    "selectionId": "83847847",
+    "selectionName": "Luciano Darderi",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777296065937,
+    "marketId": "1.257337657",
+    "selectionId": "11204210",
+    "selectionName": "Francisco Cerundolo",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777296065937,
+    "marketId": "1.257337657",
+    "selectionId": "83847847",
+    "selectionName": "Luciano Darderi",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777296245939,
+    "marketId": "1.257337657",
+    "selectionId": "11204210",
+    "selectionName": "Francisco Cerundolo",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777296245939,
+    "marketId": "1.257337657",
+    "selectionId": "83847847",
+    "selectionName": "Luciano Darderi",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777297271137,
+    "marketId": "1.257337657",
+    "selectionId": "11204210",
+    "selectionName": "Francisco Cerundolo",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777297271137,
+    "marketId": "1.257337657",
+    "selectionId": "83847847",
+    "selectionName": "Luciano Darderi",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777297451140,
+    "marketId": "1.257337657",
+    "selectionId": "11204210",
+    "selectionName": "Francisco Cerundolo",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777297451140,
+    "marketId": "1.257337657",
+    "selectionId": "83847847",
+    "selectionName": "Luciano Darderi",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  }
+]

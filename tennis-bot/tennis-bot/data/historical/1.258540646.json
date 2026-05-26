@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1779613243452,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613243452,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613423408,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613423408,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613603410,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613603410,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613783412,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613783412,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613873720,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613873720,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613963787,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613963787,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614053848,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614053848,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614143912,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614143912,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614233964,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614233964,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614324012,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614324012,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614414063,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614414063,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614504129,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614504129,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614594183,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614594183,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614684237,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614684237,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614774284,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614774284,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614864335,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614864335,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614954412,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614954412,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615044462,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615044462,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615134506,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615134506,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615224539,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615224539,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615314595,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615314595,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615494599,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615494599,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615494718,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615494718,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615584753,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615584753,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615674801,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615674801,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615764850,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615764850,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615854905,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615854905,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615944958,
+    "marketId": "1.258540646",
+    "selectionId": "79732128",
+    "selectionName": "Ilie Cazac",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615944958,
+    "marketId": "1.258540646",
+    "selectionId": "11204259",
+    "selectionName": "Daniel Dutra da Silva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

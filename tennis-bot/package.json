@@ -1,0 +1,32 @@
+{
+  "name": "tennis-bot",
+  "version": "1.0.0",
+  "description": "Tennis trading bot for Betfair Exchange",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --experimental-vm-modules node_modules/.bin/jest",
+    "backtest": "node backtest/runner.js",
+    "backtest:s1": "node backtest/runner.js --strategy Strategy1",
+    "backtest:s2": "node backtest/runner.js --strategy Strategy2",
+    "backtest:s3": "node backtest/runner.js --strategy Strategy3",
+    "backtest:s4": "node backtest/runner.js --strategy Strategy4",
+    "backtest:s5": "node backtest/runner.js --strategy Strategy5",
+    "backtest:s6": "node backtest/runner.js --strategy Strategy6"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "betfair-api-ng": "^1.0.1",
+    "better-sqlite3": "^12.9.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.22.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "unbzip2-stream": "^1.4.3",
+    "ws": "^8.16.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}

@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1779454942777,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779454942777,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455032693,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455032693,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455122752,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455122752,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455212782,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455212782,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455303033,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455303033,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455393075,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455393075,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455483122,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455483122,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455573156,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455573156,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455663192,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455663192,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455753243,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455753243,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455843273,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779455843273,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456023278,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456023278,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456023352,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456023352,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456113408,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456113408,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456293413,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456293413,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456293485,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456293485,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456347714,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456347714,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456437593,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456437593,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456527634,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456527634,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456617700,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456617700,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456707744,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456707744,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456797791,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456797791,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456887836,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456887836,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456977881,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779456977881,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457019546,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457019546,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457109502,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457109502,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457289507,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457289507,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457289619,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457289619,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457379666,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457379666,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457469707,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457469707,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457559755,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457559755,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457649800,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457649800,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457739847,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457739847,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457919852,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457919852,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457919951,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779457919951,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458009992,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458009992,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458100064,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458100064,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458190109,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458190109,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458280168,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458280168,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458460173,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458460173,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458460346,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458460346,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458640352,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458640352,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458820355,
+    "marketId": "1.258435624",
+    "selectionId": "42698174",
+    "selectionName": "Darwin Blanch",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779458820355,
+    "marketId": "1.258435624",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "timestamp": 1779790588602,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588602,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790678578,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790678578,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790768632,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790768632,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948640,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948640,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948707,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948707,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791038760,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791038760,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791128790,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791128790,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791218824,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791218824,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791308896,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791308896,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791398910,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791398910,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791578916,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791578916,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791579013,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791579013,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791669057,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791669057,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791759098,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791759098,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791849153,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791849153,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791939187,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791939187,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792029228,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792029228,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792119263,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792119263,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792124800,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792124800,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792214731,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792214731,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792304778,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792304778,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792394826,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792394826,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574831,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574831,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574964,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574964,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792665027,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792665027,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792755075,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792755075,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793471202,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793471202,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793561143,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793561143,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793651190,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793651190,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793741233,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793741233,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793831285,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793831285,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793921314,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793921314,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779794011360,
+    "marketId": "1.258598351",
+    "selectionId": "8860646",
+    "selectionName": "Daniel Elahi Galan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779794011360,
+    "marketId": "1.258598351",
+    "selectionId": "17980108",
+    "selectionName": "Alex Martinez",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  }
+]

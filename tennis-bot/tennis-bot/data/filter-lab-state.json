@@ -1,0 +1,69 @@
+{
+  "strategies": [],
+  "side": "",
+  "betOn": "",
+  "oddsMin": null,
+  "oddsMax": null,
+  "edgeMin": null,
+  "edgeMax": null,
+  "momMin": null,
+  "momMax": null,
+  "liqMin": null,
+  "liqMax": null,
+  "sqS1Min": null,
+  "sqS1Max": null,
+  "sqS2Min": null,
+  "sqS2Max": null,
+  "sqChgMin": null,
+  "sqChgMax": null,
+  "sqTrigMin": null,
+  "sqTrigMax": null,
+  "strategyDeltaRanges": {
+    "Strat10P2": {
+      "min": -20,
+      "max": 40
+    },
+    "Strat11P1": {
+      "min": -40,
+      "max": 20
+    },
+    "Strat11P2": {
+      "min": -20,
+      "max": 40
+    },
+    "Strat12P1": {
+      "min": -10,
+      "max": 50
+    },
+    "Strat12P2": {
+      "min": -40,
+      "max": 20
+    },
+    "Strat7P1": {
+      "min": -10,
+      "max": 40
+    },
+    "Strat7P2": {
+      "min": -40,
+      "max": 10
+    },
+    "Strat9P1": {
+      "min": -40,
+      "max": 10
+    },
+    "Strat9P2": {
+      "min": -10,
+      "max": 40
+    }
+  },
+  "surfaces": [
+    "hard",
+    "clay",
+    "grass"
+  ],
+  "tournament": "",
+  "mode": "",
+  "status": "",
+  "period": "-365 days",
+  "savedAt": "2026-05-26T12:46:28.147Z"
+}

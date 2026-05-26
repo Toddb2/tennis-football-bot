@@ -1,0 +1,3116 @@
+[
+  {
+    "timestamp": 1778750841788,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778750841788,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778750931784,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778750931784,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751021828,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751021828,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751111881,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751111881,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751201935,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751201935,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751291961,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751291961,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751472051,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751472051,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751562098,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751562098,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751652142,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751652142,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751742183,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751742183,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751832224,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751832224,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751922273,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778751922273,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752012321,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752012321,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752192325,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752192325,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752192416,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752192416,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752282451,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752282451,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752372487,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752372487,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752462539,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752462539,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752552589,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752552589,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752642636,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752642636,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752732678,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752732678,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752822738,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752822738,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752912766,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778752912766,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753002816,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753002816,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753092858,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753092858,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753182925,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753182925,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753272947,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753272947,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753363000,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753363000,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753453039,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753453039,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753543082,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753543082,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753633128,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753633128,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753723169,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753723169,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753813223,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753813223,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753903276,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753903276,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753993334,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778753993334,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754083367,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754083367,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754173412,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754173412,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754263446,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754263446,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754353507,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754353507,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754443542,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754443542,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754533588,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754533588,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754623630,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754623630,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754893852,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754893852,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754983906,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778754983906,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755073942,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755073942,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755254041,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755254041,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755344089,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755344089,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755434127,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755434127,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755614291,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755614291,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755704332,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755704332,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755794378,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755794378,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755974484,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778755974484,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756064529,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756064529,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756154586,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756154586,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756244610,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756244610,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756424616,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756424616,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756514757,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756514757,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756604806,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756604806,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756694847,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756694847,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756784886,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756784886,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756874930,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756874930,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756964993,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778756964993,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757055041,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757055041,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757145089,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757145089,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757325190,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757325190,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757415322,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757415322,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757595450,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757595450,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757685486,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757685486,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757775579,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757775579,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757955584,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757955584,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757955672,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778757955672,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758135677,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758135677,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758135777,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758135777,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758225824,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758225824,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758315863,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758315863,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758405915,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758405915,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758495962,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758495962,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758586014,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758586014,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758676065,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758676065,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758766100,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758766100,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758856139,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778758856139,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759036144,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759036144,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759036235,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759036235,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759126323,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759126323,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759216395,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759216395,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759396401,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759396401,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759486499,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759486499,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759576539,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759576539,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759666589,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759666589,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759936747,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778759936747,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760206891,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760206891,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760296933,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760296933,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760386999,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760386999,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760477037,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760477037,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760567086,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760567086,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760657129,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760657129,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760747189,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760747189,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760837216,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760837216,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760927269,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778760927269,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761107276,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761107276,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761107353,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761107353,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761197401,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761197401,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761287448,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761287448,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761557596,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761557596,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761647639,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761647639,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761737688,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761737688,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761827717,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761827717,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761917761,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778761917761,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762007801,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762007801,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762187872,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762187872,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762277926,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762277926,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762367959,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762367959,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762458003,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762458003,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762638009,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762638009,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762638094,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762638094,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762728121,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762728121,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762818175,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762818175,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762908203,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762908203,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762998277,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778762998277,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763088324,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763088324,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763178391,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763178391,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763268425,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763268425,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763448505,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763448505,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763628510,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763628510,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763628614,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763628614,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763718682,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763718682,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763808727,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763808727,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763898787,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763898787,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763988826,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778763988826,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764078870,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764078870,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764168919,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764168919,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764258957,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764258957,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764349008,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764349008,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764439066,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764439066,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764529106,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764529106,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764619153,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764619153,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764709304,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764709304,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764799341,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764799341,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764889379,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764889379,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764979431,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778764979431,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765069468,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765069468,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765134907,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765134907,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765224972,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765224972,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765404977,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765404977,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765405082,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765405082,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765495113,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765495113,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765675119,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765675119,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765675214,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765675214,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765765265,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765765265,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765945271,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765945271,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765945383,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778765945383,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766035412,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766035412,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766125459,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766125459,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766215504,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766215504,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766305550,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766305550,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766395605,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766395605,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766485654,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766485654,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766665659,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766665659,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766665756,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766665756,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766755803,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766755803,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766935808,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766935808,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766935900,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778766935900,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767025946,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767025946,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767115985,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767115985,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767206029,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767206029,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767296082,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767296082,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767386126,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767386126,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767476169,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767476169,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767566220,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767566220,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767656261,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767656261,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767746300,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767746300,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767836342,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767836342,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767926400,
+    "marketId": "1.258159520",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778767926400,
+    "marketId": "1.258159520",
+    "selectionId": "44772106",
+    "selectionName": "Rei Sakamoto",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  }
+]

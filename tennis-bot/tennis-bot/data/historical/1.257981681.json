@@ -1,0 +1,992 @@
+[
+  {
+    "timestamp": 1778491029320,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491029320,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491119273,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491119273,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491209319,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491209319,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491299364,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491299364,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491389393,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491389393,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569397,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569397,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569517,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569517,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491659577,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491659577,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492163722,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492163722,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492253648,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492253648,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433651,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433651,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433836,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433836,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492523889,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492523889,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492613943,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492613943,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493397991,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493397991,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493487955,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493487955,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493578021,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493578021,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493668079,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493668079,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493758129,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493758129,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494168576,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494168576,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494258501,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494258501,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494348552,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494348552,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494438595,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494438595,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494528640,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494528640,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494653818,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494653818,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494743768,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494743768,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494833816,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494833816,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013820,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013820,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013921,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013921,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495103965,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495103965,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495194033,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495194033,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495284063,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495284063,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495374112,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495374112,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495464159,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495464159,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495554197,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495554197,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495644239,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495644239,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495734373,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495734373,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495824411,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495824411,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495914448,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495914448,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496004500,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496004500,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496094545,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496094545,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496184605,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496184605,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496249524,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496249524,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496339406,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496339406,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496519409,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496519409,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496519513,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496519513,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496609557,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496609557,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496699602,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496699602,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496789651,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496789651,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496879704,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496879704,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496969744,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496969744,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497059803,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497059803,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497149838,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497149838,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497329843,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497329843,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497329946,
+    "marketId": "1.257981681",
+    "selectionId": "20357619",
+    "selectionName": "Mattia Bellucci",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497329946,
+    "marketId": "1.257981681",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

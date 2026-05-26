@@ -1,0 +1,740 @@
+[
+  {
+    "timestamp": 1779195101780,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195101780,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281724,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281724,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281798,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281798,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461807,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461807,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461869,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461869,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195551914,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195551914,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195641979,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195641979,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195732022,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195732022,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195822074,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195822074,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195912102,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195912102,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196002157,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196002157,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196092181,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196092181,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196182257,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196182257,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196272263,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196272263,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196362325,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196362325,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196452351,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196452351,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196542398,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196542398,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196632439,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196632439,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196722477,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196722477,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196812534,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196812534,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196902559,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196902559,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082566,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082566,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082639,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082639,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197172667,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197172667,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197262710,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197262710,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197352751,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197352751,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197442780,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197442780,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197532803,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197532803,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197622847,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197622847,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197712880,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197712880,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197802919,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197802919,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197892961,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197892961,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197983011,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197983011,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198073055,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198073055,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198163094,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198163094,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198253138,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198253138,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433144,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433144,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433204,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433204,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198523251,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198523251,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198613298,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198613298,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793306,
+    "marketId": "1.258277349",
+    "selectionId": "85182723",
+    "selectionName": "Ben Hassan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793306,
+    "marketId": "1.258277349",
+    "selectionId": "11694722",
+    "selectionName": "Filip Cristian Jianu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

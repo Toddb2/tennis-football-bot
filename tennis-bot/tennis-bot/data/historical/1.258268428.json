@@ -1,0 +1,920 @@
+[
+  {
+    "timestamp": 1779194921704,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194921704,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195011675,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195011675,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195101713,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195101713,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281724,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281724,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281798,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281798,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461807,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461807,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461869,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461869,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195551914,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195551914,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195641979,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195641979,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195732022,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195732022,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195822074,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195822074,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195912102,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195912102,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196002157,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196002157,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196092181,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196092181,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196182257,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196182257,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196272263,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196272263,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196362325,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196362325,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196452351,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196452351,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196542398,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196542398,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196632439,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196632439,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196722477,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196722477,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196812534,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196812534,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196902559,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196902559,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082566,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082566,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082639,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082639,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197172667,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197172667,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197262710,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197262710,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197352751,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197352751,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197442780,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197442780,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197532803,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197532803,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197622847,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197622847,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197712880,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197712880,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197802919,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197802919,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197892961,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197892961,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197983011,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197983011,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198073055,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198073055,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198163094,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198163094,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198253138,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198253138,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433144,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433144,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433204,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433204,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198523251,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198523251,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198613298,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198613298,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793306,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793306,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793367,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793367,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198883416,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198883416,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198973457,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198973457,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199063466,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199063466,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199243472,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199243472,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199243548,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199243548,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199333595,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199333595,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199423643,
+    "marketId": "1.258268428",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199423643,
+    "marketId": "1.258268428",
+    "selectionId": "11024005",
+    "selectionName": "Camila Osorio",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

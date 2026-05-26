@@ -1,0 +1,596 @@
+[
+  {
+    "timestamp": 1776841830328,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776841830328,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842010287,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842010287,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842132950,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842132950,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842312951,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842312951,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842434257,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842434257,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842614258,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842614258,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842735756,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842735756,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842915757,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776842915757,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843037035,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843037035,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843217037,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843217037,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843338288,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843338288,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843518289,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843518289,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843639642,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843639642,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843819643,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776843819643,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844121814,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844121814,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844243077,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844243077,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844423079,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844423079,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844544907,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844544907,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844724910,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844724910,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844846197,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776844846197,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845026199,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845026199,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845148639,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845148639,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845328640,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845328640,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845449902,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845449902,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845629903,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845629903,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845751486,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845751486,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845931487,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776845931487,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846052739,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846052739,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846232740,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846232740,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846354369,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846354369,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846534371,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846534371,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846655895,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846655895,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846835898,
+    "marketId": "1.257158359",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776846835898,
+    "marketId": "1.257158359",
+    "selectionId": "72577344",
+    "selectionName": "Zhang-qian Wei",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

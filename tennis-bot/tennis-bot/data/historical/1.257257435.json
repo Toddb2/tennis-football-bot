@@ -1,0 +1,434 @@
+[
+  {
+    "timestamp": 1777036534487,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036534487,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036714438,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036714438,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036835752,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777036835752,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037015755,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037015755,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037137105,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037137105,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037317109,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037317109,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037438362,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037438362,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037618367,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037618367,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037739621,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037739621,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037919627,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777037919627,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038040892,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038040892,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038220897,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038220897,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038342300,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038342300,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038522304,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038522304,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038643569,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038643569,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038823575,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038823575,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038944960,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777038944960,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039124964,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039124964,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039246232,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039246232,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039426237,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039426237,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039547509,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039547509,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039727513,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039727513,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039848827,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777039848827,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777040028832,
+    "marketId": "1.257257435",
+    "selectionId": "9635149",
+    "selectionName": "Katarina Zavatska",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777040028832,
+    "marketId": "1.257257435",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

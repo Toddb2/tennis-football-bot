@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1778663632106,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663632106,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663722091,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663722091,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663812125,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663812125,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663902182,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663902182,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663992219,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778663992219,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664082263,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664082263,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664172305,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664172305,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664262388,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664262388,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664352423,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664352423,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664442459,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664442459,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664537787,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664537787,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664627879,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664627879,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664717914,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664717914,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664807977,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664807977,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664897998,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664897998,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664988047,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778664988047,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665078092,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665078092,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665168130,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665168130,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665258175,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665258175,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665348222,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665348222,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665438265,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665438265,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665528295,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665528295,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665618345,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665618345,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665708391,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665708391,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665798447,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665798447,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665888501,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665888501,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665978546,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778665978546,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666068593,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666068593,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666158632,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666158632,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666248692,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666248692,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666338723,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666338723,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666428914,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666428914,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608921,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608921,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608994,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666608994,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666699044,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666699044,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666789102,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666789102,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666879135,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666879135,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666969188,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778666969188,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667059237,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667059237,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667149282,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667149282,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329287,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329287,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329392,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667329392,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667419443,
+    "marketId": "1.258127366",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778667419443,
+    "marketId": "1.258127366",
+    "selectionId": "73093162",
+    "selectionName": "Inaki Montes-De La Torr",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

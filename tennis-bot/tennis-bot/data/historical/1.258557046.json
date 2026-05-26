@@ -1,0 +1,542 @@
+[
+  {
+    "timestamp": 1779695102727,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779695102727,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779695282684,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779695282684,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779695462685,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779695462685,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779695642686,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779695642686,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779695822686,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779695822686,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696002688,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696002688,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696093139,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696093139,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696273140,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696273140,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696453140,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696453140,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696453326,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696453326,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696633327,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696633327,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696813328,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696813328,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696993329,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779696993329,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697173330,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697173330,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697353331,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697353331,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697533332,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697533332,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697713333,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697713333,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697893334,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779697893334,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698073335,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698073335,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698253336,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698253336,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698433337,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698433337,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698524117,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698524117,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698704119,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698704119,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698704199,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698704199,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698884201,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779698884201,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699064202,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699064202,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699244203,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699244203,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699424205,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699424205,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699604206,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699604206,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699784208,
+    "marketId": "1.258557046",
+    "selectionId": "11102188",
+    "selectionName": "Sergey Fomin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779699784208,
+    "marketId": "1.258557046",
+    "selectionId": "39215592",
+    "selectionName": "Dragos Nicolae Cazacu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

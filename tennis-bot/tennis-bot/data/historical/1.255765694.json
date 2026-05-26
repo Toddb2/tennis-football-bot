@@ -1,0 +1,524 @@
+[
+  {
+    "timestamp": 1774624067790,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624067790,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624247742,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624247742,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624369048,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624369048,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624549050,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624549050,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624670343,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624670343,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624850346,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624850346,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624971694,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774624971694,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625151697,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625151697,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625272958,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625272958,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625452961,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625452961,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625574261,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625574261,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625754263,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625754263,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625875554,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774625875554,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626055556,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626055556,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626176897,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626176897,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626356899,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626356899,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626478165,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626478165,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626658169,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626658169,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626779453,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626779453,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626959456,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774626959456,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627080736,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627080736,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627260738,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627260738,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627382028,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627382028,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627562030,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627562030,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627683302,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627683302,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627863304,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627863304,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627984617,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774627984617,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774628164620,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774628164620,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774628285902,
+    "marketId": "1.255765694",
+    "selectionId": "13369565",
+    "selectionName": "Andrea Lazaro Garcia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774628285902,
+    "marketId": "1.255765694",
+    "selectionId": "7795591",
+    "selectionName": "Tena Lukas",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

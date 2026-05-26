@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1776870980975,
+    "marketId": "1.257169990",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870980975,
+    "marketId": "1.257169990",
+    "selectionId": "10583361",
+    "selectionName": "Nick Hardt",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871160926,
+    "marketId": "1.257169990",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871160926,
+    "marketId": "1.257169990",
+    "selectionId": "10583361",
+    "selectionName": "Nick Hardt",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871282195,
+    "marketId": "1.257169990",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871282195,
+    "marketId": "1.257169990",
+    "selectionId": "10583361",
+    "selectionName": "Nick Hardt",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871462198,
+    "marketId": "1.257169990",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871462198,
+    "marketId": "1.257169990",
+    "selectionId": "10583361",
+    "selectionName": "Nick Hardt",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871583462,
+    "marketId": "1.257169990",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871583462,
+    "marketId": "1.257169990",
+    "selectionId": "10583361",
+    "selectionName": "Nick Hardt",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871763466,
+    "marketId": "1.257169990",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871763466,
+    "marketId": "1.257169990",
+    "selectionId": "10583361",
+    "selectionName": "Nick Hardt",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  }
+]

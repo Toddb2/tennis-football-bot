@@ -1,0 +1,938 @@
+[
+  {
+    "timestamp": 1777313634815,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313634815,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313814762,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313814762,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313936038,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777313936038,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314116040,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314116040,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314237403,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314237403,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314417406,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314417406,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314538668,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314538668,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314718671,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777314718671,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777315442481,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777315442481,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777315622483,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777315622483,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777315743770,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777315743770,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777315923772,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777315923772,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316045155,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316045155,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316225158,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316225158,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316346454,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316346454,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316526456,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316526456,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316647841,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316647841,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316827843,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316827843,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316949135,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777316949135,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317129137,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317129137,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317250582,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317250582,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317430585,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317430585,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317551855,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317551855,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317731856,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317731856,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317853131,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777317853131,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318033132,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318033132,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318154440,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318154440,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318334442,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318334442,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318455707,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318455707,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318635710,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318635710,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318757004,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318757004,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318937005,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777318937005,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319058274,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319058274,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319238276,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319238276,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319359576,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319359576,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319539577,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319539577,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319660859,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319660859,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319840860,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319840860,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319962190,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777319962190,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320142191,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320142191,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320263449,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320263449,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320443450,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320443450,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320564716,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320564716,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320744717,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320744717,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320866025,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777320866025,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321046026,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321046026,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321167294,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321167294,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321347297,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321347297,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321468663,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321468663,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321648666,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321648666,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321769945,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321769945,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321949948,
+    "marketId": "1.257426303",
+    "selectionId": "85407502",
+    "selectionName": "Elijah Sanogo",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777321949948,
+    "marketId": "1.257426303",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  }
+]

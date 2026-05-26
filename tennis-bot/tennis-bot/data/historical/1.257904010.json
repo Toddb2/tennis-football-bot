@@ -1,0 +1,398 @@
+[
+  {
+    "timestamp": 1778269999109,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778269999109,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270179021,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270179021,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270359023,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270359023,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270539025,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270539025,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270719028,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270719028,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270899030,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778270899030,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271079032,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271079032,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271259035,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271259035,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271259502,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271259502,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271439507,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271439507,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271619509,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271619509,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271619678,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271619678,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271799681,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271799681,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271979684,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778271979684,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272159686,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272159686,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272339688,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272339688,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272519689,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272519689,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272699692,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272699692,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272790176,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272790176,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272970181,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778272970181,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778273150183,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778273150183,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778273330185,
+    "marketId": "1.257904010",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778273330185,
+    "marketId": "1.257904010",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

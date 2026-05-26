@@ -1,0 +1,920 @@
+[
+  {
+    "timestamp": 1777122285110,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122285110,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122465116,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122465116,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122586413,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122586413,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122766418,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122766418,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122887763,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777122887763,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123067767,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123067767,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123189028,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123189028,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123369051,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123369051,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123490375,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123490375,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123670380,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123670380,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123791651,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123791651,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123971656,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777123971656,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124093054,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124093054,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124273058,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124273058,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124394324,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124394324,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124574329,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124574329,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124695589,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124695589,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124875594,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124875594,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124996869,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777124996869,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125176875,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125176875,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125298133,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125298133,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125478138,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125478138,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125599404,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125599404,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125779409,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125779409,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125900688,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777125900688,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126080691,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126080691,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126203371,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126203371,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126383375,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126383375,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126503714,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126503714,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126683719,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126683719,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126805085,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126805085,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126985090,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777126985090,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127106346,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127106346,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127286350,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127286350,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127407633,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127407633,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127587639,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127587639,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127708918,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127708918,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127888921,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777127888921,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128010225,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128010225,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128190229,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128190229,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128311524,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128311524,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128491529,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128491529,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128612911,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128612911,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128793153,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128793153,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128914192,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128914192,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129094197,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129094197,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129215461,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129215461,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129395465,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129395465,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129516746,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129516746,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129697235,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129697235,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129818049,
+    "marketId": "1.257247561",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129818049,
+    "marketId": "1.257247561",
+    "selectionId": "11313157",
+    "selectionName": "Ann Li",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

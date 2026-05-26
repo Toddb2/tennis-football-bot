@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1778510433001,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510433001,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510522995,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510522995,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510613025,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510613025,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510703082,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510703082,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510823673,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510823673,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510913733,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510913733,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093738,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093738,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093834,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093834,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511183880,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511183880,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511273930,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511273930,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511364613,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511364613,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511454013,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511454013,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511544094,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511544094,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724101,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724101,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724144,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724144,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511814171,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511814171,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511904208,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511904208,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512084213,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512084213,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512084269,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512084269,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512174305,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512174305,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512354311,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512354311,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512354421,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512354421,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512444447,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512444447,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512534491,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512534491,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512624516,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512624516,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512714551,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512714551,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512804606,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512804606,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512984611,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512984611,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512984668,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512984668,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513074707,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513074707,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513164734,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513164734,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513254779,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513254779,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513344817,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513344817,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513434852,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513434852,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513524891,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513524891,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513614929,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513614929,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513704974,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513704974,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513795012,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513795012,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513885043,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513885043,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513975073,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778513975073,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514065110,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514065110,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514155141,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514155141,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514245178,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514245178,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514335212,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514335212,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514515218,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514515218,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514515291,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514515291,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514605320,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514605320,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514695347,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514695347,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514786005,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514786005,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514875413,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514875413,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514965454,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778514965454,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778515055488,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778515055488,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778515145522,
+    "marketId": "1.258078406",
+    "selectionId": "8713660",
+    "selectionName": "Eero Vasa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778515145522,
+    "marketId": "1.258078406",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

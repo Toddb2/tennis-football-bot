@@ -1,0 +1,902 @@
+[
+  {
+    "timestamp": 1778524197615,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524197615,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377571,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377571,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377653,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524377653,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524557656,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524557656,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524647791,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524647791,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827795,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827795,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827896,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524827896,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524917932,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778524917932,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525007982,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525007982,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525187986,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525187986,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525278124,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525278124,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525458128,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525458128,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525548264,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525548264,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525638306,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525638306,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525728346,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525728346,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525818396,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525818396,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525908441,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525908441,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525998493,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525998493,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526088553,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526088553,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268555,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268555,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268641,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268641,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448644,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448644,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448770,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448770,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628773,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628773,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628867,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628867,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808870,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808870,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808963,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808963,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526899013,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526899013,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526989048,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526989048,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169053,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169053,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169162,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169162,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527259198,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527259198,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439200,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439200,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439286,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439286,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527619289,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527619289,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527834685,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527834685,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528014687,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528014687,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528194688,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528194688,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528374690,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528374690,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528554691,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528554691,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528734692,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528734692,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528914693,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528914693,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529094694,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529094694,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529274695,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529274695,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529454696,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529454696,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529455312,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529455312,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529635314,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529635314,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529815315,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529815315,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529995316,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529995316,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778530175317,
+    "marketId": "1.258001059",
+    "selectionId": "49712505",
+    "selectionName": "Fernando Cavallo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778530175317,
+    "marketId": "1.258001059",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

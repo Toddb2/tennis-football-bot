@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1774656924363,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656924363,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657104318,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657104318,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657225576,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657225576,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657405577,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657405577,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657526965,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657526965,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657706966,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657706966,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657828258,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657828258,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658008260,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658008260,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658129566,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658129566,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658309567,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658309567,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658430838,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658430838,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658610839,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658610839,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658732096,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658732096,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658912097,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658912097,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659033389,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659033389,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659213390,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659213390,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659334655,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659334655,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659514656,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659514656,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659635946,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659635946,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659815947,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659815947,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659937228,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659937228,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660117229,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660117229,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660238577,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660238577,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660418578,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660418578,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660539853,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660539853,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660719854,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660719854,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660841282,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774660841282,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661021283,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661021283,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661142659,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661142659,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661322660,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661322660,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661443931,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661443931,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661623932,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661623932,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661745185,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661745185,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661925186,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774661925186,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662046569,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662046569,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662226570,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662226570,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662347933,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662347933,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662527934,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662527934,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662649286,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662649286,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662829286,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662829286,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662950583,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774662950583,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774663130584,
+    "marketId": "1.255878963",
+    "selectionId": "10760646",
+    "selectionName": "Borna Gojo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774663130584,
+    "marketId": "1.255878963",
+    "selectionId": "10902197",
+    "selectionName": "Nicolas Mejia",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

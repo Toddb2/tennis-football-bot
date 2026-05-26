@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1777128613075,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128613075,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128793153,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128793153,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128914192,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777128914192,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129094197,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129094197,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129215461,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129215461,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129395465,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129395465,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129516746,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129516746,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129697235,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129697235,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129818049,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129818049,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129998054,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777129998054,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130119327,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130119327,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130299331,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130299331,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130420609,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130420609,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130600614,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130600614,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130721881,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130721881,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130901885,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777130901885,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131023188,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131023188,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131203194,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131203194,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131324467,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131324467,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131504472,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131504472,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131625817,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131625817,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131805822,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777131805822,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132107124,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132107124,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132228388,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132228388,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132408393,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132408393,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132529659,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132529659,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132709663,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777132709663,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777133312229,
+    "marketId": "1.257312012",
+    "selectionId": "68882331",
+    "selectionName": "Samira de Stefano",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777133312229,
+    "marketId": "1.257312012",
+    "selectionId": "18848478",
+    "selectionName": "Lisa Pigato",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

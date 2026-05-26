@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tennis Bot</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<!-- ── Header ────────────────────────────────────────────── -->
+<div id="header">
+  <div class="app-switcher">
+    <button class="app-btn active" id="app-btn-tennis" onclick="switchApp('tennis')">🎾 Tennis Bot</button>
+    <button class="app-btn" id="app-btn-football" onclick="switchApp('football')">⚽ Football Bot</button>
+  </div>
+  <div class="pill" id="hd-pill"><span class="dot" id="hd-dot"></span><span id="hd-status">Connecting…</span></div>
+  <div class="spacer"></div>
+  <div class="hstat" id="hd-stat-pnl"><span class="val" id="hd-pnl">—</span><span class="lbl">P&L today</span></div>
+  <div class="hstat" id="hd-stat-bets"><span class="val" id="hd-bets">—</span><span class="lbl">Open bets</span></div>
+  <div class="hstat" id="hd-stat-mkts"><span class="val" id="hd-mkts">—</span><span class="lbl">Markets</span></div>
+</div>
+
+<!-- ── Tab nav ───────────────────────────────────────────── -->
+<div id="tabs">
+  <button class="tab-btn active" data-tab="live">Live</button>
+  <button class="tab-btn" data-tab="bets">Bets</button>
+  <button class="tab-btn" data-tab="analysis">Analysis</button>
+  <button class="tab-btn" data-tab="strategies">Strategies</button>
+  <button class="tab-btn" data-tab="ai">AI Analysis</button>
+  <button class="tab-btn" data-tab="system">Debug<span class="tab-badge" id="sys-badge" style="display:none">!</span></button>
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- LIVE TAB                                               -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div class="tab-panel active" id="tab-live">
+  <div class="stat-row">
+    <div class="stat-box"><div class="val" id="l-live">—</div><div class="lbl">Live Markets</div></div>
+    <div class="stat-box"><div class="val" id="l-open">—</div><div class="lbl">Open Bets</div></div>
+    <div class="stat-box"><div class="val" id="l-linked">—</div><div class="lbl">Stats Linked</div></div>
+    <div class="stat-box"><div class="val" id="l-vol">100k+</div><div class="lbl">Min Volume</div></div>
+  </div>
+
+  <!-- Signals fired today -->
+  <div class="card" id="signals-card" style="margin-bottom:12px">
+    <div class="flex items-center gap8" style="margin-bottom:8px">
+      <div class="card-title" style="margin-bottom:0">Signals Today</div>
+      <span id="signals-count" class="badge badge-blue" style="display:none"></span>
+      <div class="spacer"></div>
+      <a href="/api/bfbm/export" class="btn btn-sm" download="bfbm-signals.csv">Download CSV</a>
+    </div>
+    <div id="signals-body" style="font-size:12px;color:var(--muted)">No signals fired yet today.</div>
+  </div>
+
+  <div class="filter-bar">
+    <input type="search" id="live-search" placeholder="Search match…" style="min-width:180px">
+    <select id="live-linked">
+      <option value="">All</option>
+      <option value="1">Stats linked</option>
+      <option value="0">Unlinked</option>
+    </select>
+    <select id="live-strategy">
+      <option value="">Any strategy</option>
+    </select>
+  </div>
+
+  <!-- Live matches (inline expandable) -->
+  <div class="tbl-wrap">
+    <table id="live-table">
+      <thead>
+        <tr>
+          <th data-col="matchName">Match</th>
+          <th data-col="sets">Score</th>
+          <th data-col="playerABack">Odds A</th>
+          <th data-col="playerBBack">Odds B</th>
+          <th data-col="edgeA">Edge</th>
+          <th data-col="matchedVolume">Volume</th>
+          <th data-col="strategy">Strategy</th>
+          <th data-col="openBet">Bet</th>
+        </tr>
+      </thead>
+      <tbody id="live-tbody"><tr><td colspan="8" class="empty">Waiting for live data…</td></tr></tbody>
+    </table>
+  </div>
+
+  <!-- Upcoming matches (below live) -->
+  <div class="card mt14" id="upcoming-card">
+    <div class="flex items-center gap8" style="margin-bottom:8px">
+      <div class="card-title" style="margin-bottom:0">Upcoming Today</div>
+      <span id="upcoming-count" class="badge badge-gray" style="display:none"></span>
+      <div class="spacer"></div>
+      <span id="upcoming-refresh-time" style="font-size:11px;color:var(--muted)"></span>
+      <button class="btn btn-sm" id="upcoming-vol-toggle">100k+ only</button>
+      <button class="btn btn-sm" id="upcoming-refresh-btn">↻</button>
+    </div>
+    <div class="tbl-wrap" id="upcoming-wrap" style="display:none">
+      <table id="upcoming-table">
+        <thead><tr>
+          <th>Match</th>
+          <th>Start</th>
+          <th>Back A</th>
+          <th>Back B</th>
+          <th>Volume</th>
+        </tr></thead>
+        <tbody id="upcoming-tbody"></tbody>
+      </table>
+    </div>
+    <div id="upcoming-msg" style="font-size:12px;color:var(--muted);padding:4px 0">Loading…</div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- BETS TAB                                               -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-bets">
+  <div class="stat-row">
+    <div class="stat-box"><div class="val" id="b-total">—</div><div class="lbl">Total Bets</div></div>
+    <div class="stat-box"><div class="val" id="b-wins">—</div><div class="lbl">Wins</div></div>
+    <div class="stat-box"><div class="val" id="b-winrate">—</div><div class="lbl">Win Rate</div></div>
+    <div class="stat-box"><div class="val" id="b-pnl">—</div><div class="lbl">Total P&L</div></div>
+    <div class="stat-box"><div class="val" id="b-roi">—</div><div class="lbl">ROI</div></div>
+    <div class="stat-box"><div class="val" id="b-days-won">—</div><div class="lbl">Days Won</div></div>
+    <div class="stat-box"><div class="val" id="b-days-lost">—</div><div class="lbl">Days Lost</div></div>
+    <div class="stat-box"><div class="val" id="b-drawdown">—</div><div class="lbl">Worst Drawdown</div></div>
+  </div>
+
+  <div class="filter-bar">
+    <select id="bets-period">
+      <option value="start of day">Today</option>
+      <option value="-7 days" selected>Last 7 days</option>
+      <option value="-30 days">Last 30 days</option>
+      <option value="-365 days">All time</option>
+    </select>
+    <select id="bets-strategy"><option value="">All strategies</option></select>
+    <select id="bets-status">
+      <option value="">All</option>
+      <option value="open">Open</option>
+      <option value="win">Win</option>
+      <option value="loss">Loss</option>
+    </select>
+    <button class="btn btn-sm" id="bets-refresh">Refresh</button>
+    <div class="sep"></div>
+    <button class="btn btn-sm" id="bets-export">Export CSV</button>
+    <button class="btn btn-sm btn-danger" id="bets-clear">Clear History</button>
+  </div>
+
+  <div class="tbl-wrap">
+    <table id="bets-table">
+      <thead>
+        <tr>
+          <th>Match</th>
+          <th>Score</th>
+          <th>Strategy</th>
+          <th>Player</th>
+          <th>Side</th>
+          <th data-col="requested_odds">Odds</th>
+          <th data-col="stake">Stake</th>
+          <th data-col="pnl">P&L</th>
+          <th>Status</th>
+          <th>Mode</th>
+          <th>Hedge Odds</th>
+          <th data-col="placed_at">Placed</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="bets-tbody"><tr><td colspan="13" class="empty">Loading…</td></tr></tbody>
+    </table>
+  </div>
+
+  <!-- Systems Performance -->
+  <div class="card mt14" id="bets-systems-section" style="display:none">
+    <div class="card-title" style="margin-bottom:10px">Systems Performance</div>
+    <div id="bets-sys-tabs" style="display:flex;gap:4px;flex-wrap:wrap;margin-bottom:12px"></div>
+    <div id="bets-sys-stats"></div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px">
+      <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:12px">
+        <div style="font-size:10px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px">Cumulative P&amp;L (£)</div>
+        <div style="position:relative;height:180px"><canvas id="bets-cumpl-chart"></canvas></div>
+      </div>
+      <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:12px">
+        <div style="font-size:10px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px">Bets Per Day</div>
+        <div style="position:relative;height:180px"><canvas id="bets-bpd-chart"></canvas></div>
+      </div>
+    </div>
+    <div id="bets-sys-list" style="margin-top:12px"></div>
+  </div>
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- ANALYSIS TAB                                           -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-analysis">
+
+  <!-- Sub-tab bar -->
+  <div style="display:flex;gap:2px;margin-bottom:16px;border-bottom:2px solid var(--border)">
+    <button class="an-subtab-btn active" data-subtab="overview" style="padding:7px 16px;font-size:13px;font-weight:600;background:none;border:none;border-bottom:2px solid var(--blue);margin-bottom:-2px;color:var(--blue);cursor:pointer">Overview</button>
+    <button class="an-subtab-btn" data-subtab="scanner" style="padding:7px 16px;font-size:13px;font-weight:600;background:none;border:none;border-bottom:2px solid transparent;margin-bottom:-2px;color:var(--muted);cursor:pointer">Market Scanner</button>
+    <button class="an-subtab-btn" data-subtab="entry" style="padding:7px 16px;font-size:13px;font-weight:600;background:none;border:none;border-bottom:2px solid transparent;margin-bottom:-2px;color:var(--muted);cursor:pointer">Entry Data</button>
+  </div>
+
+  <!-- ── Overview sub-panel ───────────────────────────────── -->
+  <div id="an-sub-overview">
+    <div class="flex gap8 items-center" style="margin-bottom:14px">
+      <div class="flex gap4" id="an-period-btns">
+        <button class="btn btn-sm an-period active" data-since="-7 days">7d</button>
+        <button class="btn btn-sm an-period" data-since="-30 days">30d</button>
+        <button class="btn btn-sm an-period" data-since="-90 days">90d</button>
+        <button class="btn btn-sm an-period" data-since="-365 days">All</button>
+      </div>
+      <div class="spacer"></div>
+      <button class="btn btn-sm" id="an-refresh">Refresh</button>
+      <button class="btn btn-sm btn-danger" id="an-clear">Clear History</button>
+    </div>
+
+    <!-- Summary stat cards -->
+    <div class="stat-row" id="an-stat-row">
+      <div class="stat-box"><div class="val" id="an-total">—</div><div class="lbl">Total Bets</div></div>
+      <div class="stat-box"><div class="val" id="an-wins">—</div><div class="lbl">Wins</div></div>
+      <div class="stat-box"><div class="val" id="an-wr">—</div><div class="lbl">Win Rate</div></div>
+      <div class="stat-box"><div class="val" id="an-pnl">—</div><div class="lbl">Total P&L</div></div>
+      <div class="stat-box"><div class="val" id="an-roi">—</div><div class="lbl">ROI</div></div>
+      <div class="stat-box"><div class="val" id="an-avgodds">—</div><div class="lbl">Avg Odds</div></div>
+    </div>
+
+    <!-- Analytics charts -->
+    <div class="card mt14">
+      <div class="flex items-center gap8" style="margin-bottom:10px">
+        <div class="card-title" style="margin-bottom:0" id="an-chart-title">Cumulative P&amp;L</div>
+        <div class="spacer"></div>
+        <div class="flex gap4" id="an-chart-btns">
+          <button class="btn btn-sm an-chart-type active" data-type="pnl">Cum P&amp;L</button>
+          <button class="btn btn-sm an-chart-type" data-type="daily-pnl">Daily P&amp;L</button>
+          <button class="btn btn-sm an-chart-type" data-type="odds-dist">Odds Dist</button>
+          <button class="btn btn-sm an-chart-type" data-type="pnl-strat">By Strategy</button>
+          <button class="btn btn-sm an-chart-type" data-type="pnl-surface">By Surface</button>
+          <button class="btn btn-sm an-chart-type" data-type="winrate">Win Rate</button>
+        </div>
+      </div>
+      <div class="chart-wrap-tall"><canvas id="an-chart"></canvas></div>
+    </div>
+
+    <!-- Strategy breakdown table -->
+    <div class="card mt14">
+      <div class="card-title">Strategy Breakdown</div>
+      <div class="tbl-wrap mt8">
+        <table id="an-strat-table">
+          <thead>
+            <tr>
+              <th>Strategy</th><th>Side</th><th>Bets</th><th>Wins</th>
+              <th>Win Rate</th><th>P&L</th><th>ROI</th><th>Avg Odds</th><th>Live</th><th>Dry</th>
+            </tr>
+          </thead>
+          <tbody id="an-strat-tbody"><tr><td colspan="10" class="empty">Loading…</td></tr></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Daily breakdown table -->
+    <div class="card mt14">
+      <div class="card-title">Daily Breakdown</div>
+      <div class="tbl-wrap mt8">
+        <table>
+          <thead><tr><th>Date</th><th>Bets</th><th>Wins</th><th>Win Rate</th><th>P&L</th><th>Cumulative</th></tr></thead>
+          <tbody id="an-daily-tbody"><tr><td colspan="6" class="empty">Loading…</td></tr></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Bet history -->
+    <div class="card mt14">
+      <div class="flex items-center gap8" style="margin-bottom:8px">
+        <div class="card-title" style="margin-bottom:0">Bet History</div>
+        <span id="an-bets-count" class="badge badge-gray" style="display:none"></span>
+      </div>
+      <div class="tbl-wrap">
+        <table id="an-bets-table">
+          <thead><tr><th>Match</th><th>Strategy</th><th>Side</th><th>Odds</th><th>Stake</th><th>P&L</th><th>Status</th><th>Placed</th></tr></thead>
+          <tbody id="an-bets-tbody"><tr><td colspan="8" class="empty">Loading…</td></tr></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Market Scanner sub-panel ────────────────────────── -->
+  <div id="an-sub-scanner" style="display:none">
+    <div class="flex gap8 items-center" style="margin-bottom:14px">
+      <div style="font-size:12px;color:var(--muted)">All completed matches over £100k — pre-match odds, end-of-set prices, match winner.</div>
+      <div class="spacer"></div>
+      <button class="btn btn-sm" id="an-scanner-load-btn">Load / Refresh</button>
+    </div>
+    <div class="tbl-wrap">
+      <table id="an-scanner-table">
+        <thead>
+          <tr>
+            <th>Date</th><th>Match</th>
+            <th>Pre A</th><th>Pre B</th>
+            <th>S1 End A</th><th>S1 End B</th>
+            <th>S2 End A</th><th>S2 End B</th>
+            <th>Winner</th><th>Vol</th>
+          </tr>
+        </thead>
+        <tbody id="an-scanner-tbody"><tr><td colspan="10" class="empty">Click Load / Refresh to fetch data</td></tr></tbody>
+      </table>
+    </div>
+    <div id="an-scanner-pagination" style="display:none;align-items:center;gap:8px;margin-top:10px;font-size:12px;color:var(--muted)"></div>
+  </div>
+
+  <!-- ── Entry Data sub-panel ────────────────────────────── -->
+  <div id="an-sub-entry" style="display:none">
+    <div class="flex gap8 items-center" style="margin-bottom:14px">
+      <div style="font-size:12px;color:var(--muted)">Set score, entry price and Set 1 serve stats per bet — Copy CSV to paste into Claude for analysis.</div>
+      <div class="spacer"></div>
+      <button class="btn btn-sm" id="an-entry-csv-btn" style="display:none">Copy CSV</button>
+      <span id="an-entry-count" class="badge badge-gray" style="display:none"></span>
+      <button class="btn btn-sm" id="an-entry-load-btn">Load</button>
+    </div>
+    <div id="an-entry-body"></div>
+  </div>
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- STRATEGIES TAB                                         -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-strategies">
+  <div class="flex gap8 items-center" style="margin-bottom:14px">
+    <h2 style="font-size:15px;font-weight:700">Strategies</h2>
+    <span id="strat-save-status" class="strat-save-status"></span>
+    <div class="spacer"></div>
+    <button class="btn btn-sm" id="strat-refresh">Refresh</button>
+  </div>
+
+  <div id="strat-edit-container"><div class="empty">Loading…</div></div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- FOOTBALL BOT APP (full-screen, toggled by header)      -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div id="football-app" style="display:none;position:fixed;top:52px;left:0;right:0;bottom:0;z-index:50">
+  <iframe id="football-iframe"
+    src="about:blank"
+    style="width:100%;height:100%;border:none;display:block">
+  </iframe>
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- AI ANALYSIS TAB                                        -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-ai">
+  <!-- Top bar -->
+  <div class="flex gap8 items-center" style="margin-bottom:14px">
+    <h2 style="font-size:15px;font-weight:700">AI Strategy Analysis</h2>
+    <span id="ai-cache-badge" class="ai-cache-badge" style="display:none">cached</span>
+    <div class="spacer"></div>
+    <span id="ai-generated-at" style="font-size:11px;color:var(--muted)"></span>
+    <button class="btn btn-primary btn-sm" id="ai-run-btn">Run Analysis</button>
+  </div>
+
+  <!-- Two-column layout: history sidebar + main -->
+  <div class="ai-layout">
+
+    <!-- History sidebar -->
+    <div class="ai-sidebar">
+      <div class="ai-sidebar-hdr">
+        <span>Run History</span>
+        <span id="ai-hist-count" style="font-size:10px;color:var(--muted)"></span>
+      </div>
+      <div id="ai-history-list" class="ai-history-list">
+        <div class="ai-hist-empty">No runs yet</div>
+      </div>
+    </div>
+
+    <!-- Main panel -->
+    <div class="ai-main" id="ai-main">
+
+      <!-- Snapshot stat strip — shown after first run -->
+      <div id="ai-snapshot-strip" class="ai-snapshot-strip" style="display:none">
+        <div class="ai-snap-item"><span id="ai-snap-bets">—</span><span class="ai-snap-lbl">Bets analysed</span></div>
+        <div class="ai-snap-item"><span id="ai-snap-pnl">—</span><span class="ai-snap-lbl">Total P&L</span></div>
+        <div class="ai-snap-item"><span id="ai-snap-strats">—</span><span class="ai-snap-lbl">Strategies</span></div>
+        <div class="ai-snap-item"><span id="ai-snap-tokens">—</span><span class="ai-snap-lbl">Tokens used</span></div>
+      </div>
+
+      <!-- Empty / loading / error state -->
+      <div id="ai-placeholder" class="card ai-placeholder">
+        <div class="ai-placeholder-icon">🤖</div>
+        <div class="ai-placeholder-title">AI Strategy Analysis</div>
+        <div class="ai-placeholder-sub">Claude will analyse your last 90 days of bet data across all strategies, surfaces and trends — then give you specific, actionable recommendations.</div>
+        <button class="btn btn-primary" id="ai-run-btn-2">Run Analysis</button>
+      </div>
+
+      <!-- Sections rendered here after response -->
+      <div id="ai-sections"></div>
+
+      <!-- Token footer -->
+      <div id="ai-token-info" class="ai-token-footer" style="display:none"></div>
+
+    </div><!-- /ai-main -->
+  </div><!-- /ai-layout -->
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- DEBUG TAB                                              -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-system">
+  <div class="flex gap8 items-center" style="margin-bottom:12px">
+    <h2 style="font-size:15px;font-weight:700">Debug</h2>
+    <div class="spacer"></div>
+    <button class="btn btn-sm" id="sys-refresh">Refresh</button>
+  </div>
+
+  <!-- Status row -->
+  <div class="health-grid" id="sys-health"></div>
+
+  <!-- Bot mode + DRY RUN toggle -->
+  <div class="card mt14">
+    <div class="card-title">Bot Mode</div>
+    <div class="flex gap8 items-center" style="margin-top:8px;flex-wrap:wrap">
+      <span class="dot" id="db-mode-dot"></span>
+      <span id="db-mode-text" style="font-weight:700;font-size:14px">—</span>
+      <span id="db-mode-sub" style="font-size:12px;color:var(--muted)"></span>
+      <div class="spacer"></div>
+      <button class="btn btn-sm" id="db-dryrun-toggle">Toggle DRY RUN</button>
+    </div>
+    <div id="db-mode-note" style="font-size:11px;color:var(--muted);margin-top:8px">
+      DRY_RUN=true means no real bets are placed. Strategies evaluate normally but orders are simulated.
+      Toggle updates the server immediately; full effect on the betting client requires a bot restart.
+    </div>
+  </div>
+
+  <!-- BFBM -->
+  <div class="card mt14" id="bfbm-card">
+    <div class="card-title">BF Bot Manager (BFBM)</div>
+    <div class="flex gap8 items-center" style="margin-bottom:10px">
+      <span class="dot" id="bfbm-dot"></span>
+      <span id="bfbm-status-text" style="font-size:12px;color:var(--muted)">Unknown</span>
+      <div class="spacer"></div>
+      <button class="btn btn-sm" id="bfbm-ping-btn">Test Connection</button>
+      <a href="/api/bfbm/export" class="btn btn-sm" download="bfbm-signals.csv">Signals CSV</a>
+      <a href="/api/csv/trades" class="btn btn-sm" download="trade_log.csv">Trades CSV</a>
+    </div>
+    <div id="bfbm-ping-result" style="font-size:12px;color:var(--muted);min-height:18px"></div>
+  </div>
+
+  <!-- Hedge Calculator -->
+  <div class="card mt14">
+    <div class="card-title">Hedge Calculator</div>
+    <div class="flex gap8 flex-wrap" style="margin-top:8px;align-items:flex-end">
+      <div style="display:flex;flex-direction:column;gap:3px">
+        <div style="font-size:11px;color:var(--muted)">Side</div>
+        <select id="hc-side" style="background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:6px;padding:4px 8px;font-size:12px">
+          <option value="BACK">BACK</option>
+          <option value="LAY">LAY</option>
+        </select>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:3px">
+        <div style="font-size:11px;color:var(--muted)">Entry Odds</div>
+        <input id="hc-entry-odds" type="number" step="0.01" min="1.01" placeholder="e.g. 3.00"
+          style="width:90px;background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:6px;padding:4px 8px;font-size:12px">
+      </div>
+      <div style="display:flex;flex-direction:column;gap:3px">
+        <div style="font-size:11px;color:var(--muted)">Stake (£)</div>
+        <input id="hc-stake" type="number" step="0.01" min="0.01" placeholder="e.g. 2.00"
+          style="width:80px;background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:6px;padding:4px 8px;font-size:12px">
+      </div>
+      <div style="display:flex;flex-direction:column;gap:3px">
+        <div style="font-size:11px;color:var(--muted)">Current Odds</div>
+        <input id="hc-hedge-odds" type="number" step="0.01" min="1.01" placeholder="e.g. 2.20"
+          style="width:90px;background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:6px;padding:4px 8px;font-size:12px">
+      </div>
+      <div style="display:flex;flex-direction:column;gap:3px">
+        <div style="font-size:11px;color:var(--muted)">Edge % (Kelly)</div>
+        <input id="hc-edge-pct" type="number" step="0.1" min="0" max="100" placeholder="0"
+          style="width:70px;background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:6px;padding:4px 8px;font-size:12px">
+      </div>
+      <button id="hc-calc-btn" class="btn btn-sm">Calculate</button>
+    </div>
+
+    <!-- Formula explanation -->
+    <div style="margin-top:14px;padding:10px 12px;background:var(--surface2);border-radius:8px;border:1px solid var(--border);font-size:12px;line-height:1.7;color:var(--muted)">
+      <div style="font-weight:600;color:var(--text);margin-bottom:6px">How it works</div>
+      <div>The hedge bet <strong style="color:var(--text)">locks in the same P&amp;L whether the selection wins or loses</strong>. You always bet the opposite side to your entry (BACK entry → LAY to hedge; LAY entry → BACK to hedge).</div>
+      <div style="margin-top:8px;font-weight:600;color:var(--text)">Formula</div>
+      <div style="font-family:monospace;background:var(--surface);border-radius:6px;padding:6px 10px;margin-top:4px;color:var(--text)">
+        hedgeStake&nbsp;&nbsp;&nbsp;= (Stake × EntryOdds) / CurrentOdds<br>
+        lockedProfit = Stake × (EntryOdds − CurrentOdds) / CurrentOdds&nbsp;&nbsp;← BACK<br>
+        lockedProfit = Stake × (CurrentOdds − EntryOdds) / CurrentOdds&nbsp;&nbsp;← LAY
+      </div>
+      <div style="margin-top:10px;font-weight:600;color:var(--text)">Example — BACK entry, odds shorten</div>
+      <div>You <strong style="color:var(--text)">backed</strong> at <strong style="color:var(--text)">3.00</strong> with <strong style="color:var(--text)">£2</strong> stake. Odds have shortened to <strong style="color:var(--text)">2.20</strong>.</div>
+      <div style="font-family:monospace;background:var(--surface);border-radius:6px;padding:6px 10px;margin-top:4px;color:var(--text)">
+        hedgeStake&nbsp;&nbsp;&nbsp;= (2 × 3.00) / 2.20 = <span style="color:#4ade80">£2.73 LAY</span><br>
+        lockedProfit = 2 × (3.00 − 2.20) / 2.20 = <span style="color:#4ade80">+£0.73 guaranteed</span>
+      </div>
+      <div style="margin-top:4px">If it <strong style="color:var(--text)">wins</strong>: back pays £4 − lay costs £3.27 = <strong style="color:#4ade80">+£0.73</strong>.&nbsp; If it <strong style="color:var(--text)">loses</strong>: lose £2 back stake + lay returns £2.73 = <strong style="color:#4ade80">+£0.73</strong>.</div>
+      <div style="margin-top:10px;font-weight:600;color:var(--text)">Example — LAY entry, odds drift</div>
+      <div>You <strong style="color:var(--text)">laid</strong> at <strong style="color:var(--text)">1.30</strong> with <strong style="color:var(--text)">£2</strong> stake. Odds have drifted to <strong style="color:var(--text)">1.50</strong>.</div>
+      <div style="font-family:monospace;background:var(--surface);border-radius:6px;padding:6px 10px;margin-top:4px;color:var(--text)">
+        hedgeStake&nbsp;&nbsp;&nbsp;= (2 × 1.30) / 1.50 = <span style="color:#4ade80">£1.73 BACK</span><br>
+        lockedProfit = 2 × (1.50 − 1.30) / 1.50 = <span style="color:#4ade80">+£0.27 guaranteed</span>
+      </div>
+      <div style="margin-top:4px">When you lay and the odds drift, you can now back at a higher price to lock in profit — you win both ways.</div>
+      <div style="margin-top:8px;color:var(--text-dim,var(--muted));font-style:italic">Profit is positive when the market moves in your favour (BACK: odds shorten; LAY: odds drift). If odds move against you, the locked P&amp;L will be negative — you're cutting a loss, not banking a profit.</div>
+    </div>
+
+    <div id="hc-result" style="display:none;margin-top:12px"></div>
+  </div>
+
+  <!-- Event Log -->
+  <div class="card mt14">
+    <div class="flex items-center gap8" style="margin-bottom:8px">
+      <div class="card-title" style="margin-bottom:0">Event Log</div>
+      <div class="spacer"></div>
+      <select id="sys-log-level" style="background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:6px;padding:4px 8px;font-size:12px">
+        <option value="">All</option>
+        <option value="ERROR" selected>Errors only</option>
+        <option value="WARN">Warnings+</option>
+      </select>
+      <select id="sys-log-source" style="background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:6px;padding:4px 8px;font-size:12px">
+        <option value="">All sources</option>
+        <option>betfairStream</option>
+        <option>statsPoller</option>
+        <option>orderManager</option>
+        <option>index</option>
+      </select>
+    </div>
+    <div class="event-log" id="sys-event-log"><div class="empty">Loading events…</div></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,254 @@
+'use strict';
+
+/**
+ * betRepo.js — CRUD for the bets and bet_rejections tables
+ */
+
+const db = require('./db');
+
+// ---------------------------------------------------------------------------
+// Prepared statements — bets
+// ---------------------------------------------------------------------------
+
+const _insert = db.prepare(`
+  INSERT OR IGNORE INTO bets (
+    bet_id, betfair_market_id, strategy_name,
+    player_key, player_name, side,
+    requested_odds, actual_odds, stake, size_matched, liability,
+    placed_at, dry_run, reason, exit_config
+  ) VALUES (
+    @betId, @betfairMarketId, @strategyName,
+    @playerKey, @playerName, @side,
+    @requestedOdds, @actualOdds, @stake, @sizeMatched, @liability,
+    @placedAt, @dryRun, @reason, @exitConfig
+  )
+`);
+
+const _settle = db.prepare(`
+  UPDATE bets
+  SET settled_at      = @settledAt,
+      settlement_type = @settlementType,
+      pnl             = @pnl,
+      actual_odds     = COALESCE(@actualOdds, actual_odds),
+      hedge_odds      = COALESCE(@hedgeOdds, hedge_odds)
+  WHERE bet_id = @betId
+`);
+
+const _getOpen = db.prepare(`
+  SELECT * FROM bets WHERE settled_at IS NULL ORDER BY placed_at DESC
+`);
+
+const _getByMarket = db.prepare(`
+  SELECT * FROM bets WHERE betfair_market_id = ? ORDER BY placed_at
+`);
+
+const _getRecent = db.prepare(`
+  SELECT b.*, m.surface, m.tournament, m.match_name,
+    COALESCE(
+      (SELECT s.sets FROM market_snapshots s
+       WHERE s.betfair_market_id = b.betfair_market_id
+         AND s.sets IS NOT NULL
+       ORDER BY s.ts DESC LIMIT 1),
+      m.final_sets
+    ) AS latest_sets,
+    COALESCE(
+      (SELECT s.serve_stats FROM market_snapshots s
+       WHERE s.betfair_market_id = b.betfair_market_id
+         AND s.ts <= b.placed_at
+         AND s.serve_stats IS NOT NULL
+       ORDER BY s.ts DESC LIMIT 1),
+      (SELECT s.serve_stats FROM market_snapshots s
+       WHERE s.betfair_market_id = b.betfair_market_id
+         AND s.serve_stats IS NOT NULL
+       ORDER BY s.ts DESC LIMIT 1)
+    ) AS snapshot_serve_stats
+  FROM bets b
+  LEFT JOIN markets m ON b.betfair_market_id = m.betfair_market_id
+  WHERE b.placed_at >= datetime('now', @since)
+  ORDER BY b.placed_at DESC
+  LIMIT @limit
+`);
+
+const _getAll = db.prepare(`
+  SELECT b.*, m.surface, m.tournament
+  FROM bets b
+  LEFT JOIN markets m ON b.betfair_market_id = m.betfair_market_id
+  ORDER BY b.placed_at DESC
+  LIMIT @limit OFFSET @offset
+`);
+
+const _countAll = db.prepare(`SELECT COUNT(*) AS n FROM bets`);
+
+const _getPnlByStrategy = db.prepare(`
+  SELECT
+    strategy_name,
+    COUNT(*)                                          AS total_bets,
+    SUM(CASE WHEN pnl > 0 THEN 1 ELSE 0 END)         AS wins,
+    SUM(CASE WHEN pnl <= 0 THEN 1 ELSE 0 END)         AS losses,
+    ROUND(SUM(pnl), 2)                                AS total_pnl,
+    ROUND(AVG(requested_odds), 3)                     AS avg_odds,
+    ROUND(SUM(pnl) / NULLIF(SUM(stake), 0) * 100, 2) AS roi_pct
+  FROM bets
+  WHERE settled_at IS NOT NULL
+  GROUP BY strategy_name
+  ORDER BY total_pnl DESC
+`);
+
+const _getDailyPnl = db.prepare(`
+  SELECT
+    strftime('%Y-%m-%d', settled_at) AS day,
+    ROUND(SUM(pnl), 2)               AS pnl
+  FROM bets
+  WHERE settled_at IS NOT NULL
+    AND settled_at >= datetime('now', '-30 days')
+  GROUP BY day
+  ORDER BY day
+`);
+
+// ---------------------------------------------------------------------------
+// Prepared statements — bet_rejections
+// ---------------------------------------------------------------------------
+
+const _insertRejection = db.prepare(`
+  INSERT INTO bet_rejections (
+    betfair_market_id, match_name, strategy_name,
+    rejection_stage, rejection_reason, odds, details
+  ) VALUES (
+    @betfairMarketId, @matchName, @strategyName,
+    @rejectionStage, @rejectionReason, @odds, @details
+  )
+`);
+
+const _getRecentRejections = db.prepare(`
+  SELECT * FROM bet_rejections
+  WHERE ts >= datetime('now', '-24 hours')
+  ORDER BY ts DESC
+  LIMIT 200
+`);
+
+const _getRejectionsByMarket = db.prepare(`
+  SELECT * FROM bet_rejections
+  WHERE betfair_market_id = ?
+  ORDER BY ts
+`);
+
+// ---------------------------------------------------------------------------
+// Public API — bets
+// ---------------------------------------------------------------------------
+
+/** Record a newly placed bet. */
+function insert(fields) {
+  _insert.run({
+    betId:           fields.betId           ?? null,
+    betfairMarketId: fields.betfairMarketId ?? null,
+    strategyName:    fields.strategyName    ?? null,
+    playerKey:       fields.playerKey       ?? null,
+    playerName:      fields.playerName      ?? null,
+    side:            fields.side            ?? null,
+    requestedOdds:   fields.requestedOdds   ?? null,
+    actualOdds:      fields.actualOdds      ?? null,
+    stake:           fields.stake           ?? null,
+    sizeMatched:     fields.sizeMatched     ?? null,
+    liability:       fields.liability       ?? null,
+    placedAt:        fields.placedAt        ?? new Date().toISOString(),
+    dryRun:          fields.dryRun          ? 1 : 0,
+    reason:          fields.reason          ?? null,
+    exitConfig:      fields.exitConfig      ? JSON.stringify(fields.exitConfig) : null,
+  });
+}
+
+/** Settle an existing bet (trade-out, win, loss, cancel). */
+function settle(betId, { settlementType, pnl, actualOdds, hedgeOdds, settledAt }) {
+  _settle.run({
+    betId,
+    settlementType: settlementType ?? null,
+    pnl:            pnl            ?? null,
+    actualOdds:     actualOdds     ?? null,
+    hedgeOdds:      hedgeOdds      ?? null,
+    settledAt:      settledAt      ?? new Date().toISOString(),
+  });
+}
+
+function getOpen() {
+  return _getOpen.all();
+}
+
+function getByMarket(betfairMarketId) {
+  return _getByMarket.all(betfairMarketId);
+}
+
+/**
+ * Recent bets with market metadata joined in.
+ * @param {string} since — SQLite datetime modifier e.g. '-7 days'
+ * @param {number} limit
+ */
+function getRecent(since = '-7 days', limit = 500) {
+  return _getRecent.all({ since, limit });
+}
+
+function getAll({ limit = 1000, offset = 0 } = {}) {
+  return _getAll.all({ limit, offset });
+}
+
+function countAll() {
+  return _countAll.get().n;
+}
+
+/** Per-strategy P&L summary for the dashboard analytics tab. */
+function getPnlByStrategy() {
+  return _getPnlByStrategy.all();
+}
+
+/** Daily P&L for the last 30 days (for chart). */
+function getDailyPnl() {
+  return _getDailyPnl.all();
+}
+
+// ---------------------------------------------------------------------------
+// Public API — rejections
+// ---------------------------------------------------------------------------
+
+/** Log a bet that was considered but not placed. */
+function insertRejection(fields) {
+  _insertRejection.run({
+    betfairMarketId: fields.betfairMarketId ?? null,
+    matchName:       fields.matchName       ?? null,
+    strategyName:    fields.strategyName    ?? null,
+    rejectionStage:  fields.rejectionStage  ?? null,
+    rejectionReason: fields.rejectionReason ?? null,
+    odds:            fields.odds            ?? null,
+    details:         fields.details         ? JSON.stringify(fields.details) : null,
+  });
+}
+
+function getRecentRejections() {
+  return _getRecentRejections.all();
+}
+
+function getRejectionsByMarket(betfairMarketId) {
+  return _getRejectionsByMarket.all(betfairMarketId);
+}
+
+/** Backfill a null strategy_name after the fact (e.g. from reason field). */
+function backfillStrategyName(betId, strategyName) {
+  db.prepare('UPDATE bets SET strategy_name = ? WHERE bet_id = ? AND strategy_name IS NULL')
+    .run(strategyName, betId);
+}
+
+/** Delete all bets and rejections — triggered by dashboard "Clear History" button. */
+function clearAll() {
+  db.prepare('DELETE FROM bets').run();
+  db.prepare('DELETE FROM bet_rejections').run();
+}
+
+/** Delete a single bet by its bet_id. */
+function deleteById(betId) {
+  db.prepare('DELETE FROM bets WHERE bet_id = ?').run(betId);
+}
+
+module.exports = {
+  insert, settle, getOpen, getByMarket, getRecent, getAll, countAll,
+  getPnlByStrategy, getDailyPnl,
+  insertRejection, getRecentRejections, getRejectionsByMarket,
+  backfillStrategyName, clearAll, deleteById,
+};

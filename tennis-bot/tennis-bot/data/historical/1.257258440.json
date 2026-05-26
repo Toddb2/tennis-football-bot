@@ -1,0 +1,974 @@
+[
+  {
+    "timestamp": 1777054476477,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777054476477,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777054656423,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777054656423,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777054777693,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777054777693,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777054957696,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777054957696,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055078960,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055078960,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055258964,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055258964,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055380238,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055380238,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055560241,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055560241,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055681527,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055681527,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055861530,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055861530,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055982812,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777055982812,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056162816,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056162816,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056284115,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056284115,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056464119,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056464119,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056585399,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056585399,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056765403,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056765403,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056886660,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777056886660,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057066663,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057066663,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057187926,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057187926,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057367930,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057367930,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057489183,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057489183,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057669189,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057669189,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057790454,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057790454,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057970458,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777057970458,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058091774,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058091774,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058271778,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058271778,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058393043,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058393043,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058573046,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058573046,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058694318,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058694318,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058874322,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058874322,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058995601,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777058995601,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059175604,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059175604,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059296899,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059296899,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059476902,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059476902,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059598180,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059598180,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059778184,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059778184,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059899423,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777059899423,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060079426,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060079426,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060200854,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060200854,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060380859,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060380859,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060502194,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060502194,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060682196,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060682196,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060803520,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060803520,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060983523,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777060983523,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061104822,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061104822,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061284825,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061284825,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061406110,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061406110,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061586113,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061586113,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061707380,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061707380,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061887383,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777061887383,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062008674,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062008674,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062188677,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062188677,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062310030,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062310030,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062490033,
+    "marketId": "1.257258440",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777062490033,
+    "marketId": "1.257258440",
+    "selectionId": "10279568",
+    "selectionName": "Mert Alkaya",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

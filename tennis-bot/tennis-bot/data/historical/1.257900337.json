@@ -1,0 +1,1352 @@
+[
+  {
+    "timestamp": 1778238619170,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238619170,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799119,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799119,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799197,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799197,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238889247,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238889247,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238979290,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238979290,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239069334,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239069334,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239159385,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239159385,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239249421,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239249421,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239339473,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239339473,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239429521,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239429521,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239609527,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239609527,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239609609,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239609609,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239699654,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239699654,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239879659,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239879659,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239879811,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239879811,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239969940,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239969940,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240059982,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240059982,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240150040,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240150040,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240240087,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240240087,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240330124,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240330124,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240420163,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240420163,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240510212,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240510212,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240600264,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240600264,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240780270,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240780270,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240780342,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240780342,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240870392,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240870392,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240960428,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778240960428,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241140434,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241140434,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241140514,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241140514,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241230556,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241230556,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241320609,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241320609,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241410658,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241410658,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241500706,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241500706,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241590756,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241590756,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241770762,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241770762,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241770868,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241770868,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241860896,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778241860896,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242040901,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242040901,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242220906,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242220906,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242400913,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242400913,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242580918,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242580918,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242760922,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242760922,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242940924,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778242940924,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243120926,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243120926,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243300928,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243300928,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243480931,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243480931,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243660933,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243660933,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243840935,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778243840935,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244020939,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244020939,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244200942,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244200942,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244380945,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244380945,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244560947,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244560947,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244740949,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244740949,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244920950,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778244920950,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245100952,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245100952,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245280954,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245280954,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245460957,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245460957,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245640959,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245640959,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245820962,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778245820962,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246000964,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246000964,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246180966,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246180966,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246360970,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246360970,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246540972,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246540972,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246720974,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246720974,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246900976,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778246900976,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247080978,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247080978,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247260980,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247260980,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247440984,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247440984,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247621070,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247621070,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247801073,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247801073,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247981078,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778247981078,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778248161081,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778248161081,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778248341084,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778248341084,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778248521088,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778248521088,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778248701091,
+    "marketId": "1.257900337",
+    "selectionId": "11905639",
+    "selectionName": "Ryan Seggerman",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778248701091,
+    "marketId": "1.257900337",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

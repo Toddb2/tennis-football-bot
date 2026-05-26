@@ -1,0 +1,938 @@
+[
+  {
+    "timestamp": 1778926233240,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926233240,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926323224,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926323224,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926413269,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926413269,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926503327,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926503327,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926593372,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926593372,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926773379,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926773379,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926773480,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926773480,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926863538,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926863538,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926953597,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778926953597,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927043645,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927043645,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927133673,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927133673,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927223721,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927223721,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927403728,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927403728,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927403831,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927403831,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927493890,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927493890,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927583934,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927583934,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927673980,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927673980,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927764040,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927764040,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927854068,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927854068,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927944129,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927944129,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928034171,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928034171,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928124213,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928124213,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928214264,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928214264,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928304320,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928304320,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928394380,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928394380,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928484419,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928484419,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928574489,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928574489,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928664534,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928664534,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928754580,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928754580,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928844636,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928844636,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928934677,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928934677,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929114682,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929114682,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929114774,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929114774,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929204831,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929204831,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929384839,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929384839,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929384938,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929384938,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929474978,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929474978,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929565038,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929565038,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929655071,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929655071,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929745115,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929745115,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929925122,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929925122,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929925220,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929925220,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930015246,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930015246,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930105295,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930105295,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930285302,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930285302,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930285440,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930285440,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930465446,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930465446,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930465498,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930465498,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930555562,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930555562,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930645628,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930645628,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930735661,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930735661,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930825734,
+    "marketId": "1.258235227",
+    "selectionId": "7692106",
+    "selectionName": "Laslo Djere",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930825734,
+    "marketId": "1.258235227",
+    "selectionId": "12646384",
+    "selectionName": "Emilio Nava",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  }
+]

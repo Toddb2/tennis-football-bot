@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1774444494381,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444494381,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444674334,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444674334,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444795679,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444795679,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444975682,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774444975682,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445096944,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445096944,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445276947,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445276947,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445398253,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445398253,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445578255,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445578255,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445699500,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445699500,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445879502,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774445879502,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446000821,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446000821,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446180823,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446180823,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446302138,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446302138,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446482140,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446482140,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446603418,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446603418,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446783421,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446783421,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446904685,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774446904685,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447084686,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447084686,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447206030,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447206030,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447386033,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447386033,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447507296,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447507296,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447687298,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447687298,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447808585,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447808585,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447988587,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774447988587,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448109880,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448109880,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448289882,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448289882,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448411159,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448411159,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448591165,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448591165,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448712439,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448712439,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448892440,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774448892440,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449013716,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449013716,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449193719,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449193719,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449314976,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449314976,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449494979,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449494979,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449616254,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449616254,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449796256,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449796256,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449917533,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774449917533,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450097535,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450097535,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450218840,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450218840,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450398844,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450398844,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450520108,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450520108,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450700110,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450700110,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450821383,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774450821383,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774451001386,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774451001386,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774451122622,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774451122622,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 490,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774451302624,
+    "marketId": "1.255791507",
+    "selectionId": "59031089",
+    "selectionName": "Gina Feistel",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774451302624,
+    "marketId": "1.255791507",
+    "selectionId": "13181184",
+    "selectionName": "Jaedan Brown",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  }
+]

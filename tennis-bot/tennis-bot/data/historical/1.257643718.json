@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1777751685981,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777751685981,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777751865922,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777751865922,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777751987254,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777751987254,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752167255,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752167255,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752288555,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752288555,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752468556,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752468556,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752589860,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752589860,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752769862,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752769862,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752891243,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777752891243,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753071244,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753071244,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753192589,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753192589,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753372590,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753372590,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753493945,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753493945,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753673946,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753673946,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753795263,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753795263,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753975266,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777753975266,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754096625,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754096625,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754276627,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754276627,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754397944,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754397944,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754577945,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754577945,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754699428,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754699428,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754879429,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777754879429,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755000737,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755000737,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755180738,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755180738,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755302138,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755302138,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755482140,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755482140,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755603493,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755603493,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755783494,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755783494,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755904815,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777755904815,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756084816,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756084816,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756206094,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756206094,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756386095,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756386095,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756507424,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756507424,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756687426,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756687426,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756808811,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756808811,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756988812,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777756988812,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757110255,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757110255,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757290256,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757290256,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757411557,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757411557,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757591558,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757591558,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757712859,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757712859,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757892860,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777757892860,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777758014170,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777758014170,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777758194171,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777758194171,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777758315567,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777758315567,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777758495568,
+    "marketId": "1.257643718",
+    "selectionId": "20586623",
+    "selectionName": "Niels Visker",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777758495568,
+    "marketId": "1.257643718",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

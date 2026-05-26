@@ -1,0 +1,938 @@
+[
+  {
+    "timestamp": 1778350172888,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350172888,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350352844,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350352844,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350532848,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350532848,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350712851,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350712851,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350892853,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350892853,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351072857,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351072857,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351252859,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351252859,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351432863,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351432863,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351612866,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351612866,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351792869,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351792869,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351972871,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351972871,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352153090,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352153090,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352153792,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352153792,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352333797,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352333797,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352513799,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352513799,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352693802,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352693802,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352873805,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352873805,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353053808,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353053808,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353233811,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353233811,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353413815,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353413815,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353593818,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353593818,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353773820,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353773820,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353953851,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353953851,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354133854,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354133854,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354313856,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354313856,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354405007,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354405007,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354585010,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354585010,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354765012,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354765012,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354945015,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778354945015,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355035109,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355035109,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355215114,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355215114,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355305314,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355305314,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355485319,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355485319,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355665323,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355665323,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355845326,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778355845326,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356025330,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356025330,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356205334,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356205334,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356385338,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356385338,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356565341,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356565341,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356745344,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356745344,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356925346,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778356925346,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357105349,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357105349,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357285351,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357285351,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357465353,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357465353,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357645356,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357645356,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357825358,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778357825358,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358005360,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358005360,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358185361,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358185361,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358365363,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358365363,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358545365,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358545365,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358725368,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358725368,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358905370,
+    "marketId": "1.257906597",
+    "selectionId": "25085114",
+    "selectionName": "Hamad Medjedovic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778358905370,
+    "marketId": "1.257906597",
+    "selectionId": "42055362",
+    "selectionName": "Joao Fonseca",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

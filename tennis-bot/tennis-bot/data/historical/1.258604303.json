@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1779788697696,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779788697696,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779788787690,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779788787690,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779788877727,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779788877727,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779788967767,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779788967767,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789057805,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789057805,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789147865,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789147865,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789237884,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789237884,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789417890,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789417890,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789508025,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789508025,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789598068,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789598068,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789688120,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789688120,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789778157,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789778157,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789868198,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789868198,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789958237,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789958237,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790048285,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790048285,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790138340,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790138340,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790318346,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790318346,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790318401,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790318401,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790408449,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790408449,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588456,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588456,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588549,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588549,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790678578,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790678578,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790768632,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790768632,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948640,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948640,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948707,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948707,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791038760,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791038760,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791128790,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791128790,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791218824,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791218824,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791308896,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791308896,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791398910,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791398910,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791578916,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791578916,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791579013,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791579013,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791669057,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791669057,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791759098,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791759098,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791849153,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791849153,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791939187,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791939187,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792029228,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792029228,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792119263,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792119263,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792124795,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792124795,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792214731,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792214731,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792304778,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792304778,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792394826,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792394826,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574831,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574831,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574964,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574964,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792665027,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792665027,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792755075,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792755075,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793471176,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793471176,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793561143,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793561143,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793651190,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793651190,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793741233,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793741233,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793831285,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793831285,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793921314,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793921314,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779794011360,
+    "marketId": "1.258604303",
+    "selectionId": "8256942",
+    "selectionName": "Sidharth Rawat",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779794011360,
+    "marketId": "1.258604303",
+    "selectionId": "39534134",
+    "selectionName": "Orel Kimhi",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1778439600524,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439600524,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439780465,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439780465,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439960467,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439960467,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440140470,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440140470,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440320471,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440320471,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440500472,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440500472,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440680474,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440680474,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440860476,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440860476,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441040478,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441040478,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441220480,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441220480,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441400482,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441400482,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441580484,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441580484,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441760486,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441760486,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441940488,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441940488,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442120489,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442120489,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442300491,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442300491,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442480492,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442480492,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442660495,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442660495,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442840496,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442840496,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443020497,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443020497,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443200498,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443200498,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443380499,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443380499,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443560500,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443560500,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443740501,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443740501,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443920502,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443920502,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444100503,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444100503,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444280504,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444280504,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444460505,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444460505,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444640506,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444640506,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444820507,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444820507,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445000508,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445000508,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445180509,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445180509,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445360510,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445360510,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445540511,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445540511,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445720512,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445720512,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445900514,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445900514,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446080516,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446080516,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446260517,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446260517,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446440518,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446440518,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446620519,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446620519,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446800520,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446800520,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446980522,
+    "marketId": "1.257938267",
+    "selectionId": "21067270",
+    "selectionName": "Matteo Arnaldi",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446980522,
+    "marketId": "1.257938267",
+    "selectionId": "51053591",
+    "selectionName": "Rafael Jodar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

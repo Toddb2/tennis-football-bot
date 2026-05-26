@@ -1,0 +1,704 @@
+[
+  {
+    "timestamp": 1774856252311,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774856252311,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774856432270,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774856432270,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774856553634,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774856553634,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774856733636,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774856733636,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774856854899,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774856854899,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857034900,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857034900,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857156225,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857156225,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857336226,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857336226,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857457511,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857457511,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857637512,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857637512,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857758891,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857758891,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857938892,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774857938892,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858060235,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858060235,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858240236,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858240236,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858361499,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858361499,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858541501,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858541501,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858662771,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858662771,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858842773,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858842773,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858964052,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774858964052,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859144054,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859144054,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859265423,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859265423,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859445426,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859445426,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859566755,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859566755,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859746757,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859746757,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859868054,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774859868054,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860048055,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860048055,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860169419,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860169419,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860349420,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860349420,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860650840,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860650840,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860772123,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860772123,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860952125,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774860952125,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862579951,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862579951,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862759952,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862759952,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862881248,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862881248,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863061250,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863061250,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863182698,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863182698,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863362702,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863362702,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863484012,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863484012,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863664014,
+    "marketId": "1.255956476",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863664014,
+    "marketId": "1.255956476",
+    "selectionId": "54186159",
+    "selectionName": "Yuto Oki",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

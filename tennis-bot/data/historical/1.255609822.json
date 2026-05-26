@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": 1774110294216,
+    "marketId": "1.255609822",
+    "selectionId": "8859306",
+    "selectionName": "Tommy Paul",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774110294216,
+    "marketId": "1.255609822",
+    "selectionId": "36157024",
+    "selectionName": "Raphael Collignon",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774111373993,
+    "marketId": "1.255609822",
+    "selectionId": "8859306",
+    "selectionName": "Tommy Paul",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774111373993,
+    "marketId": "1.255609822",
+    "selectionId": "36157024",
+    "selectionName": "Raphael Collignon",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774111554002,
+    "marketId": "1.255609822",
+    "selectionId": "8859306",
+    "selectionName": "Tommy Paul",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774111554002,
+    "marketId": "1.255609822",
+    "selectionId": "36157024",
+    "selectionName": "Raphael Collignon",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774112094026,
+    "marketId": "1.255609822",
+    "selectionId": "8859306",
+    "selectionName": "Tommy Paul",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774112094026,
+    "marketId": "1.255609822",
+    "selectionId": "36157024",
+    "selectionName": "Raphael Collignon",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774112634043,
+    "marketId": "1.255609822",
+    "selectionId": "8859306",
+    "selectionName": "Tommy Paul",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774112634043,
+    "marketId": "1.255609822",
+    "selectionId": "36157024",
+    "selectionName": "Raphael Collignon",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  }
+]

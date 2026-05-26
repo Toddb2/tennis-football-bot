@@ -1,0 +1,884 @@
+[
+  {
+    "timestamp": 1778323392795,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323392795,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323572755,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323572755,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323752759,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323752759,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323932761,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323932761,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324112765,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324112765,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324292767,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324292767,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324293129,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324293129,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324473133,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324473133,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324653137,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324653137,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324833141,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324833141,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325013146,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325013146,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325013446,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325013446,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325193450,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325193450,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325373455,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325373455,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325553459,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325553459,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325553685,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325553685,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325733691,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325733691,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325913694,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778325913694,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326093696,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326093696,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326093884,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326093884,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326273889,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326273889,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326453893,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326453893,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326633897,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326633897,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326813900,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326813900,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326916702,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778326916702,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327006696,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327006696,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327096750,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327096750,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327186807,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327186807,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327276845,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327276845,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327366896,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327366896,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327456940,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327456940,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327636944,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327636944,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327637060,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327637060,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327842463,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778327842463,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328022467,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328022467,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328202472,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328202472,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328382476,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328382476,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328562480,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328562480,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328652948,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328652948,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328743007,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328743007,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328833054,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328833054,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328923099,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778328923099,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329013140,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329013140,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329103182,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329103182,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329193232,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329193232,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329373238,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329373238,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329553242,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329553242,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329733246,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329733246,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329913250,
+    "marketId": "1.257948943",
+    "selectionId": "21809000",
+    "selectionName": "Gustavo Heide",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778329913250,
+    "marketId": "1.257948943",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1776866543479,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776866543479,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776866723432,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776866723432,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776866844696,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776866844696,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867024700,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867024700,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867145971,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867145971,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867325976,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867325976,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867447235,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867447235,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867627238,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867627238,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867748551,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867748551,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867928554,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776867928554,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868049807,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868049807,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868229810,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868229810,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868351125,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868351125,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868531130,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868531130,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868652412,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868652412,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868832415,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868832415,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868953696,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868953696,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869133699,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869133699,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869254963,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869254963,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869434968,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869434968,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869556253,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869556253,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869736257,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869736257,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869857565,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869857565,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870037569,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870037569,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870158870,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870158870,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870338874,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870338874,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870460154,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870460154,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870640157,
+    "marketId": "1.257064528",
+    "selectionId": "9634670",
+    "selectionName": "Dayana Yastremska",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870640157,
+    "marketId": "1.257064528",
+    "selectionId": "20954981",
+    "selectionName": "Solana Sierra",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  }
+]

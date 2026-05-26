@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1774531208787,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531208787,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531388720,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531388720,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531509991,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531509991,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531689993,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531689993,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531811283,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531811283,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531991284,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531991284,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532112572,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532112572,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532292573,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532292573,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532413861,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532413861,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532593863,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532593863,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532715129,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532715129,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532895131,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532895131,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533016403,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533016403,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533196406,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533196406,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533317741,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533317741,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533497744,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533497744,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533619006,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533619006,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533799208,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533799208,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533920306,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774533920306,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534100308,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534100308,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534221593,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534221593,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534401597,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534401597,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534522888,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534522888,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534702890,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534702890,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534824255,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774534824255,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535004257,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535004257,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535125544,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535125544,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535305547,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535305547,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535426821,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535426821,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535606823,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535606823,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535728095,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535728095,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535908098,
+    "marketId": "1.255828424",
+    "selectionId": "7335514",
+    "selectionName": "Tereza Martincova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774535908098,
+    "marketId": "1.255828424",
+    "selectionId": "27187712",
+    "selectionName": "Lucie Havlickova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "timestamp": 1779377026492,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377026492,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377206457,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377206457,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377386460,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377386460,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377566465,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377566465,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377746470,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377746470,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377926473,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779377926473,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378106477,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378106477,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378286481,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378286481,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378466484,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378466484,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378646488,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378646488,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378826490,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779378826490,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379006494,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379006494,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379007231,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379007231,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379187236,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379187236,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379367239,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379367239,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379547243,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379547243,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379547458,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379547458,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379727463,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379727463,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379817596,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379817596,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379997600,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779379997600,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380177604,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380177604,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380357607,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380357607,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380537610,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380537610,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380717613,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380717613,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380897616,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380897616,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380898655,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779380898655,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381078659,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381078659,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381258663,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381258663,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381348853,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381348853,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381528859,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381528859,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381708864,
+    "marketId": "1.258455476",
+    "selectionId": "45377299",
+    "selectionName": "Hynek Barton",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779381708864,
+    "marketId": "1.258455476",
+    "selectionId": "13426879",
+    "selectionName": "Daniel Michalski",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

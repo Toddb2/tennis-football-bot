@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": 1774850225630,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774850225630,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774850405581,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774850405581,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774850526880,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774850526880,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774850706880,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774850706880,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774850828354,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774850828354,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851008354,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851008354,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851129681,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851129681,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851309682,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851309682,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851431012,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851431012,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851611012,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851611012,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851732296,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851732296,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851912296,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774851912296,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852033575,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852033575,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852213575,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852213575,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852334848,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852334848,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852514848,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852514848,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852636231,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852636231,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852816232,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852816232,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852937504,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774852937504,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853117504,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853117504,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853238891,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853238891,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853418891,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853418891,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853540176,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853540176,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853720176,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853720176,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853841530,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774853841530,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854021530,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854021530,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854142897,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854142897,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854322897,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854322897,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854444352,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854444352,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854624352,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854624352,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854745642,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854745642,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854925643,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774854925643,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774855046940,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774855046940,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774855226941,
+    "marketId": "1.255956323",
+    "selectionId": "9629509",
+    "selectionName": "Renta Tokuda",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774855226941,
+    "marketId": "1.255956323",
+    "selectionId": "10221825",
+    "selectionName": "Yu Hsiou Hsu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

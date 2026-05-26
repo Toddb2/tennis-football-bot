@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": 1774091284015,
+    "marketId": "1.255620392",
+    "selectionId": "58079566",
+    "selectionName": "Julieta Pareja",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091284015,
+    "marketId": "1.255620392",
+    "selectionId": "40480512",
+    "selectionName": "Kayla Cross",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091463862,
+    "marketId": "1.255620392",
+    "selectionId": "58079566",
+    "selectionName": "Julieta Pareja",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091463862,
+    "marketId": "1.255620392",
+    "selectionId": "40480512",
+    "selectionName": "Kayla Cross",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091643867,
+    "marketId": "1.255620392",
+    "selectionId": "58079566",
+    "selectionName": "Julieta Pareja",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091643867,
+    "marketId": "1.255620392",
+    "selectionId": "40480512",
+    "selectionName": "Kayla Cross",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091823873,
+    "marketId": "1.255620392",
+    "selectionId": "58079566",
+    "selectionName": "Julieta Pareja",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091823873,
+    "marketId": "1.255620392",
+    "selectionId": "40480512",
+    "selectionName": "Kayla Cross",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774092003877,
+    "marketId": "1.255620392",
+    "selectionId": "58079566",
+    "selectionName": "Julieta Pareja",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774092003877,
+    "marketId": "1.255620392",
+    "selectionId": "40480512",
+    "selectionName": "Kayla Cross",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  }
+]

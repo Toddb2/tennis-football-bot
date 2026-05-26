@@ -1,0 +1,596 @@
+[
+  {
+    "timestamp": 1774804246218,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774804246218,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774804426162,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774804426162,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774804547436,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774804547436,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774804727437,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774804727437,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774804848829,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774804848829,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805020729,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805020729,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805200676,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805200676,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805321971,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805321971,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805501972,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805501972,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805623372,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805623372,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805803373,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805803373,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805924687,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774805924687,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806104688,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806104688,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806225930,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806225930,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806405931,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806405931,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806527204,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806527204,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806707205,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806707205,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806828557,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774806828557,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807008558,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807008558,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807129875,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807129875,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807309877,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807309877,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807431203,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807431203,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807611204,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807611204,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807732490,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807732490,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807912491,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774807912491,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808033807,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808033807,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808213809,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808213809,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808636447,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808636447,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808816449,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808816449,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808937695,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774808937695,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809117696,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809117696,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809239096,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809239096,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809419097,
+    "marketId": "1.255999308",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809419097,
+    "marketId": "1.255999308",
+    "selectionId": "47651511",
+    "selectionName": "Guillaume Dalmasso",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  }
+]

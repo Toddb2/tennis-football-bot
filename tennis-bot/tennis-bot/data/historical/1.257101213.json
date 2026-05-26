@@ -1,0 +1,560 @@
+[
+  {
+    "timestamp": 1776883033302,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883033302,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883213253,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883213253,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883334518,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883334518,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883514520,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883514520,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883635818,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883635818,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883815823,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883815823,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883937098,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776883937098,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884117103,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884117103,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884239178,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884239178,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884419183,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884419183,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884540456,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884540456,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884720458,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884720458,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884841720,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884841720,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885021723,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885021723,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885143007,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885143007,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885323009,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885323009,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885444275,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885444275,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885624277,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885624277,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885745639,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885745639,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885925642,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885925642,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886046940,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886046940,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886226943,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886226943,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886348317,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886348317,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886528320,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886528320,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886649604,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886649604,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886829607,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886829607,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886950882,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886950882,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887130884,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887130884,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887252135,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887252135,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887432138,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887432138,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 210,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887553473,
+    "marketId": "1.257101213",
+    "selectionId": "9630879",
+    "selectionName": "Alejandro Tabilo",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887553473,
+    "marketId": "1.257101213",
+    "selectionId": "21256256",
+    "selectionName": "Valentin Royer",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

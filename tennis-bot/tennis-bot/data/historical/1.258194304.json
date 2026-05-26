@@ -1,0 +1,5528 @@
+[
+  {
+    "timestamp": 1778774994357,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774994357,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775084328,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775084328,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775174383,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775174383,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775264424,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775264424,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775354469,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775354469,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775444525,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775444525,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775534577,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775534577,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775624631,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775624631,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775714674,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775714674,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775804728,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775804728,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775894774,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775894774,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775984812,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775984812,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776164816,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776164816,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776164891,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776164891,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776344895,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776344895,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776345000,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776345000,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776435041,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776435041,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776615045,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776615045,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776795048,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776795048,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776795209,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776795209,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776885246,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776885246,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776975278,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776975278,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777065328,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777065328,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777155381,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777155381,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777245427,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777245427,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777335480,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777335480,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777515483,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777515483,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777515559,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777515559,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777605602,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777605602,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777695648,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777695648,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777785690,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777785690,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777965693,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777965693,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777965787,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777965787,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778055829,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778055829,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778145882,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778145882,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778325885,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778325885,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778325963,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778325963,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778416015,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778416015,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778596019,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778596019,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778596120,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778596120,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778776125,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778776125,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778866254,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778866254,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778956302,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778956302,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779046341,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779046341,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779136381,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779136381,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779226424,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779226424,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779316466,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779316466,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779406509,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779406509,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779496554,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779496554,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779586608,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779586608,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779766612,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779766612,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779766698,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779766698,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779856749,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779856749,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779946787,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779946787,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780036820,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780036820,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780126863,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780126863,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780216919,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780216919,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780306961,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780306961,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780396985,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780396985,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780576989,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780576989,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780756991,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780756991,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780936993,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780936993,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781116995,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781116995,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781296997,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781296997,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781476998,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781476998,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781657001,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781657001,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781837003,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781837003,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781837605,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781837605,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782017609,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782017609,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782197610,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782197610,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782377612,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782377612,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782377833,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782377833,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782557836,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782557836,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782648005,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782648005,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782828007,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782828007,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783008008,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783008008,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783188010,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783188010,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783368013,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783368013,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783548015,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783548015,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783728016,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783728016,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783908018,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783908018,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784088020,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784088020,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784268022,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784268022,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784448024,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784448024,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784628026,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784628026,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784808027,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784808027,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784988028,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784988028,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785168029,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785168029,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785348032,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785348032,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785528033,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785528033,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785708035,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785708035,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785888036,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785888036,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786068037,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786068037,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786248039,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786248039,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786428040,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786428040,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786608041,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786608041,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786788042,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786788042,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786968044,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786968044,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787148045,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787148045,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787149845,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787149845,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787329847,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787329847,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787509848,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787509848,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788197184,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788197184,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788377116,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788377116,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788557117,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788557117,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788737118,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788737118,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788917119,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788917119,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789097120,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789097120,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789457122,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789457122,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789637123,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789637123,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789817124,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789817124,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789997124,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789997124,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790088000,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790088000,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790268002,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790268002,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790448003,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790448003,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790628004,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790628004,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790808005,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790808005,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790988006,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790988006,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791168007,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791168007,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791348008,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791348008,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791528010,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791528010,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791708012,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791708012,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791888013,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791888013,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792068014,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792068014,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792248015,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792248015,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792428016,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792428016,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792519056,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792519056,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792699058,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792699058,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793239062,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793239062,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793329389,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793329389,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793509391,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793509391,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793689392,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793689392,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793869393,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793869393,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794049394,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794049394,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794229395,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794229395,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794409396,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794409396,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794769398,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794769398,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794949399,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794949399,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795129400,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795129400,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795220114,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795220114,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795400118,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795400118,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795760120,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795760120,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795940121,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795940121,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796120122,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796120122,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796300124,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796300124,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796480125,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796480125,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796660126,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796660126,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796840127,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796840127,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797020128,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797020128,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797380130,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797380130,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797560131,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797560131,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797740132,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797740132,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797920133,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797920133,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798100134,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798100134,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798280136,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798280136,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798460137,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798460137,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798640138,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798640138,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798820140,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798820140,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799540144,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799540144,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799720145,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799720145,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800080147,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800080147,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800440149,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800440149,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800620150,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800620150,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800800150,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800800150,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778801880156,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778801880156,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778802240158,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778802240158,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803320163,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803320163,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803860166,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803860166,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778804220168,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778804220168,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778804989534,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778804989534,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805169534,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805169534,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805349534,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805349534,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805529534,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805529534,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805889534,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805889534,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806249534,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806249534,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806969536,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806969536,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807465557,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807465557,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807825564,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807825564,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808005565,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808005565,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808185565,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808185565,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808365566,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808365566,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808545566,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808545566,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808725567,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808725567,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808905567,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808905567,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809085568,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809085568,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809265568,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809265568,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809445569,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809445569,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809625569,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809625569,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809805571,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809805571,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809985572,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809985572,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810165572,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810165572,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810345574,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810345574,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810525575,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810525575,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810705575,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810705575,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810885576,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810885576,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811245577,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811245577,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811425577,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811425577,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811785577,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811785577,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811965578,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811965578,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778812145579,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778812145579,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778812685581,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778812685581,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778812865582,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778812865582,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813045584,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813045584,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813225584,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813225584,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813405586,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813405586,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813678511,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813678511,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813858514,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813858514,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814038515,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814038515,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814218516,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814218516,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814398518,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814398518,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814578518,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814578518,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814758519,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814758519,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814938520,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814938520,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815118520,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815118520,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815298522,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815298522,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815299180,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815299180,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815479180,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815479180,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815659181,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815659181,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815839182,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815839182,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816019183,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816019183,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816379185,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816379185,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816739186,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816739186,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816919186,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816919186,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817099187,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817099187,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817279189,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817279189,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817459190,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817459190,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817639191,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817639191,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817819193,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817819193,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817999194,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817999194,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818179196,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818179196,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818359197,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818359197,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818539198,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818539198,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818719199,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818719199,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818899200,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818899200,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819079201,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819079201,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819259202,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819259202,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819439202,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819439202,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819619204,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819619204,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819799205,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819799205,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820159206,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820159206,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820519207,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820519207,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820879209,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820879209,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821599214,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821599214,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821779215,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821779215,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821959216,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821959216,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823579225,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823579225,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823759226,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823759226,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823939227,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823939227,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824119228,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824119228,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824299228,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824299228,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824659231,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824659231,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824839232,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824839232,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825199234,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825199234,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825559236,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825559236,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825739237,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825739237,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825919238,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825919238,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827598438,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827598438,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827724791,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827724791,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827904793,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827904793,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828084794,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828084794,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828444796,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828444796,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828624797,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828624797,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828984800,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828984800,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829164801,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829164801,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829344802,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829344802,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829524803,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829524803,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830064806,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830064806,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830244807,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830244807,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830424808,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830424808,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830604809,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830604809,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830964811,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830964811,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831144812,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831144812,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831324813,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831324813,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831504814,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831504814,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831684815,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831684815,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831864816,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831864816,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832044817,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832044817,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832224818,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832224818,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832404819,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832404819,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832584820,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832584820,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832764821,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832764821,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832944822,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832944822,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833037283,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833037283,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833217284,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833217284,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833307413,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833307413,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833667416,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833667416,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833847417,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833847417,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834027419,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834027419,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834207420,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834207420,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834387421,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834387421,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834388003,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834388003,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834568006,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834568006,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834568088,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834568088,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834658132,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834658132,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834838135,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834838135,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835018137,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835018137,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835198139,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835198139,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835378141,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835378141,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835558143,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835558143,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835738145,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835738145,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835918148,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835918148,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836098151,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836098151,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836278154,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836278154,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836278868,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836278868,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836368918,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836368918,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836458961,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836458961,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836549023,
+    "marketId": "1.258194304",
+    "selectionId": "10410254",
+    "selectionName": "Zsombor Piros",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836549023,
+    "marketId": "1.258194304",
+    "selectionId": "35635716",
+    "selectionName": "Lukas Neumayer",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "timestamp": 1778145374425,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778145374425,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778145554355,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778145554355,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778145734360,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778145734360,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778145914364,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778145914364,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146094368,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146094368,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146274373,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146274373,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146454378,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146454378,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146634382,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146634382,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146814386,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146814386,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146994390,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778146994390,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147174393,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147174393,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147354396,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147354396,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147534399,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147534399,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147714403,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147714403,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147894406,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778147894406,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148074409,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148074409,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148254412,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148254412,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148434416,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148434416,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148614419,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148614419,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148794423,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148794423,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148974427,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778148974427,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149154430,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149154430,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149334433,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149334433,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149514438,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149514438,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149694441,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149694441,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149874443,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778149874443,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778150054446,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778150054446,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778150234448,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778150234448,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778150414450,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778150414450,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778150594452,
+    "marketId": "1.257770696",
+    "selectionId": "10706479",
+    "selectionName": "Alexei Popyrin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778150594452,
+    "marketId": "1.257770696",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

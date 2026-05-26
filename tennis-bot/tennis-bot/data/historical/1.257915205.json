@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 1778307005133,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307005133,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307185073,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307185073,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307365074,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307365074,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307545076,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307545076,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307725079,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307725079,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307905081,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778307905081,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308085083,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308085083,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308265085,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308265085,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308445086,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308445086,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308625088,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308625088,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308805091,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308805091,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308985093,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778308985093,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309165095,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309165095,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309345097,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309345097,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309525098,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309525098,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309705100,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309705100,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309885103,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778309885103,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310065105,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310065105,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310245108,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310245108,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310425110,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310425110,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310605111,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310605111,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310606716,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310606716,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310786720,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310786720,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310966722,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778310966722,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311146724,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311146724,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311326726,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311326726,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311506729,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311506729,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311686731,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311686731,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311866733,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778311866733,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312046736,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312046736,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312226738,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312226738,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312406740,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312406740,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312586742,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312586742,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312766744,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312766744,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312946746,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778312946746,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778313126748,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778313126748,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778313306750,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778313306750,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778313486752,
+    "marketId": "1.257915205",
+    "selectionId": "25078969",
+    "selectionName": "Zhuoxuan Bai",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778313486752,
+    "marketId": "1.257915205",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

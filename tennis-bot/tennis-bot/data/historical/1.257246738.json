@@ -1,0 +1,587 @@
+[
+  {
+    "timestamp": 1776993328140,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776993449374,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776994654640,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995860342,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776995860342,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996040344,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996040344,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996341623,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776996341623,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147292904,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147292904,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147472908,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147472908,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147594232,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147594232,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147774235,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147774235,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147895524,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777147895524,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148075527,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148075527,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148196805,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148196805,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148376808,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148376808,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148498097,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148498097,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148678099,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148678099,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148799380,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148799380,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148979382,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777148979382,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149100691,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149100691,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149280693,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149280693,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149401976,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149401976,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149581978,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149581978,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149703328,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149703328,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149883330,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777149883330,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150004684,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150004684,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150184686,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150184686,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150305942,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150305942,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150485943,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150485943,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150607272,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150607272,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150787273,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150787273,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150908533,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777150908533,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777151088535,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777151088535,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777151209876,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777151209876,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777151389877,
+    "marketId": "1.257246738",
+    "selectionId": "8907933",
+    "selectionName": "Alexander Bublik",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777151389877,
+    "marketId": "1.257246738",
+    "selectionId": "9193006",
+    "selectionName": "Stefanos Tsitsipas",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

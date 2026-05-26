@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 1776792109964,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792109964,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792289878,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792289878,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792411399,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792411399,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792591402,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792591402,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792713299,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792713299,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792893301,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776792893301,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793015034,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793015034,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793195036,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793195036,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793316991,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793316991,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793496993,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793496993,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793618293,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793618293,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793798296,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793798296,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793919930,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776793919930,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794099932,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794099932,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794221291,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794221291,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794401293,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794401293,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794522925,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794522925,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794702928,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794702928,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794824194,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776794824194,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795004196,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795004196,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795125870,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795125870,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795305874,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795305874,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795427932,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795427932,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795607947,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795607947,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795729347,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795729347,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795909351,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776795909351,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796030646,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796030646,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796210650,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796210650,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796331984,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796331984,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796511987,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796511987,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796633777,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796633777,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796813780,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796813780,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796935622,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776796935622,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797115624,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797115624,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797237642,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797237642,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797417646,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797417646,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797539848,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797539848,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797719853,
+    "marketId": "1.257034131",
+    "selectionId": "27997073",
+    "selectionName": "Sascha Gueymard Wayenbu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776797719853,
+    "marketId": "1.257034131",
+    "selectionId": "72841230",
+    "selectionName": "Jack Kennedy",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

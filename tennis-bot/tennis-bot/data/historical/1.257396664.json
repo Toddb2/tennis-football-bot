@@ -1,0 +1,740 @@
+[
+  {
+    "timestamp": 1777266840709,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777266840709,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267020662,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267020662,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267141932,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267141932,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267321933,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267321933,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267443234,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267443234,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267623235,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267623235,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267744499,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267744499,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267924501,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777267924501,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268045770,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268045770,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268225772,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268225772,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268347024,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268347024,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268527025,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268527025,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268648317,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268648317,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268828320,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268828320,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268949661,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777268949661,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269129664,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269129664,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269250934,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269250934,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269430936,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269430936,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269552214,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269552214,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269732216,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269732216,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269853514,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777269853514,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270033516,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270033516,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270154773,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270154773,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270334775,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270334775,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270636115,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270636115,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270757410,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270757410,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270937411,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777270937411,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271058733,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271058733,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271238734,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271238734,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271360000,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271360000,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271540001,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271540001,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271661256,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271661256,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271841258,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271841258,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271962541,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777271962541,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272142542,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272142542,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272263800,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272263800,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272443802,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272443802,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272565074,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272565074,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272745077,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272745077,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272866445,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 760,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777272866445,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273046446,
+    "marketId": "1.257396664",
+    "selectionId": "8873516",
+    "selectionName": "Yusuke Takahashi",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273046446,
+    "marketId": "1.257396664",
+    "selectionId": "10500847",
+    "selectionName": "Yuta Shimizu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

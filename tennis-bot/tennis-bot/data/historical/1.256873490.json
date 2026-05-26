@@ -1,0 +1,596 @@
+[
+  {
+    "timestamp": 1776305750135,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305750135,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307738264,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307738264,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307860188,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307860188,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308040189,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308040189,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308161746,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308161746,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308341748,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308341748,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308463057,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308463057,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308643059,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308643059,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308944332,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308944332,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309065809,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309065809,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309245810,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309245810,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309367093,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309367093,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309547094,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309547094,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309668359,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309668359,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309848360,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309848360,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309969800,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309969800,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310149802,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310149802,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310271096,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310271096,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310451097,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310451097,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310572366,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310572366,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310752368,
+    "marketId": "1.256873490",
+    "selectionId": "63850948",
+    "selectionName": "Rada Zolotareva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310752368,
+    "marketId": "1.256873490",
+    "selectionId": "63850884",
+    "selectionName": "Alexandra Shubladze",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

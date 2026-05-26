@@ -1,0 +1,920 @@
+[
+  {
+    "timestamp": 1778840060890,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840060890,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840150869,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840150869,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840240930,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840240930,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840330949,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840330949,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840420993,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840420993,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840511028,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840511028,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840601075,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840601075,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840691104,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840691104,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840781163,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840781163,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840961167,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840961167,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840961259,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840961259,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841051302,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841051302,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841231306,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841231306,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841231416,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841231416,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841411422,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841411422,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841501545,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841501545,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841591574,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841591574,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841681628,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841681628,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841861632,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841861632,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841861704,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841861704,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841951737,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841951737,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842041800,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842041800,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842221803,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842221803,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842401805,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842401805,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842401956,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842401956,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842581959,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842581959,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842761963,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842761963,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842941966,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778842941966,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843121968,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843121968,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843212367,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843212367,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843302396,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843302396,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843392427,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843392427,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843482482,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843482482,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843572525,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843572525,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843662570,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843662570,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843752600,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843752600,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843842649,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843842649,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843932688,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778843932688,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844022729,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844022729,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844112763,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844112763,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844202813,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844202813,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844292847,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844292847,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844382896,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844382896,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844472931,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844472931,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844562997,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844562997,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844653024,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844653024,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844833027,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844833027,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844833103,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778844833103,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778845013107,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778845013107,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778845103243,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778845103243,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778845193273,
+    "marketId": "1.258188451",
+    "selectionId": "11928538",
+    "selectionName": "Keegan Smith",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778845193273,
+    "marketId": "1.258188451",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 95,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "timestamp": 1779017886729,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017886729,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017976714,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017976714,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018066764,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018066764,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018156806,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018156806,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018246846,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018246846,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018336890,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018336890,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018426932,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018426932,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018606938,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018606938,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018607025,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018607025,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018697064,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018697064,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018787099,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018787099,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018877132,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018877132,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018967174,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779018967174,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019057210,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019057210,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019147244,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019147244,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019237293,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019237293,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019327336,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019327336,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019417374,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019417374,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019507412,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019507412,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019597454,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019597454,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019687506,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019687506,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019777567,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019777567,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019867717,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019867717,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019957747,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779019957747,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020047789,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020047789,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020137819,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020137819,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020317825,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020317825,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020317913,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020317913,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020407949,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020407949,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020498001,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020498001,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020588034,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020588034,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020678075,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020678075,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020768120,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020768120,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020858170,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020858170,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020948187,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779020948187,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021038227,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021038227,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021128261,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021128261,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021218299,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021218299,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021308343,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021308343,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021398384,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021398384,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021488424,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021488424,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021578475,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021578475,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021668510,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021668510,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021758537,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021758537,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021848587,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021848587,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021938632,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779021938632,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022028667,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022028667,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022118717,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022118717,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022209020,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022209020,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022298805,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022298805,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022388862,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022388862,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022478896,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022478896,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022568940,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022568940,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022658977,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022658977,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022838983,
+    "marketId": "1.258271336",
+    "selectionId": "52394124",
+    "selectionName": "Aryan Lakshmanan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779022838983,
+    "marketId": "1.258271336",
+    "selectionId": "83643237",
+    "selectionName": "Ronit Karki",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

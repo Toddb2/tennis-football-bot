@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1779270993695,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779270993695,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271083585,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271083585,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271173640,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271173640,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271353645,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271353645,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271353759,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271353759,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271443810,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271443810,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271533849,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271533849,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271623905,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271623905,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271713954,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271713954,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271804013,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271804013,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271894065,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271894065,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271984112,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779271984112,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272074148,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272074148,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272186909,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272186909,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272276834,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272276834,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272366882,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272366882,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272456918,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272456918,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272546953,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272546953,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272637022,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272637022,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272727055,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272727055,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272937874,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779272937874,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273027780,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273027780,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273118080,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273118080,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273208120,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273208120,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273298154,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273298154,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273478160,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273478160,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273478242,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273478242,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273568322,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273568322,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273658375,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273658375,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273748411,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273748411,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273838456,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273838456,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273928547,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779273928547,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274018593,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274018593,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274108628,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274108628,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274130054,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274130054,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274309902,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274309902,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274310017,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274310017,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274400066,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274400066,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274490106,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274490106,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274670112,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274670112,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274670217,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274670217,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274760274,
+    "marketId": "1.258360700",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779274760274,
+    "marketId": "1.258360700",
+    "selectionId": "3588868",
+    "selectionName": "Bernard Tomic",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  }
+]

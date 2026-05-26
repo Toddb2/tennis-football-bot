@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1776884841773,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776884841773,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885021723,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885021723,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885143007,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885143007,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885323009,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885323009,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885444275,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885444275,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885624277,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885624277,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885745639,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885745639,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885925642,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776885925642,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886046940,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886046940,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886226943,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886226943,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886348317,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886348317,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886528320,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886528320,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886649604,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886649604,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886829607,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886829607,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886950882,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776886950882,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887130884,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887130884,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887252135,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887252135,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887432138,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887432138,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887553473,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887553473,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887733477,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887733477,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887854737,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776887854737,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888034739,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888034739,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888156017,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888156017,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888336018,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888336018,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888457276,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888457276,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888637278,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888637278,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888758551,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888758551,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888938553,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776888938553,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889059828,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889059828,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889239831,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889239831,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889361090,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889361090,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889541093,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889541093,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889662358,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889662358,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889842361,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889842361,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889963625,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776889963625,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890143627,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890143627,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890264909,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890264909,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890444910,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890444910,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890566191,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890566191,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890746192,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890746192,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890867475,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776890867475,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776891047476,
+    "marketId": "1.257189733",
+    "selectionId": "21067354",
+    "selectionName": "Katrina Scott",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776891047476,
+    "marketId": "1.257189733",
+    "selectionId": "9632371",
+    "selectionName": "Martina Okalova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

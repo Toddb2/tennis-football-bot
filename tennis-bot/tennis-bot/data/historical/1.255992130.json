@@ -1,0 +1,398 @@
+[
+  {
+    "timestamp": 1774809540510,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809540510,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809720458,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809720458,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809841760,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774809841760,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810021761,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810021761,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810143085,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810143085,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810323086,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810323086,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810444371,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810444371,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810624372,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810624372,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810745635,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810745635,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810925637,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774810925637,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811047058,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811047058,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811227059,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811227059,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811348335,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811348335,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811528336,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811528336,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811649606,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811649606,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811829607,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811829607,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811951664,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811951664,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812131666,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812131666,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814362034,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814362034,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814542036,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814542036,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814663326,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814663326,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814843328,
+    "marketId": "1.255992130",
+    "selectionId": "7283330",
+    "selectionName": "Alex Bolt",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814843328,
+    "marketId": "1.255992130",
+    "selectionId": "9630865",
+    "selectionName": "Andres Andrade",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  }
+]

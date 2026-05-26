@@ -1,0 +1,398 @@
+[
+  {
+    "timestamp": 1776868351176,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868351176,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868531130,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868531130,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868652412,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868652412,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868832415,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868832415,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868953696,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776868953696,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869133699,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869133699,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869254963,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869254963,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869434968,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869434968,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869556253,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869556253,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869736257,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869736257,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869857565,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776869857565,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870037569,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870037569,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870158870,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870158870,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870338874,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870338874,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870460154,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870460154,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870640157,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870640157,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870679770,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870679770,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870859653,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870859653,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870980923,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776870980923,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871160926,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871160926,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871282195,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871282195,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871462198,
+    "marketId": "1.257173115",
+    "selectionId": "26402974",
+    "selectionName": "Elmer Moller",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776871462198,
+    "marketId": "1.257173115",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  }
+]

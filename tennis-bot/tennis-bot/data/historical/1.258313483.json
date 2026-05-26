@@ -1,0 +1,974 @@
+[
+  {
+    "timestamp": 1779192760813,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779192760813,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779192850671,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779192850671,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779192940724,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779192940724,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193030774,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193030774,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193120797,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193120797,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193210846,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193210846,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193300894,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193300894,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193390936,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193390936,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193480967,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193480967,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193571010,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193571010,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193661044,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193661044,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193751084,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193751084,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193841134,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193841134,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193931171,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779193931171,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194021231,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194021231,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194111253,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194111253,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194201301,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194201301,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194291347,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194291347,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194381402,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194381402,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194471433,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194471433,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194561455,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194561455,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194651492,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194651492,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194741547,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194741547,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194921555,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194921555,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194921640,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779194921640,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195011675,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195011675,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195101713,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195101713,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281724,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281724,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281798,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195281798,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461807,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461807,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461869,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195461869,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195551914,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195551914,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195641979,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195641979,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195732022,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195732022,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195822074,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195822074,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195912102,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779195912102,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196002157,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196002157,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196092181,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196092181,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196182257,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196182257,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196272263,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196272263,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196362325,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196362325,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196452351,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196452351,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196542398,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196542398,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196632439,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196632439,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196722477,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196722477,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196812534,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196812534,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196902559,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779196902559,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082566,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082566,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082639,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197082639,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197172667,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197172667,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197262710,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197262710,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197352751,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197352751,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197442780,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197442780,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197532803,
+    "marketId": "1.258313483",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779197532803,
+    "marketId": "1.258313483",
+    "selectionId": "18848405",
+    "selectionName": "Jessica Bouzas Maneiro",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  }
+]

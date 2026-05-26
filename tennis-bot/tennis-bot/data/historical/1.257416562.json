@@ -1,0 +1,182 @@
+[
+  {
+    "timestamp": 1777384646808,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384646808,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384826750,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384826750,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384948071,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384948071,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777385128074,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777385128074,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777385249394,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777385249394,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777385429397,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777385429397,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777390372323,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777390372323,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777390552327,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777390552327,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777390673748,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777390673748,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777390853752,
+    "marketId": "1.257416562",
+    "selectionId": "65024409",
+    "selectionName": "Daniel Jade",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777390853752,
+    "marketId": "1.257416562",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  }
+]

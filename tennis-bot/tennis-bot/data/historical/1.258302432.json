@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1779209459209,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209459209,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209549198,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209549198,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209729204,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209729204,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209729292,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209729292,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209909297,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209909297,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209909375,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209909375,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209992193,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779209992193,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210082138,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210082138,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210172173,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210172173,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210262317,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210262317,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210352333,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210352333,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210442377,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210442377,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210532416,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210532416,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210622467,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210622467,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210712504,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210712504,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210892512,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210892512,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210892608,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210892608,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210982644,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779210982644,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211162652,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211162652,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211162726,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211162726,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211252761,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211252761,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211342815,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211342815,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211432841,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211432841,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211522880,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211522880,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211612932,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211612932,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211702991,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211702991,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211793019,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211793019,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211883065,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211883065,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211973095,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779211973095,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212063158,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212063158,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212153199,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212153199,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212243245,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212243245,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212333308,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212333308,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212423344,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212423344,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212513406,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212513406,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212603428,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212603428,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212693465,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212693465,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212783493,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212783493,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212873568,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212873568,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212963601,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779212963601,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213053650,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213053650,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213143689,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213143689,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213233737,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213233737,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213323786,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213323786,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213413828,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213413828,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213503869,
+    "marketId": "1.258302432",
+    "selectionId": "36613848",
+    "selectionName": "Cadence Brace",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779213503869,
+    "marketId": "1.258302432",
+    "selectionId": "20136628",
+    "selectionName": "Maria Timofeeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

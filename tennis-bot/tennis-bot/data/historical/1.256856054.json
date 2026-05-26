@@ -1,0 +1,596 @@
+[
+  {
+    "timestamp": 1776349161770,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349161770,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349341720,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349341720,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349462971,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349462971,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349642975,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349642975,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349767982,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349767982,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349947985,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776349947985,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350069427,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350069427,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350249430,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350249430,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350370715,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350370715,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350550719,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350550719,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350672456,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350672456,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350852460,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350852460,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350973741,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776350973741,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351153744,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351153744,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351275050,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351275050,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351455052,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351455052,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351576335,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351576335,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351756338,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351756338,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351877598,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776351877598,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352057603,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352057603,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352178950,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352178950,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352358955,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352358955,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352480709,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352480709,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352660714,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352660714,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352781981,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352781981,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352961984,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776352961984,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353083281,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353083281,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353263285,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353263285,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353384686,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353384686,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353564690,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353564690,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353686107,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353686107,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353866110,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353866110,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 1000,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353987408,
+    "marketId": "1.256856054",
+    "selectionId": "19924829",
+    "selectionName": "Denis Shapovalov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776353987408,
+    "marketId": "1.256856054",
+    "selectionId": "11942150",
+    "selectionName": "Fabian Marozsan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "timestamp": 1779198253194,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198253194,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433144,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433144,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433204,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198433204,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198523251,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198523251,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198613298,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198613298,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793306,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793306,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793367,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198793367,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198883416,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198883416,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198973457,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779198973457,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199063466,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199063466,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199243472,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199243472,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199243548,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199243548,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199333595,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199333595,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199423643,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199423643,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199513689,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199513689,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199603724,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199603724,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199693786,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199693786,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199783826,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199783826,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199873881,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199873881,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199963921,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779199963921,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200053957,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200053957,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200144005,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200144005,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200234040,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200234040,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200324098,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200324098,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200414118,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200414118,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200504171,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200504171,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200594202,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200594202,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200684273,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200684273,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200774285,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200774285,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200864343,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200864343,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200954376,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779200954376,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201044411,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201044411,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201134448,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201134448,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201224495,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201224495,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201314532,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201314532,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201404571,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201404571,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201494608,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201494608,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201584651,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201584651,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201674689,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201674689,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201764721,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201764721,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201854765,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779201854765,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779202034776,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779202034776,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779202034851,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779202034851,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779202124899,
+    "marketId": "1.258267179",
+    "selectionId": "10487746",
+    "selectionName": "Diae El Jardi",
+    "lastTradedPrice": 95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779202124899,
+    "marketId": "1.258267179",
+    "selectionId": "7299657",
+    "selectionName": "Tatjana Maria",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

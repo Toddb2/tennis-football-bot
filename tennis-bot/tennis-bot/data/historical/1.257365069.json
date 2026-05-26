@@ -1,0 +1,524 @@
+[
+  {
+    "timestamp": 1777213301226,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777213301226,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777213481183,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777213481183,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777213602450,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777213602450,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777213782454,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777213782454,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777213903705,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777213903705,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214083708,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214083708,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214205006,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214205006,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214385010,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214385010,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214506303,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214506303,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214686306,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214686306,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214807589,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214807589,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214987592,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777214987592,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215108889,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215108889,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215288892,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215288892,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215590159,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215590159,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215711417,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215711417,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215891421,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777215891421,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216012704,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216012704,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216192708,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216192708,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216313978,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216313978,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216493981,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216493981,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216615316,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216615316,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216795320,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216795320,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216916590,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777216916590,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217096593,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217096593,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217217851,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217217851,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217397853,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217397853,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217519109,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217519109,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217699111,
+    "marketId": "1.257365069",
+    "selectionId": "38914753",
+    "selectionName": "Mika Brunold",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777217699111,
+    "marketId": "1.257365069",
+    "selectionId": "94093729",
+    "selectionName": "Timo Rosenkranz Koenig",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

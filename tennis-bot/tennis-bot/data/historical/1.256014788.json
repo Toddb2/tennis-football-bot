@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": 1774865593630,
+    "marketId": "1.256014788",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865593630,
+    "marketId": "1.256014788",
+    "selectionId": "11313212",
+    "selectionName": "Lloyd Harris",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865773575,
+    "marketId": "1.256014788",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865773575,
+    "marketId": "1.256014788",
+    "selectionId": "11313212",
+    "selectionName": "Lloyd Harris",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865894839,
+    "marketId": "1.256014788",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865894839,
+    "marketId": "1.256014788",
+    "selectionId": "11313212",
+    "selectionName": "Lloyd Harris",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866074840,
+    "marketId": "1.256014788",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866074840,
+    "marketId": "1.256014788",
+    "selectionId": "11313212",
+    "selectionName": "Lloyd Harris",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866196190,
+    "marketId": "1.256014788",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866196190,
+    "marketId": "1.256014788",
+    "selectionId": "11313212",
+    "selectionName": "Lloyd Harris",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866376191,
+    "marketId": "1.256014788",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866376191,
+    "marketId": "1.256014788",
+    "selectionId": "11313212",
+    "selectionName": "Lloyd Harris",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866497488,
+    "marketId": "1.256014788",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866497488,
+    "marketId": "1.256014788",
+    "selectionId": "11313212",
+    "selectionName": "Lloyd Harris",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866677490,
+    "marketId": "1.256014788",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774866677490,
+    "marketId": "1.256014788",
+    "selectionId": "11313212",
+    "selectionName": "Lloyd Harris",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  }
+]

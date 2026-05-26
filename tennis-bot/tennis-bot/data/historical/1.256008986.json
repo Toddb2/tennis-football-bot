@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1774779311072,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774779311072,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774779491015,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774779491015,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774779612364,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774779612364,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774779792365,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774779792365,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774779913617,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774779913617,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780093618,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780093618,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780214910,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780214910,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780394912,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780394912,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780516235,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780516235,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780545313,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780545313,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780725251,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780725251,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780846556,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774780846556,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781026558,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781026558,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781147850,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781147850,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781327851,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781327851,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781449212,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781449212,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781629213,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781629213,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781750602,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781750602,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781930603,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774781930603,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782051927,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782051927,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782231928,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782231928,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782353268,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782353268,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782533270,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782533270,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782654578,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782654578,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782834579,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782834579,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782955957,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774782955957,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774783135960,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774783135960,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774783257252,
+    "marketId": "1.256008986",
+    "selectionId": "4688724",
+    "selectionName": "Dusan Lajovic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774783257252,
+    "marketId": "1.256008986",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

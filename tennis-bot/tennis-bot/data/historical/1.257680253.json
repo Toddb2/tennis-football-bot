@@ -1,0 +1,524 @@
+[
+  {
+    "timestamp": 1777915569534,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777915569534,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777915749439,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777915749439,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777915929442,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777915929442,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777915930940,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777915930940,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916110942,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916110942,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916290945,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916290945,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916382496,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916382496,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916562497,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916562497,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916742499,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777916742499,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777917968960,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777917968960,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918148897,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918148897,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918328898,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918328898,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918508899,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918508899,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918688901,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918688901,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918868903,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777918868903,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919048904,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919048904,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919228906,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919228906,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919408907,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919408907,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919588909,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919588909,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919768910,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919768910,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919771065,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919771065,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919910214,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777919910214,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920090111,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920090111,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920270112,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920270112,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920450121,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920450121,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920630122,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920630122,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920810123,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920810123,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920990124,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777920990124,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777921170125,
+    "marketId": "1.257680253",
+    "selectionId": "79994860",
+    "selectionName": "Karan   Singh",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777921170125,
+    "marketId": "1.257680253",
+    "selectionId": "74773160",
+    "selectionName": "Matt Kleiman",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

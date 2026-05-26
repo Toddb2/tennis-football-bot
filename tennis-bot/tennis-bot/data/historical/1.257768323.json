@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 1778155510141,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155510141,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155600106,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155600106,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155690154,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155690154,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155780195,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155780195,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960200,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960200,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960279,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778155960279,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156050326,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156050326,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156140389,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156140389,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156230438,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156230438,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156320477,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156320477,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156410531,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156410531,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156500573,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156500573,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156590610,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156590610,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156680660,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156680660,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156770697,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156770697,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156860777,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156860777,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156950822,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778156950822,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157040879,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157040879,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220885,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220885,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220994,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157220994,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401000,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401000,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401081,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157401081,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157491129,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157491129,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157581178,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157581178,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157671214,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157671214,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157761256,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157761256,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157851297,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157851297,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157941342,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778157941342,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158031366,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158031366,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158121420,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158121420,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158211453,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158211453,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158301508,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158301508,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158481512,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158481512,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158661515,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158661515,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158841519,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778158841519,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778159021521,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778159021521,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778159021772,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778159021772,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778159201776,
+    "marketId": "1.257768323",
+    "selectionId": "47032298",
+    "selectionName": "Federico Cina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778159201776,
+    "marketId": "1.257768323",
+    "selectionId": "46273968",
+    "selectionName": "Alexander Blockx",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

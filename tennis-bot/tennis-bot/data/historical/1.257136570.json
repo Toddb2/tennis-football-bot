@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": 1776770954121,
+    "marketId": "1.257136570",
+    "selectionId": "70889592",
+    "selectionName": "Britt Du Pree",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776770954121,
+    "marketId": "1.257136570",
+    "selectionId": "19931680",
+    "selectionName": "Sabine Rutlauka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771134064,
+    "marketId": "1.257136570",
+    "selectionId": "70889592",
+    "selectionName": "Britt Du Pree",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771134064,
+    "marketId": "1.257136570",
+    "selectionId": "19931680",
+    "selectionName": "Sabine Rutlauka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771255332,
+    "marketId": "1.257136570",
+    "selectionId": "70889592",
+    "selectionName": "Britt Du Pree",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771255332,
+    "marketId": "1.257136570",
+    "selectionId": "19931680",
+    "selectionName": "Sabine Rutlauka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771435335,
+    "marketId": "1.257136570",
+    "selectionId": "70889592",
+    "selectionName": "Britt Du Pree",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771435335,
+    "marketId": "1.257136570",
+    "selectionId": "19931680",
+    "selectionName": "Sabine Rutlauka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771736647,
+    "marketId": "1.257136570",
+    "selectionId": "70889592",
+    "selectionName": "Britt Du Pree",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776771736647,
+    "marketId": "1.257136570",
+    "selectionId": "19931680",
+    "selectionName": "Sabine Rutlauka",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  }
+]

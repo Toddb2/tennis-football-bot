@@ -1,0 +1,938 @@
+[
+  {
+    "timestamp": 1779013204647,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013204647,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013294625,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013294625,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013384672,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013384672,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013564678,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013564678,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013564736,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013564736,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013654768,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013654768,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013744805,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013744805,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013834840,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013834840,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013924877,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779013924877,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014014913,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014014913,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014104961,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014104961,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014194991,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014194991,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014285037,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014285037,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014375069,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014375069,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014465112,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014465112,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014555142,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014555142,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014645182,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014645182,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014735209,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014735209,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014825247,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014825247,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014915283,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779014915283,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015005323,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015005323,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015095353,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015095353,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015185411,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015185411,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015365414,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015365414,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015365486,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015365486,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015455517,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015455517,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015545576,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015545576,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015635585,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015635585,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015725626,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015725626,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015815659,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015815659,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015905706,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779015905706,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016085710,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016085710,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016085782,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016085782,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016175810,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016175810,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016265851,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016265851,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016355897,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016355897,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016535902,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016535902,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016535991,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016535991,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016626022,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016626022,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016716073,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016716073,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016806148,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016806148,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016896194,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016896194,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016986230,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779016986230,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017166234,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017166234,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017166316,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017166316,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017256370,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017256370,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017346417,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017346417,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017436465,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017436465,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017526504,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017526504,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017706508,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017706508,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017706595,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017706595,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017796645,
+    "marketId": "1.258271506",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779017796645,
+    "marketId": "1.258271506",
+    "selectionId": "7795290",
+    "selectionName": "Daria Kasatkina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

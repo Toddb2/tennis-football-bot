@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 1777180435106,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777180435106,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777180615060,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777180615060,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777180736328,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777180736328,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777180916329,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777180916329,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181037611,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181037611,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181217613,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181217613,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181338894,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181338894,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181518897,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181518897,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181640267,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181640267,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181820268,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181820268,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181941588,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777181941588,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182121589,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182121589,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182242886,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182242886,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182422889,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182422889,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182544164,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182544164,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182724166,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182724166,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182845484,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777182845484,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183025485,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183025485,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183146770,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183146770,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183326771,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183326771,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183448134,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183448134,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183628136,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183628136,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183749423,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183749423,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183929425,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777183929425,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184050732,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184050732,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184230734,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184230734,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184352176,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184352176,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184532177,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184532177,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184653444,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184653444,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184833445,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184833445,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184954751,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777184954751,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185134753,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185134753,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185256136,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185256136,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185436137,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185436137,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185557425,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185557425,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185737426,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185737426,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185858795,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777185858795,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777186038797,
+    "marketId": "1.257343328",
+    "selectionId": "68591131",
+    "selectionName": "Damir Zhalgasbay",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777186038797,
+    "marketId": "1.257343328",
+    "selectionId": "43997367",
+    "selectionName": "Gerard Campana Lee",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

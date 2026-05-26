@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1777281001477,
+    "marketId": "1.257415785",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777281001477,
+    "marketId": "1.257415785",
+    "selectionId": "57463250",
+    "selectionName": "Thomas Faurel",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777281181418,
+    "marketId": "1.257415785",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777281181418,
+    "marketId": "1.257415785",
+    "selectionId": "57463250",
+    "selectionName": "Thomas Faurel",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777282507917,
+    "marketId": "1.257415785",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777282507917,
+    "marketId": "1.257415785",
+    "selectionId": "57463250",
+    "selectionName": "Thomas Faurel",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777282687920,
+    "marketId": "1.257415785",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777282687920,
+    "marketId": "1.257415785",
+    "selectionId": "57463250",
+    "selectionName": "Thomas Faurel",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777282809181,
+    "marketId": "1.257415785",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777282809181,
+    "marketId": "1.257415785",
+    "selectionId": "57463250",
+    "selectionName": "Thomas Faurel",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777282989183,
+    "marketId": "1.257415785",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777282989183,
+    "marketId": "1.257415785",
+    "selectionId": "57463250",
+    "selectionName": "Thomas Faurel",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  }
+]

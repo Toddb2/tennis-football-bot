@@ -1,0 +1,560 @@
+[
+  {
+    "timestamp": 1776276499857,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276499857,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276679809,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276679809,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276801104,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276801104,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276981107,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276981107,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277103867,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277103867,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277283870,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277283870,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277405151,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277405151,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277585154,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277585154,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277706458,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277706458,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277886460,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277886460,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278007938,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278007938,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278187940,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278187940,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278309743,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278309743,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278489745,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278489745,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278611280,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278611280,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278791283,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278791283,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278913378,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278913378,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279093382,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279093382,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279214739,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279214739,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279394742,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279394742,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279516546,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279516546,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279696547,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279696547,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279817819,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279817819,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279997821,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279997821,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280119103,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280119103,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280299105,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280299105,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280420832,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280420832,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280600835,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280600835,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280722503,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280722503,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280902504,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280902504,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 500,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776281203817,
+    "marketId": "1.256840911",
+    "selectionId": "40136010",
+    "selectionName": "Maria Lourdes Carle",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776281203817,
+    "marketId": "1.256840911",
+    "selectionId": "10782511",
+    "selectionName": "Thaisa Grana Pedretti",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

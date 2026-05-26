@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1778525998548,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778525998548,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526088553,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526088553,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268555,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268555,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268641,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526268641,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448644,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448644,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448770,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526448770,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628773,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628773,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628867,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526628867,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808870,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808870,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808963,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526808963,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526899013,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526899013,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526989048,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778526989048,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169053,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169053,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169162,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527169162,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527259198,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527259198,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439200,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439200,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439286,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527439286,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527619289,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527619289,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527834685,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778527834685,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528014687,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 170,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528014687,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528194688,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528194688,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528374690,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528374690,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528554691,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528554691,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528734692,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528734692,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528914693,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778528914693,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529094694,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529094694,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529274695,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529274695,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529454696,
+    "marketId": "1.258040546",
+    "selectionId": "6199453",
+    "selectionName": "Karolina Pliskova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778529454696,
+    "marketId": "1.258040546",
+    "selectionId": "10349398",
+    "selectionName": "Elena Rybakina",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

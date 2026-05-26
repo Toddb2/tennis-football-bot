@@ -1,0 +1,7148 @@
+[
+  {
+    "timestamp": 1778424073840,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424073840,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424163822,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424163822,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424253887,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424253887,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424343939,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424343939,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424434018,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424434018,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424524049,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424524049,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424614098,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424614098,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424704136,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424704136,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424794189,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424794189,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424884241,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424884241,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424974302,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778424974302,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425154308,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425154308,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425154377,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425154377,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425244449,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425244449,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425334488,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425334488,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425424535,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425424535,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425514591,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425514591,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425604634,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425604634,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425694691,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425694691,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425784742,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425784742,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425874792,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425874792,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425964837,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778425964837,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426054879,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426054879,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426144946,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426144946,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426234994,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426234994,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426325036,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426325036,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426415086,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426415086,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426505140,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426505140,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426595194,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426595194,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426685241,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426685241,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426775300,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426775300,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426865336,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426865336,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426955390,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778426955390,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427045439,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427045439,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427135484,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427135484,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427225530,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427225530,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427315583,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427315583,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427405634,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427405634,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427495684,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427495684,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427585724,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427585724,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427675767,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427675767,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427765807,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427765807,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427855850,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427855850,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427945898,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778427945898,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428035942,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428035942,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428125991,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428125991,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428216046,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428216046,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428306093,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428306093,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428396140,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428396140,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428486195,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428486195,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428576241,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428576241,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428666292,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428666292,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428756340,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428756340,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428846388,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428846388,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428936430,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778428936430,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429026499,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429026499,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429116533,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429116533,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429206577,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429206577,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429296615,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429296615,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429386685,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429386685,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429476725,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429476725,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429566772,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429566772,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429656819,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429656819,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429707249,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429707249,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429797230,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429797230,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429887275,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429887275,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429977322,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778429977322,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430067452,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430067452,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430107321,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430107321,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430287232,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430287232,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430287364,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430287364,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430377407,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430377407,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430467460,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430467460,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430557501,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430557501,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430647564,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430647564,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430737600,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430737600,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430917604,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430917604,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430917692,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778430917692,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431007748,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431007748,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431046777,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431046777,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431136747,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431136747,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431316751,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431316751,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431316836,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431316836,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431496840,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431496840,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431497003,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431497003,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431677008,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431677008,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431857011,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431857011,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431947204,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778431947204,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432127207,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432127207,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432307211,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432307211,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432487213,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432487213,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432667216,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432667216,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432847219,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778432847219,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433027221,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433027221,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433027681,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433027681,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433207684,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433207684,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433207764,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433207764,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433297807,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433297807,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433387847,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433387847,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433567852,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433567852,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433927857,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778433927857,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778434287861,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778434287861,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778434467863,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778434467863,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778434647865,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778434647865,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778434827867,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778434827867,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778435007868,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778435007868,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778435187873,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778435187873,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778435367874,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778435367874,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778435547876,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778435547876,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778436267886,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778436267886,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778436627890,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778436627890,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778436719386,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778436719386,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778436899389,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778436899389,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437079392,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437079392,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437259393,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437259393,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437439396,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437439396,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437619397,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437619397,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437799399,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437799399,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437799775,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437799775,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437979777,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778437979777,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778438159780,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778438159780,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778438339781,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778438339781,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439059788,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439059788,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439239789,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439239789,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439599791,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439599791,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439600461,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439600461,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439960467,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778439960467,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440140470,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440140470,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440320471,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440320471,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440500472,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440500472,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440860476,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778440860476,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441400482,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441400482,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441580484,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441580484,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441760486,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441760486,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441940488,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778441940488,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442120489,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442120489,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442300491,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442300491,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442480492,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442480492,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442660495,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442660495,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442840496,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778442840496,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443020497,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443020497,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443200498,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443200498,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443380499,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443380499,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443560500,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443560500,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443740501,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443740501,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443920502,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778443920502,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444100503,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444100503,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444280504,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444280504,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444820507,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778444820507,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445180509,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445180509,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445720512,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445720512,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445900514,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778445900514,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446620519,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446620519,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446980522,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778446980522,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778447160524,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778447160524,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778447340525,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778447340525,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778447700526,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778447700526,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778447880527,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778447880527,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778448060527,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778448060527,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778448240529,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778448240529,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778448420530,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778448420530,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778449140534,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778449140534,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778449320535,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778449320535,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778449500535,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778449500535,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778449680536,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778449680536,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450220538,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450220538,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450400539,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450400539,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450580540,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450580540,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450760541,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450760541,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450940542,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778450940542,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778451300544,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778451300544,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778451666720,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778451666720,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778451846721,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778451846721,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452026722,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452026722,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452206723,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452206723,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452386724,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452386724,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452781350,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452781350,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452961351,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778452961351,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778453141352,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778453141352,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778453321352,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778453321352,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778453501353,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778453501353,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778453681354,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778453681354,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778454101781,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778454101781,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778454281781,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778454281781,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778454643595,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778454643595,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778454823596,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778454823596,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778455445667,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778455445667,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778455625667,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778455625667,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778456165668,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778456165668,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778456345668,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778456345668,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778457018657,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778457018657,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778457198657,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778457198657,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778457933981,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778457933981,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778458113982,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778458113982,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778458926960,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778458926960,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459106961,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459106961,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459348415,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459348415,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459528415,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459528415,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459708417,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459708417,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459888419,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778459888419,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778460261377,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778460261377,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778460849087,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778460849087,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778461537433,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778461537433,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778465462812,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778465462812,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778465642812,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778465642812,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778466224378,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778466224378,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778466404378,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778466404378,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778469711223,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778469711223,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778469915515,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778469915515,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470095515,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470095515,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470275515,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470275515,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470455515,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470455515,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470635515,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470635515,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470815516,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470815516,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470995516,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778470995516,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778471175516,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778471175516,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778471355516,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778471355516,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778471731440,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778471731440,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778471911440,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778471911440,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472091441,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472091441,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472271442,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472271442,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472451442,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472451442,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472631442,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472631442,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472811443,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778472811443,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778473467742,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778473467742,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778473647742,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778473647742,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778473827742,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778473827742,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474007742,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474007742,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474187742,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474187742,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474367742,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474367742,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474547742,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474547742,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474727742,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778474727742,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778475140135,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778475140135,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778475503508,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778475503508,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778475683508,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778475683508,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778475890768,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778475890768,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778476482437,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778476482437,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778476662437,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778476662437,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778476842437,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778476842437,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778477022437,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778477022437,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778477562437,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778477562437,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478017294,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478017294,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478137501,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478137501,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478227547,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478227547,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478407549,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478407549,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478587550,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478587550,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478767551,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478767551,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478947552,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778478947552,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479127554,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479127554,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479307555,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479307555,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479487556,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479487556,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479667558,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479667558,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479847559,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778479847559,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480027560,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480027560,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480207561,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480207561,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480387562,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480387562,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480567563,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480567563,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480747564,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778480747564,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778481287567,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778481287567,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778481467568,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778481467568,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482007571,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482007571,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482187572,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482187572,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482367573,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482367573,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482547574,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482547574,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482727575,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482727575,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482907576,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778482907576,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483179815,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483179815,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483359817,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483359817,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483539818,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483539818,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483719819,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483719819,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483899820,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778483899820,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778484079821,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778484079821,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778484259822,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778484259822,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778484439823,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778484439823,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778484979826,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778484979826,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778485339828,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778485339828,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778485879831,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778485879831,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778486599835,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778486599835,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778486779836,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778486779836,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778486959837,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778486959837,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487139838,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487139838,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487141488,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487141488,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487231532,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487231532,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487321577,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487321577,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487411625,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487411625,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487501667,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487501667,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487591709,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487591709,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487681749,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487681749,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487771806,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487771806,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487951880,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778487951880,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488041934,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488041934,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488131979,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488131979,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488312062,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488312062,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488402199,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488402199,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488492219,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488492219,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488582265,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488582265,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488672309,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488672309,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488852394,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488852394,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488942445,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778488942445,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489032501,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489032501,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489122541,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489122541,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489212583,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489212583,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489302630,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489302630,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489482633,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489482633,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489482721,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489482721,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489572762,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489572762,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489662809,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489662809,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489752934,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489752934,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489842989,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489842989,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489933056,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778489933056,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490023106,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490023106,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490113172,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490113172,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490203215,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490203215,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490270177,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490270177,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490360098,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490360098,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490450152,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490450152,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490540207,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490540207,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490630262,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490630262,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490720317,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490720317,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490810363,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490810363,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490900420,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490900420,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490939312,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490939312,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491029213,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491029213,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491119273,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491119273,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491209319,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491209319,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491299364,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491299364,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491389393,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491389393,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569397,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569397,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569517,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569517,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491659577,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491659577,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492163741,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492163741,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492253648,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492253648,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433836,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433836,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492523889,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492523889,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492613943,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492613943,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493398010,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493398010,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493487955,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493487955,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493578021,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493578021,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493668079,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493668079,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493758129,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493758129,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494168546,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494168546,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494258501,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494258501,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494348552,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494348552,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494438595,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494438595,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494528640,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494528640,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494653798,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494653798,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494743768,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494743768,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494833816,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494833816,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013820,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013820,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013921,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013921,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495103965,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495103965,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495194033,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495194033,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495284063,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495284063,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495374112,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495374112,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495464159,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495464159,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495554197,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495554197,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495644239,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495644239,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495734373,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495734373,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495824411,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495824411,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495914448,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495914448,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496004500,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496004500,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496094545,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496094545,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496184605,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496184605,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496249588,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496249588,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496339406,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496339406,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496519409,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496519409,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496519513,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496519513,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496609557,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496609557,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496699602,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496699602,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496789651,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496789651,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496879704,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496879704,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496969744,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778496969744,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497059803,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497059803,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497149838,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497149838,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497329843,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497329843,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497329946,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497329946,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497419996,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497419996,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497510057,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497510057,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497690062,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497690062,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497690176,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497690176,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497780229,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497780229,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497960235,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497960235,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498050382,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498050382,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498109072,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498109072,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498199014,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498199014,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498289056,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498289056,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498379095,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498379095,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498469124,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498469124,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498559173,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498559173,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498595197,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498595197,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498685134,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498685134,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498775184,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498775184,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498865270,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498865270,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498955333,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498955333,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499045371,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499045371,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499135418,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499135418,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499225471,
+    "marketId": "1.257992276",
+    "selectionId": "25084135",
+    "selectionName": "Francisco Rocha",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499225471,
+    "marketId": "1.257992276",
+    "selectionId": "19544764",
+    "selectionName": "Garrett Johns",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

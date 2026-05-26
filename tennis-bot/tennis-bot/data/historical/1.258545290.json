@@ -1,0 +1,722 @@
+[
+  {
+    "timestamp": 1779789958297,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779789958297,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790048285,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790048285,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790138340,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790138340,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790318346,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790318346,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790318401,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790318401,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790408449,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790408449,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588456,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588456,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588549,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790588549,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790678578,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790678578,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790768632,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790768632,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948640,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948640,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948707,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779790948707,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791038760,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791038760,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791128790,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791128790,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791218824,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791218824,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791308896,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791308896,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791398910,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791398910,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791578916,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791578916,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791579013,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791579013,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791669057,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791669057,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791759098,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791759098,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791849153,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791849153,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791939187,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779791939187,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792029228,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792029228,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792119263,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792119263,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792124797,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792124797,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792214731,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792214731,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792304778,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792304778,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792394826,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792394826,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574831,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574831,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574964,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792574964,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792665027,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792665027,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792755075,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779792755075,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793471192,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793471192,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793561143,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793561143,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793651190,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793651190,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793741233,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793741233,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793831285,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793831285,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793921314,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779793921314,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779794011360,
+    "marketId": "1.258545290",
+    "selectionId": "14833220",
+    "selectionName": "Robert Strombachs",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779794011360,
+    "marketId": "1.258545290",
+    "selectionId": "27997038",
+    "selectionName": "Robin Bertrand",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  }
+]

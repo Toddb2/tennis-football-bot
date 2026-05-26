@@ -1,0 +1,434 @@
+[
+  {
+    "timestamp": 1777202454243,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777202454243,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777202634194,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777202634194,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777202755456,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777202755456,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777202935459,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777202935459,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203056746,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203056746,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203236749,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203236749,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203358182,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203358182,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203538185,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203538185,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203659450,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203659450,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203839453,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203839453,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203960721,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777203960721,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204140724,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204140724,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204262087,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204262087,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204442089,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204442089,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204563409,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204563409,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204743412,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204743412,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204864690,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777204864690,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205044693,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205044693,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205165980,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205165980,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205345985,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205345985,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205467363,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205467363,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205647367,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205647367,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205768632,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205768632,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205948634,
+    "marketId": "1.257343544",
+    "selectionId": "42554288",
+    "selectionName": "Ruslan Tiukaev",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777205948634,
+    "marketId": "1.257343544",
+    "selectionId": "21256253",
+    "selectionName": "Max Hans Rehberg",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

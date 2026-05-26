@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": 1777230776444,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777230776444,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777230956396,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777230956396,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231077776,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231077776,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231257778,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231257778,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231379279,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231379279,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231559280,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231559280,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231680573,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231680573,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231860575,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231860575,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231981851,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777231981851,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232161854,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232161854,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232283141,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232283141,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232463144,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232463144,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232585084,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232585084,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232765086,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232765086,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232885889,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777232885889,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233065891,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233065891,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233187165,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233187165,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233367167,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233367167,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233488430,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233488430,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233668432,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233668432,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233789721,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233789721,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233969723,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777233969723,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234090997,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234090997,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234270999,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234270999,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234392427,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234392427,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234572429,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234572429,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234693703,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234693703,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234873706,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234873706,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234994991,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777234994991,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235174993,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235174993,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235296269,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235296269,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235476271,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235476271,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235597521,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235597521,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235777522,
+    "marketId": "1.257361511",
+    "selectionId": "87208619",
+    "selectionName": "Daniel Adeleye",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777235777522,
+    "marketId": "1.257361511",
+    "selectionId": "21256268",
+    "selectionName": "Jeremy Schifris",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

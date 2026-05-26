@@ -1,0 +1,812 @@
+[
+  {
+    "timestamp": 1774653308591,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774653308591,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774653488532,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774653488532,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774653609842,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774653609842,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774653789843,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774653789843,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774653911129,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774653911129,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654091130,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654091130,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654212503,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654212503,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654392504,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654392504,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654513783,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654513783,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654693784,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654693784,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654815065,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654815065,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654995066,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774654995066,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655116347,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655116347,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655296348,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655296348,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655417622,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655417622,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655597624,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655597624,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655718917,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655718917,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655898919,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774655898919,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656020354,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656020354,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656200355,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656200355,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656321709,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656321709,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656501710,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656501710,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656623029,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656623029,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656803030,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656803030,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656924317,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774656924317,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657104318,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657104318,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657225576,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657225576,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657405577,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657405577,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657526965,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657526965,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657706966,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657706966,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657828258,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774657828258,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658008260,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658008260,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658129566,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658129566,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658309567,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658309567,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658430838,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658430838,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658610839,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658610839,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658732096,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658732096,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658912097,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774658912097,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659033389,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659033389,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659213390,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659213390,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659334655,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659334655,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659514656,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659514656,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659635946,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659635946,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659815947,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659815947,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659937228,
+    "marketId": "1.255878486",
+    "selectionId": "19924823",
+    "selectionName": "Alexander Zverev",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774659937228,
+    "marketId": "1.255878486",
+    "selectionId": "10372253",
+    "selectionName": "Jannik Sinner",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "timestamp": 1778004399852,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778004399852,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778004579708,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778004579708,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778004759710,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778004759710,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778004849902,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778004849902,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005029906,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005029906,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005209909,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005209909,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005389911,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005389911,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005569912,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005569912,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005749915,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005749915,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005929916,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778005929916,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006109919,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006109919,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006289920,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006289920,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006469922,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006469922,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006649923,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006649923,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006829925,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006829925,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006830692,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778006830692,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007010695,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007010695,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007190696,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007190696,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007280883,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007280883,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007460885,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007460885,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007640887,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007640887,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007820888,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007820888,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007821115,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778007821115,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008001116,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008001116,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008181117,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008181117,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008361118,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008361118,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008361352,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008361352,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008541354,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008541354,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008631474,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008631474,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008811475,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008811475,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008991477,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778008991477,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009081675,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009081675,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009261677,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009261677,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009441678,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009441678,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009531871,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009531871,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009711873,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009711873,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009891874,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778009891874,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010071875,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010071875,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010251876,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010251876,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010431877,
+    "marketId": "1.257686496",
+    "selectionId": "49471315",
+    "selectionName": "Miguel Tobon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778010431877,
+    "marketId": "1.257686496",
+    "selectionId": "10532058",
+    "selectionName": "Eduardo Ribeiro",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,3890 @@
+[
+  {
+    "date": "2026-05-25",
+    "generatedAt": "2026-05-26T10:54:52.496Z",
+    "summary": {
+      "marketsScanned": 92,
+      "qualifyingSignals": 37,
+      "missedCount": 13,
+      "realBetsPlaced": 29,
+      "rejectedByDesign": 492,
+      "byStrategy": {
+        "Strat9P1": 6,
+        "Strat12P2": 4,
+        "Strat7P2": 1,
+        "Strat8P2": 1,
+        "Strat10P2": 1
+      },
+      "paperResolved": 13,
+      "paperWins": 7,
+      "paperLosses": 6,
+      "paperPnlTotal": -4.28,
+      "paperByStrategy": {
+        "Strat9P1": {
+          "count": 6,
+          "pnl": -6,
+          "wins": 0
+        },
+        "Strat12P2": {
+          "count": 4,
+          "pnl": 0.24,
+          "wins": 4
+        },
+        "Strat7P2": {
+          "count": 1,
+          "pnl": 0.5,
+          "wins": 1
+        },
+        "Strat8P2": {
+          "count": 1,
+          "pnl": 0.49,
+          "wins": 1
+        },
+        "Strat10P2": {
+          "count": 1,
+          "pnl": 0.49,
+          "wins": 1
+        }
+      }
+    },
+    "missed": [
+      {
+        "marketId": "1.258470154",
+        "matchName": "Jaume Munar v Hubert Hurkacz",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 2,
+        "ts": "2026-05-25T14:42:06.407Z",
+        "oddsA": 10,
+        "oddsB": 1.09,
+        "preMatchOddsA": 2.08,
+        "preMatchOddsB": null,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 10,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258467142",
+        "matchName": "Liudmila Samsonova v Jil Teichmann",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-25T10:40:59.702Z",
+        "oddsA": 6.8,
+        "oddsB": 1.06,
+        "preMatchOddsA": 1.4,
+        "preMatchOddsB": 3.45,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.06,
+        "paperPnl": 0.06,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258461882",
+        "matchName": "Alexander Shevchenko v Alex Michelsen",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 1,
+        "ts": "2026-05-25T09:33:34.321Z",
+        "oddsA": 5.3,
+        "oddsB": 1.22,
+        "preMatchOddsA": 2.32,
+        "preMatchOddsB": 1.74,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 5.3,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258467290",
+        "matchName": "Marton Fucsovics v Matteo Berrettini",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-25T11:05:54.841Z",
+        "oddsA": 2.9,
+        "oddsB": 1.5,
+        "preMatchOddsA": 2.88,
+        "preMatchOddsB": 1.53,
+        "finalSets": [
+          [
+            7,
+            6
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            1,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.5,
+        "paperPnl": 0.5,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258548621",
+        "matchName": "Stan Wawrinka v Jesper De Jong",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 1,
+        "ts": "2026-05-25T11:50:30.116Z",
+        "oddsA": 4,
+        "oddsB": 1.32,
+        "preMatchOddsA": 2.68,
+        "preMatchOddsB": 1.58,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 4,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258458340",
+        "matchName": "Petra Marcinko v Eva Lys",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-25T12:46:25.433Z",
+        "oddsA": 100,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.6,
+        "preMatchOddsB": 2.34,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            0,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258469408",
+        "matchName": "Panna Udvardy v Viktorija Golubic",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-25T14:42:26.408Z",
+        "oddsA": 50,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.95,
+        "preMatchOddsB": 1.9,
+        "finalSets": [
+          [
+            0,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258463721",
+        "matchName": "Ignacio Buse v Andrey Rublev",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 1,
+        "ts": "2026-05-25T15:01:31.518Z",
+        "oddsA": 4.5,
+        "oddsB": 1.28,
+        "preMatchOddsA": 2.7,
+        "preMatchOddsB": 1.52,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 4.5,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258463596",
+        "matchName": "Akasha Urhobo v Katie Boulter",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat8P2",
+        "setBoundary": 2,
+        "ts": "2026-05-25T18:26:49.137Z",
+        "oddsA": 2.86,
+        "oddsB": 1.49,
+        "preMatchOddsA": 3.4,
+        "preMatchOddsB": 1.37,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.49,
+        "paperPnl": 0.49,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258463596",
+        "matchName": "Akasha Urhobo v Katie Boulter",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-25T18:26:49.137Z",
+        "oddsA": 2.86,
+        "oddsB": 1.49,
+        "preMatchOddsA": 3.4,
+        "preMatchOddsB": 1.37,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.49,
+        "paperPnl": 0.49,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258463596",
+        "matchName": "Akasha Urhobo v Katie Boulter",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 3,
+        "ts": "2026-05-25T19:12:42.139Z",
+        "oddsA": 7,
+        "oddsB": 1.16,
+        "preMatchOddsA": 3.4,
+        "preMatchOddsB": 1.37,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 7,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258550440",
+        "matchName": "Andres Martin v Yuta Shimizu",
+        "tournament": "Little Rock",
+        "surface": null,
+        "strategy": "Strat9P1",
+        "setBoundary": 2,
+        "ts": "2026-05-25T21:42:12.932Z",
+        "oddsA": 3.1,
+        "oddsB": 1.16,
+        "preMatchOddsA": 1.87,
+        "preMatchOddsB": 1.9,
+        "finalSets": [
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 3.1,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258550440",
+        "matchName": "Andres Martin v Yuta Shimizu",
+        "tournament": "Little Rock",
+        "surface": null,
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-25T21:42:12.932Z",
+        "oddsA": 3.1,
+        "oddsB": 1.16,
+        "preMatchOddsA": 1.87,
+        "preMatchOddsB": 1.9,
+        "finalSets": [
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.16,
+        "paperPnl": 0.16,
+        "paperSettlement": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "generatedAt": "2026-05-26T10:54:49.036Z",
+    "summary": {
+      "marketsScanned": 92,
+      "qualifyingSignals": 42,
+      "missedCount": 16,
+      "realBetsPlaced": 35,
+      "rejectedByDesign": 412,
+      "byStrategy": {
+        "Strat12P2": 6,
+        "Strat7P2": 2,
+        "Strat11P2": 2,
+        "Strat9P1": 4,
+        "Strat10P2": 2
+      },
+      "paperResolved": 16,
+      "paperWins": 12,
+      "paperLosses": 4,
+      "paperPnlTotal": 0.69,
+      "paperByStrategy": {
+        "Strat12P2": {
+          "count": 6,
+          "pnl": 1.36,
+          "wins": 6
+        },
+        "Strat7P2": {
+          "count": 2,
+          "pnl": 1.57,
+          "wins": 2
+        },
+        "Strat11P2": {
+          "count": 2,
+          "pnl": 1.57,
+          "wins": 2
+        },
+        "Strat9P1": {
+          "count": 4,
+          "pnl": -1.81,
+          "wins": 2
+        },
+        "Strat10P2": {
+          "count": 2,
+          "pnl": -2,
+          "wins": 0
+        }
+      }
+    },
+    "missed": [
+      {
+        "marketId": "1.258471330",
+        "matchName": "Ksenia Efremova v Sorana Cirstea ",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T20:30:55.621Z",
+        "oddsA": 130,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.51,
+        "preMatchOddsB": 1.04,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            1,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258455885",
+        "matchName": "Benjamin Bonzi v Alexander Zverev",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T13:36:00.167Z",
+        "oddsA": 44,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.11,
+        "preMatchOddsB": 1.04,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258455879",
+        "matchName": "Taylor Fritz v Nishesh Basavareddy",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T17:17:26.604Z",
+        "oddsA": 2.2,
+        "oddsB": 1.82,
+        "preMatchOddsA": 1.33,
+        "preMatchOddsB": 2.98,
+        "finalSets": [
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.82,
+        "paperPnl": 0.82,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258455879",
+        "matchName": "Taylor Fritz v Nishesh Basavareddy",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T17:17:26.604Z",
+        "oddsA": 2.2,
+        "oddsB": 1.82,
+        "preMatchOddsA": 1.33,
+        "preMatchOddsB": 2.98,
+        "finalSets": [
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.82,
+        "paperPnl": 0.82,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258455879",
+        "matchName": "Taylor Fritz v Nishesh Basavareddy",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T17:17:26.604Z",
+        "oddsA": 2.2,
+        "oddsB": 1.82,
+        "preMatchOddsA": 1.33,
+        "preMatchOddsB": 2.98,
+        "finalSets": [
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.82,
+        "paperPnl": 0.82,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258466322",
+        "matchName": "Tomas Martin Etcheverry v Nuno Borges",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T14:40:40.697Z",
+        "oddsA": 4.3,
+        "oddsB": 1.29,
+        "preMatchOddsA": 1.33,
+        "preMatchOddsB": 2.82,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.29,
+        "paperPnl": 0.29,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258506465",
+        "matchName": "Pablo Llamas Ruiz v Thiago Agustin Tirante",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T11:05:14.526Z",
+        "oddsA": 2.2,
+        "oddsB": 1.75,
+        "preMatchOddsA": 2.2,
+        "preMatchOddsB": 1.83,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.75,
+        "paperPnl": 0.75,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258506465",
+        "matchName": "Pablo Llamas Ruiz v Thiago Agustin Tirante",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T11:05:14.526Z",
+        "oddsA": 2.2,
+        "oddsB": 1.75,
+        "preMatchOddsA": 2.2,
+        "preMatchOddsB": 1.83,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.75,
+        "paperPnl": 0.75,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258508489",
+        "matchName": "Lucia Bronzetti v Marie Bouzkova",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 2,
+        "ts": "2026-05-24T10:24:39.252Z",
+        "oddsA": 3.1,
+        "oddsB": 1.01,
+        "preMatchOddsA": 3.25,
+        "preMatchOddsB": 1.43,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            1,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 3.1,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258504633",
+        "matchName": "Kyrian Jacquet v Marco Trungelliti",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T11:53:24.885Z",
+        "oddsA": 13,
+        "oddsB": 1.07,
+        "preMatchOddsA": 1.72,
+        "preMatchOddsB": 2.34,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.07,
+        "paperPnl": 0.07,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258508321",
+        "matchName": "Federico Cina v Reilly Opelka",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T14:10:40.578Z",
+        "oddsA": 1.52,
+        "oddsB": 2.9,
+        "preMatchOddsA": 1.6,
+        "preMatchOddsB": 2.62,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            6,
+            2
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.9,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258508321",
+        "matchName": "Federico Cina v Reilly Opelka",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 3,
+        "ts": "2026-05-24T14:38:35.692Z",
+        "oddsA": 1.15,
+        "oddsB": 7.2,
+        "preMatchOddsA": 1.6,
+        "preMatchOddsB": 2.62,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            6,
+            2
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.15,
+        "paperPnl": 0.15,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258465514",
+        "matchName": "Francesca Jones v Beatriz Haddad Maia",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T15:27:35.950Z",
+        "oddsA": 2,
+        "oddsB": 1.9,
+        "preMatchOddsA": 1.6,
+        "preMatchOddsB": 2.38,
+        "finalSets": [
+          [
+            1,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            6,
+            2
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.9,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258465514",
+        "matchName": "Francesca Jones v Beatriz Haddad Maia",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 3,
+        "ts": "2026-05-24T16:16:31.298Z",
+        "oddsA": 1.04,
+        "oddsB": 10,
+        "preMatchOddsA": 1.6,
+        "preMatchOddsB": 2.38,
+        "finalSets": [
+          [
+            1,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            6,
+            2
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.04,
+        "paperPnl": 0.04,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258506746",
+        "matchName": "Hugo Dellien v Valentin Royer",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 2,
+        "ts": "2026-05-24T19:32:42.320Z",
+        "oddsA": 7,
+        "oddsB": 1.16,
+        "preMatchOddsA": 1.71,
+        "preMatchOddsB": 1.88,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 7,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258506746",
+        "matchName": "Hugo Dellien v Valentin Royer",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-24T19:32:42.320Z",
+        "oddsA": 7,
+        "oddsB": 1.16,
+        "preMatchOddsA": 1.71,
+        "preMatchOddsB": 1.88,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.16,
+        "paperPnl": 0.16,
+        "paperSettlement": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-23",
+    "generatedAt": "2026-05-26T10:54:48.235Z",
+    "summary": {
+      "marketsScanned": 6,
+      "qualifyingSignals": 13,
+      "missedCount": 1,
+      "realBetsPlaced": 15,
+      "rejectedByDesign": 89,
+      "byStrategy": {
+        "Strat12P2": 1
+      },
+      "paperResolved": 0,
+      "paperWins": 0,
+      "paperLosses": 0,
+      "paperPnlTotal": 0,
+      "paperByStrategy": {}
+    },
+    "missed": [
+      {
+        "marketId": "1.258503555",
+        "matchName": "Andrej Nedic v David Jorda Sanchis",
+        "tournament": "Istanbul (Turkey) - Qualification",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-23T12:54:16.258Z",
+        "oddsA": 1.29,
+        "oddsB": 0,
+        "preMatchOddsA": 1.54,
+        "preMatchOddsB": 2.38,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": null,
+        "paperOdds": null,
+        "paperPnl": null,
+        "paperSettlement": null
+      }
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "generatedAt": "2026-05-26T10:54:48.156Z",
+    "summary": {
+      "marketsScanned": 27,
+      "qualifyingSignals": 28,
+      "missedCount": 5,
+      "realBetsPlaced": 23,
+      "rejectedByDesign": 237,
+      "byStrategy": {
+        "Strat10P2": 2,
+        "Strat12P2": 3
+      },
+      "paperResolved": 5,
+      "paperWins": 4,
+      "paperLosses": 1,
+      "paperPnlTotal": 0.22,
+      "paperByStrategy": {
+        "Strat10P2": {
+          "count": 2,
+          "pnl": 0.12,
+          "wins": 1
+        },
+        "Strat12P2": {
+          "count": 3,
+          "pnl": 0.1,
+          "wins": 3
+        }
+      }
+    },
+    "missed": [
+      {
+        "marketId": "1.258453786",
+        "matchName": "Petr Bar Biryukov v Alastair Gray",
+        "tournament": "Bengaluru 3 (India) - Qualification",
+        "surface": "hard",
+        "strategy": "Strat10P2",
+        "setBoundary": 3,
+        "ts": "2026-05-22T12:06:32.183Z",
+        "oddsA": 2.06,
+        "oddsB": 1.94,
+        "preMatchOddsA": 2.26,
+        "preMatchOddsB": 1.77,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.94,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258429048",
+        "matchName": "Aliaksandra Sasnovich v Marina Bassols Ribera",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-22T11:22:40.768Z",
+        "oddsA": 20,
+        "oddsB": 1.03,
+        "preMatchOddsA": 1.28,
+        "preMatchOddsB": 4.5,
+        "finalSets": [
+          [
+            6,
+            7
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.03,
+        "paperPnl": 0.03,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258473240",
+        "matchName": "Casper Ruud v Mariano Navone",
+        "tournament": "Geneva",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 1,
+        "ts": "2026-05-22T13:06:12.244Z",
+        "oddsA": 1.89,
+        "oddsB": 2.12,
+        "preMatchOddsA": 1.3,
+        "preMatchOddsB": 4.3,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.12,
+        "paperPnl": 1.12,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258473240",
+        "matchName": "Casper Ruud v Mariano Navone",
+        "tournament": "Geneva",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-22T13:52:53.380Z",
+        "oddsA": 20,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.3,
+        "preMatchOddsB": 4.3,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258435624",
+        "matchName": "Darwin Blanch v Luka Pavlovic",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-22T14:05:48.437Z",
+        "oddsA": 15.5,
+        "oddsB": 1.06,
+        "preMatchOddsA": 1.49,
+        "preMatchOddsB": null,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.06,
+        "paperPnl": 0.06,
+        "paperSettlement": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "generatedAt": "2026-05-26T10:54:46.758Z",
+    "summary": {
+      "marketsScanned": 51,
+      "qualifyingSignals": 41,
+      "missedCount": 18,
+      "realBetsPlaced": 13,
+      "rejectedByDesign": 396,
+      "byStrategy": {
+        "Strat9P1": 1,
+        "Strat12P2": 5,
+        "Strat7P2": 5,
+        "Strat11P2": 4,
+        "Strat10P2": 2,
+        "Strat8P2": 1
+      },
+      "paperResolved": 18,
+      "paperWins": 12,
+      "paperLosses": 6,
+      "paperPnlTotal": -2.46,
+      "paperByStrategy": {
+        "Strat9P1": {
+          "count": 1,
+          "pnl": -1,
+          "wins": 0
+        },
+        "Strat12P2": {
+          "count": 5,
+          "pnl": -0.76,
+          "wins": 4
+        },
+        "Strat7P2": {
+          "count": 5,
+          "pnl": -0.73,
+          "wins": 3
+        },
+        "Strat11P2": {
+          "count": 4,
+          "pnl": -1.27,
+          "wins": 2
+        },
+        "Strat10P2": {
+          "count": 2,
+          "pnl": 0.68,
+          "wins": 2
+        },
+        "Strat8P2": {
+          "count": 1,
+          "pnl": 0.62,
+          "wins": 1
+        }
+      }
+    },
+    "missed": [
+      {
+        "marketId": "1.258419988",
+        "matchName": "Marie Bouzkova v Ann Li",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 1,
+        "ts": "2026-05-21T09:19:51.130Z",
+        "oddsA": 3.15,
+        "oddsB": 1.38,
+        "preMatchOddsA": 1.8,
+        "preMatchOddsB": 2.24,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 3.15,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258419988",
+        "matchName": "Marie Bouzkova v Ann Li",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T10:24:56.499Z",
+        "oddsA": 23,
+        "oddsB": 1.04,
+        "preMatchOddsA": 1.8,
+        "preMatchOddsB": 2.24,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.04,
+        "paperPnl": 0.04,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258420423",
+        "matchName": "August Holmgren v Facundo Diaz Acosta",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T10:57:29.548Z",
+        "oddsA": 2.78,
+        "oddsB": 1.54,
+        "preMatchOddsA": 4.1,
+        "preMatchOddsB": 1.31,
+        "finalSets": [
+          [
+            7,
+            6
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.54,
+        "paperPnl": 0.54,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258426424",
+        "matchName": "Leyre Romero Gormaz v Sloane Stephens",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T10:26:21.514Z",
+        "oddsA": 2.48,
+        "oddsB": 1.67,
+        "preMatchOddsA": 2.84,
+        "preMatchOddsB": 1.52,
+        "finalSets": [
+          [
+            6,
+            3
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            1,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.67,
+        "paperPnl": 0.67,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258426424",
+        "matchName": "Leyre Romero Gormaz v Sloane Stephens",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T10:26:21.514Z",
+        "oddsA": 2.48,
+        "oddsB": 1.67,
+        "preMatchOddsA": 2.84,
+        "preMatchOddsB": 1.52,
+        "finalSets": [
+          [
+            6,
+            3
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            1,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.67,
+        "paperPnl": 0.67,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258423997",
+        "matchName": "Jesper De Jong v Michael Zheng",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T10:55:29.532Z",
+        "oddsA": 19,
+        "oddsB": 1.05,
+        "preMatchOddsA": 1.51,
+        "preMatchOddsB": 2.68,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.05,
+        "paperPnl": 0.05,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258431800",
+        "matchName": "Camila Osorio v Panna Udvardy",
+        "tournament": "Rabat",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T11:48:38.860Z",
+        "oddsA": 10,
+        "oddsB": 1.09,
+        "preMatchOddsA": 1.48,
+        "preMatchOddsB": 2.92,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.09,
+        "paperPnl": 0.09,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258430662",
+        "matchName": "Ignacio Buse v Ugo Humbert",
+        "tournament": "Hamburg",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T12:10:08.846Z",
+        "oddsA": 1.65,
+        "oddsB": 2.48,
+        "preMatchOddsA": 1.39,
+        "preMatchOddsB": 3.5,
+        "finalSets": [
+          [
+            6,
+            3
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            3
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.48,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258430662",
+        "matchName": "Ignacio Buse v Ugo Humbert",
+        "tournament": "Hamburg",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T12:10:08.846Z",
+        "oddsA": 1.65,
+        "oddsB": 2.48,
+        "preMatchOddsA": 1.39,
+        "preMatchOddsB": 3.5,
+        "finalSets": [
+          [
+            6,
+            3
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            3
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.48,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258421613",
+        "matchName": "Dalibor Svrcina v Thomas Faurel",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T13:01:14.376Z",
+        "oddsA": 1.6,
+        "oddsB": 1.06,
+        "preMatchOddsA": 1.27,
+        "preMatchOddsB": 3.9,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.06,
+        "paperPnl": 0.06,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258421613",
+        "matchName": "Dalibor Svrcina v Thomas Faurel",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T13:01:14.376Z",
+        "oddsA": 1.6,
+        "oddsB": 1.06,
+        "preMatchOddsA": 1.27,
+        "preMatchOddsB": 3.9,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.06,
+        "paperPnl": 0.06,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258421613",
+        "matchName": "Dalibor Svrcina v Thomas Faurel",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T13:01:14.376Z",
+        "oddsA": 1.6,
+        "oddsB": 1.06,
+        "preMatchOddsA": 1.27,
+        "preMatchOddsB": 3.9,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.06,
+        "paperPnl": 0.06,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258421613",
+        "matchName": "Dalibor Svrcina v Thomas Faurel",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T13:01:14.376Z",
+        "oddsA": 1.6,
+        "oddsB": 1.06,
+        "preMatchOddsA": 1.27,
+        "preMatchOddsB": 3.9,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.06,
+        "paperPnl": 0.06,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258430337",
+        "matchName": "Coleman Wong v Juan Carlos Prado Angel",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat8P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T14:08:15.786Z",
+        "oddsA": 2.56,
+        "oddsB": 1.62,
+        "preMatchOddsA": 2.64,
+        "preMatchOddsB": 1.59,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.62,
+        "paperPnl": 0.62,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258430337",
+        "matchName": "Coleman Wong v Juan Carlos Prado Angel",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T14:08:15.786Z",
+        "oddsA": 2.56,
+        "oddsB": 1.62,
+        "preMatchOddsA": 2.64,
+        "preMatchOddsB": 1.59,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.62,
+        "paperPnl": 0.62,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258430315",
+        "matchName": "Jaime Faria v Lukas Neumayer",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T14:53:45.670Z",
+        "oddsA": 1.51,
+        "oddsB": 2.84,
+        "preMatchOddsA": 1.88,
+        "preMatchOddsB": 2.1,
+        "finalSets": [
+          [
+            6,
+            3
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.84,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258430315",
+        "matchName": "Jaime Faria v Lukas Neumayer",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T14:53:45.670Z",
+        "oddsA": 1.51,
+        "oddsB": 2.84,
+        "preMatchOddsA": 1.88,
+        "preMatchOddsB": 2.1,
+        "finalSets": [
+          [
+            6,
+            3
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.84,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258430315",
+        "matchName": "Jaime Faria v Lukas Neumayer",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-21T14:53:45.670Z",
+        "oddsA": 1.51,
+        "oddsB": 2.84,
+        "preMatchOddsA": 1.88,
+        "preMatchOddsB": 2.1,
+        "finalSets": [
+          [
+            6,
+            3
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.84,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "generatedAt": "2026-05-26T10:54:45.097Z",
+    "summary": {
+      "marketsScanned": 65,
+      "qualifyingSignals": 33,
+      "missedCount": 7,
+      "realBetsPlaced": 8,
+      "rejectedByDesign": 441,
+      "byStrategy": {
+        "Strat10P2": 1,
+        "Strat12P2": 3,
+        "Strat9P1": 2,
+        "Strat7P2": 1
+      },
+      "paperResolved": 7,
+      "paperWins": 3,
+      "paperLosses": 4,
+      "paperPnlTotal": -3,
+      "paperByStrategy": {
+        "Strat10P2": {
+          "count": 1,
+          "pnl": -1,
+          "wins": 0
+        },
+        "Strat12P2": {
+          "count": 3,
+          "pnl": -0.61,
+          "wins": 2
+        },
+        "Strat9P1": {
+          "count": 2,
+          "pnl": -2,
+          "wins": 0
+        },
+        "Strat7P2": {
+          "count": 1,
+          "pnl": 0.61,
+          "wins": 1
+        }
+      }
+    },
+    "missed": [
+      {
+        "marketId": "1.258383941",
+        "matchName": "Hamish Stewart v Kriish Tyagi",
+        "tournament": "Bengaluru 3 (India) - Qualification",
+        "surface": "hard",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-20T07:32:52.597Z",
+        "oddsA": 1.91,
+        "oddsB": 2.08,
+        "preMatchOddsA": 1.47,
+        "preMatchOddsB": 2.6,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            6,
+            3
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.08,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258385687",
+        "matchName": "Jaime Faria v Colton Smith",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 3,
+        "ts": "2026-05-20T14:39:24.507Z",
+        "oddsA": 1.01,
+        "oddsB": 65,
+        "preMatchOddsA": 1.26,
+        "preMatchOddsB": 4.4,
+        "finalSets": [
+          [
+            6,
+            1
+          ],
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            3
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 65,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258361365",
+        "matchName": "Dominika Salkova v Susan Bandecchi",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 3,
+        "ts": "2026-05-20T15:05:04.741Z",
+        "oddsA": 4,
+        "oddsB": 1.13,
+        "preMatchOddsA": 1.55,
+        "preMatchOddsB": 2.52,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 4,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258392483",
+        "matchName": "Henrique Rocha v Borna Gojo",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 3,
+        "ts": "2026-05-20T16:10:25.479Z",
+        "oddsA": 4.2,
+        "oddsB": 1.27,
+        "preMatchOddsA": 1.76,
+        "preMatchOddsB": 2.26,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 4.2,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258392511",
+        "matchName": "Alex Molcan v Felix Gill",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 3,
+        "ts": "2026-05-20T16:49:25.393Z",
+        "oddsA": 4.1,
+        "oddsB": 1.3,
+        "preMatchOddsA": 1.31,
+        "preMatchOddsB": 4,
+        "finalSets": [
+          [
+            6,
+            2
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.3,
+        "paperPnl": 0.3,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258394301",
+        "matchName": "Gianluca Cadenasso v Leandro Riedi",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-20T17:55:25.864Z",
+        "oddsA": 2.58,
+        "oddsB": 1.61,
+        "preMatchOddsA": 2.3,
+        "preMatchOddsB": 1.62,
+        "finalSets": [
+          [
+            7,
+            6
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.61,
+        "paperPnl": 0.61,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258389157",
+        "matchName": "Yuliia Starodubtseva v Anhelina Kalinina",
+        "tournament": "Rabat",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-20T18:25:26.027Z",
+        "oddsA": 11,
+        "oddsB": 1.09,
+        "preMatchOddsA": 1.89,
+        "preMatchOddsB": 2.1,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.09,
+        "paperPnl": 0.09,
+        "paperSettlement": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "generatedAt": "2026-05-26T10:54:41.908Z",
+    "summary": {
+      "marketsScanned": 126,
+      "qualifyingSignals": 39,
+      "missedCount": 12,
+      "realBetsPlaced": 38,
+      "rejectedByDesign": 324,
+      "byStrategy": {
+        "Strat10P2": 3,
+        "Strat12P2": 4,
+        "Strat7P2": 3,
+        "Strat11P2": 2
+      },
+      "paperResolved": 12,
+      "paperWins": 7,
+      "paperLosses": 5,
+      "paperPnlTotal": -4.65,
+      "paperByStrategy": {
+        "Strat10P2": {
+          "count": 3,
+          "pnl": -1.92,
+          "wins": 1
+        },
+        "Strat12P2": {
+          "count": 4,
+          "pnl": -0.9,
+          "wins": 3
+        },
+        "Strat7P2": {
+          "count": 3,
+          "pnl": -0.91,
+          "wins": 2
+        },
+        "Strat11P2": {
+          "count": 2,
+          "pnl": -0.92,
+          "wins": 1
+        }
+      }
+    },
+    "missed": [
+      {
+        "marketId": "1.258334017",
+        "matchName": "Shuai Zhang v Cristina Bucsa",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 3,
+        "ts": "2026-05-19T11:03:56.073Z",
+        "oddsA": 1.22,
+        "oddsB": 2.9,
+        "preMatchOddsA": 2.28,
+        "preMatchOddsB": 1.56,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            7,
+            5
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.9,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258303199",
+        "matchName": "Coleman Wong v Billy Harris",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 3,
+        "ts": "2026-05-19T12:22:44.152Z",
+        "oddsA": 1.12,
+        "oddsB": 9,
+        "preMatchOddsA": 1.66,
+        "preMatchOddsB": 2.26,
+        "finalSets": [
+          [
+            6,
+            2
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 9,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258267363",
+        "matchName": "Francesca Jones v Yelyzaveta Kotliar",
+        "tournament": "Rabat",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 3,
+        "ts": "2026-05-19T12:30:44.199Z",
+        "oddsA": 1.01,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.06,
+        "preMatchOddsB": 10.5,
+        "finalSets": [
+          [
+            6,
+            2
+          ],
+          [
+            3,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258314229",
+        "matchName": "Flavio Cobolli v Ignacio Buse",
+        "tournament": "Hamburg",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-19T11:42:56.686Z",
+        "oddsA": 1.5,
+        "oddsB": 1.08,
+        "preMatchOddsA": 1.68,
+        "preMatchOddsB": 2.44,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.08,
+        "paperPnl": 0.08,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258314229",
+        "matchName": "Flavio Cobolli v Ignacio Buse",
+        "tournament": "Hamburg",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-19T11:42:56.686Z",
+        "oddsA": 1.5,
+        "oddsB": 1.08,
+        "preMatchOddsA": 1.68,
+        "preMatchOddsB": 2.44,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.08,
+        "paperPnl": 0.08,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258314229",
+        "matchName": "Flavio Cobolli v Ignacio Buse",
+        "tournament": "Hamburg",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 2,
+        "ts": "2026-05-19T11:42:56.686Z",
+        "oddsA": 1.5,
+        "oddsB": 1.08,
+        "preMatchOddsA": 1.68,
+        "preMatchOddsB": 2.44,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.08,
+        "paperPnl": 0.08,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258314229",
+        "matchName": "Flavio Cobolli v Ignacio Buse",
+        "tournament": "Hamburg",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-19T11:42:56.686Z",
+        "oddsA": 1.5,
+        "oddsB": 1.08,
+        "preMatchOddsA": 1.68,
+        "preMatchOddsB": 2.44,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.08,
+        "paperPnl": 0.08,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258316025",
+        "matchName": "Nishesh Basavareddy v Jaume Munar",
+        "tournament": "Geneva",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-19T13:20:50.233Z",
+        "oddsA": 1.46,
+        "oddsB": 1.01,
+        "preMatchOddsA": 3.6,
+        "preMatchOddsB": 1.31,
+        "finalSets": [
+          [
+            0,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258267766",
+        "matchName": "Emiliana Arango v Ella Seidel",
+        "tournament": "Rabat",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 3,
+        "ts": "2026-05-19T16:31:42.996Z",
+        "oddsA": null,
+        "oddsB": 1.5,
+        "preMatchOddsA": 2.04,
+        "preMatchOddsB": 1.71,
+        "finalSets": [
+          [
+            6,
+            3
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            1
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.5,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258267766",
+        "matchName": "Emiliana Arango v Ella Seidel",
+        "tournament": "Rabat",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 3,
+        "ts": "2026-05-19T16:31:42.996Z",
+        "oddsA": null,
+        "oddsB": 1.5,
+        "preMatchOddsA": 2.04,
+        "preMatchOddsB": 1.71,
+        "finalSets": [
+          [
+            6,
+            3
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            1
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.5,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258305034",
+        "matchName": "Rei Sakamoto v Pedro Martinez",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-19T17:12:48.598Z",
+        "oddsA": 50,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.85,
+        "preMatchOddsB": 2.1,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258302033",
+        "matchName": "Nicolai Budkov Kjaer v Gilles Arnaud Bailly",
+        "tournament": "French Open",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-19T19:33:53.693Z",
+        "oddsA": 1.71,
+        "oddsB": 2.38,
+        "preMatchOddsA": 1.35,
+        "preMatchOddsB": 3.55,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            6,
+            2
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.38,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-18",
+    "generatedAt": "2026-05-26T10:54:39.573Z",
+    "summary": {
+      "marketsScanned": 2,
+      "qualifyingSignals": 0,
+      "missedCount": 0,
+      "realBetsPlaced": 0,
+      "rejectedByDesign": 0,
+      "byStrategy": {},
+      "paperResolved": 0,
+      "paperWins": 0,
+      "paperLosses": 0,
+      "paperPnlTotal": 0,
+      "paperByStrategy": {}
+    },
+    "missed": []
+  },
+  {
+    "date": "2026-05-17",
+    "generatedAt": "2026-05-26T10:54:39.416Z",
+    "summary": {
+      "marketsScanned": 64,
+      "qualifyingSignals": 30,
+      "missedCount": 15,
+      "realBetsPlaced": 22,
+      "rejectedByDesign": 160,
+      "byStrategy": {
+        "Strat10P2": 6,
+        "Strat7P2": 1,
+        "Strat11P2": 1,
+        "Strat12P2": 3,
+        "Strat8P2": 3,
+        "Strat9P1": 1
+      },
+      "paperResolved": 15,
+      "paperWins": 11,
+      "paperLosses": 4,
+      "paperPnlTotal": -1.92,
+      "paperByStrategy": {
+        "Strat10P2": {
+          "count": 6,
+          "pnl": -2.11,
+          "wins": 3
+        },
+        "Strat7P2": {
+          "count": 1,
+          "pnl": 0.01,
+          "wins": 1
+        },
+        "Strat11P2": {
+          "count": 1,
+          "pnl": 0.01,
+          "wins": 1
+        },
+        "Strat12P2": {
+          "count": 3,
+          "pnl": 0.11,
+          "wins": 3
+        },
+        "Strat8P2": {
+          "count": 3,
+          "pnl": -0.12,
+          "wins": 2
+        },
+        "Strat9P1": {
+          "count": 1,
+          "pnl": 0.18,
+          "wins": 1
+        }
+      }
+    },
+    "missed": [
+      {
+        "marketId": "1.258207488",
+        "matchName": "Jan Choinski v Arthur Fery",
+        "tournament": "Zagreb",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-17T08:55:15.203Z",
+        "oddsA": 1.85,
+        "oddsB": 1.26,
+        "preMatchOddsA": 1.54,
+        "preMatchOddsB": 2.78,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            6,
+            2
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.26,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258266971",
+        "matchName": "Yulia Putintseva v Oleksandra Oliynykova",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 2,
+        "ts": "2026-05-17T10:20:20.656Z",
+        "oddsA": 3,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.71,
+        "preMatchOddsB": 2.18,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258266971",
+        "matchName": "Yulia Putintseva v Oleksandra Oliynykova",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-17T10:20:20.656Z",
+        "oddsA": 3,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.71,
+        "preMatchOddsB": 2.18,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258266971",
+        "matchName": "Yulia Putintseva v Oleksandra Oliynykova",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 2,
+        "ts": "2026-05-17T10:20:20.656Z",
+        "oddsA": 3,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.71,
+        "preMatchOddsB": 2.18,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258266971",
+        "matchName": "Yulia Putintseva v Oleksandra Oliynykova",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-17T10:20:20.656Z",
+        "oddsA": 3,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.71,
+        "preMatchOddsB": 2.18,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258269682",
+        "matchName": "Rinky Hijikata v Henri Squire",
+        "tournament": "Hamburg",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-17T12:17:37.131Z",
+        "oddsA": 2.04,
+        "oddsB": 1.93,
+        "preMatchOddsA": 1.67,
+        "preMatchOddsB": 2.44,
+        "finalSets": [
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.93,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258264254",
+        "matchName": "Maria Sakkari v Peyton Stearns",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat8P2",
+        "setBoundary": 1,
+        "ts": "2026-05-17T11:26:36.812Z",
+        "oddsA": 3,
+        "oddsB": 1.39,
+        "preMatchOddsA": 2.52,
+        "preMatchOddsB": 1.64,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            1,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.39,
+        "paperPnl": 0.39,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258264254",
+        "matchName": "Maria Sakkari v Peyton Stearns",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 1,
+        "ts": "2026-05-17T11:26:36.812Z",
+        "oddsA": 3,
+        "oddsB": 1.39,
+        "preMatchOddsA": 2.52,
+        "preMatchOddsB": 1.64,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            1,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.39,
+        "paperPnl": 0.39,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258272202",
+        "matchName": "Fiona Ferro v Elina Avanesyan",
+        "tournament": "Rabat",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 3,
+        "ts": "2026-05-17T13:44:22.651Z",
+        "oddsA": 1.18,
+        "oddsB": 6.2,
+        "preMatchOddsA": 1.78,
+        "preMatchOddsB": 2.1,
+        "finalSets": [
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            6,
+            3
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.18,
+        "paperPnl": 0.18,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258265567",
+        "matchName": "Sara Bejlek v Emma Navarro",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-17T13:29:02.562Z",
+        "oddsA": 32,
+        "oddsB": 1.02,
+        "preMatchOddsA": 1.67,
+        "preMatchOddsB": 2.16,
+        "finalSets": [
+          [
+            1,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.02,
+        "paperPnl": 0.02,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258264253",
+        "matchName": "Xinyu Wang v Lois Boisson",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-17T13:52:37.704Z",
+        "oddsA": 13,
+        "oddsB": 1.08,
+        "preMatchOddsA": 1.72,
+        "preMatchOddsB": 2.3,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.08,
+        "paperPnl": 0.08,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258278199",
+        "matchName": "Aleksandar Kovacevic v Arthur Gea",
+        "tournament": "Hamburg",
+        "surface": "clay",
+        "strategy": "Strat8P2",
+        "setBoundary": 1,
+        "ts": "2026-05-17T14:27:07.903Z",
+        "oddsA": 2.18,
+        "oddsB": 1.49,
+        "preMatchOddsA": 2.64,
+        "preMatchOddsB": 1.49,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.49,
+        "paperPnl": 0.49,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258278199",
+        "matchName": "Aleksandar Kovacevic v Arthur Gea",
+        "tournament": "Hamburg",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 1,
+        "ts": "2026-05-17T14:27:07.903Z",
+        "oddsA": 2.18,
+        "oddsB": 1.49,
+        "preMatchOddsA": 2.64,
+        "preMatchOddsB": 1.49,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.49,
+        "paperPnl": 0.49,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258271561",
+        "matchName": "Manuel Cerundolo v Raphael Collignon",
+        "tournament": "Bordeaux",
+        "surface": "clay",
+        "strategy": "Strat8P2",
+        "setBoundary": 3,
+        "ts": "2026-05-17T16:44:33.629Z",
+        "oddsA": 1.34,
+        "oddsB": 2.86,
+        "preMatchOddsA": 3.15,
+        "preMatchOddsB": 1.37,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.86,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258271561",
+        "matchName": "Manuel Cerundolo v Raphael Collignon",
+        "tournament": "Bordeaux",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 3,
+        "ts": "2026-05-17T16:44:33.629Z",
+        "oddsA": 1.34,
+        "oddsB": 2.86,
+        "preMatchOddsA": 3.15,
+        "preMatchOddsB": 1.37,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.86,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "generatedAt": "2026-05-26T10:54:36.990Z",
+    "summary": {
+      "marketsScanned": 47,
+      "qualifyingSignals": 15,
+      "missedCount": 8,
+      "realBetsPlaced": 28,
+      "rejectedByDesign": 97,
+      "byStrategy": {
+        "Strat7P2": 1,
+        "Strat11P2": 1,
+        "Strat12P2": 4,
+        "Strat10P2": 1,
+        "Strat9P1": 1
+      },
+      "paperResolved": 8,
+      "paperWins": 3,
+      "paperLosses": 5,
+      "paperPnlTotal": -2.86,
+      "paperByStrategy": {
+        "Strat7P2": {
+          "count": 1,
+          "pnl": -1,
+          "wins": 0
+        },
+        "Strat11P2": {
+          "count": 1,
+          "pnl": -1,
+          "wins": 0
+        },
+        "Strat12P2": {
+          "count": 4,
+          "pnl": -1.91,
+          "wins": 2
+        },
+        "Strat10P2": {
+          "count": 1,
+          "pnl": -1,
+          "wins": 0
+        },
+        "Strat9P1": {
+          "count": 1,
+          "pnl": 2.05,
+          "wins": 1
+        }
+      }
+    },
+    "missed": [
+      {
+        "marketId": "1.258207552",
+        "matchName": "Dayana Yastremska v Jessica Bouzas Maneiro",
+        "tournament": "Parma",
+        "surface": "clay",
+        "strategy": "Strat7P2",
+        "setBoundary": 3,
+        "ts": "2026-05-16T11:37:31.687Z",
+        "oddsA": 1.97,
+        "oddsB": 1.96,
+        "preMatchOddsA": 1.86,
+        "preMatchOddsB": 1.98,
+        "finalSets": [
+          [
+            7,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.96,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258207552",
+        "matchName": "Dayana Yastremska v Jessica Bouzas Maneiro",
+        "tournament": "Parma",
+        "surface": "clay",
+        "strategy": "Strat11P2",
+        "setBoundary": 3,
+        "ts": "2026-05-16T11:37:31.687Z",
+        "oddsA": 1.97,
+        "oddsB": 1.96,
+        "preMatchOddsA": 1.86,
+        "preMatchOddsB": 1.98,
+        "finalSets": [
+          [
+            7,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.96,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258207552",
+        "matchName": "Dayana Yastremska v Jessica Bouzas Maneiro",
+        "tournament": "Parma",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 3,
+        "ts": "2026-05-16T11:37:31.687Z",
+        "oddsA": 1.97,
+        "oddsB": 1.96,
+        "preMatchOddsA": 1.86,
+        "preMatchOddsB": 1.98,
+        "finalSets": [
+          [
+            7,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.96,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258210572",
+        "matchName": "Jannik Sinner v Daniil Medvedev",
+        "tournament": "Rome",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-15T18:58:25.555Z",
+        "oddsA": 1.15,
+        "oddsB": 7.4,
+        "preMatchOddsA": 1.06,
+        "preMatchOddsB": 15.5,
+        "finalSets": [
+          [
+            6,
+            2
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            4
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 7.4,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258238590",
+        "matchName": "Beatriz Haddad Maia v Shuai Zhang",
+        "tournament": "Strasbourg",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-16T09:59:06.074Z",
+        "oddsA": 26,
+        "oddsB": 1.01,
+        "preMatchOddsA": 1.94,
+        "preMatchOddsB": 2.06,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.01,
+        "paperPnl": 0.01,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258236411",
+        "matchName": "Madison Keys v Yuliia Starodubtseva",
+        "tournament": "Paris",
+        "surface": "hard",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-16T14:11:57.695Z",
+        "oddsA": 1.61,
+        "oddsB": 2.6,
+        "preMatchOddsA": 1.53,
+        "preMatchOddsB": 2.86,
+        "finalSets": [
+          [
+            1,
+            6
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            6,
+            3
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.6,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258264122",
+        "matchName": "Barbora Krejcikova v Dayana Yastremska",
+        "tournament": "Parma",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-16T15:06:58.051Z",
+        "oddsA": 110,
+        "oddsB": 1.08,
+        "preMatchOddsA": 1.46,
+        "preMatchOddsB": 2.78,
+        "finalSets": [
+          [
+            3,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.08,
+        "paperPnl": 0.08,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258240074",
+        "matchName": "Adolfo Daniel Vallejo v Jaume Munar",
+        "tournament": "Valencia",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 2,
+        "ts": "2026-05-16T19:03:50.585Z",
+        "oddsA": 3.05,
+        "oddsB": 1.46,
+        "preMatchOddsA": 2.5,
+        "preMatchOddsB": 1.66,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            6,
+            4
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 3.05,
+        "paperPnl": 2.05,
+        "paperSettlement": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "generatedAt": "2026-05-26T10:54:26.529Z",
+    "summary": {
+      "marketsScanned": 22,
+      "qualifyingSignals": 12,
+      "missedCount": 9,
+      "realBetsPlaced": 17,
+      "rejectedByDesign": 106,
+      "byStrategy": {
+        "Strat10P2": 5,
+        "Strat12P2": 3,
+        "Strat9P1": 1
+      },
+      "paperResolved": 9,
+      "paperWins": 6,
+      "paperLosses": 3,
+      "paperPnlTotal": 1.42,
+      "paperByStrategy": {
+        "Strat10P2": {
+          "count": 5,
+          "pnl": 3.25,
+          "wins": 4
+        },
+        "Strat12P2": {
+          "count": 3,
+          "pnl": -0.83,
+          "wins": 2
+        },
+        "Strat9P1": {
+          "count": 1,
+          "pnl": -1,
+          "wins": 0
+        }
+      }
+    },
+    "missed": [
+      {
+        "marketId": "1.258190255",
+        "matchName": "Katie Volynets v Yuliia Starodubtseva",
+        "tournament": "Paris",
+        "surface": "hard",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-15T10:37:27.262Z",
+        "oddsA": 1.55,
+        "oddsB": 2.74,
+        "preMatchOddsA": 2.18,
+        "preMatchOddsB": 1.62,
+        "finalSets": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.74,
+        "paperPnl": 1.74,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258169850",
+        "matchName": "Arthur Rinderknech v Martin Damm Jr",
+        "tournament": "Bordeaux",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-15T10:36:32.258Z",
+        "oddsA": 9.4,
+        "oddsB": 1.11,
+        "preMatchOddsA": 1.47,
+        "preMatchOddsB": 3.05,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.11,
+        "paperPnl": 0.11,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258200921",
+        "matchName": "Alejandro Tabilo v Dusan Lajovic",
+        "tournament": "Valencia",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-15T10:51:12.352Z",
+        "oddsA": 1.53,
+        "oddsB": 2.46,
+        "preMatchOddsA": 1.28,
+        "preMatchOddsB": 3.7,
+        "finalSets": [
+          [
+            4,
+            6
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            6,
+            4
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2.46,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258193310",
+        "matchName": "Kimmer Coppejans v Dali Blanch",
+        "tournament": "Tunis",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-15T11:37:47.613Z",
+        "oddsA": 1.87,
+        "oddsB": 1.72,
+        "preMatchOddsA": 1.64,
+        "preMatchOddsB": 2.54,
+        "finalSets": [
+          [
+            1,
+            6
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            6,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.72,
+        "paperPnl": 0.72,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258204649",
+        "matchName": "Jaime Faria v Emilio Nava",
+        "tournament": "Oeiras 6",
+        "surface": "clay",
+        "strategy": "Strat9P1",
+        "setBoundary": 2,
+        "ts": "2026-05-15T12:40:28.045Z",
+        "oddsA": 3.3,
+        "oddsB": 1.43,
+        "preMatchOddsA": 1.92,
+        "preMatchOddsB": 1.85,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "A",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 3.3,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      },
+      {
+        "marketId": "1.258204649",
+        "matchName": "Jaime Faria v Emilio Nava",
+        "tournament": "Oeiras 6",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 3,
+        "ts": "2026-05-15T13:30:58.408Z",
+        "oddsA": 2.08,
+        "oddsB": 1.79,
+        "preMatchOddsA": 1.92,
+        "preMatchOddsB": 1.85,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.79,
+        "paperPnl": 0.79,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258198852",
+        "matchName": "Camila Osorio v Barbora Krejcikova",
+        "tournament": "Parma",
+        "surface": "clay",
+        "strategy": "Strat10P2",
+        "setBoundary": 2,
+        "ts": "2026-05-15T14:07:23.639Z",
+        "oddsA": 1.97,
+        "oddsB": 2,
+        "preMatchOddsA": 2.12,
+        "preMatchOddsB": 1.89,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 2 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 2,
+        "paperPnl": 1,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258203848",
+        "matchName": "Alex Molcan v Tallon Griekspoor",
+        "tournament": "Bordeaux",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-15T16:24:29.556Z",
+        "oddsA": 17,
+        "oddsB": 1.06,
+        "preMatchOddsA": 1.67,
+        "preMatchOddsB": 2.46,
+        "finalSets": [
+          [
+            2,
+            6
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "winner": "B",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 1.06,
+        "paperPnl": 0.06,
+        "paperSettlement": "WIN"
+      },
+      {
+        "marketId": "1.258202833",
+        "matchName": "Raphael Collignon v Titouan Droguet",
+        "tournament": "Bordeaux",
+        "surface": "clay",
+        "strategy": "Strat12P2",
+        "setBoundary": 2,
+        "ts": "2026-05-15T19:30:10.769Z",
+        "oddsA": 1.38,
+        "oddsB": 3.5,
+        "preMatchOddsA": 1.45,
+        "preMatchOddsB": 3.15,
+        "finalSets": [
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "winner": "A",
+        "reason": "Passed all 1 filters",
+        "playerKey": "B",
+        "side": "BACK",
+        "paperStake": 1,
+        "paperOdds": 3.5,
+        "paperPnl": -1,
+        "paperSettlement": "LOSS"
+      }
+    ]
+  }
+]

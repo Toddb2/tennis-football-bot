@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": 1777394591460,
+    "marketId": "1.257367364",
+    "selectionId": "19894229",
+    "selectionName": "Andrew Fenty",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394591460,
+    "marketId": "1.257367364",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394771396,
+    "marketId": "1.257367364",
+    "selectionId": "19894229",
+    "selectionName": "Andrew Fenty",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394771396,
+    "marketId": "1.257367364",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394892706,
+    "marketId": "1.257367364",
+    "selectionId": "19894229",
+    "selectionName": "Andrew Fenty",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394892706,
+    "marketId": "1.257367364",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777395072708,
+    "marketId": "1.257367364",
+    "selectionId": "19894229",
+    "selectionName": "Andrew Fenty",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777395072708,
+    "marketId": "1.257367364",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777395194010,
+    "marketId": "1.257367364",
+    "selectionId": "19894229",
+    "selectionName": "Andrew Fenty",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777395194010,
+    "marketId": "1.257367364",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  }
+]

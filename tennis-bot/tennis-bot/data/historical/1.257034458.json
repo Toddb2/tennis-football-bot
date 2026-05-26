@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1776709417316,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776709417316,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776709597253,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776709597253,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776709718715,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776709718715,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776709898717,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776709898717,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710020409,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710020409,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710200410,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710200410,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710323031,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710323031,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710503033,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710503033,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710625166,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710625166,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710805167,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710805167,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710926748,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776710926748,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711106750,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711106750,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711229379,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711229379,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711409381,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711409381,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711530658,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711530658,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711710660,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711710660,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711832046,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776711832046,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712012047,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712012047,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712133331,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712133331,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712313333,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712313333,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712434711,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712434711,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712614714,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712614714,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712741380,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712741380,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712921382,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776712921382,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713042703,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713042703,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713222706,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713222706,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713343975,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713343975,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713523977,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713523977,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713646251,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713646251,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713826253,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713826253,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713947567,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776713947567,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714127569,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714127569,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714249006,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714249006,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714429008,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714429008,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714550282,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714550282,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714730285,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714730285,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714851621,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776714851621,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715031624,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715031624,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715153226,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715153226,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715333228,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715333228,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715455218,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715455218,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715635219,
+    "marketId": "1.257034458",
+    "selectionId": "12154100",
+    "selectionName": "Daniil Glinka",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776715635219,
+    "marketId": "1.257034458",
+    "selectionId": "7415002",
+    "selectionName": "Stefan Kozlov",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

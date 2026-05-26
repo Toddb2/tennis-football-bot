@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1776857504299,
+    "marketId": "1.257180030",
+    "selectionId": "45994732",
+    "selectionName": "Alicia Dudeney",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776857504299,
+    "marketId": "1.257180030",
+    "selectionId": "25552659",
+    "selectionName": "Indianna Spink",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776857684483,
+    "marketId": "1.257180030",
+    "selectionId": "45994732",
+    "selectionName": "Alicia Dudeney",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776857684483,
+    "marketId": "1.257180030",
+    "selectionId": "25552659",
+    "selectionName": "Indianna Spink",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776857805512,
+    "marketId": "1.257180030",
+    "selectionId": "45994732",
+    "selectionName": "Alicia Dudeney",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776857805512,
+    "marketId": "1.257180030",
+    "selectionId": "25552659",
+    "selectionName": "Indianna Spink",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776857985516,
+    "marketId": "1.257180030",
+    "selectionId": "45994732",
+    "selectionName": "Alicia Dudeney",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776857985516,
+    "marketId": "1.257180030",
+    "selectionId": "25552659",
+    "selectionName": "Indianna Spink",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776858106904,
+    "marketId": "1.257180030",
+    "selectionId": "45994732",
+    "selectionName": "Alicia Dudeney",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776858106904,
+    "marketId": "1.257180030",
+    "selectionId": "25552659",
+    "selectionName": "Indianna Spink",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776858286909,
+    "marketId": "1.257180030",
+    "selectionId": "45994732",
+    "selectionName": "Alicia Dudeney",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776858286909,
+    "marketId": "1.257180030",
+    "selectionId": "25552659",
+    "selectionName": "Indianna Spink",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  }
+]

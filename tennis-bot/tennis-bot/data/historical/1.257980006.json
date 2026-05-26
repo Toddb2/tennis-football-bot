@@ -1,0 +1,596 @@
+[
+  {
+    "timestamp": 1778407798203,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778407798203,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778407888194,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778407888194,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778407978248,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778407978248,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408068288,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408068288,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408158339,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408158339,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408248377,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408248377,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408338430,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408338430,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408428476,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408428476,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408518515,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408518515,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408608562,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408608562,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408698604,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408698604,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408788659,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408788659,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408878699,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408878699,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408968750,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778408968750,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409058794,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409058794,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409148835,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409148835,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409238875,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409238875,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409328940,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409328940,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409418986,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409418986,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409509029,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409509029,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409599082,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409599082,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409779086,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409779086,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409779177,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409779177,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409869195,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409869195,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409959242,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778409959242,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410049534,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410049534,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410139346,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410139346,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410229375,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410229375,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410319421,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410319421,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410409456,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410409456,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410499505,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410499505,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410589545,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410589545,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410679593,
+    "marketId": "1.257980006",
+    "selectionId": "20955043",
+    "selectionName": "Taiyo Yamanaka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778410679593,
+    "marketId": "1.257980006",
+    "selectionId": "98324200",
+    "selectionName": "Gandharv Gourav Kothapa",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

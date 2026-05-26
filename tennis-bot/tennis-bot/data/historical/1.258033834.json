@@ -1,0 +1,542 @@
+[
+  {
+    "timestamp": 1778518885032,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778518885032,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778518975005,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778518975005,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519065057,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519065057,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519155103,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519155103,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519245144,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519245144,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519335181,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519335181,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519425254,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519425254,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519515279,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519515279,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519605318,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519605318,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519695360,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519695360,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519785405,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519785405,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519875431,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519875431,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519965489,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778519965489,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520055520,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520055520,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520145572,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520145572,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520235607,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520235607,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520325666,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520325666,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520415687,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520415687,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520505735,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520505735,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520595760,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520595760,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520685802,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520685802,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520775853,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520775853,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520865893,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520865893,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520955938,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778520955938,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521045996,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521045996,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521136025,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521136025,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521226072,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521226072,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521316100,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521316100,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521406150,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521406150,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521496181,
+    "marketId": "1.258033834",
+    "selectionId": "36203764",
+    "selectionName": "Federica Urgesi",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778521496181,
+    "marketId": "1.258033834",
+    "selectionId": "10578548",
+    "selectionName": "Maja Chwalinska",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  }
+]

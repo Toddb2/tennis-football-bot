@@ -1,0 +1,23 @@
+{
+  "exportDate": "2026-05-26",
+  "rows": [
+    {
+      "writtenAt": 1779795221150,
+      "marketId": "1.258458400",
+      "selectionId": "9002331",
+      "strategy": "Strat8P2",
+      "eventName": "Linda Noskova v Maria Sakkari",
+      "player": "Maria Sakkari",
+      "csvLine": "Strat8P2,1.258458400,9002331"
+    },
+    {
+      "writtenAt": 1779795266149,
+      "marketId": "1.258458400",
+      "selectionId": "22088831",
+      "strategy": "Strat9P1",
+      "eventName": "Linda Noskova v Maria Sakkari",
+      "player": "Linda Noskova",
+      "csvLine": "Strat9P1,1.258458400,22088831"
+    }
+  ]
+}

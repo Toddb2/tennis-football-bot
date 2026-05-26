@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1778414798966,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778414798966,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778414888906,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778414888906,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778414978965,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778414978965,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415069007,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415069007,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415159043,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415159043,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415249090,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415249090,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415339139,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415339139,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415429178,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415429178,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415519237,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415519237,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415609274,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415609274,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415699322,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415699322,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415789361,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415789361,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415879402,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415879402,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415969449,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778415969449,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416059488,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416059488,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416149528,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416149528,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416329533,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416329533,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416329622,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416329622,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416419674,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416419674,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416509715,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416509715,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416599758,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416599758,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416689809,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416689809,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416779838,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416779838,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416869881,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416869881,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416959929,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778416959929,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417139933,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417139933,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417140033,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417140033,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417320037,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417320037,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417320199,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417320199,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417410250,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417410250,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417500299,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417500299,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417590338,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417590338,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417680382,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417680382,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417770417,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417770417,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417860466,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417860466,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417950513,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778417950513,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418040555,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418040555,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418130601,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418130601,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418220644,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418220644,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418400649,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418400649,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418400758,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418400758,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418490802,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418490802,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418580842,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418580842,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418670893,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418670893,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418760925,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418760925,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418850978,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418850978,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418941026,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778418941026,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419031076,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419031076,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419121132,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419121132,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419211178,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419211178,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419301314,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419301314,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419391353,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419391353,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419481395,
+    "marketId": "1.257990920",
+    "selectionId": "10192021",
+    "selectionName": "Denys Klok",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778419481395,
+    "marketId": "1.257990920",
+    "selectionId": "35635670",
+    "selectionName": "Dali Blanch",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

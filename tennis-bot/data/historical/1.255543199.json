@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1774020120805,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020120805,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020480547,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020480547,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020660551,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020660551,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020840557,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020840557,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021020560,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021020560,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021200564,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021200564,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021380568,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021380568,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021560571,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021560571,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021920577,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021920577,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022100581,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022100581,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022280584,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022280584,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022460588,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022460588,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022640594,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022640594,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024349668,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024349668,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024529410,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024529410,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024709414,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024709414,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024889418,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024889418,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025069422,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025069422,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025249426,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025249426,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025429430,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025429430,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025609434,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025609434,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025789437,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025789437,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025969441,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774025969441,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026149447,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026149447,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026329453,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026329453,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026509461,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026509461,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026689466,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026689466,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026869474,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026869474,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027049478,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027049478,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027229483,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027229483,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027409488,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027409488,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027589491,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027589491,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027769506,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027769506,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027949511,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774027949511,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028129516,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028129516,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028309521,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028309521,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028489525,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028489525,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028669530,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028669530,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028849534,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028849534,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029029539,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029029539,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029209543,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029209543,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029389547,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029389547,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029569551,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029569551,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029749558,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029749558,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029929563,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029929563,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774030109568,
+    "marketId": "1.255543199",
+    "selectionId": "7364095",
+    "selectionName": "Kimmer Coppejans",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774030109568,
+    "marketId": "1.255543199",
+    "selectionId": "47858709",
+    "selectionName": "Gilles Arnaud Bailly",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

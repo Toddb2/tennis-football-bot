@@ -1,0 +1,866 @@
+[
+  {
+    "timestamp": 1777350594155,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777350594155,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777350774109,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777350774109,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777350895505,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777350895505,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351075506,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351075506,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351196840,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351196840,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351376841,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351376841,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351498180,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351498180,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351678182,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351678182,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351799510,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351799510,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351979511,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777351979511,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352100816,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352100816,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352280817,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352280817,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352402168,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352402168,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352582170,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352582170,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352703509,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352703509,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352883511,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777352883511,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353004901,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353004901,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353184903,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353184903,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353306263,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353306263,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353486264,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353486264,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353607580,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353607580,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353787581,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353787581,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353908907,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777353908907,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354088908,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354088908,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354210221,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354210221,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354390222,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354390222,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354511554,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354511554,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354691555,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354691555,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354812978,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354812978,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354992979,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777354992979,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355114386,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355114386,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355294388,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355294388,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355415776,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355415776,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355595777,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355595777,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355717101,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355717101,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355897102,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777355897102,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356018403,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356018403,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356198406,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356198406,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356319710,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356319710,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356499711,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356499711,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356621018,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356621018,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356801020,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356801020,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356922366,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777356922366,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357102367,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357102367,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357223694,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357223694,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357403695,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357403695,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357525007,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357525007,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357705008,
+    "marketId": "1.257439220",
+    "selectionId": "11352357",
+    "selectionName": "Xiyu Wang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777357705008,
+    "marketId": "1.257439220",
+    "selectionId": "9634334",
+    "selectionName": "Zhibek Kulambayeva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

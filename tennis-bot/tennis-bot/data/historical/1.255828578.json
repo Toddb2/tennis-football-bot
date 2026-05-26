@@ -1,0 +1,974 @@
+[
+  {
+    "timestamp": 1774524880017,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524880017,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525059959,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525059959,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525181240,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525181240,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525361243,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525361243,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525482566,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525482566,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525662569,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525662569,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525784193,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525784193,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525964195,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525964195,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526085454,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526085454,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526265457,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526265457,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526386717,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526386717,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526566719,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526566719,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526687996,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526687996,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526868000,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526868000,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526989284,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774526989284,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527169286,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527169286,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527290547,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527290547,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527470549,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527470549,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527591822,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527591822,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527771824,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527771824,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527893927,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774527893927,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528073930,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528073930,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528195709,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528195709,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528375711,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528375711,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528497013,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528497013,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528677016,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528677016,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528798323,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528798323,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528978326,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774528978326,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529099610,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529099610,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529279612,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529279612,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529400890,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529400890,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529580892,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529580892,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529702168,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529702168,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529882170,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774529882170,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530003522,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530003522,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530183524,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530183524,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530304791,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530304791,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530484792,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530484792,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530606091,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530606091,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530786094,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530786094,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530907395,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774530907395,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531087397,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531087397,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531208718,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531208718,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531388720,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531388720,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531509991,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531509991,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531689993,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531689993,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531811283,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531811283,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531991284,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774531991284,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532112572,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532112572,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532292573,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532292573,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532413861,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532413861,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532593863,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532593863,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532715129,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532715129,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532895131,
+    "marketId": "1.255828578",
+    "selectionId": "58043970",
+    "selectionName": "Nellie Taraba Wallberg",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774532895131,
+    "marketId": "1.255828578",
+    "selectionId": "18847977",
+    "selectionName": "Lisa Zaar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

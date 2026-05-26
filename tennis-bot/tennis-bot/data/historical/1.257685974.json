@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1777902081301,
+    "marketId": "1.257685974",
+    "selectionId": "42553943",
+    "selectionName": "Breno Braga",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902081301,
+    "marketId": "1.257685974",
+    "selectionId": "11583995",
+    "selectionName": "Lautaro Agustin Falabel",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902261246,
+    "marketId": "1.257685974",
+    "selectionId": "42553943",
+    "selectionName": "Breno Braga",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902261246,
+    "marketId": "1.257685974",
+    "selectionId": "11583995",
+    "selectionName": "Lautaro Agustin Falabel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902382570,
+    "marketId": "1.257685974",
+    "selectionId": "42553943",
+    "selectionName": "Breno Braga",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902382570,
+    "marketId": "1.257685974",
+    "selectionId": "11583995",
+    "selectionName": "Lautaro Agustin Falabel",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902562570,
+    "marketId": "1.257685974",
+    "selectionId": "42553943",
+    "selectionName": "Breno Braga",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902562570,
+    "marketId": "1.257685974",
+    "selectionId": "11583995",
+    "selectionName": "Lautaro Agustin Falabel",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902683891,
+    "marketId": "1.257685974",
+    "selectionId": "42553943",
+    "selectionName": "Breno Braga",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902683891,
+    "marketId": "1.257685974",
+    "selectionId": "11583995",
+    "selectionName": "Lautaro Agustin Falabel",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902863893,
+    "marketId": "1.257685974",
+    "selectionId": "42553943",
+    "selectionName": "Breno Braga",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777902863893,
+    "marketId": "1.257685974",
+    "selectionId": "11583995",
+    "selectionName": "Lautaro Agustin Falabel",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

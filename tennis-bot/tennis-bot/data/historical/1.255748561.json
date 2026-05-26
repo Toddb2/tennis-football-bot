@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1774360738487,
+    "marketId": "1.255748561",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360738487,
+    "marketId": "1.255748561",
+    "selectionId": "10108736",
+    "selectionName": "Greet Minnen",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360918408,
+    "marketId": "1.255748561",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360918408,
+    "marketId": "1.255748561",
+    "selectionId": "10108736",
+    "selectionName": "Greet Minnen",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774361039672,
+    "marketId": "1.255748561",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774361039672,
+    "marketId": "1.255748561",
+    "selectionId": "10108736",
+    "selectionName": "Greet Minnen",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774361219674,
+    "marketId": "1.255748561",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774361219674,
+    "marketId": "1.255748561",
+    "selectionId": "10108736",
+    "selectionName": "Greet Minnen",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774361340957,
+    "marketId": "1.255748561",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774361340957,
+    "marketId": "1.255748561",
+    "selectionId": "10108736",
+    "selectionName": "Greet Minnen",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774361520959,
+    "marketId": "1.255748561",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774361520959,
+    "marketId": "1.255748561",
+    "selectionId": "10108736",
+    "selectionName": "Greet Minnen",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  }
+]

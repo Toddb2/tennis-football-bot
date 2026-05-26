@@ -1,0 +1,542 @@
+[
+  {
+    "timestamp": 1774861073490,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861073490,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861253444,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861253444,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861374718,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861374718,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861554720,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861554720,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861676006,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861676006,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861856008,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861856008,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861977304,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774861977304,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862157306,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862157306,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862278656,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862278656,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862458657,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862458657,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862579951,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862579951,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862759952,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862759952,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862881248,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774862881248,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863061250,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863061250,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863182698,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863182698,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863362702,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863362702,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863484012,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863484012,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863664014,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863664014,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863785315,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863785315,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863965317,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774863965317,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864086680,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864086680,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864266683,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864266683,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864388049,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864388049,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864568051,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864568051,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864689430,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864689430,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864869432,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864869432,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864990802,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774864990802,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865170804,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865170804,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865292182,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865292182,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865472184,
+    "marketId": "1.255969020",
+    "selectionId": "9632777",
+    "selectionName": "Billy Harris",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774865472184,
+    "marketId": "1.255969020",
+    "selectionId": "8960879",
+    "selectionName": "Alex Molcan",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  }
+]

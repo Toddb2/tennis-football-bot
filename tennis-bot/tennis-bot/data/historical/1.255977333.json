@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1774791627218,
+    "marketId": "1.255977333",
+    "selectionId": "39675319",
+    "selectionName": "Matthew William Donald",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791627218,
+    "marketId": "1.255977333",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791807164,
+    "marketId": "1.255977333",
+    "selectionId": "39675319",
+    "selectionName": "Matthew William Donald",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791807164,
+    "marketId": "1.255977333",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791928419,
+    "marketId": "1.255977333",
+    "selectionId": "39675319",
+    "selectionName": "Matthew William Donald",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774791928419,
+    "marketId": "1.255977333",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774792108422,
+    "marketId": "1.255977333",
+    "selectionId": "39675319",
+    "selectionName": "Matthew William Donald",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774792108422,
+    "marketId": "1.255977333",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774792229756,
+    "marketId": "1.255977333",
+    "selectionId": "39675319",
+    "selectionName": "Matthew William Donald",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774792229756,
+    "marketId": "1.255977333",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774792409758,
+    "marketId": "1.255977333",
+    "selectionId": "39675319",
+    "selectionName": "Matthew William Donald",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774792409758,
+    "marketId": "1.255977333",
+    "selectionId": "8257788",
+    "selectionName": "Laurent Lokoli",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  }
+]

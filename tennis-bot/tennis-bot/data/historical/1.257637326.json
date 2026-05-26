@@ -1,0 +1,992 @@
+[
+  {
+    "timestamp": 1777742181837,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742181837,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742361787,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742361787,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742483115,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742483115,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742663167,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742663167,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742784434,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742784434,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742964437,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777742964437,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743085746,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743085746,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743265747,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743265747,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743387056,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743387056,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743567058,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743567058,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743688470,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743688470,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743868472,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743868472,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743989800,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777743989800,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744169801,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744169801,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744291122,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744291122,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744468333,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744468333,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744648267,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744648267,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744769558,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744769558,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744949560,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777744949560,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745070869,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745070869,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745250871,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745250871,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745372253,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745372253,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745552255,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745552255,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745673652,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745673652,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745853655,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745853655,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745974964,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777745974964,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746154966,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746154966,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746276291,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746276291,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746456292,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746456292,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746577601,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746577601,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746757604,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746757604,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746878906,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777746878906,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747058909,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747058909,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747180302,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747180302,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747360303,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747360303,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747481712,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747481712,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747661713,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747661713,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747708046,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747708046,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747887998,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777747887998,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748009307,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748009307,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748189309,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748189309,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748310630,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748310630,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748490632,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748490632,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748611926,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748611926,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748791927,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748791927,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748913228,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777748913228,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749093230,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749093230,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749214568,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749214568,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749394569,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749394569,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749515954,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749515954,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749695955,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749695955,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749817284,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749817284,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749997285,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777749997285,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777750118594,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777750118594,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777750298596,
+    "marketId": "1.257637326",
+    "selectionId": "11878711",
+    "selectionName": "Gauthier Onclin",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777750298596,
+    "marketId": "1.257637326",
+    "selectionId": "25449713",
+    "selectionName": "Eliakim Coulibaly",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

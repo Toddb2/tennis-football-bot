@@ -1,0 +1,974 @@
+[
+  {
+    "timestamp": 1779717794284,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717794284,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717884271,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717884271,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717974308,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779717974308,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718064370,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718064370,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718154425,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718154425,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718244464,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718244464,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718334504,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718334504,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718424561,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718424561,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718514612,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718514612,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718604650,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718604650,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718694716,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718694716,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718784742,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718784742,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718874789,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718874789,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718964856,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779718964856,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719054887,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719054887,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719144943,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719144943,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719324951,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719324951,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719325027,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719325027,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719415074,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719415074,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719505108,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719505108,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719595178,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719595178,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719685223,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719685223,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719775276,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719775276,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719865325,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779719865325,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720045332,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720045332,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720045448,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720045448,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720135478,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720135478,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720315484,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720315484,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720315640,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720315640,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720405698,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720405698,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720495741,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720495741,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720585773,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720585773,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720675826,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720675826,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720765857,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720765857,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720855904,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720855904,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720945940,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779720945940,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721035995,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721035995,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721126022,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721126022,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721216070,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721216070,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721306170,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721306170,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721396161,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721396161,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721486188,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721486188,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721576245,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721576245,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721666271,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721666271,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721756344,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721756344,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721846373,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721846373,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721936412,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779721936412,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722026458,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722026458,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722116513,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722116513,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722206542,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722206542,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722296586,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722296586,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722386630,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722386630,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722476696,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722476696,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722566724,
+    "marketId": "1.258542015",
+    "selectionId": "35845662",
+    "selectionName": "Lukas Pokorny",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779722566724,
+    "marketId": "1.258542015",
+    "selectionId": "27836641",
+    "selectionName": "Tom Paris",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

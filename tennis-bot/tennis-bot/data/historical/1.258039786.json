@@ -1,0 +1,1334 @@
+[
+  {
+    "timestamp": 1778575283065,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575283065,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575373032,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575373032,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575463084,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575463084,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575643088,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575643088,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575643156,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575643156,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575733201,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575733201,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575823255,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778575823255,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576003259,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576003259,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576003354,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576003354,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576093382,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576093382,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576183448,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576183448,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576273489,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576273489,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576363553,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576363553,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576453590,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576453590,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576543641,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576543641,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576633669,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576633669,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576723720,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576723720,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576903724,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576903724,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576903804,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576903804,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576993842,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778576993842,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577083881,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577083881,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577173915,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577173915,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577263985,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577263985,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577354030,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577354030,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577444080,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577444080,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577534119,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577534119,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577624167,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577624167,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577714220,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577714220,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577804249,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577804249,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577894283,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577894283,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577984330,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778577984330,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578074359,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578074359,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578164408,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578164408,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578254443,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578254443,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578344504,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578344504,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578434518,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578434518,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578524593,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578524593,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578614625,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578614625,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578704673,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578704673,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578794719,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578794719,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578884764,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578884764,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578974800,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778578974800,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579064837,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579064837,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579154889,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579154889,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579244947,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579244947,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579334969,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579334969,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579425033,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579425033,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579515067,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579515067,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579605107,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579605107,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579785113,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579785113,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579785195,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579785195,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579875229,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579875229,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579965329,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778579965329,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580055361,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580055361,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580145461,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580145461,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580235480,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580235480,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580325522,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580325522,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580415553,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580415553,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580505607,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580505607,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580595632,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580595632,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580685684,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580685684,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580775714,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580775714,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580865780,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580865780,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580955826,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778580955826,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581177030,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581177030,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581266956,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581266956,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581357002,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581357002,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581447038,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581447038,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581537064,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581537064,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581717220,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581717220,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581807158,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581807158,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581897202,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581897202,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581987263,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778581987263,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778582077304,
+    "marketId": "1.258039786",
+    "selectionId": "8259098",
+    "selectionName": "Jan-Lennard Struff",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778582077304,
+    "marketId": "1.258039786",
+    "selectionId": "10303673",
+    "selectionName": "Nicolas Alvarez Varona",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "timestamp": 1779613963877,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779613963877,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614053848,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614053848,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614143912,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614143912,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614233964,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614233964,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614324012,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614324012,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614414063,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614414063,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614504129,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614504129,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614594183,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614594183,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614684237,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614684237,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614774284,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614774284,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614864335,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614864335,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614954412,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779614954412,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615044462,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615044462,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615134506,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615134506,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615224539,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615224539,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615314595,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615314595,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615494599,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615494599,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615494718,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615494718,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615584753,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615584753,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615674801,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615674801,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615764850,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615764850,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615854905,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615854905,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615944958,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779615944958,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616034991,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616034991,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616125044,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616125044,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616215074,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616215074,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616305128,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616305128,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616395177,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616395177,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616485225,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616485225,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616575275,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616575275,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616665335,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616665335,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616755385,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616755385,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616845430,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616845430,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616935481,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779616935481,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617115487,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617115487,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617115587,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617115587,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617295593,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617295593,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617295691,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617295691,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617385739,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617385739,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617475786,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617475786,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617655791,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617655791,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617655892,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617655892,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617745943,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617745943,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617835996,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617835996,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617926067,
+    "marketId": "1.258464620",
+    "selectionId": "6064287",
+    "selectionName": "James Duckworth",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779617926067,
+    "marketId": "1.258464620",
+    "selectionId": "24966308",
+    "selectionName": "Gabriel Diallo",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  }
+]

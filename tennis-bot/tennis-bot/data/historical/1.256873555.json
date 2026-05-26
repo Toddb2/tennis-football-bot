@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1776303941287,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776303941287,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304121226,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304121226,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304243046,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304243046,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304423048,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304423048,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304544342,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304544342,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304724343,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304724343,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304845605,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776304845605,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305025607,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305025607,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305147523,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305147523,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305327524,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305327524,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305448804,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305448804,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305628806,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305628806,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305750086,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305750086,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307738264,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307738264,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307860188,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307860188,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308040189,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308040189,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308463057,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308463057,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308643059,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308643059,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308764331,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 750,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308764331,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308944332,
+    "marketId": "1.256873555",
+    "selectionId": "13427059",
+    "selectionName": "Ariana Arseneault",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308944332,
+    "marketId": "1.256873555",
+    "selectionId": "50743248",
+    "selectionName": "Hayu Kinoshita",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

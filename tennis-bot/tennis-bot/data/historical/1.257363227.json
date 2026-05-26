@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1777371085816,
+    "marketId": "1.257363227",
+    "selectionId": "14534269",
+    "selectionName": "Timofey Skatov",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371085816,
+    "marketId": "1.257363227",
+    "selectionId": "19931652",
+    "selectionName": "Titouan Droguet",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371265765,
+    "marketId": "1.257363227",
+    "selectionId": "14534269",
+    "selectionName": "Timofey Skatov",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371265765,
+    "marketId": "1.257363227",
+    "selectionId": "19931652",
+    "selectionName": "Titouan Droguet",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371387151,
+    "marketId": "1.257363227",
+    "selectionId": "14534269",
+    "selectionName": "Timofey Skatov",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371387151,
+    "marketId": "1.257363227",
+    "selectionId": "19931652",
+    "selectionName": "Titouan Droguet",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371567153,
+    "marketId": "1.257363227",
+    "selectionId": "14534269",
+    "selectionName": "Timofey Skatov",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371567153,
+    "marketId": "1.257363227",
+    "selectionId": "19931652",
+    "selectionName": "Titouan Droguet",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371688463,
+    "marketId": "1.257363227",
+    "selectionId": "14534269",
+    "selectionName": "Timofey Skatov",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371688463,
+    "marketId": "1.257363227",
+    "selectionId": "19931652",
+    "selectionName": "Titouan Droguet",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371868464,
+    "marketId": "1.257363227",
+    "selectionId": "14534269",
+    "selectionName": "Timofey Skatov",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777371868464,
+    "marketId": "1.257363227",
+    "selectionId": "19931652",
+    "selectionName": "Titouan Droguet",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  }
+]

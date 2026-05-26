@@ -1,0 +1,542 @@
+[
+  {
+    "timestamp": 1776980795648,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776980795648,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776980975608,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776980975608,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981096867,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981096867,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981276868,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981276868,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981398214,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981398214,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981578218,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981578218,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981699483,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981699483,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981879485,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776981879485,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982000779,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982000779,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982180780,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982180780,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982302039,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982302039,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982482040,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982482040,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982603391,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982603391,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982783393,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982783393,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982904688,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776982904688,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983084689,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983084689,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983205948,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983205948,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983385951,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983385951,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983507297,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983507297,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983687299,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983687299,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983808583,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983808583,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983988584,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776983988584,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984109858,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984109858,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984289859,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984289859,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984411132,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984411132,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984591133,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984591133,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984712396,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984712396,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984892397,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776984892397,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776985013665,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776985013665,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776985193666,
+    "marketId": "1.257211397",
+    "selectionId": "25081703",
+    "selectionName": "Blaise Bicknell",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776985193666,
+    "marketId": "1.257211397",
+    "selectionId": "12314694",
+    "selectionName": "Yanki Erel",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": 1778490939256,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778490939256,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491029213,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491029213,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491119273,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491119273,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491209319,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491209319,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491299364,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491299364,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491389393,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491389393,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569397,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569397,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569517,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491569517,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491659577,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778491659577,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492163725,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492163725,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492253648,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492253648,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433651,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433651,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433836,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492433836,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492523889,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492523889,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492613943,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778492613943,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493397993,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493397993,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493487955,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493487955,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493578021,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493578021,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493668079,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493668079,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493758129,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778493758129,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494168578,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494168578,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494258501,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494258501,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494348552,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494348552,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494438595,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494438595,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494528640,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494528640,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494653820,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494653820,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494743768,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494743768,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494833816,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778494833816,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013820,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013820,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013921,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495013921,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495103965,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495103965,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495194033,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495194033,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495284063,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495284063,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495374112,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495374112,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495464159,
+    "marketId": "1.258037812",
+    "selectionId": "14534224",
+    "selectionName": "Jakub Paul",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778495464159,
+    "marketId": "1.258037812",
+    "selectionId": "8257870",
+    "selectionName": "Stefano Napolitano",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  }
+]

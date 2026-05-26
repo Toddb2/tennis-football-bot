@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": 1777394290116,
+    "marketId": "1.257406481",
+    "selectionId": "63264473",
+    "selectionName": "Ajla Tomljanovic",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394290116,
+    "marketId": "1.257406481",
+    "selectionId": "6356637",
+    "selectionName": "Sara Sorribes Tormo",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394470053,
+    "marketId": "1.257406481",
+    "selectionId": "63264473",
+    "selectionName": "Ajla Tomljanovic",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394470053,
+    "marketId": "1.257406481",
+    "selectionId": "6356637",
+    "selectionName": "Sara Sorribes Tormo",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394591392,
+    "marketId": "1.257406481",
+    "selectionId": "63264473",
+    "selectionName": "Ajla Tomljanovic",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394591392,
+    "marketId": "1.257406481",
+    "selectionId": "6356637",
+    "selectionName": "Sara Sorribes Tormo",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394771396,
+    "marketId": "1.257406481",
+    "selectionId": "63264473",
+    "selectionName": "Ajla Tomljanovic",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394771396,
+    "marketId": "1.257406481",
+    "selectionId": "6356637",
+    "selectionName": "Sara Sorribes Tormo",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394892706,
+    "marketId": "1.257406481",
+    "selectionId": "63264473",
+    "selectionName": "Ajla Tomljanovic",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777394892706,
+    "marketId": "1.257406481",
+    "selectionId": "6356637",
+    "selectionName": "Sara Sorribes Tormo",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777395072708,
+    "marketId": "1.257406481",
+    "selectionId": "63264473",
+    "selectionName": "Ajla Tomljanovic",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777395072708,
+    "marketId": "1.257406481",
+    "selectionId": "6356637",
+    "selectionName": "Sara Sorribes Tormo",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777395194010,
+    "marketId": "1.257406481",
+    "selectionId": "63264473",
+    "selectionName": "Ajla Tomljanovic",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777395194010,
+    "marketId": "1.257406481",
+    "selectionId": "6356637",
+    "selectionName": "Sara Sorribes Tormo",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  }
+]

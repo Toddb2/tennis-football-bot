@@ -1,0 +1,182 @@
+[
+  {
+    "timestamp": 1777284315699,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777284315699,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777284495652,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777284495652,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777284616931,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777284616931,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777284796934,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777284796934,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777284918211,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777284918211,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285098214,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285098214,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285219500,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285219500,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285399501,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285399501,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285520812,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285520812,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285700814,
+    "marketId": "1.257359765",
+    "selectionId": "38914786",
+    "selectionName": "Samuele Pieri",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777285700814,
+    "marketId": "1.257359765",
+    "selectionId": "21256276",
+    "selectionName": "Max Wiskandt",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  }
+]

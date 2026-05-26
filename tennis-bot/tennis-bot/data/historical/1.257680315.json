@@ -1,0 +1,947 @@
+[
+  {
+    "timestamp": 1777991873987,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992056533,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992056533,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992147837,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992147837,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992239169,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992239169,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992330472,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992330472,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992421770,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992421770,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992513150,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992513150,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992693152,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992693152,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992694580,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992694580,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992799882,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992799882,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992891272,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992891272,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992982557,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777992982557,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993162559,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993162559,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993343927,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993343927,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993345283,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993345283,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993436564,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993436564,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993527848,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993527848,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993619142,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993619142,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993724449,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993724449,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993815753,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993815753,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993864767,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993864767,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993954708,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777993954708,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994044762,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994044762,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994134809,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994134809,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994224883,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994224883,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994314896,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994314896,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994404950,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994404950,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994494999,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994494999,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994585047,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994585047,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994675083,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994675083,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994765132,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994765132,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994855170,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994855170,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994945678,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777994945678,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995035255,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995035255,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995125303,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995125303,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995215348,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995215348,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995305399,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995305399,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995395454,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995395454,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995485488,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995485488,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995575538,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995575538,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995665580,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995665580,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995755628,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995755628,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995845666,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995845666,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995935708,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777995935708,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996025761,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996025761,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996115805,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996115805,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996205850,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996205850,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996385854,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996385854,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996385953,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996385953,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996476003,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996476003,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996566043,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996566043,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 200,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996656079,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996656079,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 200,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996836085,
+    "marketId": "1.257680315",
+    "selectionId": "46846065",
+    "selectionName": "Aditya Vishal Balsekar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777996836085,
+    "marketId": "1.257680315",
+    "selectionId": "47858621",
+    "selectionName": "Gray Voelzke",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "timestamp": 1778507100991,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507100991,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507190956,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507190956,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507280988,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507280988,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507371043,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507371043,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551050,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551050,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551232,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551232,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507641278,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507641278,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507731335,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507731335,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507821384,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507821384,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507911436,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507911436,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508001496,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508001496,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508091568,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508091568,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508181601,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508181601,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508271654,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508271654,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508361711,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508361711,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508451777,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508451777,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508541808,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508541808,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508631859,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508631859,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508721918,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508721918,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508811976,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508811976,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508902983,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508902983,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508992079,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508992079,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509082141,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509082141,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509172187,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509172187,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509352192,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509352192,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509352366,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509352366,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509442414,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509442414,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509532473,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509532473,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509622524,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509622524,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509712575,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509712575,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509802614,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509802614,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509892663,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509892663,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509982715,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778509982715,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510072748,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510072748,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510162802,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510162802,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510252843,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510252843,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510342893,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510342893,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510432940,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510432940,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510522995,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510522995,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510613025,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510613025,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510703082,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510703082,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510823673,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510823673,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510913733,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778510913733,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093738,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093738,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093834,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511093834,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511183880,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511183880,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511273930,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511273930,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511364613,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511364613,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511454013,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511454013,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511544094,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511544094,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724101,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724101,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724144,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511724144,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511814171,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511814171,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511904208,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778511904208,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512084213,
+    "marketId": "1.258033344",
+    "selectionId": "21651950",
+    "selectionName": "Alina Charaeva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778512084213,
+    "marketId": "1.258033344",
+    "selectionId": "10410363",
+    "selectionName": "Alice Tubello",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

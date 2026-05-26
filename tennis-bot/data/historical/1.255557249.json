@@ -1,0 +1,938 @@
+[
+  {
+    "timestamp": 1774020120876,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020120876,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020840557,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774020840557,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021020560,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021020560,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021200564,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021200564,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021380568,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774021380568,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022100581,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022100581,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022280584,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022280584,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022460588,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774022460588,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024349677,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024349677,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024709414,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774024709414,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026329453,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026329453,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026869474,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774026869474,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028129516,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774028129516,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029749558,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774029749558,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774032989661,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774032989661,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774033349673,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774033349673,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774035149737,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774035149737,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774035509746,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774035509746,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774035689751,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774035689751,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774036409772,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774036409772,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774036769785,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774036769785,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774036949791,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774036949791,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037129800,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037129800,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037309806,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037309806,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037489811,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037489811,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037669816,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037669816,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037849824,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774037849824,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038030987,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038030987,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038210996,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038210996,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038391001,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038391001,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038571007,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038571007,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038751012,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038751012,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038931016,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038931016,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039111022,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039111022,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039291027,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039291027,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039471032,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039471032,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039651037,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039651037,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039831041,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039831041,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040011046,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040011046,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040191051,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040191051,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040371055,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040371055,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040551060,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040551060,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040731064,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040731064,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040911069,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040911069,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041091072,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041091072,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041271077,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041271077,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041451081,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041451081,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041631086,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041631086,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041811091,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041811091,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041991095,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041991095,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774042171100,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774042171100,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774042351104,
+    "marketId": "1.255557249",
+    "selectionId": "48579597",
+    "selectionName": "Gianluca Cadenasso",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774042351104,
+    "marketId": "1.255557249",
+    "selectionId": "19063940",
+    "selectionName": "Pedro Boscardin Dias",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

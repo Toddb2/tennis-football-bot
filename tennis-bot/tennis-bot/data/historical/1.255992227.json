@@ -1,0 +1,470 @@
+[
+  {
+    "timestamp": 1774811649653,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811649653,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811829607,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811829607,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811951664,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774811951664,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812131666,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812131666,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812252946,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812252946,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812432947,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812432947,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812554218,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812554218,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812734219,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812734219,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812855560,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774812855560,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813035561,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813035561,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813156836,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813156836,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813336838,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813336838,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813458114,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813458114,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813638115,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813638115,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813759455,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813759455,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813939457,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774813939457,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814060711,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814060711,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814240713,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814240713,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814362034,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814362034,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814542036,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814542036,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814663326,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814663326,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814843328,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814843328,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814964679,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774814964679,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774815144680,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774815144680,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774815265943,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774815265943,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774815445944,
+    "marketId": "1.255992227",
+    "selectionId": "80815093",
+    "selectionName": "Santiago De La Fuente",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774815445944,
+    "marketId": "1.255992227",
+    "selectionId": "50265670",
+    "selectionName": "Vicente Freda",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  }
+]

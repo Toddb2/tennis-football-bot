@@ -1,0 +1,812 @@
+[
+  {
+    "timestamp": 1778608956889,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608956889,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609136844,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609136844,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609316846,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609316846,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609496848,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609496848,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609676850,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609676850,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609677141,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609677141,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609857145,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609857145,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609857231,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609857231,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609947283,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609947283,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610037314,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610037314,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610217319,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610217319,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610397321,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610397321,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611020987,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.97,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611020987,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611200890,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611200890,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 1.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611380893,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611380893,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611560895,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611560895,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611740896,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611740896,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611920898,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611920898,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612100900,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612100900,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612280902,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612280902,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612460904,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612460904,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612640907,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612640907,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612820909,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612820909,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613000911,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613000911,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613180913,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613180913,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613360915,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613360915,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613540917,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613540917,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613632017,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613632017,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613812019,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613812019,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613992020,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613992020,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614172022,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614172022,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614352023,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614352023,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 2.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614532024,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614532024,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614712025,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614712025,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614892026,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778614892026,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615072027,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615072027,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615072621,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615072621,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615252622,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615252622,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615432623,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615432623,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615612624,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615612624,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615792625,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615792625,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615972626,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778615972626,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616063100,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616063100,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616243103,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616243103,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616423104,
+    "marketId": "1.258000898",
+    "selectionId": "15865858",
+    "selectionName": "Franco Roncadelli",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778616423104,
+    "marketId": "1.258000898",
+    "selectionId": "8304915",
+    "selectionName": "Pedro Sakamoto",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  }
+]

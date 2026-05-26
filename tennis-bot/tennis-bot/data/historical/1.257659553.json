@@ -1,0 +1,623 @@
+[
+  {
+    "timestamp": 1777773864677,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777794477773,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777794477773,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777794657776,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777794657776,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777794779087,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777794779087,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777794959089,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777794959089,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795080539,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795080539,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795260541,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795260541,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795381849,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795381849,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795561852,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795561852,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795683225,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795683225,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795863228,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795863228,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795984629,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777795984629,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796164631,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796164631,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796285915,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796285915,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796465917,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796465917,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796587242,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796587242,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796767244,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796767244,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796888591,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777796888591,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797068593,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797068593,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797189900,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797189900,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797369901,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797369901,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797491305,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797491305,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797671307,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797671307,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797792648,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797792648,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797972649,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777797972649,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798093968,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798093968,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798273969,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798273969,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798395450,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798395450,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798575452,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 3.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798575452,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798696786,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798696786,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798876788,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798876788,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798998122,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777798998122,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799178125,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799178125,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799299508,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799299508,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799479509,
+    "marketId": "1.257659553",
+    "selectionId": "43339514",
+    "selectionName": "Yaojie Zeng",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799479509,
+    "marketId": "1.257659553",
+    "selectionId": "57197324",
+    "selectionName": "Ognjen Milic",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  }
+]

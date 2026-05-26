@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1778503547923,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503547923,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503637919,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503637919,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503817925,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503817925,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503817995,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503817995,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503908045,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503908045,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503998086,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778503998086,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504088133,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504088133,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504178175,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504178175,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504268239,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504268239,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504358299,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504358299,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504448350,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504448350,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504538395,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504538395,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504628454,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504628454,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504718480,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504718480,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504808542,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504808542,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504898579,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504898579,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504988637,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778504988637,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505168645,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505168645,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505168763,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505168763,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505258806,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505258806,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505348877,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505348877,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505438915,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505438915,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505528952,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505528952,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505618995,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505618995,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505709060,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505709060,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505799085,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505799085,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505889130,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505889130,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505979184,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778505979184,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506069231,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506069231,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506159280,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506159280,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506200526,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506200526,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506290417,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506290417,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506380488,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506380488,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506470535,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506470535,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506560575,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506560575,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506740581,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506740581,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506740702,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506740702,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506830776,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506830776,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506920814,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778506920814,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507010859,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507010859,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507100912,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507100912,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507190956,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507190956,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507280988,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507280988,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507371043,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507371043,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551050,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551050,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551232,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507551232,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507641278,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507641278,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507731335,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507731335,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507821384,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507821384,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507911436,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778507911436,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508001496,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508001496,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508091568,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508091568,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508181601,
+    "marketId": "1.257996091",
+    "selectionId": "9002334",
+    "selectionName": "Elise Mertens",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778508181601,
+    "marketId": "1.257996091",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  }
+]

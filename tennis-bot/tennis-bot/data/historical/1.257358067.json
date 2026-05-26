@@ -1,0 +1,461 @@
+[
+  {
+    "timestamp": 1777197934694,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198114656,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198114656,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198235902,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198235902,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198415904,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198415904,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198537173,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198537173,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198717175,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198717175,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198838461,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198838461,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199018463,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199018463,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199139737,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199139737,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199319739,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199319739,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199441044,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199441044,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199621047,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199621047,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199742425,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199742425,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199922428,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199922428,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200043702,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200043702,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200223704,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200223704,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200345002,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200345002,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200525004,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200525004,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200646323,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200646323,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200826326,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200826326,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200947588,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200947588,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201127591,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201127591,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201248875,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201248875,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201428879,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201428879,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201550143,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201550143,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201730145,
+    "marketId": "1.257358067",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201730145,
+    "marketId": "1.257358067",
+    "selectionId": "79474004",
+    "selectionName": "Martin Doskocil",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,6428 @@
+[
+  {
+    "timestamp": 1778771888700,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778771888700,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778771978706,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778771978706,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772068790,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772068790,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772158840,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772158840,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772248888,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772248888,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772338932,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772338932,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772429001,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772429001,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772519025,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772519025,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772699030,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772699030,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772699114,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772699114,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772789162,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772789162,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772879210,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772879210,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772969654,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778772969654,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773059696,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773059696,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773149746,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773149746,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773239795,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773239795,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773329839,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773329839,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773419887,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773419887,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773599891,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773599891,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773599995,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773599995,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773690047,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773690047,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773780098,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773780098,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773870157,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773870157,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773960192,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778773960192,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774050236,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774050236,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774140281,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774140281,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774230339,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774230339,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774320383,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774320383,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774410447,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774410447,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774500497,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774500497,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774590544,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774590544,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774594301,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774594301,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774684267,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774684267,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774774316,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774774316,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774954321,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774954321,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774954430,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774954430,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774994343,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778774994343,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775084328,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775084328,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775174383,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775174383,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775264424,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775264424,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775354469,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775354469,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775444525,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775444525,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775534577,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775534577,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775624631,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775624631,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775714674,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775714674,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775804728,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775804728,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775894774,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775894774,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775984812,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778775984812,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776164816,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776164816,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776164891,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776164891,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776344895,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776344895,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776345000,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776345000,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776435041,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776435041,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776615045,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776615045,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776795048,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776795048,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776795209,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776795209,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776885246,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776885246,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776975278,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778776975278,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777065328,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777065328,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777155381,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777155381,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777245427,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777245427,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777335480,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777335480,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777515483,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777515483,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777515559,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777515559,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777605602,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777605602,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777695648,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777695648,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777785690,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777785690,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777965693,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777965693,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777965787,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778777965787,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778055829,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778055829,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778145882,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778145882,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778325885,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778325885,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778325963,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778325963,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778416015,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778416015,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778596019,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778596019,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778596120,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778596120,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778776125,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778776125,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778866254,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778866254,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778956302,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778778956302,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779046341,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779046341,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779136381,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779136381,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779226424,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779226424,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779316466,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779316466,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779406509,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779406509,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779496554,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779496554,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779586608,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779586608,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779766612,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779766612,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779766698,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779766698,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779856749,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779856749,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779946787,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778779946787,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780036820,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780036820,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780126863,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780126863,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780216919,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780216919,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780306961,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780306961,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780396985,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780396985,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780576989,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780576989,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780756991,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778780756991,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781116995,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781116995,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781296997,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781296997,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781476998,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781476998,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781657001,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781657001,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781837003,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781837003,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781837605,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778781837605,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782017609,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782017609,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782197610,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782197610,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782377612,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782377612,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782377833,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782377833,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782557836,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782557836,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782648005,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782648005,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782828007,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778782828007,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783008008,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783008008,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783188010,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783188010,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783368013,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783368013,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783548015,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783548015,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783728016,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783728016,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783908018,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778783908018,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784088020,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784088020,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784808027,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784808027,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784988028,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778784988028,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785168029,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785168029,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785348032,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785348032,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785708035,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785708035,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785888036,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778785888036,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786248039,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786248039,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786428040,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786428040,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786608041,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786608041,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786788042,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786788042,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786968044,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778786968044,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787148045,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787148045,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787149845,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787149845,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787509848,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778787509848,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788197179,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788197179,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788377116,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788377116,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788557117,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788557117,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788737118,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788737118,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788917119,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778788917119,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789097120,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789097120,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789277121,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789277121,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789457122,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789457122,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789637123,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789637123,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789817124,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778789817124,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790088000,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790088000,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790268002,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790268002,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790448003,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790448003,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790628004,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790628004,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790808005,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790808005,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790988006,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778790988006,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791528010,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778791528010,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792068014,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792068014,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792428016,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792428016,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792519056,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792519056,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792699058,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792699058,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792879059,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778792879059,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793059061,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793059061,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793239062,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793239062,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793329389,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793329389,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793509391,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793509391,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793689392,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793689392,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793869393,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778793869393,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794049394,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794049394,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794589397,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794589397,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794769398,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794769398,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794949399,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778794949399,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795129400,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795129400,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795220114,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795220114,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795760120,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795760120,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795940121,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778795940121,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796300124,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796300124,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796840127,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778796840127,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797020128,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797020128,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797560131,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778797560131,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798100134,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798100134,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798280136,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798280136,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798460137,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798460137,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798820140,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778798820140,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799180142,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799180142,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799540144,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799540144,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799720145,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799720145,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799900146,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778799900146,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800980152,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778800980152,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778801160152,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778801160152,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778801520155,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778801520155,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778802240158,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778802240158,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803140162,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803140162,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803320163,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803320163,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803500164,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803500164,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803680164,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803680164,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803860166,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778803860166,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778804400169,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778804400169,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805349534,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805349534,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805529534,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778805529534,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806249534,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806249534,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806429535,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806429535,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806789535,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806789535,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806969536,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778806969536,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807465557,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807465557,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807645562,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807645562,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807825564,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778807825564,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808005565,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808005565,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808185565,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808185565,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808545566,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778808545566,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809085568,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809085568,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809985572,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778809985572,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810345574,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810345574,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810525575,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810525575,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810705575,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810705575,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810885576,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778810885576,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811065576,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811065576,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811245577,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811245577,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811605577,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811605577,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811785577,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811785577,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811965578,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778811965578,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778812685581,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778812685581,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813678511,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813678511,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813858514,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778813858514,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814038515,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814038515,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814218516,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814218516,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814938520,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778814938520,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815298522,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815298522,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815299180,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778815299180,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816019183,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816019183,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816199184,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816199184,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816379185,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816379185,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816559186,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778816559186,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817279189,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817279189,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817459190,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817459190,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817819193,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817819193,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817999194,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778817999194,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818539198,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818539198,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818719199,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818719199,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818899200,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778818899200,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819079201,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819079201,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819259202,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819259202,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819799205,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819799205,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819979205,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778819979205,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820159206,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820159206,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820519207,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778820519207,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821059209,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821059209,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821239211,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821239211,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821419212,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821419212,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821599214,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821599214,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821779215,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821779215,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821959216,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778821959216,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822139217,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822139217,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822319218,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822319218,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822499218,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822499218,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822679219,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822679219,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822859220,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778822859220,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823219223,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823219223,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823399224,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778823399224,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824119228,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824119228,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824299228,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824299228,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824479229,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824479229,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824659231,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824659231,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824839232,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778824839232,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825019233,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825019233,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825199234,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825199234,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825379235,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825379235,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825559236,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825559236,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825919238,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778825919238,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778826518432,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778826518432,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778826698432,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778826698432,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778826878434,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778826878434,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827058435,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827058435,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827238436,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827238436,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827418437,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827418437,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827724791,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827724791,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827904793,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778827904793,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828084794,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828084794,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828264795,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828264795,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828444796,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828444796,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828624797,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828624797,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828984800,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778828984800,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829164801,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829164801,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829344802,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829344802,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829524803,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829524803,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829884805,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778829884805,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830244807,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830244807,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830424808,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778830424808,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831144812,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831144812,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831324813,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831324813,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831684815,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778831684815,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832044817,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832044817,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832584820,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832584820,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832764821,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832764821,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832944822,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778832944822,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833037283,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833037283,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833307413,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833307413,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833487415,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833487415,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833667416,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778833667416,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834027419,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834027419,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834207420,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834207420,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834387421,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834387421,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834388003,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834388003,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834568006,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834568006,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834568088,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834568088,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834658132,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834658132,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834838135,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778834838135,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835018137,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835018137,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835198139,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835198139,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835378141,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835378141,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835558143,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835558143,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835738145,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778835738145,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836098151,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836098151,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836278154,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836278154,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836278868,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836278868,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836368918,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836368918,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836458961,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836458961,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836549023,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836549023,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836639053,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836639053,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836729099,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836729099,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836819143,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836819143,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836909184,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778836909184,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837089188,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837089188,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837089313,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837089313,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837179362,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837179362,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837269405,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837269405,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837359449,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837359449,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837449509,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837449509,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837539549,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837539549,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837629583,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837629583,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837899815,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837899815,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837989843,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778837989843,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838169946,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838169946,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838440094,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838440094,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838530131,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838530131,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838620172,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838620172,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838710210,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838710210,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838800266,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838800266,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838890305,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838890305,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838980352,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778838980352,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839160355,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839160355,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839160451,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839160451,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839250483,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839250483,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839340519,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839340519,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839430561,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839430561,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839610629,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839610629,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839700679,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839700679,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839790716,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839790716,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839880759,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839880759,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839970805,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778839970805,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840060840,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840060840,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840150869,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840150869,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840240930,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840240930,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840330949,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840330949,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840420993,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840420993,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840511028,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840511028,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840601075,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840601075,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840691104,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840691104,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840781163,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840781163,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840961167,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840961167,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840961259,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778840961259,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841051302,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841051302,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841231306,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841231306,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841231416,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841231416,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841411422,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841411422,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841501545,
+    "marketId": "1.258124061",
+    "selectionId": "9628851",
+    "selectionName": "Botic Van de Zandschulp",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778841501545,
+    "marketId": "1.258124061",
+    "selectionId": "7287690",
+    "selectionName": "Quentin Halys",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

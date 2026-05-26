@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1779631295892,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631295892,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631385977,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631385977,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631476038,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631476038,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631566094,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631566094,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631656153,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631656153,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631746213,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631746213,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631836265,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631836265,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631926311,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779631926311,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632016366,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632016366,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632196372,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632196372,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632196517,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632196517,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632286573,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632286573,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632376592,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632376592,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632466643,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632466643,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632556716,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632556716,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632646738,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632646738,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632736783,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632736783,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632916789,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632916789,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632916887,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779632916887,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633096892,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633096892,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633097006,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633097006,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633187045,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633187045,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633277101,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633277101,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633367157,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633367157,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633547162,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633547162,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633547266,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633547266,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633637315,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633637315,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633727374,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633727374,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633817408,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633817408,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633907463,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633907463,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633997493,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779633997493,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634087540,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634087540,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634177589,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634177589,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634267631,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634267631,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634357683,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634357683,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634447744,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634447744,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634538043,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634538043,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634628104,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634628104,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634808110,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634808110,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634808177,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634808177,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634898215,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634898215,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634988336,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779634988336,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779635078376,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779635078376,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779635168410,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779635168410,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779635258447,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779635258447,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779635348494,
+    "marketId": "1.258539625",
+    "selectionId": "8574184",
+    "selectionName": "David Poljak",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779635348494,
+    "marketId": "1.258539625",
+    "selectionId": "13426918",
+    "selectionName": "Peter Makk",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

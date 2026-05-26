@@ -1,0 +1,920 @@
+[
+  {
+    "timestamp": 1778497420076,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497420076,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497510057,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497510057,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497690062,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497690062,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497690176,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497690176,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497780229,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497780229,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497960235,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778497960235,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498050382,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498050382,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498109081,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498109081,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498199014,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498199014,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498289056,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498289056,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498379095,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498379095,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498469124,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498469124,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498559173,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498559173,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498595205,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498595205,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498685134,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498685134,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498775184,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498775184,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498865270,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498865270,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498955333,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778498955333,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499045371,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499045371,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499135418,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499135418,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499225471,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499225471,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499315517,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499315517,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499405565,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499405565,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499495619,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499495619,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499585647,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499585647,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499675704,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499675704,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499765753,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499765753,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499855806,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499855806,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499945842,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778499945842,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500125848,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500125848,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500125954,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500125954,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500216009,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500216009,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500306062,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500306062,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500396103,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500396103,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500486154,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500486154,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500576189,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500576189,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500666236,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500666236,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500756305,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500756305,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500846442,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500846442,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500936477,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778500936477,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501026533,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501026533,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501116586,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501116586,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501206655,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501206655,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501296695,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501296695,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501386753,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501386753,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501476801,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501476801,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501566828,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501566828,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501656877,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501656877,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501746921,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501746921,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501836969,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501836969,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501927008,
+    "marketId": "1.258065838",
+    "selectionId": "64754562",
+    "selectionName": "Martin Damm Jr",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778501927008,
+    "marketId": "1.258065838",
+    "selectionId": "64730813",
+    "selectionName": "Coleman Wong",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

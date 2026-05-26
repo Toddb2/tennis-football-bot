@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1778080722945,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778080722945,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778080812837,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778080812837,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778080902897,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778080902897,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778080992919,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778080992919,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081082964,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081082964,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081173010,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081173010,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081263050,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081263050,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081353078,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081353078,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081443133,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081443133,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081533168,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081533168,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081623248,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081623248,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081713275,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081713275,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081803332,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081803332,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081893371,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081893371,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081983416,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778081983416,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082073450,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082073450,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082163495,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082163495,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082253533,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082253533,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082343577,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082343577,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082433610,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082433610,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082523668,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082523668,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082613699,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082613699,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082703751,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082703751,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082793788,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082793788,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082883820,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082883820,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082973919,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778082973919,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083063951,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083063951,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083153991,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083153991,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083244019,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083244019,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083334051,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083334051,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083424103,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083424103,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083514143,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083514143,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083604198,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083604198,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083694257,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083694257,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083784301,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083784301,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083874338,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083874338,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083964386,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778083964386,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084054420,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084054420,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084234427,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084234427,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084234547,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084234547,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084324577,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084324577,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084414626,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084414626,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084504656,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084504656,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084594699,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084594699,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084684744,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084684744,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084774781,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084774781,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084864834,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084864834,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084954880,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778084954880,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085044916,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085044916,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085134956,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085134956,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085224981,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085224981,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085315025,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085315025,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085405092,
+    "marketId": "1.257785288",
+    "selectionId": "9624517",
+    "selectionName": "Skander Mansouri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778085405092,
+    "marketId": "1.257785288",
+    "selectionId": "98097709",
+    "selectionName": "Bienvenu Bolangi",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  }
+]

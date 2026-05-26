@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1777771273875,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777772056544,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777772177863,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777772780615,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799600897,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799600897,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799780899,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799780899,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799903112,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777799903112,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800083114,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800083114,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800204438,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800204438,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800384441,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800384441,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800505760,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800505760,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800685764,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800685764,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800807109,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800807109,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800987112,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777800987112,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801108450,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801108450,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801288452,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801288452,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801409905,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801409905,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801589907,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801589907,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801711275,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801711275,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801891277,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777801891277,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802012728,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802012728,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802192730,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802192730,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802314076,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802314076,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802494079,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802494079,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802615397,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802615397,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802795399,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802795399,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802916718,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777802916718,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777803096721,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777803096721,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777803218191,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777803218191,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 50,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777803398193,
+    "marketId": "1.257676696",
+    "selectionId": "8979622",
+    "selectionName": "Franco Agamenone",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777803398193,
+    "marketId": "1.257676696",
+    "selectionId": "47651383",
+    "selectionName": "James Watt",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

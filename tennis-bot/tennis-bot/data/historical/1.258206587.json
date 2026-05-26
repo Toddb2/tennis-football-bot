@@ -1,0 +1,812 @@
+[
+  {
+    "timestamp": 1778852667049,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778852667049,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778852756935,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778852756935,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778852846983,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778852846983,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853026986,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853026986,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853027093,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853027093,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853207097,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853207097,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853207191,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853207191,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853297226,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853297226,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853477229,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853477229,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853477331,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853477331,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853567397,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853567397,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853747403,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853747403,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853747487,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853747487,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853837542,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778853837542,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854017547,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854017547,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854017657,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854017657,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854107704,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854107704,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854197754,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854197754,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854377759,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854377759,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854377856,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854377856,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854467912,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854467912,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854557947,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854557947,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854647996,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854647996,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854738038,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854738038,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854828082,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854828082,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854918129,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778854918129,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855008176,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855008176,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855098234,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855098234,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855278240,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855278240,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855278387,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855278387,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855368444,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855368444,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855458481,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855458481,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855548525,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855548525,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855638556,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855638556,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855728629,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855728629,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855818650,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855818650,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855908691,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855908691,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855998739,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778855998739,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856088799,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856088799,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856178832,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856178832,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856268874,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856268874,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856358927,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856358927,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856448990,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856448990,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856628995,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856628995,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856629057,
+    "marketId": "1.258206587",
+    "selectionId": "3800907",
+    "selectionName": "Madison Keys",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778856629057,
+    "marketId": "1.258206587",
+    "selectionId": "13320579",
+    "selectionName": "Anastasia Zakharova",
+    "lastTradedPrice": 300,
+    "bsp": null,
+    "inPlay": true
+  }
+]

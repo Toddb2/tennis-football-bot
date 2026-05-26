@@ -1,0 +1,380 @@
+[
+  {
+    "timestamp": 1778022226774,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022226774,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022406738,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022406738,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022586740,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022586740,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022586856,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022586856,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022766858,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022766858,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022946859,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778022946859,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023126860,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023126860,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023306861,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023306861,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023486862,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023486862,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023666863,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023666863,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023846864,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778023846864,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024026865,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024026865,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024206865,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024206865,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024386866,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024386866,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024566868,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024566868,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024746868,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024746868,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024926870,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778024926870,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778025106871,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778025106871,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778025286872,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778025286872,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778025466873,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778025466873,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778025646874,
+    "marketId": "1.257686322",
+    "selectionId": "43339511",
+    "selectionName": "Joao Schiessl",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778025646874,
+    "marketId": "1.257686322",
+    "selectionId": "81967394",
+    "selectionName": "Gustavo Albieri",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

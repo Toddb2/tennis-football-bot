@@ -1,0 +1,722 @@
+[
+  {
+    "timestamp": 1776305750136,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305750136,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776305930088,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306051326,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306231328,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306352576,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306532577,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306654480,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306834482,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776306955760,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307135762,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307257018,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307437019,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307558263,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307738264,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307738264,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307860188,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776307860188,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308040189,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308040189,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308161746,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308161746,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308341748,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308341748,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308463057,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308463057,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308643059,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308643059,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308764331,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308764331,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308944332,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776308944332,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309065809,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309065809,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309245810,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309245810,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309367093,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309367093,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309547094,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309547094,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309668359,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309668359,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309848360,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309848360,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309969800,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776309969800,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310149802,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310149802,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310271096,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310271096,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310451097,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310451097,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310572366,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310572366,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310752368,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310752368,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310873642,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776310873642,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311053644,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311053644,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311174928,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311174928,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311354929,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311354929,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311476213,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311476213,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311656215,
+    "marketId": "1.256873488",
+    "selectionId": "9635724",
+    "selectionName": "Viktoria Morvayova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776311656215,
+    "marketId": "1.256873488",
+    "selectionId": "42082114",
+    "selectionName": "Yujia Huang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

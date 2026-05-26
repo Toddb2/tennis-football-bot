@@ -1,0 +1,794 @@
+[
+  {
+    "timestamp": 1779649845914,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779649845914,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779649935906,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779649935906,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650025957,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650025957,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650205961,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650205961,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650296104,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650296104,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650386137,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650386137,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650476193,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650476193,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650566229,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650566229,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650656277,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650656277,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650746312,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650746312,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650836436,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650836436,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650926477,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779650926477,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651016528,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651016528,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651106575,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651106575,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651196628,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651196628,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651286662,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651286662,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651376704,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651376704,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651556707,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651556707,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651556792,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651556792,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651646833,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651646833,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651736874,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779651736874,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652354886,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652354886,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652534788,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652534788,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652624940,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652624940,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652714987,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652714987,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652805036,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652805036,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652868725,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652868725,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652958683,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779652958683,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653048731,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653048731,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653138778,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653138778,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653228826,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653228826,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653318869,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653318869,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653408922,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653408922,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653443531,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653443531,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653533497,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653533497,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653623547,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653623547,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653713602,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653713602,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653803657,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653803657,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653893693,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653893693,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653983743,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779653983743,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779654163747,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779654163747,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779654163836,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779654163836,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779654253879,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779654253879,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779654433883,
+    "marketId": "1.258550030",
+    "selectionId": "8659524",
+    "selectionName": "Daniel Masur",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779654433883,
+    "marketId": "1.258550030",
+    "selectionId": "27139596",
+    "selectionName": "Joshua Sheehy",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

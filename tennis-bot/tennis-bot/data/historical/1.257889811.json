@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 1778235737484,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235737484,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235827474,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235827474,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235917526,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778235917526,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236007565,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236007565,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236097604,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236097604,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236187682,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236187682,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236277700,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236277700,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236367752,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236367752,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236457829,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236457829,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236637835,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236637835,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236637962,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236637962,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236728096,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236728096,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236818129,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236818129,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236908177,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236908177,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236998212,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778236998212,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237088264,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237088264,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237178312,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237178312,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237268362,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237268362,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237358409,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237358409,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237448452,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237448452,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237538514,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237538514,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237628572,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237628572,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237718617,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237718617,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237808656,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237808656,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237898726,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237898726,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237988748,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778237988748,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238168754,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238168754,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238168867,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238168867,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238348873,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238348873,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238348973,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238348973,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 90,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238439014,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238439014,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238529074,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238529074,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238619113,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238619113,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799119,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799119,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799197,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238799197,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238889247,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238889247,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238979290,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778238979290,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239069334,
+    "marketId": "1.257889811",
+    "selectionId": "6603944",
+    "selectionName": "Donna Vekic",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778239069334,
+    "marketId": "1.257889811",
+    "selectionId": "40145803",
+    "selectionName": "Mia Ristic",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "timestamp": 1777198235954,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198235954,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198415904,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198415904,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198537173,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198537173,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198717175,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198717175,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198838461,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777198838461,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199018463,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199018463,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199139737,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199139737,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199319739,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199319739,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199441044,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199441044,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199621047,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199621047,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199742425,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199742425,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199922428,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777199922428,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200043702,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200043702,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200223704,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200223704,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200345002,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200345002,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200525004,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200525004,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200646323,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200646323,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200826326,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200826326,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200947588,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777200947588,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201127591,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201127591,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201248875,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201248875,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.79,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201428879,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201428879,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201550143,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 1.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201550143,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 2.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201730145,
+    "marketId": "1.257338738",
+    "selectionId": "20136621",
+    "selectionName": "Polina Kudermetova",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777201730145,
+    "marketId": "1.257338738",
+    "selectionId": "8535268",
+    "selectionName": "Fiona Ferro",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  }
+]

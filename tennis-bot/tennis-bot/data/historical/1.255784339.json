@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1774474021312,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474021312,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474201268,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474201268,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474322573,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474322573,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474502575,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474502575,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474623855,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474623855,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474803857,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474803857,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474925141,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774474925141,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475105143,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475105143,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475226456,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475226456,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475406457,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475406457,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475527716,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475527716,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475707718,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475707718,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475829006,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774475829006,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476009007,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476009007,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476130292,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476130292,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476310293,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476310293,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476431550,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476431550,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476611552,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476611552,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476732811,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476732811,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476912812,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774476912812,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477034085,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477034085,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477214088,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477214088,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477335398,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477335398,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477515401,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477515401,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477636668,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477636668,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477816670,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 100,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477816670,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477937918,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774477937918,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774478117919,
+    "marketId": "1.255784339",
+    "selectionId": "19895835",
+    "selectionName": "Alan Magadan",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774478117919,
+    "marketId": "1.255784339",
+    "selectionId": "11472303",
+    "selectionName": "Luka Pavlovic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

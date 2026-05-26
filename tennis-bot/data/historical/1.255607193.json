@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1774110294210,
+    "marketId": "1.255607193",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774110294210,
+    "marketId": "1.255607193",
+    "selectionId": "18204478",
+    "selectionName": "Tyler Zink",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774110833960,
+    "marketId": "1.255607193",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774110833960,
+    "marketId": "1.255607193",
+    "selectionId": "18204478",
+    "selectionName": "Tyler Zink",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774111013965,
+    "marketId": "1.255607193",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774111013965,
+    "marketId": "1.255607193",
+    "selectionId": "18204478",
+    "selectionName": "Tyler Zink",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774111373993,
+    "marketId": "1.255607193",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774111373993,
+    "marketId": "1.255607193",
+    "selectionId": "18204478",
+    "selectionName": "Tyler Zink",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774112994052,
+    "marketId": "1.255607193",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774112994052,
+    "marketId": "1.255607193",
+    "selectionId": "18204478",
+    "selectionName": "Tyler Zink",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774113174057,
+    "marketId": "1.255607193",
+    "selectionId": "8798905",
+    "selectionName": "Michael Mmoh",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774113174057,
+    "marketId": "1.255607193",
+    "selectionId": "18204478",
+    "selectionName": "Tyler Zink",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  }
+]

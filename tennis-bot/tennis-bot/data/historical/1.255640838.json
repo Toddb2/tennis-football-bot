@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": 1774359806792,
+    "marketId": "1.255640838",
+    "selectionId": "44982571",
+    "selectionName": "Daniel Merida",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359806792,
+    "marketId": "1.255640838",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359986743,
+    "marketId": "1.255640838",
+    "selectionId": "44982571",
+    "selectionName": "Daniel Merida",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774359986743,
+    "marketId": "1.255640838",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360108011,
+    "marketId": "1.255640838",
+    "selectionId": "44982571",
+    "selectionName": "Daniel Merida",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360108011,
+    "marketId": "1.255640838",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360288013,
+    "marketId": "1.255640838",
+    "selectionId": "44982571",
+    "selectionName": "Daniel Merida",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360288013,
+    "marketId": "1.255640838",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360409278,
+    "marketId": "1.255640838",
+    "selectionId": "44982571",
+    "selectionName": "Daniel Merida",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360409278,
+    "marketId": "1.255640838",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360589281,
+    "marketId": "1.255640838",
+    "selectionId": "44982571",
+    "selectionName": "Daniel Merida",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360589281,
+    "marketId": "1.255640838",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360710588,
+    "marketId": "1.255640838",
+    "selectionId": "44982571",
+    "selectionName": "Daniel Merida",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774360710588,
+    "marketId": "1.255640838",
+    "selectionId": "19064042",
+    "selectionName": "Max Houkes",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  }
+]

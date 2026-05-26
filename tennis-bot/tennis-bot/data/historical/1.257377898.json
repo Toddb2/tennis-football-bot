@@ -1,0 +1,506 @@
+[
+  {
+    "timestamp": 1777273469043,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273469043,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273648995,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273648995,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273770250,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273770250,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273950252,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777273950252,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274071598,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274071598,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274251600,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274251600,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274372943,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274372943,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274552945,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274552945,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274674223,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274674223,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274854226,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274854226,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274975490,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777274975490,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275155493,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275155493,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275276763,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275276763,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275456765,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275456765,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275578047,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275578047,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275758049,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275758049,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275879315,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777275879315,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276059317,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276059317,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276180635,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276180635,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276360636,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276360636,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276481919,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276481919,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276661920,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276661920,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276783195,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276783195,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276963197,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777276963197,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777277084487,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777277084487,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777277264488,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777277264488,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777277385751,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777277385751,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777277565752,
+    "marketId": "1.257377898",
+    "selectionId": "9286490",
+    "selectionName": "Jessica Pieri",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777277565752,
+    "marketId": "1.257377898",
+    "selectionId": "18849327",
+    "selectionName": "Sijia Wei",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  }
+]

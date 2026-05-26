@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1779183811057,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183811057,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183900972,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183900972,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183990999,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183990999,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184081052,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184081052,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184261057,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184261057,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184261146,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184261146,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184351201,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184351201,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184441259,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184441259,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184531307,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184531307,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184621351,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184621351,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184711402,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184711402,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184801434,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184801434,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184891479,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184891479,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184981520,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184981520,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185071565,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185071565,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185161615,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185161615,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185251665,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185251665,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185341708,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185341708,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185431753,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185431753,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185521799,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185521799,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185611841,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185611841,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185701905,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185701905,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185791957,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185791957,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185882000,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185882000,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186062011,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186062011,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186062101,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186062101,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186110241,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186110241,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186200163,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186200163,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186290221,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186290221,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186380262,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186380262,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186470302,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186470302,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186560334,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186560334,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186650390,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186650390,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186740418,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186740418,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186830462,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186830462,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186920494,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186920494,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187010553,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187010553,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187085091,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187085091,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187264954,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187264954,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187265086,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187265086,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 150,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187355136,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187355136,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187445192,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187445192,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187535229,
+    "marketId": "1.258306285",
+    "selectionId": "63168801",
+    "selectionName": "Luisina Giovannini",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187535229,
+    "marketId": "1.258306285",
+    "selectionId": "9634251",
+    "selectionName": "Eva Guerrero Alvarez",
+    "lastTradedPrice": 160,
+    "bsp": null,
+    "inPlay": true
+  }
+]

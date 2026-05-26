@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1778346661282,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778346661282,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778346841217,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778346841217,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778346841309,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778346841309,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778346931374,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778346931374,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347021421,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347021421,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347201425,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347201425,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347201533,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347201533,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347381537,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347381537,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347561541,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347561541,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347741545,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347741545,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347921548,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778347921548,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348101553,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348101553,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348281556,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348281556,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348461559,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348461559,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348641561,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348641561,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348821566,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778348821566,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349001569,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349001569,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349181573,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349181573,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349361576,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349361576,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349541579,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349541579,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349721583,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349721583,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349722639,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349722639,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349902641,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778349902641,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350082644,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350082644,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350172839,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350172839,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350352844,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350352844,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350532848,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350532848,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350712851,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350712851,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350892853,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778350892853,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351072857,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351072857,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351252859,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351252859,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351432863,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351432863,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351612866,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351612866,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351792869,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351792869,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351972871,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778351972871,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352153090,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352153090,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352153792,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352153792,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352333797,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352333797,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352513799,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352513799,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352693802,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352693802,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352873805,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778352873805,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353053808,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353053808,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353233811,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353233811,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353413815,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 500,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353413815,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353593818,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353593818,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353773820,
+    "marketId": "1.257897677",
+    "selectionId": "7283232",
+    "selectionName": "Viktorija Golubic",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778353773820,
+    "marketId": "1.257897677",
+    "selectionId": "71652894",
+    "selectionName": "Mirra Andreeva",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

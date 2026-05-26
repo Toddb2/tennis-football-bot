@@ -1,0 +1,650 @@
+[
+  {
+    "timestamp": 1776275595342,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275595342,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275775293,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275775293,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275896576,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776275896576,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276076580,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276076580,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276198493,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276198493,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276378495,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276378495,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276499805,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276499805,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276679809,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276679809,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276801104,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276801104,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276981107,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776276981107,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277103867,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277103867,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277283870,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277283870,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277405151,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277405151,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277585154,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277585154,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277706458,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277706458,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277886460,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776277886460,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278007938,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278007938,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278187940,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278187940,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278309743,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278309743,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278489745,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278489745,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278611280,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278611280,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278791283,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278791283,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278913378,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776278913378,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279093382,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279093382,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279214739,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279214739,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279394742,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279394742,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279516546,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279516546,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279696547,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279696547,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279817819,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279817819,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279997821,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776279997821,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280119103,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280119103,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280299105,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280299105,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280420832,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280420832,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280600835,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280600835,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280722503,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280722503,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280902504,
+    "marketId": "1.256787884",
+    "selectionId": "12085633",
+    "selectionName": "Iga Swiatek",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776280902504,
+    "marketId": "1.256787884",
+    "selectionId": "4829328",
+    "selectionName": "Laura Siegemund",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

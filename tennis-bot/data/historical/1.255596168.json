@@ -1,0 +1,542 @@
+[
+  {
+    "timestamp": 1774036949968,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774036949968,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038391001,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038391001,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038751012,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038751012,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038931016,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774038931016,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039111022,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039111022,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039471032,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039471032,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039651037,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774039651037,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040011046,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040011046,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040191051,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040191051,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040371055,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040371055,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040551060,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040551060,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040911069,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774040911069,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041271077,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041271077,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041451081,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041451081,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041811091,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041811091,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041991095,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774041991095,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774042171100,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774042171100,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774043251125,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774043251125,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774044331154,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774044331154,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774045591181,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774045591181,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774046311197,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774046311197,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774046851210,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774046851210,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774047391222,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774047391222,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774050271283,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774050271283,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774053871350,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774053871350,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091284005,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091284005,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 2.76,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091463862,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091463862,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091643867,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091643867,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091823873,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774091823873,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774092003877,
+    "marketId": "1.255596168",
+    "selectionId": "10347098",
+    "selectionName": "Martha Matoula",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774092003877,
+    "marketId": "1.255596168",
+    "selectionId": "10350904",
+    "selectionName": "Lucia Cortez Llorca",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

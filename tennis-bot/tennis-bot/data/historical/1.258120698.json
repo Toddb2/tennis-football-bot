@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": 1778657208677,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778657208677,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778657388634,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778657388634,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778657568635,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778657568635,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778657748636,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778657748636,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778657928637,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778657928637,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658108638,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658108638,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658199018,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658199018,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658379020,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658379020,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658559021,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658559021,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658559175,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658559175,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658739177,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658739177,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658919178,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778658919178,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659099179,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659099179,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659189448,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659189448,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659369450,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659369450,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659549451,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659549451,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659729452,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659729452,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659909453,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659909453,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659909770,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778659909770,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660089772,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660089772,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660089861,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660089861,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660179891,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660179891,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660269935,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660269935,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660359976,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660359976,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660450033,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660450033,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660540069,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660540069,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660720073,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660720073,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660720167,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660720167,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660810208,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660810208,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660900311,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778660900311,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661080314,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661080314,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661080403,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661080403,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661170455,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661170455,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661260503,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661260503,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661440506,
+    "marketId": "1.258120698",
+    "selectionId": "19924837",
+    "selectionName": "Ilya Ivashka",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778661440506,
+    "marketId": "1.258120698",
+    "selectionId": "40400863",
+    "selectionName": "Kokoro Isomura",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

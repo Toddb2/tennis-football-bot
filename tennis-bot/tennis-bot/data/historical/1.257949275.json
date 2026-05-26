@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 1778335676451,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778335676451,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778335766400,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778335766400,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778335946407,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778335946407,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336126410,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336126410,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336306413,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336306413,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336486416,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336486416,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336486701,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336486701,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336576755,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336576755,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336666789,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336666789,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336756842,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336756842,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336846866,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778336846866,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337026872,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337026872,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337026943,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337026943,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337206947,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337206947,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337386951,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337386951,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337566957,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337566957,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337746961,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337746961,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337926964,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778337926964,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338106969,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338106969,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338286973,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338286973,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338287515,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338287515,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338467520,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338467520,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338647524,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338647524,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338647669,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338647669,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338827675,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778338827675,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339007681,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339007681,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339187686,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339187686,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339367693,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339367693,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339547700,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339547700,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339638123,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339638123,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339818132,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339818132,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339998140,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778339998140,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340178144,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340178144,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340358147,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340358147,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340538150,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340538150,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340718154,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340718154,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340718556,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340718556,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340898560,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340898560,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340898644,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778340898644,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778341078650,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778341078650,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778341258654,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778341258654,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778341438658,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778341438658,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778341618662,
+    "marketId": "1.257949275",
+    "selectionId": "11510039",
+    "selectionName": "Florent Bax",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778341618662,
+    "marketId": "1.257949275",
+    "selectionId": "69034059",
+    "selectionName": "Franco Ribero",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

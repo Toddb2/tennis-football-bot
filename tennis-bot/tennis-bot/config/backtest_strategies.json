@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Momentum Win",
+    "description": "Back set 1 winner after a decisive non-tiebreak set — market often over-corrects post-set",
+    "trigger": { "setNumber": 1, "isTiebreak": false, "minChangePct": 15 },
+    "entry": { "player": "winner", "side": "BACK", "minOdds": 1.35, "maxOdds": 2.20 },
+    "exit": { "type": "none" }
+  },
+  {
+    "name": "Underdog Confirmed",
+    "description": "Pre-match underdog (2.5+) wins set 1 convincingly — strongest documented edge in tennis betting",
+    "trigger": { "setNumber": 1, "preMatchOddsWinner": { "min": 2.50, "max": 99.0 }, "minChangePct": 18 },
+    "entry": { "player": "winner", "side": "BACK", "minOdds": 1.30, "maxOdds": 2.80 },
+    "exit": { "type": "none" }
+  },
+  {
+    "name": "Dominant Favourite",
+    "description": "Heavy favourite (≤1.75) wins set 1 dominantly (28%+ price move) — confirmation play at short odds",
+    "trigger": { "setNumber": 1, "preMatchOddsWinner": { "min": 1.01, "max": 1.75 }, "minChangePct": 28 },
+    "entry": { "player": "winner", "side": "BACK", "minOdds": 1.05, "maxOdds": 1.55 },
+    "exit": { "type": "none" }
+  },
+  {
+    "name": "Tiebreak Winner",
+    "description": "Set 1 decided by tiebreak — winner holds psychological momentum into set 2",
+    "trigger": { "setNumber": 1, "isTiebreak": true },
+    "entry": { "player": "winner", "side": "BACK", "minOdds": 1.40, "maxOdds": 2.50 },
+    "exit": { "type": "none" }
+  },
+  {
+    "name": "Tiebreak Loser Value",
+    "description": "After a tiebreak, back the LOSER — match is essentially level so inflated odds represent value",
+    "trigger": { "setNumber": 1, "isTiebreak": true },
+    "entry": { "player": "loser", "side": "BACK", "minOdds": 1.85, "maxOdds": 4.00 },
+    "exit": { "type": "none" }
+  },
+  {
+    "name": "Dominant Set Win",
+    "description": "Largest price moves (>30%) — dominant first set performance, strongest continuation signal",
+    "trigger": { "setNumber": 1, "minChangePct": 30 },
+    "entry": { "player": "winner", "side": "BACK", "minOdds": 1.20, "maxOdds": 2.00 },
+    "exit": { "type": "none" }
+  },
+  {
+    "name": "[LOSING] Back Any Set Winner",
+    "description": "LOSING BASELINE — back any set 1 winner with no filters. Too broad: ~52% win rate at average 1.6 odds needs 62.5% to break even. Included as a comparison baseline.",
+    "trigger": { "setNumber": 1 },
+    "entry": { "player": "winner", "side": "BACK", "minOdds": 1.20, "maxOdds": 3.50 },
+    "exit": { "type": "none" }
+  },
+  {
+    "name": "[LOSING] Back Set 1 Loser",
+    "description": "LOSING BASELINE — back the set 1 loser regardless of context. Set 1 loser wins only ~33-35% of ATP matches; at 2.0 odds needs 50%+ to profit. Structural losing bet.",
+    "trigger": { "setNumber": 1 },
+    "entry": { "player": "loser", "side": "BACK", "minOdds": 1.50, "maxOdds": 5.00 },
+    "exit": { "type": "none" }
+  },
+  {
+    "name": "[LOSING] Favourite Confirmation",
+    "description": "LOSING BASELINE — back any favourite (≤1.89 pre-match) after winning set 1. No edge: market already prices favourites correctly so no value remains after the set.",
+    "trigger": { "setNumber": 1, "preMatchOddsWinner": { "min": 1.01, "max": 1.89 } },
+    "entry": { "player": "winner", "side": "BACK", "minOdds": 1.05, "maxOdds": 1.75 },
+    "exit": { "type": "none" }
+  }
+]

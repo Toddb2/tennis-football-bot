@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1776780005882,
+    "marketId": "1.257115581",
+    "selectionId": "13601179",
+    "selectionName": "Pol Martin Tiffon",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780005882,
+    "marketId": "1.257115581",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780185825,
+    "marketId": "1.257115581",
+    "selectionId": "13601179",
+    "selectionName": "Pol Martin Tiffon",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780185825,
+    "marketId": "1.257115581",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780307642,
+    "marketId": "1.257115581",
+    "selectionId": "13601179",
+    "selectionName": "Pol Martin Tiffon",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780307642,
+    "marketId": "1.257115581",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780487644,
+    "marketId": "1.257115581",
+    "selectionId": "13601179",
+    "selectionName": "Pol Martin Tiffon",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780487644,
+    "marketId": "1.257115581",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780609066,
+    "marketId": "1.257115581",
+    "selectionId": "13601179",
+    "selectionName": "Pol Martin Tiffon",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780609066,
+    "marketId": "1.257115581",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780789070,
+    "marketId": "1.257115581",
+    "selectionId": "13601179",
+    "selectionName": "Pol Martin Tiffon",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776780789070,
+    "marketId": "1.257115581",
+    "selectionId": "15926417",
+    "selectionName": "Jonas Forejtek",
+    "lastTradedPrice": 1.83,
+    "bsp": null,
+    "inPlay": true
+  }
+]

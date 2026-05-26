@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": 1778607876417,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778607876417,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778607966401,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778607966401,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 1.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608056445,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608056445,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608146480,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608146480,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608326485,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608326485,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608506490,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608506490,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608686492,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608686492,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608866494,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608866494,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608956841,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778608956841,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609136844,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609136844,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609316846,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609316846,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609496848,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609496848,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609676850,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609676850,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609677141,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609677141,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609857145,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609857145,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609857231,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609857231,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609947283,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778609947283,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610037314,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610037314,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610217319,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610217319,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610397321,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778610397321,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611020985,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611020985,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611200890,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611200890,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611380893,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611380893,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611560895,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611560895,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611740896,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611740896,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611920898,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778611920898,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612100900,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612100900,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612280902,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612280902,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612460904,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612460904,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612640907,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612640907,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612820909,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778612820909,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613000911,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613000911,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613180913,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613180913,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613360915,
+    "marketId": "1.258096036",
+    "selectionId": "8575039",
+    "selectionName": "Zdenek Kolar",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778613360915,
+    "marketId": "1.258096036",
+    "selectionId": "9628959",
+    "selectionName": "Zhizhen Zhang",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

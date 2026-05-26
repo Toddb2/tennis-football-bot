@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": 1774519883064,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 2.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774519883064,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520063010,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520063010,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520184312,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520184312,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520364314,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520364314,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520485590,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520485590,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520665593,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520665593,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520786900,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520786900,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520966903,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774520966903,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521088193,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521088193,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521268195,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521268195,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521389473,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521389473,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521569475,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521569475,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521690737,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521690737,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521870740,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521870740,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521992022,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774521992022,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522172024,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522172024,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522293324,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522293324,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522473326,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522473326,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522594612,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522594612,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522774615,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522774615,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522895929,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774522895929,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523075932,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523075932,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523197282,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523197282,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523377286,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523377286,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523498555,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523498555,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523678558,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523678558,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523799835,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523799835,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523979838,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774523979838,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524101104,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524101104,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524277412,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524277412,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524457415,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524457415,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524578686,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524578686,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524758688,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524758688,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524879954,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774524879954,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525059959,
+    "marketId": "1.255828453",
+    "selectionId": "18849074",
+    "selectionName": "Francesca Curmi",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774525059959,
+    "marketId": "1.255828453",
+    "selectionId": "62394438",
+    "selectionName": "Vendula Valdmannova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": 1774560435436,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774560435436,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774560615389,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774560615389,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774560736635,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774560736635,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774560916637,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774560916637,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561037914,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561037914,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561217916,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.98,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561217916,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561339183,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561339183,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561519185,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561519185,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561640446,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561640446,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561820448,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561820448,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561941748,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774561941748,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562121751,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562121751,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562243014,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562243014,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562423015,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562423015,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562544294,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562544294,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562724295,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562724295,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562845564,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774562845564,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563025565,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563025565,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563146863,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563146863,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563326864,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563326864,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563448112,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563448112,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563628113,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563628113,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563749372,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563749372,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563929373,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774563929373,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564050665,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564050665,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564230667,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564230667,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564351939,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564351939,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564531940,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564531940,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564653183,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564653183,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564833184,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564833184,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564954440,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774564954440,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565134441,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565134441,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565255786,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565255786,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 2.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565435787,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565435787,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565557064,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565557064,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565737065,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565737065,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565858429,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774565858429,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566038430,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566038430,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566159696,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566159696,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566339697,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566339697,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566460975,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566460975,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566640976,
+    "marketId": "1.255796131",
+    "selectionId": "21808966",
+    "selectionName": "Alex Barrena",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774566640976,
+    "marketId": "1.255796131",
+    "selectionId": "11772759",
+    "selectionName": "Juan Pablo Varillas",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

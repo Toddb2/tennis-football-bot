@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": 1774401110636,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401110636,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401290596,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401290596,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401411886,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401411886,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401591888,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401591888,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401713160,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401713160,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401893161,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774401893161,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402014414,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402014414,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402194416,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402194416,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402315683,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402315683,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402495685,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402495685,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402616976,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402616976,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402796978,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402796978,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402918234,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774402918234,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403098235,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403098235,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403219499,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403219499,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403399501,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403399501,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403520781,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403520781,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403700782,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403700782,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403822072,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774403822072,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404002073,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404002073,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404123363,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404123363,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404303364,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404303364,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404424635,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404424635,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404604636,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404604636,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404725907,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404725907,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404905908,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774404905908,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405027164,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405027164,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405207165,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405207165,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405328410,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405328410,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405508411,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405508411,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405629657,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405629657,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405809658,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405809658,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405930909,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774405930909,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406110910,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406110910,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 80,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406232197,
+    "marketId": "1.255754542",
+    "selectionId": "16149526",
+    "selectionName": "Soonwoo Kwon",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774406232197,
+    "marketId": "1.255754542",
+    "selectionId": "10372237",
+    "selectionName": "August Holmgren",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

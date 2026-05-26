@@ -1,0 +1,722 @@
+[
+  {
+    "timestamp": 1778927944192,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778927944192,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928034171,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928034171,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928124213,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928124213,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928214264,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928214264,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928304320,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928304320,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928394380,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928394380,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928484419,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928484419,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928574489,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928574489,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928664534,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928664534,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928754580,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928754580,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928844636,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928844636,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928934677,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778928934677,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929114682,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929114682,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929114774,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929114774,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929204831,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929204831,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929384839,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929384839,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929384938,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929384938,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929474978,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929474978,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929565038,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929565038,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929655071,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929655071,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929745115,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929745115,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929925122,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929925122,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929925220,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778929925220,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930015246,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930015246,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930105295,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930105295,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930285302,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930285302,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930285440,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930285440,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930465446,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930465446,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930465498,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930465498,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930555562,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930555562,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930645628,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930645628,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930735661,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930735661,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930825734,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930825734,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930915752,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778930915752,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931005789,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931005789,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931095836,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931095836,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931185881,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931185881,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931275933,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931275933,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931365987,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931365987,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931456026,
+    "marketId": "1.258238640",
+    "selectionId": "64293513",
+    "selectionName": "Ksenia Efremova",
+    "lastTradedPrice": 140,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778931456026,
+    "marketId": "1.258238640",
+    "selectionId": "12899960",
+    "selectionName": "Oleksandra Oliynykova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

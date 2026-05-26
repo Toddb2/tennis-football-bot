@@ -1,0 +1,974 @@
+[
+  {
+    "timestamp": 1774497219717,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774497219717,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774497399665,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774497399665,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774497520955,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774497520955,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774497700956,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774497700956,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774497822242,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774497822242,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498002243,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498002243,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498123499,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498123499,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498303500,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498303500,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498424841,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498424841,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498604841,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498604841,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498726093,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498726093,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498906093,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774498906093,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499027418,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499027418,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499207419,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499207419,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499328705,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499328705,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499508706,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499508706,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499629980,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499629980,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499809981,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499809981,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499931481,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774499931481,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500111482,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500111482,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500232750,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500232750,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500412752,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500412752,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500534021,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500534021,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500714022,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500714022,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500835297,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774500835297,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501015298,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501015298,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501136637,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501136637,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501316638,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501316638,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501437887,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501437887,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501617888,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501617888,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.87,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501739140,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501739140,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501919142,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774501919142,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502040521,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.89,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502040521,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502220522,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502220522,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502341772,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502341772,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 2.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502521773,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502521773,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502643163,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502643163,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502823164,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502823164,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502944452,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774502944452,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503124453,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503124453,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503245733,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503245733,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.99,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503425734,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503425734,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503546972,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503546972,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503726974,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503726974,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503848253,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774503848253,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504028254,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504028254,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504149507,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504149507,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504329508,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504329508,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504450927,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504450927,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504630928,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504630928,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504752193,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504752193,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504932194,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774504932194,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774505053448,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 3.45,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774505053448,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774505233449,
+    "marketId": "1.255828442",
+    "selectionId": "9634129",
+    "selectionName": "Anastasia Gasanova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774505233449,
+    "marketId": "1.255828442",
+    "selectionId": "63375196",
+    "selectionName": "Alevtina Ibragimova",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

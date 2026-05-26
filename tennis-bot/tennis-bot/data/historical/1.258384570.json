@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1779297400922,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297400922,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297490906,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297490906,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297580950,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297580950,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297670996,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297670996,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297761047,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297761047,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297923449,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779297923449,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298103320,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298103320,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298103425,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298103425,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298193448,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298193448,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298283486,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298283486,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298373528,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298373528,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298463565,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298463565,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298553602,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298553602,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298643644,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298643644,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298733684,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298733684,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298823737,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298823737,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298913773,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779298913773,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299003822,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299003822,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299093857,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299093857,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299183907,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299183907,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299273937,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299273937,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299364001,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299364001,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299454007,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299454007,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299544055,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299544055,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299634091,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299634091,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299724141,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299724141,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299814173,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299814173,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299904214,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299904214,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299994251,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779299994251,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300084316,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300084316,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300174353,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300174353,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300264389,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300264389,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300354429,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300354429,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300534433,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300534433,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300714434,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300714434,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 5.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300894437,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779300894437,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301074438,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301074438,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301254440,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301254440,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301434442,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301434442,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301434932,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301434932,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301614935,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301614935,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301794938,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301794938,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301974940,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301974940,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301975172,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779301975172,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302155176,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302155176,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302335177,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302335177,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302515180,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302515180,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302695182,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302695182,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302875184,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779302875184,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779303055186,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779303055186,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779303235188,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779303235188,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 500,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779303415190,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779303415190,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 500,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779303595192,
+    "marketId": "1.258384570",
+    "selectionId": "10460255",
+    "selectionName": "Andrea Guerrieri",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779303595192,
+    "marketId": "1.258384570",
+    "selectionId": "39534139",
+    "selectionName": "Gabriele Piraino",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

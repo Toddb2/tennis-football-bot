@@ -1,0 +1,992 @@
+[
+  {
+    "timestamp": 1779183811058,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183811058,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183900972,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 2.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183900972,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183990999,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 2.94,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779183990999,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184081052,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184081052,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184261057,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184261057,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184261146,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184261146,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184351201,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184351201,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184441259,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184441259,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184531307,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184531307,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184621351,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184621351,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184711402,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184711402,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184801434,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184801434,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184891479,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184891479,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184981520,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779184981520,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185071565,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185071565,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185161615,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185161615,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185251665,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 4.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185251665,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185341708,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185341708,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185431753,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185431753,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185521799,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185521799,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185611841,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185611841,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185701905,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185701905,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185791957,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185791957,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185882000,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779185882000,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186062011,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186062011,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186062101,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186062101,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186110244,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186110244,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186200163,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186200163,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186290221,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186290221,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186380262,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186380262,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186470302,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186470302,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186560334,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186560334,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186650390,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186650390,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186740418,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186740418,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186830462,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186830462,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186920494,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779186920494,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187010553,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187010553,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187085095,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187085095,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187264954,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187264954,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187265086,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187265086,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187355136,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187355136,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187445192,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187445192,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187535229,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187535229,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187623187,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187623187,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187803042,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187803042,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187803168,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187803168,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187893212,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187893212,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187983250,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 2.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779187983250,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188073292,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188073292,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188163327,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188163327,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188248298,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 3.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188248298,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188338228,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188338228,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188428278,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188428278,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188518333,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188518333,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188608392,
+    "marketId": "1.258302551",
+    "selectionId": "8944358",
+    "selectionName": "Katherine Sebov",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779188608392,
+    "marketId": "1.258302551",
+    "selectionId": "9342449",
+    "selectionName": "Viktoria Kuzmova",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

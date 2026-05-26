@@ -1,0 +1,740 @@
+[
+  {
+    "timestamp": 1779783203908,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 2.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779783203908,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779783293901,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779783293901,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779783473903,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779783473903,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779783653905,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779783653905,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779783833906,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779783833906,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784013908,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784013908,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784193910,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784193910,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784373911,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784373911,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784553913,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784553913,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784733914,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 4.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784733914,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784913916,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784913916,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784914536,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779784914536,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785004653,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785004653,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785094692,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785094692,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785274695,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785274695,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785454697,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785454697,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785634700,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785634700,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785814701,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785814701,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785814994,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785814994,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785994999,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779785994999,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786085115,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 9.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786085115,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786175565,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786175565,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786265599,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 19.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786265599,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786355642,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786355642,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786445679,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786445679,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786625682,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786625682,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786625757,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786625757,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786715794,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786715794,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786805845,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786805845,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786895884,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786895884,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786985929,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 70,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779786985929,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787075980,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787075980,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787166043,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787166043,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787256088,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787256088,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787436095,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787436095,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787436639,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787436639,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787526712,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787526712,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787706719,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787706719,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787706990,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787706990,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787797023,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787797023,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787977122,
+    "marketId": "1.258545244",
+    "selectionId": "25215658",
+    "selectionName": "Sasikumar Mukund",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1779787977122,
+    "marketId": "1.258545244",
+    "selectionId": "27487975",
+    "selectionName": "Edward Winter",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

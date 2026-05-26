@@ -1,0 +1,938 @@
+[
+  {
+    "timestamp": 1778591487896,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591487896,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591577882,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591577882,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591667929,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591667929,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 3.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591758053,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591758053,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 2.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591938058,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591938058,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591938175,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591938175,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592028231,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.33,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592028231,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 3.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592118276,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592118276,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592208321,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592208321,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592298377,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592298377,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592388433,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592388433,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592478474,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592478474,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592568525,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592568525,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 5.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592658572,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592658572,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592748625,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592748625,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592838668,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592838668,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593018676,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593018676,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593018846,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593018846,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593108899,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593108899,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593198926,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593198926,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593288979,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593288979,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593379054,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593379054,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593469102,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593469102,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593559151,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593559151,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593649217,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593649217,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593739267,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593739267,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 13.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593829321,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593829321,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593919389,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593919389,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594009436,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594009436,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594099472,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594099472,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594189542,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594189542,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594279572,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594279572,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594369607,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594369607,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594459674,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594459674,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594549736,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594549736,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594729743,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594729743,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594729843,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594729843,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 16.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594819905,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594819905,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594909954,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594909954,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595000006,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595000006,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595090043,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595090043,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595180107,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595180107,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595270141,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595270141,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595360188,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595360188,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595450249,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595450249,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595540304,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595540304,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595630353,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595630353,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595720389,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595720389,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595810437,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595810437,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595900495,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595900495,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595990528,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595990528,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778596170534,
+    "marketId": "1.257994025",
+    "selectionId": "8596391",
+    "selectionName": "Jay Clarke",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778596170534,
+    "marketId": "1.257994025",
+    "selectionId": "10033628",
+    "selectionName": "Moez Echargui",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

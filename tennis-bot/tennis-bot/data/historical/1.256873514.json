@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1776314188600,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314188600,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314368549,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314368549,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 3.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314489811,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314489811,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314669812,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314669812,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314791296,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314791296,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314971297,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776314971297,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315092568,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315092568,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 3.95,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315272570,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315272570,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315393868,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315393868,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315573869,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315573869,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315695129,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315695129,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315875130,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315875130,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315997040,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776315997040,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316177042,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316177042,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316298749,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316298749,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316478751,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316478751,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 4.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316600025,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316600025,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316780027,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316780027,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316901330,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776316901330,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317081332,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317081332,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317202583,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.51,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317202583,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317382584,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317382584,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317504247,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317504247,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317684248,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317684248,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317805536,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.69,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317805536,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317985538,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776317985538,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318106830,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318106830,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.66,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318286832,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318286832,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318408128,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.43,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318408128,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318588129,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318588129,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318709395,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.39,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318709395,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318889397,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776318889397,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.44,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319010666,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.46,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319010666,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319190667,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319190667,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319311918,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.31,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319311918,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319491919,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319491919,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319613699,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319613699,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319793700,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319793700,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319915541,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776319915541,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320095542,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320095542,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320217266,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320217266,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320397268,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320397268,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320519000,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320519000,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320699001,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320699001,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320820956,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776320820956,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776321000958,
+    "marketId": "1.256873514",
+    "selectionId": "25989742",
+    "selectionName": "Han Shi",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1776321000958,
+    "marketId": "1.256873514",
+    "selectionId": "11204533",
+    "selectionName": "Jia-Jing Lu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]

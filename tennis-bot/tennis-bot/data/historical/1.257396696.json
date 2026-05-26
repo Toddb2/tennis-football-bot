@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1777374400498,
+    "marketId": "1.257396696",
+    "selectionId": "13203243",
+    "selectionName": "Jiri Lehecka",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374400498,
+    "marketId": "1.257396696",
+    "selectionId": "13834991",
+    "selectionName": "Lorenzo Musetti",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374580439,
+    "marketId": "1.257396696",
+    "selectionId": "13203243",
+    "selectionName": "Jiri Lehecka",
+    "lastTradedPrice": 2.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374580439,
+    "marketId": "1.257396696",
+    "selectionId": "13834991",
+    "selectionName": "Lorenzo Musetti",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374701753,
+    "marketId": "1.257396696",
+    "selectionId": "13203243",
+    "selectionName": "Jiri Lehecka",
+    "lastTradedPrice": 2.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374701753,
+    "marketId": "1.257396696",
+    "selectionId": "13834991",
+    "selectionName": "Lorenzo Musetti",
+    "lastTradedPrice": 1.77,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374881755,
+    "marketId": "1.257396696",
+    "selectionId": "13203243",
+    "selectionName": "Jiri Lehecka",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777374881755,
+    "marketId": "1.257396696",
+    "selectionId": "13834991",
+    "selectionName": "Lorenzo Musetti",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777375003168,
+    "marketId": "1.257396696",
+    "selectionId": "13203243",
+    "selectionName": "Jiri Lehecka",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777375003168,
+    "marketId": "1.257396696",
+    "selectionId": "13834991",
+    "selectionName": "Lorenzo Musetti",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777375183171,
+    "marketId": "1.257396696",
+    "selectionId": "13203243",
+    "selectionName": "Jiri Lehecka",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777375183171,
+    "marketId": "1.257396696",
+    "selectionId": "13834991",
+    "selectionName": "Lorenzo Musetti",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  }
+]

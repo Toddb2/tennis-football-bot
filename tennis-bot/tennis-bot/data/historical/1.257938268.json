@@ -1,0 +1,830 @@
+[
+  {
+    "timestamp": 1778318800299,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778318800299,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778318890388,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778318890388,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778318980426,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778318980426,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319070479,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319070479,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 11.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319160518,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319160518,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319340524,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319340524,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319340623,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319340623,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319430666,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319430666,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319520718,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319520718,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319700724,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319700724,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319700820,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319700820,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 10,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319880824,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319880824,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319880994,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319880994,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319971033,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778319971033,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 18.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320061072,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320061072,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320151131,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320151131,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320331135,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320331135,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320331358,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320331358,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320511362,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320511362,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320691366,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320691366,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320871369,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778320871369,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321051373,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321051373,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321231377,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321231377,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321231777,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321231777,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321321828,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321321828,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321501832,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321501832,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321501918,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321501918,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321591972,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321591972,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321682002,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321682002,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321862006,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778321862006,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322042010,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322042010,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322222014,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322222014,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322402018,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322402018,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322582021,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322582021,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322762025,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322762025,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322942029,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778322942029,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323122032,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323122032,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323302036,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323302036,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 8.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323392751,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323392751,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323572755,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323572755,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 6.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323752759,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323752759,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323932761,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778323932761,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324112765,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324112765,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324292767,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324292767,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324293129,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324293129,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 40,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324473133,
+    "marketId": "1.257938268",
+    "selectionId": "57197343",
+    "selectionName": "Yunchaokete Bu",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778324473133,
+    "marketId": "1.257938268",
+    "selectionId": "10896490",
+    "selectionName": "Jie Cui",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1774018848464,
+    "marketId": "1.255554075",
+    "selectionId": "8979352",
+    "selectionName": "Andrea Pellegrino",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774018848464,
+    "marketId": "1.255554075",
+    "selectionId": "5479878",
+    "selectionName": "Pablo Carreno Busta",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019028211,
+    "marketId": "1.255554075",
+    "selectionId": "8979352",
+    "selectionName": "Andrea Pellegrino",
+    "lastTradedPrice": 27,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019028211,
+    "marketId": "1.255554075",
+    "selectionId": "5479878",
+    "selectionName": "Pablo Carreno Busta",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019208215,
+    "marketId": "1.255554075",
+    "selectionId": "8979352",
+    "selectionName": "Andrea Pellegrino",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019208215,
+    "marketId": "1.255554075",
+    "selectionId": "5479878",
+    "selectionName": "Pablo Carreno Busta",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019388220,
+    "marketId": "1.255554075",
+    "selectionId": "8979352",
+    "selectionName": "Andrea Pellegrino",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019388220,
+    "marketId": "1.255554075",
+    "selectionId": "5479878",
+    "selectionName": "Pablo Carreno Busta",
+    "lastTradedPrice": 0,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019568222,
+    "marketId": "1.255554075",
+    "selectionId": "8979352",
+    "selectionName": "Andrea Pellegrino",
+    "lastTradedPrice": 34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019568222,
+    "marketId": "1.255554075",
+    "selectionId": "5479878",
+    "selectionName": "Pablo Carreno Busta",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019748227,
+    "marketId": "1.255554075",
+    "selectionId": "8979352",
+    "selectionName": "Andrea Pellegrino",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774019748227,
+    "marketId": "1.255554075",
+    "selectionId": "5479878",
+    "selectionName": "Pablo Carreno Busta",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  }
+]

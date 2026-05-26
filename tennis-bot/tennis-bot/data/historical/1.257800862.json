@@ -1,0 +1,992 @@
+[
+  {
+    "timestamp": 1778053918835,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778053918835,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.47,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054098786,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054098786,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.52,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054278787,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054278787,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054278948,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.93,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054278948,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.88,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054458950,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054458950,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.57,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054638952,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054638952,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054818953,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054818953,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054819215,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 3.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054819215,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054999217,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054999217,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054999288,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.48,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778054999288,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055179290,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055179290,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055179368,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055179368,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055359370,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055359370,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055539373,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.84,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055539373,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.54,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055719375,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055719375,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.82,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055809652,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055809652,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055989656,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055989656,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055989742,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.68,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778055989742,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.58,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056079829,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.38,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056079829,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056259832,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056259832,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.72,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056439834,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056439834,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056619836,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056619836,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056620077,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.78,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056620077,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056800080,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056800080,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056980082,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778056980082,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057070302,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057070302,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057250304,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057250304,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.34,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057430307,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.91,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057430307,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057610308,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.55,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057610308,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057635583,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057635583,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057815499,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.74,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057815499,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057905649,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778057905649,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058085653,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.56,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058085653,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.62,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058265655,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058265655,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.81,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058355984,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.96,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058355984,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.71,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058446025,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058446025,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058536082,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058536082,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058626106,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058626106,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.64,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058716148,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058716148,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.73,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058806199,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778058806199,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059200981,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059200981,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059290930,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.42,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059290930,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.67,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059380980,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059380980,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.63,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059471048,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 2.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059471048,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 1.86,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059651054,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059651054,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059651189,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.92,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059651189,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059741230,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.85,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059741230,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059831283,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778059831283,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 2.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060011288,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060011288,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060011383,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.21,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060011383,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060101434,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060101434,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 4.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060191484,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060191484,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 4.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060281528,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060281528,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 5.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060371581,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060371581,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060461630,
+    "marketId": "1.257800862",
+    "selectionId": "15987415",
+    "selectionName": "En-Shuo Liang",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778060461630,
+    "marketId": "1.257800862",
+    "selectionId": "28071385",
+    "selectionName": "Taylah Preston",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  }
+]

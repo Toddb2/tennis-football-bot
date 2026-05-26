@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1777380427740,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 3.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777380427740,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777380607689,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777380607689,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.61,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777380729135,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777380729135,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.59,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777380909137,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 3.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777380909137,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381030504,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381030504,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381210508,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 2.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381210508,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.53,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381331811,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 3.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381331811,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381511815,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381511815,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381633156,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 5.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381633156,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381813158,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381813158,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381934493,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777381934493,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382114495,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382114495,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382235825,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382235825,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382415828,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382415828,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382537185,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382537185,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382717189,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382717189,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382838528,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777382838528,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383018531,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383018531,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383139870,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383139870,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383319874,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383319874,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383441211,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 5.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383441211,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383621214,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383621214,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383742575,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 7.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383742575,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383922578,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777383922578,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384043930,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 8.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384043930,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384223934,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384223934,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384345333,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384345333,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384525336,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 8.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384525336,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384646746,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384646746,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384826750,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384826750,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384948071,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777384948071,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777385128074,
+    "marketId": "1.257425312",
+    "selectionId": "10555097",
+    "selectionName": "Patrick Kypson",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777385128074,
+    "marketId": "1.257425312",
+    "selectionId": "8962036",
+    "selectionName": "Matteo Berrettini",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  }
+]

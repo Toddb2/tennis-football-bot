@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1777887596903,
+    "marketId": "1.257720890",
+    "selectionId": "11439772",
+    "selectionName": "Elena-Gabriela Ruse",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887596903,
+    "marketId": "1.257720890",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887776850,
+    "marketId": "1.257720890",
+    "selectionId": "11439772",
+    "selectionName": "Elena-Gabriela Ruse",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887776850,
+    "marketId": "1.257720890",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887898306,
+    "marketId": "1.257720890",
+    "selectionId": "11439772",
+    "selectionName": "Elena-Gabriela Ruse",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777887898306,
+    "marketId": "1.257720890",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777888078307,
+    "marketId": "1.257720890",
+    "selectionId": "11439772",
+    "selectionName": "Elena-Gabriela Ruse",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777888078307,
+    "marketId": "1.257720890",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777888199618,
+    "marketId": "1.257720890",
+    "selectionId": "11439772",
+    "selectionName": "Elena-Gabriela Ruse",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777888199618,
+    "marketId": "1.257720890",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777888379619,
+    "marketId": "1.257720890",
+    "selectionId": "11439772",
+    "selectionName": "Elena-Gabriela Ruse",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1777888379619,
+    "marketId": "1.257720890",
+    "selectionId": "7289631",
+    "selectionName": "Oceane Dodin",
+    "lastTradedPrice": 42,
+    "bsp": null,
+    "inPlay": true
+  }
+]

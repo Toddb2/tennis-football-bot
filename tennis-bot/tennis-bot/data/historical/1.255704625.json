@@ -1,0 +1,326 @@
+[
+  {
+    "timestamp": 1774365257699,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774365257699,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 5.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774365437631,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774365437631,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774365558877,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774365558877,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774365738879,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.26,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774365738879,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 4.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774365860119,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774365860119,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366040120,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366040120,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 4.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366161411,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366161411,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366341413,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366341413,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 4.9,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366462670,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366462670,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 5.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366642673,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366642673,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366763934,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366763934,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366943936,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.07,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774366943936,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367065196,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367065196,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 17.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367245198,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367245198,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 20,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367366481,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.02,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367366481,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367546484,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367546484,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367667744,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367667744,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367847747,
+    "marketId": "1.255704625",
+    "selectionId": "10902223",
+    "selectionName": "Sebastian Korda",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1774367847747,
+    "marketId": "1.255704625",
+    "selectionId": "49038329",
+    "selectionName": "Martin Landaluce",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  }
+]

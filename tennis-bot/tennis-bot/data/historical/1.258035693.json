@@ -1,0 +1,956 @@
+[
+  {
+    "timestamp": 1778591487898,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 3.75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591487898,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.28,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591577882,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 4.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591577882,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591667929,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 3.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591667929,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591758053,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591758053,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591938058,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591938058,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591938175,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778591938175,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.49,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592028231,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 3.35,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592028231,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.41,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592118276,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 3.7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592118276,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592208321,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 3.65,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592208321,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.37,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592298377,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592298377,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.32,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592388433,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 5.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592388433,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.24,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592478474,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592478474,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.19,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592568525,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592568525,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.16,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592658572,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 6.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592658572,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592748625,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592748625,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592838668,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 9.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778592838668,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593018676,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593018676,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593018846,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 6.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593018846,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.18,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593108899,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 5.3,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593108899,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.22,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593198926,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 8.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593198926,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.12,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593288979,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593288979,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593379054,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 7.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593379054,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593469102,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 7.2,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593469102,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593559151,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 9.6,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593559151,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593649217,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 7.8,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593649217,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.13,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593739267,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 6.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593739267,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593829321,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593829321,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593919389,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778593919389,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594009436,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594009436,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594099472,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 10.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594099472,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.1,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594189542,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 12.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594189542,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.08,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594279572,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 15,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594279572,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594369607,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 15.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594369607,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594459674,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 9.4,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594459674,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594549736,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 11,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594549736,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.09,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594729743,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594729743,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594729843,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 14.5,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594729843,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.04,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594819905,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 14,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594819905,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.05,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594909954,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 17,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778594909954,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.06,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595000006,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 25,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595000006,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595090043,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 29,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595090043,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595180107,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 30,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595180107,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595270141,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 23,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595270141,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.03,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595360188,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 75,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595360188,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595450249,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595450249,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595540304,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 36,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595540304,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595630353,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 60,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595630353,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595720389,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 130,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595720389,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595810437,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 120,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595810437,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595900495,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595900495,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595990528,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 110,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778595990528,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778596170534,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778596170534,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778596170629,
+    "marketId": "1.258035693",
+    "selectionId": "74527499",
+    "selectionName": "Noemi Basiletti",
+    "lastTradedPrice": 7,
+    "bsp": null,
+    "inPlay": true
+  },
+  {
+    "timestamp": 1778596170629,
+    "marketId": "1.258035693",
+    "selectionId": "63375047",
+    "selectionName": "Lilli Tagger",
+    "lastTradedPrice": 1.01,
+    "bsp": null,
+    "inPlay": true
+  }
+]
