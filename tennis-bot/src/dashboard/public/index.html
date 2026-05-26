@@ -522,16 +522,6 @@
       <div class="stat-box"><div class="val" id="an-avgodds">—</div><div class="lbl">Avg Odds</div></div>
     </div>
 
-    <!-- Filtered summary row -->
-    <div id="an-filt-summary" class="stat-row mt8" style="display:none">
-      <div class="stat-box" style="border-color:var(--green)"><div class="val" style="color:var(--green);font-size:12px">🔬 Filtered</div></div>
-      <div class="stat-box"><div class="val" id="an-filt-total">—</div><div class="lbl">Bets</div></div>
-      <div class="stat-box"><div class="val" id="an-filt-wins">—</div><div class="lbl">Wins</div></div>
-      <div class="stat-box"><div class="val" id="an-filt-wr">—</div><div class="lbl">Win Rate</div></div>
-      <div class="stat-box"><div class="val" id="an-filt-pnl">—</div><div class="lbl">P&L</div></div>
-      <div class="stat-box"><div class="val" id="an-filt-roi">—</div><div class="lbl">ROI</div></div>
-    </div>
-
     <!-- Analytics charts -->
     <div class="card mt14">
       <div class="flex items-center gap8" style="margin-bottom:10px">
@@ -566,10 +556,6 @@
               <th data-sort="avg">Avg Odds</th>
               <th data-sort="live">Live</th>
               <th data-sort="dry">Dry</th>
-              <th data-sort="fBets" class="an-fl-col" style="display:none">🔬 Bets</th>
-              <th data-sort="fWr"   class="an-fl-col" style="display:none">🔬 WR</th>
-              <th data-sort="fPnl"  class="an-fl-col" style="display:none">🔬 P&L</th>
-              <th data-sort="fRoi"  class="an-fl-col" style="display:none">🔬 ROI</th>
             </tr>
           </thead>
           <tbody id="an-strat-tbody"><tr><td colspan="10" class="empty">Loading…</td></tr></tbody>
@@ -577,6 +563,31 @@
       </div>
     </div>
 
+    <!-- Daily breakdown table -->
+    <div class="card mt14">
+      <div class="card-title">Daily Breakdown</div>
+      <div class="tbl-wrap mt8">
+        <table>
+          <thead><tr><th>Date</th><th>Bets</th><th>Wins</th><th>Win Rate</th><th>P&L</th><th>Cumulative</th></tr></thead>
+          <tbody id="an-daily-tbody"><tr><td colspan="6" class="empty">Loading…</td></tr></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Bet history -->
+    <div class="card mt14">
+      <div class="flex items-center gap8" style="margin-bottom:8px">
+        <div class="card-title" style="margin-bottom:0">Bet History</div>
+        <span id="an-bets-count" class="badge badge-gray" style="display:none"></span>
+      </div>
+      <div class="tbl-wrap">
+        <table id="an-bets-table">
+          <thead><tr><th>Match</th><th>Strategy</th><th>Side</th><th>Odds</th><th>Stake</th><th>P&L</th><th>Status</th><th>Placed</th></tr></thead>
+          <tbody id="an-bets-tbody"><tr><td colspan="8" class="empty">Loading…</td></tr></tbody>
+        </table>
+        <div id="an-bets-pagination" style="display:none;align-items:center;gap:8px;margin-top:10px;font-size:12px;color:var(--muted)"></div>
+      </div>
+    </div>
   </div>
 
   <!-- ── Market Scanner sub-panel ────────────────────────── -->

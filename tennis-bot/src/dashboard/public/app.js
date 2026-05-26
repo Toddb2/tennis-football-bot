@@ -15,10 +15,6 @@ const S = {
   dryRun:       false,
 };
 
-// Strategies removed from config — hide from dropdowns/charts even if historical
-// bets still reference them in the DB.
-const DELETED_STRATEGIES = new Set(['Strat5', 'Strat6']);
-
 let _sortBets   = { col: 'placed_at', dir: 1 };
 let _sortLive   = { col: 'matchedVolume', dir: -1 };
 let _stratChart = null;
@@ -905,7 +901,6 @@ async function loadBets() {
      // → Strat2h → Strat3 etc. — alphabetic puts Strat10 between Strat1 and Strat2.
     if ($('bets-strategy').options.length <= 1) {
       const names = [...new Set(perfData.map(p => p.strategy_name).filter(Boolean))]
-        .filter(n => !DELETED_STRATEGIES.has(n))
         .sort(_naturalStratCompare);
       names.forEach(n => {
         const o = new Option(n, n);
@@ -1686,7 +1681,6 @@ async function loadStrategies() {
     // Populate strategy filter dropdowns in other tabs (once)
     if ($('bets-strategy').options.length <= 1) {
       const names = [...new Set(perf.map(p => p.strategy_name).filter(Boolean))]
-        .filter(n => !DELETED_STRATEGIES.has(n))
         .sort(_naturalStratCompare);
       names.forEach(n => {
         $('bets-strategy').add(new Option(n, n));
@@ -2496,47 +2490,23 @@ let _anSince     = '-7 days';
 let _anChartType = 'pnl';
 let _anBets      = [];
 let _anDaily     = [];
-let _anFilter    = null;  // last-known Filter Lab state, applied to Strategy Breakdown
 
 async function loadAnalysis() {
   try {
-    const [betsResp, daily, flState] = await Promise.all([
+    const [betsResp, daily] = await Promise.all([
       api(`/api/db/bets?since=${encodeURIComponent(_anSince)}&limit=5000`),
       api('/api/db/bets/daily-pnl'),
-      api('/api/filter-lab/state').catch(() => null),
     ]);
-    _anBets   = betsResp.bets || [];
-    _anDaily  = daily;
-    _anFilter = flState && Object.keys(flState).length ? flState : null;
+    _anBets  = betsResp.bets || [];
+    _anDaily = daily;
     renderAnalysisSummary(_anBets);
-    renderAnalysisFilteredSummary(_anBets);
     renderAnalysisStratTable(_anBets);
+    renderAnalysisDailyTable(daily);
     renderAnalysisChart();
+    renderAnalysisBets(_anBets);
   } catch (e) {
-    $('an-strat-tbody').innerHTML = `<tr><td colspan="15" class="empty">Error: ${e.message}</td></tr>`;
+    $('an-strat-tbody').innerHTML = `<tr><td colspan="11" class="empty">Error: ${e.message}</td></tr>`;
   }
-}
-
-function renderAnalysisFilteredSummary(bets) {
-  const wrap = $('an-filt-summary');
-  if (!wrap) return;
-  if (!_anFilter) { wrap.style.display = 'none'; return; }
-  const filtPasses = _flBuildPassFn(_anFilter);
-  const filtered   = bets.filter(filtPasses);
-  const settled    = filtered.filter(b => b.pnl != null);
-  const wins       = settled.filter(b => b.pnl > 0);
-  const pnl        = settled.reduce((s, b) => s + b.pnl, 0);
-  const stakes     = settled.reduce((s, b) => s + (b.stake || 0), 0);
-  const wr         = settled.length ? wins.length / settled.length * 100 : 0;
-  const roi        = stakes > 0 ? pnl / stakes * 100 : 0;
-  wrap.style.display = '';
-  $('an-filt-total').textContent = filtered.length;
-  $('an-filt-wins').textContent  = wins.length;
-  $('an-filt-wr').textContent    = settled.length ? fmt.pct(wr) : '—';
-  $('an-filt-pnl').textContent   = fmt.pnl(pnl);
-  $('an-filt-pnl').className     = 'val ' + pnlClass(pnl);
-  $('an-filt-roi').textContent   = stakes > 0 ? fmt.pct(roi) : '—';
-  $('an-filt-roi').className     = 'val ' + pnlClass(roi);
 }
 
 function renderAnalysisSummary(bets) {
@@ -2564,17 +2534,10 @@ let _anStratSort = { col: 'name', dir: 'asc' };
 let _anStratRows = [];
 
 function renderAnalysisStratTable(bets) {
-  // Build a client-side filter pass function from the active Filter Lab state
-  const filtPasses = _anFilter ? _flBuildPassFn(_anFilter) : null;
-
   const byStrat = {};
   for (const b of bets) {
     const key = `${b.strategy_name || 'Unknown'}|${b.side || ''}`;
-    if (!byStrat[key]) byStrat[key] = {
-      name: b.strategy_name || 'Unknown', side: b.side || '—',
-      bets: 0, wins: 0, pnl: 0, stakes: 0, oddsSum: 0, live: 0, dry: 0,
-      fBets: 0, fWins: 0, fPnl: 0, fStakes: 0,
-    };
+    if (!byStrat[key]) byStrat[key] = { name: b.strategy_name || 'Unknown', side: b.side || '—', bets: 0, wins: 0, pnl: 0, stakes: 0, oddsSum: 0, live: 0, dry: 0 };
     const s = byStrat[key];
     s.bets++;
     if (b.pnl != null && b.pnl > 0) s.wins++;
@@ -2582,23 +2545,15 @@ function renderAnalysisStratTable(bets) {
     s.stakes += b.stake || 0;
     s.oddsSum += b.requested_odds || 0;
     if (b.dry_run) s.dry++; else s.live++;
-    if (filtPasses && filtPasses(b)) {
-      s.fBets++;
-      if (b.pnl != null && b.pnl > 0) s.fWins++;
-      s.fPnl    += b.pnl || 0;
-      s.fStakes += b.stake || 0;
-    }
   }
 
   _anStratRows = Object.values(byStrat)
     .filter(s => s.name && s.name !== 'Unknown' && s.name !== 'null' && s.name !== 'undefined')
     .map(s => ({
       ...s,
-      wr:   s.bets ? (s.wins / s.bets * 100) : 0,
-      roi:  s.stakes > 0 ? (s.pnl / s.stakes * 100) : 0,
-      avg:  s.bets ? (s.oddsSum / s.bets) : 0,
-      fWr:  s.fBets ? (s.fWins / s.fBets * 100) : 0,
-      fRoi: s.fStakes > 0 ? (s.fPnl / s.fStakes * 100) : 0,
+      wr:  s.bets ? (s.wins / s.bets * 100) : 0,
+      roi: s.stakes > 0 ? (s.pnl / s.stakes * 100) : 0,
+      avg: s.bets ? (s.oddsSum / s.bets) : 0,
     }));
 
   _anStratBindHeaders();
@@ -2625,7 +2580,7 @@ function _anStratBindHeaders() {
 function _anStratRedraw() {
   const rows = _anStratRows;
   if (!rows.length) {
-    $('an-strat-tbody').innerHTML = `<tr><td colspan="${_anFilter ? 14 : 10}" class="empty">No data</td></tr>`;
+    $('an-strat-tbody').innerHTML = '<tr><td colspan="10" class="empty">No data</td></tr>';
     return;
   }
   const { col, dir } = _anStratSort;
@@ -2634,11 +2589,6 @@ function _anStratRedraw() {
     if (col === 'name') return _stratCompare(a.name, b.name) * mult;
     if (col === 'side') return (a.side || '').localeCompare(b.side || '') * mult;
     return ((a[col] ?? 0) - (b[col] ?? 0)) * mult;
-  });
-
-  // Show / hide Filter Lab columns
-  document.querySelectorAll('#an-strat-table .an-fl-col').forEach(el => {
-    el.style.display = _anFilter ? '' : 'none';
   });
 
   // Reflect sort state in header chevrons
@@ -2659,13 +2609,25 @@ function _anStratRedraw() {
       <td>${s.avg > 0 ? s.avg.toFixed(2) : '—'}</td>
       <td>${s.live}</td>
       <td>${s.dry}</td>
-      ${_anFilter ? `
-        <td>${s.fBets}</td>
-        <td class="${pnlClass(s.fWr - 50)}">${s.fBets ? fmt.pct(s.fWr) : '—'}</td>
-        <td class="${pnlClass(s.fPnl)}">${s.fBets ? fmt.pnl(s.fPnl) : '—'}</td>
-        <td class="${pnlClass(s.fRoi)}">${s.fBets ? fmt.pct(s.fRoi) : '—'}</td>
-      ` : ''}
     </tr>`).join('');
+}
+
+function renderAnalysisDailyTable(daily) {
+  if (!daily.length) { $('an-daily-tbody').innerHTML = '<tr><td colspan="6" class="empty">No data</td></tr>'; return; }
+  let cum = 0;
+  const rows = [...daily].reverse();
+  $('an-daily-tbody').innerHTML = rows.map(d => {
+    cum += d.pnl || 0;
+    const wr = d.bets ? ((d.wins || 0) / d.bets * 100) : 0;
+    return `<tr>
+      <td>${d.day}</td>
+      <td>${d.bets}</td>
+      <td>${d.wins || 0}</td>
+      <td>${d.bets ? fmt.pct(wr) : '—'}</td>
+      <td class="${pnlClass(d.pnl)}">${fmt.pnl(d.pnl)}</td>
+      <td class="${pnlClass(cum)}">${fmt.pnl(cum)}</td>
+    </tr>`;
+  }).join('');
 }
 
 function renderAnalysisChart() {
@@ -2710,31 +2672,11 @@ function renderAnalysisChart() {
   if (_anChartType === 'pnl') {
     if (titleEl) titleEl.textContent = 'Cumulative P&L';
     let cum = 0;
-    const datasets = [{
-      label: 'All bets',
-      data: _anDaily.map(d => { cum += d.pnl || 0; return parseFloat(cum.toFixed(2)); }),
-      borderColor: '#4f8ef7', backgroundColor: 'rgba(79,142,247,.08)', borderWidth: 2, fill: true, pointRadius: 2, tension: 0.3,
-    }];
-
-    if (_anFilter) {
-      const filtPasses = _flBuildPassFn(_anFilter);
-      const filtByDay = {};
-      for (const b of _anBets) {
-        if (b.pnl == null || !filtPasses(b)) continue;
-        const day = (b.placed_at || b.settled_at || '').slice(0, 10);
-        if (day) filtByDay[day] = (filtByDay[day] || 0) + b.pnl;
-      }
-      let fCum = 0;
-      datasets.push({
-        label: 'Filtered',
-        data: _anDaily.map(d => { fCum += filtByDay[d.day] || 0; return parseFloat(fCum.toFixed(2)); }),
-        borderColor: '#22c55e', backgroundColor: 'transparent', borderWidth: 2, fill: false,
-        pointRadius: 2, tension: 0.3, borderDash: [4, 3],
-      });
-    }
-
-    mkChart('line', { labels: _anDaily.map(d => d.day), datasets },
-      { ...axisDefaults('P&L (£)'), plugins: { legend: { display: !!_anFilter, position: 'top', labels: { font: { size: 10 }, boxWidth: 20 } } } });
+    mkChart('line', {
+      labels: _anDaily.map(d => d.day),
+      datasets: [{ label: 'Cum P&L', data: _anDaily.map(d => { cum += d.pnl || 0; return parseFloat(cum.toFixed(2)); }),
+        borderColor: '#4f8ef7', backgroundColor: 'rgba(79,142,247,.08)', borderWidth: 2, fill: true, pointRadius: 2, tension: 0.3 }],
+    }, { ...axisDefaults('P&L (£)'), plugins: { legend: { display: false } } });
 
   } else if (_anChartType === 'daily-pnl') {
     if (titleEl) titleEl.textContent = 'Daily P&L';
@@ -2855,6 +2797,92 @@ function renderAnalysisChart() {
         y: { title: { display: true, text: '%', font: { size: 10 } }, ticks: { font: { size: 10 } }, grid: { color: 'rgba(46,50,80,.5)' } },
       },
     });
+  }
+}
+
+let _anBetsPage = 0;
+const AN_BETS_PAGE_SIZE = 25;
+
+function renderAnalysisBets(bets) {
+  const tbody  = $('an-bets-tbody');
+  const pagEl  = $('an-bets-pagination');
+  const badge_ = $('an-bets-count');
+  // Sort newest-first; persist into module state so prev/next can re-render the
+  // same dataset without re-fetching.
+  if (bets) {
+    _anBets = [...bets].sort((a, b) => (b.placed_at || '') > (a.placed_at || '') ? 1 : -1);
+    _anBetsPage = 0;
+  }
+  const all = _anBets;
+
+  if (badge_) { badge_.textContent = all.length; badge_.style.display = ''; }
+
+  if (!all.length) {
+    tbody.innerHTML = '<tr><td colspan="8" class="empty">No bets in this period</td></tr>';
+    if (pagEl) pagEl.style.display = 'none';
+    return;
+  }
+
+  const total      = all.length;
+  const totalPages = Math.max(1, Math.ceil(total / AN_BETS_PAGE_SIZE));
+  if (_anBetsPage >= totalPages) _anBetsPage = totalPages - 1;
+  const start  = _anBetsPage * AN_BETS_PAGE_SIZE;
+  const recent = all.slice(start, start + AN_BETS_PAGE_SIZE);
+
+  tbody.innerHTML = recent.map((r, i) => {
+    const settled = r.settlement_type;
+    const liveMatch = S.liveMatches.find(m => m.betfairMarketId === r.betfair_market_id);
+    const isMatchOver = !settled && !liveMatch && r.latest_sets;
+    const statusBadge = settled
+      ? badge(settled, r.pnl >= 0 ? 'green' : 'red')
+      : isMatchOver ? badge('Finished', 'blue') : badge('Open', 'yellow');
+    const pnlHtml = r.pnl != null ? `<span class="${pnlClass(r.pnl)}">${fmt.pnl(r.pnl)}</span>` : '—';
+    return `<tr class="an-bet-row" data-betidx="${i}" style="cursor:pointer">
+      <td class="wrap"><strong>${r.match_name || '—'}</strong></td>
+      <td>${r.strategy_name || '—'}</td>
+      <td>${r.side || '—'}</td>
+      <td>${fmt.odds(r.requested_odds)}</td>
+      <td>£${r.stake?.toFixed(2) || '—'}</td>
+      <td>${pnlHtml}</td>
+      <td>${statusBadge}</td>
+      <td>${fmt.date(r.placed_at)} ${fmt.ts(r.placed_at)}</td>
+    </tr>
+    <tr class="an-bet-detail-row" id="an-bet-det-${i}" style="display:none">
+      <td colspan="8" style="padding:0"></td>
+    </tr>`;
+  }).join('');
+
+  tbody.querySelectorAll('tr.an-bet-row').forEach(tr => {
+    tr.addEventListener('click', async () => {
+      const idx    = tr.dataset.betidx;
+      const detRow = document.getElementById(`an-bet-det-${idx}`);
+      const isOpen = detRow.style.display !== 'none';
+      tbody.querySelectorAll('.an-bet-detail-row').forEach(r => { r.style.display = 'none'; });
+      tbody.querySelectorAll('.an-bet-row.selected-bet').forEach(r => r.classList.remove('selected-bet'));
+      if (!isOpen) {
+        tr.classList.add('selected-bet');
+        const r = recent[idx];
+        detRow.querySelector('td').innerHTML = _buildBetDetail(r, 'anch');
+        detRow.style.display = '';
+        if (r.betfair_market_id) requestAnimationFrame(() => {
+          loadMatchCharts(r.betfair_market_id, { matchName: r.match_name }, 'anch');
+          loadMilestones(r.betfair_market_id, 'anch');
+        });
+      }
+    });
+  });
+
+  if (totalPages <= 1) {
+    if (pagEl) pagEl.style.display = 'none';
+  } else {
+    pagEl.style.display = 'flex';
+    const end = Math.min(start + AN_BETS_PAGE_SIZE, total);
+    pagEl.innerHTML = `
+      <button class="btn btn-sm" id="an-bets-prev" ${_anBetsPage === 0 ? 'disabled' : ''}>‹ Prev</button>
+      <span>Page ${_anBetsPage + 1} / ${totalPages} &nbsp;(${start + 1}–${end} of ${total})</span>
+      <button class="btn btn-sm" id="an-bets-next" ${_anBetsPage >= totalPages - 1 ? 'disabled' : ''}>Next ›</button>`;
+    $('an-bets-prev').onclick = () => { _anBetsPage--; renderAnalysisBets(null); };
+    $('an-bets-next').onclick = () => { _anBetsPage++; renderAnalysisBets(null); };
   }
 }
 
@@ -4407,9 +4435,7 @@ async function loadFilterLabPeriod() {
     }
     _flBaseRows = rows;
     // Populate strategy multi-select
-    const names = [...new Set(rows.map(r => r.strategy_name).filter(Boolean))]
-      .filter(n => !DELETED_STRATEGIES.has(n))
-      .sort(_naturalStratCompare);
+    const names = [...new Set(rows.map(r => r.strategy_name).filter(Boolean))].sort(_naturalStratCompare);
     const pop = $('fl-strategies-pop');
     pop.innerHTML = names.map(n => `
       <label><input type="checkbox" value="${n}" ${_flStrategies.has(n) ? 'checked' : ''}> ${n}</label>
@@ -4548,17 +4574,21 @@ function _updateFlStratSqStatus() {
   if (el) el.textContent = n === 0 ? 'none' : `${n} strategy override${n === 1 ? '' : 's'}`;
 }
 
-// Build the row-passes function from a serialised filter state. Shared between
-// Filter Lab (live editing) and Analysis (reads persisted state).
-function _flBuildPassFn(f) {
-  if (!f) return () => true;
-  f = {
-    strategies: [], surfaces: [], strategyDeltaRanges: {},
-    ...f,
-  };
+function runFilterLab() {
+  const f = _flReadFilters();
+  // Persist to server so all machines see the same current filter state.
+  try {
+    fetch('/api/filter-lab/state', {
+      method: 'PUT',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(f),
+    });
+  } catch (_) {}
+
   const inRange = (v, lo, hi) => (v == null) ? false : (lo == null || v >= lo) && (hi == null || v <= hi);
   const optRange = (v, lo, hi) => (lo == null && hi == null) ? true : inRange(v, lo, hi);
-  return r => {
+
+  const passes = r => {
     if (f.strategies.length && !f.strategies.includes(r.strategy_name)) return false;
     if (f.side  && r.side       !== f.side)  return false;
     if (f.betOn && r.player_key !== f.betOn) return false;
@@ -4578,6 +4608,7 @@ function _flBuildPassFn(f) {
     const s1 = r.bet_player_serve_quality_diff_s1, s2 = r.bet_player_serve_quality_diff_s2;
     const chg = (s1 != null && s2 != null) ? (s2 - s1) : null;
     if (!optRange(chg,                                     f.sqChgMin,  f.sqChgMax))  return false;
+    // Per-strategy SQ-trigger override beats the global range when present.
     const stratOverride = (f.strategyDeltaRanges || {})[r.strategy_name];
     if (stratOverride && (stratOverride.min != null || stratOverride.max != null)) {
       if (!optRange(r.bet_player_serve_quality_diff_trigger, stratOverride.min, stratOverride.max)) return false;
@@ -4586,20 +4617,7 @@ function _flBuildPassFn(f) {
     }
     return true;
   };
-}
 
-function runFilterLab() {
-  const f = _flReadFilters();
-  // Persist to server so all machines see the same current filter state.
-  try {
-    fetch('/api/filter-lab/state', {
-      method: 'PUT',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(f),
-    });
-  } catch (_) {}
-
-  const passes = _flBuildPassFn(f);
   _flFilteredRows = _flBaseRows.filter(passes);
   renderFlStats(_flBaseRows, _flFilteredRows);
   renderFlChart(_flBaseRows, _flFilteredRows);
