@@ -1,0 +1,19 @@
+# Secrets
+.env
+certs/
+
+# Dependencies
+node_modules/
+
+# Database files
+*.db
+*.db.bak*
+
+# Large log files
+logs/
+*.log
+*.log.*
+bot.log*
+
+# Historical data (large)
+data/historical/
