@@ -121,7 +121,7 @@ function handleWsEvent({ event, data }) {
     // Live-refresh active data tabs so users don't have to hit Refresh.
     // Hidden tabs are skipped (document.hidden) to avoid wasted reloads.
     if (!document.hidden) {
-      if ($('tab-bets')?.classList.contains('active'))     loadBets();
+      if ($('tab-bets')?.classList.contains('active'))     { const _sp = _betsPage; loadBets().then(() => { _betsPage = _sp; _applyBetsFilters(); }); }
       if ($('tab-upcoming')?.classList.contains('active')) loadUpcoming();
       if ($('tab-analysis')?.classList.contains('active')) loadAnalysis();
     }

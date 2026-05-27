@@ -690,6 +690,7 @@ async function evaluateMatch(matchState, openMarkets) {
     const { system, playerKey, side, reason } = trigger;
 
     firedSet.add(system.name);
+    _strategyFired.set(marketId, firedSet); // persist immediately to prevent concurrent duplicate triggers
 
     const currentOdds = playerKey === 'A' ? matchState.playerABack : matchState.playerBBack;
 
