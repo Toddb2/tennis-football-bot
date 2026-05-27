@@ -156,6 +156,17 @@
       </select>
       <span id="bets-sq-buckets" style="display:inline-flex;gap:3px"></span>
     </span>
+    <select id="bets-side">
+      <option value="">P1 &amp; P2</option>
+      <option value="P1">P1 only</option>
+      <option value="P2">P2 only</option>
+    </select>
+    <span style="display:inline-flex;align-items:center;gap:4px;font-size:12px;color:var(--muted)">
+      Mom
+      <input type="number" id="bets-mom-min" placeholder="min" step="1" style="width:52px;padding:3px 5px;font-size:12px;background:var(--surface2);border:1px solid var(--border);border-radius:4px;color:var(--text)">
+      <span>–</span>
+      <input type="number" id="bets-mom-max" placeholder="max" step="1" style="width:52px;padding:3px 5px;font-size:12px;background:var(--surface2);border:1px solid var(--border);border-radius:4px;color:var(--text)">
+    </span>
     <button class="btn btn-sm" id="bets-refresh">Refresh</button>
     <div class="sep"></div>
     <button class="btn btn-sm" id="bets-export">Export CSV</button>

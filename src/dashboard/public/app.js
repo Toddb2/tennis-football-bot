@@ -1521,6 +1521,9 @@ function initBetsTab() {
   // Status + SQ filter are pure client-side.  Re-apply over cached rows.
   $('bets-status').addEventListener('change', () => { _betsPage = 0; _applyBetsFilters(); });
   $('bets-sq-set')?.addEventListener('change', () => { _betsPage = 0; _applyBetsFilters(); });
+  $('bets-side')?.addEventListener('change', () => { _betsPage = 0; _applyBetsFilters(); });
+  $('bets-mom-min')?.addEventListener('input', () => { _betsPage = 0; _applyBetsFilters(); });
+  $('bets-mom-max')?.addEventListener('input', () => { _betsPage = 0; _applyBetsFilters(); });
   $('bets-refresh').addEventListener('click', loadBets);
 
   // Click-sort on any header that declares data-col.  Numeric + null-safe.
