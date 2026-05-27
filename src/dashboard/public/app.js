@@ -131,7 +131,7 @@ function handleWsEvent({ event, data }) {
     updateHeader({ isRunning: true, openBets: data.openBets, marketsWatched: data.marketsWatched });
   }
   if (event === 'bet_placed' || event === 'trade_out') {
-    if ($('tab-bets').classList.contains('active')) loadBets();
+    if ($('tab-bets').classList.contains('active')) { const _savedPage = _betsPage; loadBets().then(() => { _betsPage = _savedPage; _applyBetsFilters(); }); return; }
   }
   if (event === 'strategies_updated') {
     // Another client saved strategies — reload if on strategies tab, otherwise refresh silently
@@ -2580,6 +2580,8 @@ function renderAnalysisSummary(bets) {
   $('an-dd').textContent      = dd > 0 ? fmt.pnl(-dd) : '—';
   $('an-dd').className        = 'val ' + (dd > 0 ? 'neg' : '');
 }
+let _anStratSort = { col: 'name', dir: 'asc' };
+let _anStratRows = [];
 function renderAnalysisStratTable(bets, allBets) {
   // Build a client-side filter pass function from the active Filter Lab state
   const filtPasses = _anFilter ? _flBuildPassFn(_anFilter) : null;
