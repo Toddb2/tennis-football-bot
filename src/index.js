@@ -385,7 +385,10 @@ async function runMainLoop() {
         if (!isSetComplete(s)) continue;
         if (s.playerA > s.playerB) setsWonA++; else setsWonB++;
       }
-      if (setsWonA >= 2 || setsWonB >= 2) {
+      // Only auto-close on set count if market is also CLOSED/SUSPENDED
+      // to avoid closing mid-tiebreak when score looks like a completed set
+      const canAutoClose = matchState.status === 'CLOSED' || matchState.status === 'SUSPENDED';
+      if ((setsWonA >= 2 || setsWonB >= 2) && canAutoClose) {
         logger.info('index: auto-closing finished match', {
           marketId: matchState.betfairMarketId,
           matchName: matchState.matchName,
