@@ -984,7 +984,7 @@ function renderBetsTable(rows) {
       <td class="wrap"><strong>${r.match_name || '—'}</strong></td>
       <td class="score">${scoreStr}</td>
       <td>${r.strategy_name || '—'}</td>
-      <td>${r.player_name || '—'}</td>
+      <td>${r.pnl > 0 ? `<span style="color:var(--green);font-weight:600">${r.player_name || '—'}</span>` : (r.pnl != null && r.pnl <= 0 ? `<span style="color:var(--red)">${r.player_name || '—'}</span>` : (r.player_name || '—'))}</td>
       <td>${r.side || '—'}</td>
       <td>${fmt.odds(r.requested_odds)}</td>
       <td>£${r.stake?.toFixed(2) || '—'}</td>
@@ -4367,7 +4367,7 @@ function _renderDeltaQualityBets() {
       <td class="wrap"><strong>${r.match_name || '—'}</strong></td>
       <td class="score">${scoreStr}</td>
       <td>${r.strategy_name || '—'}</td>
-      <td>${r.player_name || '—'}</td>
+      <td>${r.pnl > 0 ? `<span style="color:var(--green);font-weight:600">${r.player_name || '—'}</span>` : (r.pnl != null && r.pnl <= 0 ? `<span style="color:var(--red)">${r.player_name || '—'}</span>` : (r.player_name || '—'))}</td>
       <td>${r.side || '—'}</td>
       <td>${fmt.odds(r.requested_odds)}</td>
       <td>£${r.stake?.toFixed(2) || '—'}</td>
