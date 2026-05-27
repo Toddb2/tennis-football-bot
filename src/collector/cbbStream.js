@@ -149,8 +149,10 @@ class CbbStream extends EventEmitter {
     if (!m || !Array.isArray(m.runners) || m.runners.length < 2) return null;
     try {
       const [rA, rB] = m.runners;
-      const pA = rA.prices || {};
-      const pB = rB.prices || {};
+      const pA   = rA.ipPrices || rA.prices || {};
+      const pB   = rB.ipPrices || rB.prices || {};
+      const ppA  = rA.ppPrices || {};
+      const ppB  = rB.ppPrices || {};
       const inPlay = m.in_play === true;
       const status = m.status === 'CLOSED' ? 'CLOSED' : (inPlay ? 'LIVE' : 'OPEN');
 
@@ -164,6 +166,8 @@ class CbbStream extends EventEmitter {
         status,
         matchedVolume: parseFloat(m.total_matched || 0),
         timestamp:     Date.now(),
+        prePlayOddsA:    ppA.back ?? null,
+        prePlayOddsB:    ppB.back ?? null,
         runners: [
           { selectionId: rA.selectionId, name: rA.name, backPrice: pA.back ?? null, layPrice: pA.lay ?? null, lastTradedPrice: pA.ltp ?? null, matchedVolume: 0 },
           { selectionId: rB.selectionId, name: rB.name, backPrice: pB.back ?? null, layPrice: pB.lay ?? null, lastTradedPrice: pB.ltp ?? null, matchedVolume: 0 },

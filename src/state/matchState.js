@@ -173,7 +173,21 @@ class MatchState {
     const oddsLookPreMatch = this.playerABack != null && this.playerBBack != null
       ? !(this.playerABack < 1.5 && this.playerBBack < 1.5)
       : (this.playerABack != null && this.playerABack >= 1.1);
-    if (inPlay && !this.preMatchOddsA && this.playerABack && oddsLookPreMatch) {
+    // Prefer ppPrices (Betfair pre-play) from CBB stream — always accurate regardless of when bot saw market
+    const ppA = oddsData.prePlayOddsA;
+    const ppB = oddsData.prePlayOddsB;
+    if (ppA != null && ppA > 1.05 && !this.preMatchOddsA) {
+      this.preMatchOddsA  = ppA;
+      this.preMatchOddsB  = ppB ?? null;
+      this.preMatchVolume = this.matchedVolume ?? 0;
+      try {
+        require('../database/marketRepo').updatePreMatchOdds(this.betfairMarketId, {
+          preMatchOddsA:  this.preMatchOddsA,
+          preMatchOddsB:  this.preMatchOddsB,
+          preMatchVolume: this.preMatchVolume,
+        });
+      } catch (_) {}
+    } else if (inPlay && !this.preMatchOddsA && this.playerABack && oddsLookPreMatch) {
       this.preMatchOddsA  = this.playerABack;
       this.preMatchOddsB  = this.playerBBack   ?? null;
       this.preMatchVolume = this.matchedVolume ?? 0;
