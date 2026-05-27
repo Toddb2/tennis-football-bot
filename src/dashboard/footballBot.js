@@ -383,11 +383,11 @@ function handleGetBetsCsv(req, res) {
     };
     const headers = [
       'Date Placed', 'Date Settled', 'Match', 'League', 'Kick Off',
-      'Strategy', 'Signal Strategy',
+      'Strategy', 'Signal Strategy', 'Data Source',
       'Market', 'Over/Under Line', 'Bet Type',
       'Over Odds', 'Under Odds', 'Odds Taken',
       'Minute of Bet', 'Score at Bet', 'Goals at Bet',
-      'Result', 'Final Score', 'Final Goals',
+      'Result', 'Final Score', 'Final Goals', 'Final Goals (est)',
       'P&L (pts)',
     ];
     const lines = [headers.join(',')];
@@ -401,14 +401,21 @@ function handleGetBetsCsv(req, res) {
       const oddsT    = isOver ? b.overOdds : b.underOdds;
       const scoreAtBet = (b.goalsA != null && b.goalsA !== '' && b.goalsB != null && b.goalsB !== '') ? `${b.goalsA}-${b.goalsB}` : '';
       const finalScore = (b.finalGoalsA != null && b.finalGoalsA !== '' && b.finalGoalsB != null && b.finalGoalsB !== '') ? `${b.finalGoalsA}-${b.finalGoalsB}` : '';
+      // Estimate final goals range from result + line when not recorded
+      let finalGoalsEst = '';
+      if (!b.finalGoals && lineNum != null) {
+        if (betType === 'OVER')  finalGoalsEst = b.result === 'won' ? `>=${Math.ceil(lineNum + 0.1)}` : `<=${Math.floor(lineNum)}`;
+        if (betType === 'UNDER') finalGoalsEst = b.result === 'won' ? `<=${Math.floor(lineNum)}` : `>=${Math.ceil(lineNum + 0.1)}`;
+      }
+      const dataSource = b.historical ? 'Historical' : 'Live';
       const row = [
         fmtDate(b.placedAt), fmtDate(b.settledAt),
         esc(b.match), esc(b.league), fmtDate(b.startDate),
-        esc(b.strategy), esc(b.signalStrategy),
+        esc(b.strategy), esc(b.signalStrategy), dataSource,
         esc(b.marketName), esc(b.overUnderValue), betType,
         esc(b.overOdds), esc(b.underOdds), esc(oddsT),
         esc(b.timer), esc(scoreAtBet), esc(goalsNum),
-        esc(b.result), esc(finalScore), esc(b.finalGoals),
+        esc(b.result), esc(finalScore), esc(b.finalGoals), esc(finalGoalsEst),
         esc(b.avePoints),
       ];
       lines.push(row.join(','));
