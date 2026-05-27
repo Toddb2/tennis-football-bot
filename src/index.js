@@ -1376,8 +1376,8 @@ async function main() {
           // Store runner IDs for order placement
           runnerIdA:  update.runners?.[0]?.selectionId || null,
           runnerIdB:  update.runners?.[1]?.selectionId || null,
-          playerAName: nameA,
-          playerBName: nameB,
+          playerAName: update.runners?.[0]?.name || nameA,
+          playerBName: update.runners?.[1]?.name || nameB,
         }, 'init');
       }
     }
@@ -1406,12 +1406,12 @@ async function main() {
     if (_state && (!_state.playerAName || !_state.playerBName) && update.matchName) {
       const [_nameA, _nameB] = update.matchName.split(' v ').map(s => s.trim());
       if (_nameA && _nameB) {
-        _state.playerAName = _nameA;
-        _state.playerBName = _nameB;
+        _state.playerAName = update.runners?.[0]?.name || _nameA;
+        _state.playerBName = update.runners?.[1]?.name || _nameB;
         logger.info('index: player names backfilled', {
           marketId: update.marketId,
-          playerAName: _nameA,
-          playerBName: _nameB,
+          playerAName: update.runners?.[0]?.name || _nameA,
+          playerBName: update.runners?.[1]?.name || _nameB,
         });
       }
     }
