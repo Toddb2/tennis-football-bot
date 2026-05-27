@@ -222,8 +222,8 @@ function renderLiveTable() {
     } else {
       stratBadge = badge('None', 'gray');
     }
-    const eA = m.edgeA, eB = m.edgeB;
-    const bestEdge   = eA != null && eB != null ? (eA > eB ? eA : eB) : (eA ?? eB);
+    const momVal = m.momentumIndex != null ? m.momentumIndex.toFixed(0) : '—';
+    const momCls = m.momentumIndex != null ? pnlClass(m.momentumIndex) : '';
     const linked = m.externalMatchId ? '' : ' <span style="color:var(--red);font-size:10px">✗</span>';
     const isExpanded = _expandedMarket === m.betfairMarketId;
     return `<tr class="live-row${isExpanded ? ' selected' : ''}" data-id="${m.betfairMarketId}" style="cursor:pointer">
@@ -231,7 +231,7 @@ function renderLiveTable() {
       <td class="score">${setStr}</td>
       <td>${fmt.odds(m.playerABack)}</td>
       <td>${fmt.odds(m.playerBBack)}</td>
-      <td class="${bestEdge != null ? pnlClass(bestEdge) : ''}">${bestEdge != null ? fmt.pct(bestEdge) : '—'}</td>
+      <td class="${momCls}">${momVal}</td>
       <td>${fmt.vol(m.matchedVolume)}</td>
       <td>${stratBadge}</td>
     </tr>
@@ -991,7 +991,7 @@ function renderBetsTable(rows) {
       <td>${pnlHtml}</td>
       <td>${statusBadge}</td>
       <td>${r.dry_run ? badge('DRY','yellow') : badge('LIVE','blue')}</td>
-      <td>${r.hedge_odds != null ? fmt.odds(r.hedge_odds) : '—'}</td>
+      <td>${r.momentum_at_bet != null ? (r.momentum_at_bet > 0 ? '+' : '') + r.momentum_at_bet.toFixed(0) : '—'}</td>
       <td>${_sqDiffCell(r.bet_player_serve_quality_diff_s1)}</td>
       <td>${_sqDiffCell(r.bet_player_serve_quality_diff_s2)}</td>
       <td>${_sqDiffCell(r.bet_player_serve_quality_diff_trigger)}</td>
@@ -2522,18 +2522,31 @@ async function loadAnalysis() {
   }
 }
 
+function _calcDrawdown(bets) {
+  let cum = 0, peak = 0, maxDD = 0;
+  for (const b of bets) {
+    if (b.pnl == null) continue;
+    cum += b.pnl;
+    if (cum > peak) peak = cum;
+    const dd = peak - cum;
+    if (dd > maxDD) maxDD = dd;
+  }
+  return maxDD;
+}
 function renderAnalysisFilteredSummary(bets) {
   const wrap = $('an-filt-summary');
   if (!wrap) return;
   if (!_anFilter) { wrap.style.display = 'none'; return; }
   const filtPasses = _flBuildPassFn(_anFilter);
-  const filtered   = bets.filter(filtPasses);
+  const filtered   = bets.filter(filtPasses).slice().reverse();
   const settled    = filtered.filter(b => b.pnl != null);
   const wins       = settled.filter(b => b.pnl > 0);
   const pnl        = settled.reduce((s, b) => s + b.pnl, 0);
   const stakes     = settled.reduce((s, b) => s + (b.stake || 0), 0);
+  const avgOdds    = filtered.length ? filtered.reduce((s, b) => s + (b.requested_odds || 0), 0) / filtered.length : 0;
   const wr         = settled.length ? wins.length / settled.length * 100 : 0;
   const roi        = stakes > 0 ? pnl / stakes * 100 : 0;
+  const dd         = _calcDrawdown(filtered);
   wrap.style.display = '';
   $('an-filt-total').textContent = filtered.length;
   $('an-filt-wins').textContent  = wins.length;
@@ -2542,17 +2555,20 @@ function renderAnalysisFilteredSummary(bets) {
   $('an-filt-pnl').className     = 'val ' + pnlClass(pnl);
   $('an-filt-roi').textContent   = stakes > 0 ? fmt.pct(roi) : '—';
   $('an-filt-roi').className     = 'val ' + pnlClass(roi);
+  $('an-filt-avgodds').textContent = avgOdds > 0 ? avgOdds.toFixed(2) : '—';
+  $('an-filt-dd').textContent    = dd > 0 ? fmt.pnl(-dd) : '—';
+  $('an-filt-dd').className      = 'val ' + (dd > 0 ? 'neg' : '');
 }
-
 function renderAnalysisSummary(bets) {
-  const settled = bets.filter(b => b.pnl != null);
+  const sorted  = bets.slice().reverse();
+  const settled = sorted.filter(b => b.pnl != null);
   const wins    = settled.filter(b => b.pnl > 0);
   const pnl     = settled.reduce((s, b) => s + b.pnl, 0);
   const stakes  = settled.reduce((s, b) => s + (b.stake || 0), 0);
   const avgOdds = bets.length ? bets.reduce((s, b) => s + (b.requested_odds || 0), 0) / bets.length : 0;
   const wr      = settled.length ? wins.length / settled.length * 100 : 0;
   const roi     = stakes > 0 ? pnl / stakes * 100 : 0;
-
+  const dd      = _calcDrawdown(sorted);
   $('an-total').textContent   = bets.length;
   $('an-wins').textContent    = wins.length;
   $('an-wr').textContent      = settled.length ? fmt.pct(wr) : '—';
@@ -2561,13 +2577,9 @@ function renderAnalysisSummary(bets) {
   $('an-roi').textContent     = stakes > 0 ? fmt.pct(roi) : '—';
   $('an-roi').className       = 'val ' + pnlClass(roi);
   $('an-avgodds').textContent = avgOdds > 0 ? avgOdds.toFixed(2) : '—';
+  $('an-dd').textContent      = dd > 0 ? fmt.pnl(-dd) : '—';
+  $('an-dd').className        = 'val ' + (dd > 0 ? 'neg' : '');
 }
-
-// Sort state for the analysis strategy breakdown. Default = strategy number
-// (matching the Strategies page render order), ascending.
-let _anStratSort = { col: 'name', dir: 'asc' };
-let _anStratRows = [];
-
 function renderAnalysisStratTable(bets, allBets) {
   // Build a client-side filter pass function from the active Filter Lab state
   const filtPasses = _anFilter ? _flBuildPassFn(_anFilter) : null;
@@ -4362,7 +4374,7 @@ function _renderDeltaQualityBets() {
       <td>${pnlHtml}</td>
       <td>${statusBadge}</td>
       <td>${r.dry_run ? badge('DRY','yellow') : badge('LIVE','blue')}</td>
-      <td>${r.hedge_odds != null ? fmt.odds(r.hedge_odds) : '—'}</td>
+      <td>${r.momentum_at_bet != null ? (r.momentum_at_bet > 0 ? '+' : '') + r.momentum_at_bet.toFixed(0) : '—'}</td>
       <td>${_sqDiffCell(r.bet_player_serve_quality_diff_s1)}</td>
       <td>${_sqDiffCell(r.bet_player_serve_quality_diff_s2)}</td>
       <td>${_sqDiffCell(r.bet_player_serve_quality_diff_trigger)}</td>

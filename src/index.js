@@ -1138,6 +1138,7 @@ async function handleEntry(matchState, decision, openMarkets, system) {
     sizeMatched:         order.sizeMatched,
     averagePriceMatched: order.averagePriceMatched,
     sqDiffTrigger:       sqDiffTriggerForAlert,
+    momentumAtTrigger:   (matchState.momentumIndex ?? null) === null ? null : matchState.momentumIndex * (playerKey === 'A' ? 1 : -1),
     reason:              decision.reason,
     system:              system?.systemName,
     betId:               order.betId,
