@@ -420,6 +420,13 @@ function handleGetBetsCsv(req, res) {
       ];
       lines.push(row.join(','));
     }
+        esc(b.overOdds), esc(b.underOdds), esc(oddsT),
+        esc(b.timer), esc(scoreAtBet), esc(goalsNum),
+        esc(b.result), esc(finalScore), esc(b.finalGoals), esc(finalGoalsEst),
+        esc(b.avePoints),
+      ];
+      lines.push(row.join(','));
+    }
 
     const today = new Date().toISOString().slice(0, 10);
     res.setHeader('Content-Type', 'text/csv; charset=utf-8');
