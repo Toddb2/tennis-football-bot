@@ -161,11 +161,9 @@
       <option value="P1">P1 only</option>
       <option value="P2">P2 only</option>
     </select>
-    <span style="display:inline-flex;align-items:center;gap:4px;font-size:12px;color:var(--muted)">
+    <span style="display:inline-flex;align-items:center;gap:3px;font-size:12px;color:var(--muted)">
       Mom
-      <input type="number" id="bets-mom-min" placeholder="min" step="1" style="width:52px;padding:3px 5px;font-size:12px;background:var(--surface2);border:1px solid var(--border);border-radius:4px;color:var(--text)">
-      <span>–</span>
-      <input type="number" id="bets-mom-max" placeholder="max" step="1" style="width:52px;padding:3px 5px;font-size:12px;background:var(--surface2);border:1px solid var(--border);border-radius:4px;color:var(--text)">
+      <span id="bets-mom-buckets" style="display:inline-flex;gap:3px"></span>
     </span>
     <button class="btn btn-sm" id="bets-refresh">Refresh</button>
     <div class="sep"></div>
@@ -278,17 +276,6 @@
 
     <div class="fl-field">
       <label>Momentum at bet</label>
-      <div class="flex gap4 flex-wrap" style="margin-bottom:4px">
-        <button class="btn btn-sm fl-mom-preset" data-min="" data-max="-75">≤-75</button>
-        <button class="btn btn-sm fl-mom-preset" data-min="-100" data-max="-50">-100–-50</button>
-        <button class="btn btn-sm fl-mom-preset" data-min="-75" data-max="-25">-75–-25</button>
-        <button class="btn btn-sm fl-mom-preset" data-min="-50" data-max="0">-50–0</button>
-        <button class="btn btn-sm fl-mom-preset" data-min="-25" data-max="25">-25–25</button>
-        <button class="btn btn-sm fl-mom-preset" data-min="0" data-max="50">0–50</button>
-        <button class="btn btn-sm fl-mom-preset" data-min="25" data-max="75">25–75</button>
-        <button class="btn btn-sm fl-mom-preset" data-min="50" data-max="">≥50</button>
-        <button class="btn btn-sm fl-mom-preset" data-min="75" data-max="">≥75</button>
-      </div>
       <div class="fl-range"><input type="text" inputmode="decimal" id="fl-mom-min" placeholder="min"><span>–</span><input type="text" inputmode="decimal" id="fl-mom-max" placeholder="max"></div>
     </div>
     <div class="fl-field">

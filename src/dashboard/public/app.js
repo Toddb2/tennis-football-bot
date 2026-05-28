@@ -817,6 +817,30 @@ const SQ_BUCKETS = [
   { id: 'gt40',  label: '≥40',      test: v => v >= 40 },
 ];
 const _selectedSqBuckets = new Set();
+const MOM_BUCKETS = [
+  { id: 'ml100', label: '≤-75',     test: v => v <= -75 },
+  { id: 'ml50',  label: '-75–-25',  test: v => v > -75 && v <= -25 },
+  { id: 'ml25',  label: '-25–25',   test: v => v > -25 && v <= 25 },
+  { id: 'mh25',  label: '25–75',    test: v => v > 25 && v <= 75 },
+  { id: 'mh75',  label: '≥75',      test: v => v > 75 },
+];
+const _selectedMomBuckets = new Set();
+function _renderMomBucketPills() {
+  const wrap = $('bets-mom-buckets');
+  if (!wrap) return;
+  wrap.innerHTML = MOM_BUCKETS.map(b =>
+    `<button type="button" data-mid="${b.id}" class="sq-pill${_selectedMomBuckets.has(b.id) ? ' on' : ''}">${b.label}</button>`
+  ).join('');
+  wrap.querySelectorAll('button[data-mid]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const id = btn.dataset.mid;
+      _selectedMomBuckets.has(id) ? _selectedMomBuckets.delete(id) : _selectedMomBuckets.add(id);
+      btn.classList.toggle('on');
+      _betsPage = 0;
+      _applyBetsFilters();
+    });
+  });
+}
 const _SQ_SET_FIELD = {
   trig:  'bet_player_serve_quality_diff_trigger',
   s1:    'bet_player_serve_quality_diff_s1',
@@ -861,6 +885,14 @@ function _applyBetsFilters() {
     });
   }
 
+  if (_selectedMomBuckets.size) {
+    const tests = MOM_BUCKETS.filter(b => _selectedMomBuckets.has(b.id)).map(b => b.test);
+    rows = rows.filter(r => {
+      const v = r.momentum_at_bet;
+      if (v == null) return false;
+      return tests.some(t => t(v));
+    });
+  }
   S.bets = rows;
   renderBetsTable(rows);
   renderBetStratCharts(rows);
@@ -1522,8 +1554,7 @@ function initBetsTab() {
   $('bets-status').addEventListener('change', () => { _betsPage = 0; _applyBetsFilters(); });
   $('bets-sq-set')?.addEventListener('change', () => { _betsPage = 0; _applyBetsFilters(); });
   $('bets-side')?.addEventListener('change', () => { _betsPage = 0; _applyBetsFilters(); });
-  $('bets-mom-min')?.addEventListener('input', () => { _betsPage = 0; _applyBetsFilters(); });
-  $('bets-mom-max')?.addEventListener('input', () => { _betsPage = 0; _applyBetsFilters(); });
+  _renderMomBucketPills();
   $('bets-refresh').addEventListener('click', loadBets);
 
   // Click-sort on any header that declares data-col.  Numeric + null-safe.
