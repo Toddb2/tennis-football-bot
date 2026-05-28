@@ -4051,6 +4051,14 @@ function initFilterLab() {
     _renderFlStrategyDeltaGrid();
   });
   // Multi-select strategies popover
+  // Momentum preset buttons
+  document.querySelectorAll('.fl-mom-preset').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const min = btn.dataset.min, max = btn.dataset.max;
+      $('fl-mom-min').value = min;
+      $('fl-mom-max').value = max;
+    });
+  });
   $('fl-strategies').addEventListener('click', toggleFlStrategiesPop);
   document.addEventListener('click', e => {
     if (!e.target.closest('#fl-strategies') && !e.target.closest('#fl-strategies-pop')) {
@@ -4517,6 +4525,13 @@ function _flWriteFilters(f) {
   set('fl-odds-min', f.oddsMin); set('fl-odds-max', f.oddsMax);
   set('fl-edge-min', f.edgeMin); set('fl-edge-max', f.edgeMax);
   set('fl-mom-min',  f.momMin);  set('fl-mom-max',  f.momMax);
+  // Highlight active momentum preset
+  document.querySelectorAll('.fl-mom-preset').forEach(btn => {
+    const bMin = btn.dataset.min, bMax = btn.dataset.max;
+    const active = (bMin === '' || bMin === String(f.momMin ?? '')) &&
+                   (bMax === '' || bMax === String(f.momMax ?? ''));
+    btn.classList.toggle('active', active);
+  });
   set('fl-liq-min',  f.liqMin);  set('fl-liq-max',  f.liqMax);
   set('fl-sq-s1-min', f.sqS1Min); set('fl-sq-s1-max', f.sqS1Max);
   set('fl-sq-s2-min', f.sqS2Min); set('fl-sq-s2-max', f.sqS2Max);
