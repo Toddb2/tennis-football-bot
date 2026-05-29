@@ -865,6 +865,39 @@ function _renderSqBucketPills() {
   });
 }
 
+const _betsStrategies = new Set();
+function _updateBetsStrategyLabel() {
+  const n = _betsStrategies.size;
+  const el = $('bets-strategy-btn');
+  if (el) el.textContent = n === 0 ? 'All strategies' : n === 1 ? [..._betsStrategies][0] : `${n} selected`;
+}
+function toggleBetsStrategyPop(e) {
+  e.stopPropagation();
+  const pop = $('bets-strategy-pop');
+  if (!pop) return;
+  if (pop.style.display === 'none' || !pop.style.display) {
+    const r = $('bets-strategy-btn').getBoundingClientRect();
+    pop.style.position = 'fixed';
+    pop.style.top  = (r.bottom + 4) + 'px';
+    pop.style.left = r.left + 'px';
+    pop.style.display = 'block';
+  } else {
+    pop.style.display = 'none';
+  }
+}
+function _populateBetsStrategyPop(names) {
+  const pop = $('bets-strategy-pop');
+  if (!pop) return;
+  pop.innerHTML = names.map(n => `<label style="display:flex;align-items:center;gap:6px;padding:4px 8px;cursor:pointer;white-space:nowrap"><input type="checkbox" value="${n}" ${_betsStrategies.has(n) ? 'checked' : ''}> ${n}</label>`).join('');
+  pop.querySelectorAll('input[type=checkbox]').forEach(cb => {
+    cb.addEventListener('change', () => {
+      cb.checked ? _betsStrategies.add(cb.value) : _betsStrategies.delete(cb.value);
+      _updateBetsStrategyLabel();
+      _betsPage = 0;
+      _applyBetsFilters();
+    });
+  });
+}
 function _applyBetsFilters() {
   if (!S.allBets) return;
   const status = $('bets-status').value;
@@ -875,6 +908,7 @@ function _applyBetsFilters() {
   if (status === 'open')  rows = rows.filter(r => !r.settled_at);
   if (status === 'win')   rows = rows.filter(r => r.pnl != null && r.pnl > 0);
   if (status === 'loss')  rows = rows.filter(r => r.pnl != null && r.pnl < 0);
+  if (_betsStrategies.size) rows = rows.filter(r => _betsStrategies.has(r.strategy_name));
 
   if (_selectedSqBuckets.size) {
     const tests = SQ_BUCKETS.filter(b => _selectedSqBuckets.has(b.id)).map(b => b.test);
@@ -902,7 +936,7 @@ function _applyBetsFilters() {
 async function loadBets() {
   const periodVal = $('bets-period').value;
   const since    = periodVal === 'yesterday' ? '-2 days' : periodVal;
-  const strategy = $('bets-strategy').value;
+  // strategy filtering now done client-side via _betsStrategies
 
   // Only show Loading placeholder on first paint; on auto-refresh keep
   // existing rows visible so the table doesn't blink.
@@ -913,7 +947,7 @@ async function loadBets() {
 
   try {
     const [data, perfData] = await Promise.all([
-      api(`/api/db/bets?since=${encodeURIComponent(since)}&limit=2000${strategy ? '&strategy=' + encodeURIComponent(strategy) : ''}`),
+      api(`/api/db/bets?since=${encodeURIComponent(since)}&limit=2000`),
       api('/api/db/bets/performance'),
     ]);
 
@@ -935,16 +969,11 @@ async function loadBets() {
 
     // Populate strategy filter once.  Natural sort so Strat1 → Strat1h → Strat2
      // → Strat2h → Strat3 etc. — alphabetic puts Strat10 between Strat1 and Strat2.
-    if ($('bets-strategy').options.length <= 1) {
+    if (!$('bets-strategy-pop')?.children.length) {
       const names = [...new Set(perfData.map(p => p.strategy_name).filter(Boolean))]
         .filter(n => !DELETED_STRATEGIES.has(n))
         .sort(_naturalStratCompare);
-      names.forEach(n => {
-        const o = new Option(n, n);
-        $('bets-strategy').add(o);
-        $('live-strategy').add(new Option(n, n));
-        $('strat-refresh'); // will be populated later
-      });
+      _populateBetsStrategyPop(names);
     }
   } catch (e) {
     $('bets-tbody').innerHTML = `<tr><td colspan="17" class="empty">Error: ${e.message}</td></tr>`;
@@ -1547,13 +1576,18 @@ async function clearBetHistory() {
 
 function initBetsTab() {
   // Period + strategy require a full server fetch.
-  ['bets-period','bets-strategy'].forEach(id => {
-    $(id).addEventListener('change', loadBets);
-  });
+  $('bets-period').addEventListener('change', loadBets);
   // Status + SQ filter are pure client-side.  Re-apply over cached rows.
   $('bets-status').addEventListener('change', () => { _betsPage = 0; _applyBetsFilters(); });
+  $('bets-strategy-btn')?.addEventListener('click', toggleBetsStrategyPop);
+  document.addEventListener('click', e => {
+    if (!e.target.closest('#bets-strategy-btn') && !e.target.closest('#bets-strategy-pop')) {
+      const pop = $('bets-strategy-pop');
+      if (pop) pop.style.display = 'none';
+    }
+  });
   $('bets-sq-set')?.addEventListener('change', () => { _betsPage = 0; _applyBetsFilters(); });
-  $('bets-side')?.addEventListener('change', () => { _betsPage = 0; _applyBetsFilters(); });
+
   _renderMomBucketPills();
   $('bets-refresh').addEventListener('click', loadBets);
 
@@ -1719,13 +1753,12 @@ async function loadStrategies() {
     renderStrategyForms(cfg, perf);
 
     // Populate strategy filter dropdowns in other tabs (once)
-    if ($('bets-strategy').options.length <= 1) {
+    if (!$('bets-strategy-pop')?.children.length) {
       const names = [...new Set(perf.map(p => p.strategy_name).filter(Boolean))]
         .filter(n => !DELETED_STRATEGIES.has(n))
         .sort(_naturalStratCompare);
       names.forEach(n => {
-        $('bets-strategy').add(new Option(n, n));
-        $('live-strategy').add(new Option(n, n));
+        _populateBetsStrategyPop(sorted);
       });
     }
   } catch (e) {

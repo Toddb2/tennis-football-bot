@@ -139,7 +139,8 @@
       <option value="-30 days">Last 30 days</option>
       <option value="-365 days" selected>All time</option>
     </select>
-    <select id="bets-strategy"><option value="">All strategies</option></select>
+    <div id="bets-strategy-btn" class="fl-multi" style="min-width:120px;cursor:pointer">All strategies</div>
+    <div id="bets-strategy-pop" class="fl-multi-pop" style="display:none"></div>
     <select id="bets-status">
       <option value="">All</option>
       <option value="open">Open</option>
@@ -156,11 +157,7 @@
       </select>
       <span id="bets-sq-buckets" style="display:inline-flex;gap:3px"></span>
     </span>
-    <select id="bets-side">
-      <option value="">P1 &amp; P2</option>
-      <option value="P1">P1 only</option>
-      <option value="P2">P2 only</option>
-    </select>
+
     <span style="display:inline-flex;align-items:center;gap:3px;font-size:12px;color:var(--muted)">
       Mom
       <span id="bets-mom-buckets" style="display:inline-flex;gap:3px"></span>
