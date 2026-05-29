@@ -818,11 +818,16 @@ const SQ_BUCKETS = [
 ];
 const _selectedSqBuckets = new Set();
 const MOM_BUCKETS = [
-  { id: 'ml100', label: '≤-75',     test: v => v <= -75 },
-  { id: 'ml50',  label: '-75–-25',  test: v => v > -75 && v <= -25 },
-  { id: 'ml25',  label: '-25–25',   test: v => v > -25 && v <= 25 },
-  { id: 'mh25',  label: '25–75',    test: v => v > 25 && v <= 75 },
-  { id: 'mh75',  label: '≥75',      test: v => v > 75 },
+  { id: 'ml100', label: '≤-100',      test: v => v <= -100 },
+  { id: 'ml75',  label: '-100–-75',   test: v => v > -100 && v <= -75 },
+  { id: 'ml50',  label: '-75–-50',    test: v => v > -75  && v <= -50 },
+  { id: 'ml25',  label: '-50–-25',    test: v => v > -50  && v <= -25 },
+  { id: 'ml0',   label: '-25–0',      test: v => v > -25  && v <= 0   },
+  { id: 'mh0',   label: '0–25',       test: v => v > 0    && v <= 25  },
+  { id: 'mh25',  label: '25–50',      test: v => v > 25   && v <= 50  },
+  { id: 'mh50',  label: '50–75',      test: v => v > 50   && v <= 75  },
+  { id: 'mh75',  label: '75–100',     test: v => v > 75   && v <= 100 },
+  { id: 'mh100', label: '≥100',       test: v => v > 100  },
 ];
 const _selectedMomBuckets = new Set();
 function _renderMomBucketPills() {
