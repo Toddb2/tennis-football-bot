@@ -2586,7 +2586,7 @@ async function loadAnalysis() {
     _anDaily   = daily;
     _anFilter  = flState && Object.keys(flState).length ? flState : null;
     renderAnalysisSummary(_anBets);
-    renderAnalysisFilteredSummary(_anAllBets);
+    renderAnalysisFilteredSummary(_anBets);
     renderAnalysisStratTable(_anBets, _anAllBets);
     renderAnalysisChart();
   } catch (e) {
