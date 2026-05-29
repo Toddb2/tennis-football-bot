@@ -20,7 +20,7 @@ const EventEmitter = require('events');
 const http         = require('http');
 const logger       = require('../utils/logger');
 
-const CBB_URL            = process.env.CBB_URL       || 'http://77.72.7.148:6616';
+const CBB_URL            = process.env.CBB_URL       || 'https://api.ballzapp.com';
 const POLL_INTERVAL_MS   = parseInt(process.env.CBB_POLL_MS || '5000', 10);
 const FAIL_THRESHOLD     = parseInt(process.env.CBB_FAIL_THRESHOLD || '3', 10);
 
@@ -53,7 +53,7 @@ class CbbPoller extends EventEmitter {
     const date = new Date().toISOString().slice(0, 10);
     try {
       const resp = await new Promise((resolve, reject) => {
-        const url = new URL(`${CBB_URL}/api/tennis/external/prices?date=${date}`);
+        const url = new URL(`${CBB_URL}/tennis/external/prices?date=${date}`);
         const req = http.get({ hostname: url.hostname, port: url.port, path: url.pathname + url.search, timeout: 10000, headers: { 'Connection': 'close' } }, (res) => {
           let data = '';
           res.on('data', chunk => { data += chunk; });

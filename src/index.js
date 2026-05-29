@@ -1049,6 +1049,7 @@ async function handleEntry(matchState, decision, openMarkets, system) {
   // ── Place the order ──────────────────────────────────────────────────────
   const playerName   = playerKey === 'A' ? matchState.playerAName : matchState.playerBName;
   const playerLabel  = playerName || `Player ${playerKey}`;
+  const _momentumAtBet = (matchState.momentumIndex ?? null) === null ? null : matchState.momentumIndex * (playerKey === 'A' ? 1 : -1);
   const placeFn      = side === 'BACK' ? 'placeBack' : 'placeLay';
 
   const order = await orderManager[placeFn](
@@ -1064,6 +1065,7 @@ async function handleEntry(matchState, decision, openMarkets, system) {
       reason:       decision.reason,
       exitConfig:   system?.exit || null,
       setsAtEntry: (matchState.sets || []).filter(isSetComplete).length,
+      momentumAtBet:  _momentumAtBet,
     }
   );
 

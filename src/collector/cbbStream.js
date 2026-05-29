@@ -14,10 +14,11 @@
  */
 
 const EventEmitter = require('events');
+const https        = require('https');
 const http         = require('http');
 const logger       = require('../utils/logger');
 
-const CBB_URL         = (process.env.CBB_URL || 'http://77.72.7.148:6616').replace(/\/$/, '');
+const CBB_URL         = (process.env.CBB_URL || 'https://api.ballzapp.com').replace(/\/$/, '');
 const RECONNECT_MS    = parseInt(process.env.CBB_RECONNECT_MS  || '5000',  10);
 const FAIL_THRESHOLD  = parseInt(process.env.CBB_FAIL_THRESHOLD || '3',     10);
 
@@ -49,15 +50,17 @@ class CbbStream extends EventEmitter {
   _connect() {
     if (this._stopped) return;
 
-    const path = '/api/tennis/external/stream?inPlay=true';
+    const path = '/tennis/external/stream?inPlay=true';
     logger.info('CbbStream: connecting', { path });
 
     let buffer = '';
 
-    const req = http.get({
-      hostname: '77.72.7.148',
-      port:     6616,
-      path,
+    const parsedUrl = new URL(CBB_URL + path);
+    const useHttps = parsedUrl.protocol === 'https:';
+    const req = (useHttps ? https : http).get({
+      hostname: parsedUrl.hostname,
+      port:     parsedUrl.port || (useHttps ? 443 : 80),
+      path:     parsedUrl.pathname + parsedUrl.search,
       headers:  { Accept: 'text/event-stream', Connection: 'keep-alive' },
       timeout:  30000,
     }, (res) => {
