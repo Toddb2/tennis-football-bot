@@ -952,9 +952,10 @@ async function loadBets() {
   }
 
   try {
-    const [data, perfData] = await Promise.all([
+    const [data, perfData, bfbmFilter] = await Promise.all([
       api(`/api/db/bets?since=${encodeURIComponent(since)}&limit=2000`),
       api('/api/db/bets/performance'),
+      api('/api/bfbm-filter').catch(() => null),   // active gate — used to tag each row in/out of the filtered set
     ]);
 
     let rows = data.bets || [];
@@ -967,6 +968,7 @@ async function loadBets() {
 
     S.allBets     = rows;            // post-period rows for the table base
     S.performance = perfData;
+    S.bfbmFilter  = bfbmFilter || null;   // null when no gate is active → no in/out tag shown
 
     _betsPage = 0;
     _renderSqBucketPills();
@@ -1028,6 +1030,9 @@ function renderBetsTable(rows) {
   const start = _betsPage * BETS_PAGE_SIZE;
   const pageRows = rows.slice(start, start + BETS_PAGE_SIZE);
 
+  // When a BFBM gate is active, tag each row as in/out of the filtered set.
+  const flPass = S.bfbmFilter ? _flBuildPassFn(S.bfbmFilter) : null;
+
   $('bets-tbody').innerHTML = pageRows.map((r, i) => {
     const settled = r.settlement_type;
     const liveMatch = S.liveMatches.find(m => m.betfairMarketId === r.betfair_market_id);
@@ -1047,11 +1052,20 @@ function renderBetsTable(rows) {
       } catch (_) {}
     }
 
+    const nameHtml = r.pnl > 0
+      ? `<span style="color:var(--green);font-weight:600">${r.player_name || '—'}</span>`
+      : (r.pnl != null && r.pnl <= 0 ? `<span style="color:var(--red)">${r.player_name || '—'}</span>` : (r.player_name || '—'));
+    const flTag = flPass
+      ? (flPass(r)
+          ? `<span class="badge badge-green" title="Passes the active BFBM filter — included in filtered bets">filtered</span>`
+          : `<span class="badge badge-gray" title="Excluded by the active BFBM filter — not in filtered bets">excluded</span>`)
+      : '';
+
     return `<tr class="bet-row" data-betidx="${i}" data-betid="${r.bet_id}" style="cursor:pointer">
       <td class="wrap"><strong>${r.match_name || '—'}</strong></td>
       <td class="score">${scoreStr}</td>
       <td>${r.strategy_name || '—'}</td>
-      <td>${r.pnl > 0 ? `<span style="color:var(--green);font-weight:600">${r.player_name || '—'}</span>` : (r.pnl != null && r.pnl <= 0 ? `<span style="color:var(--red)">${r.player_name || '—'}</span>` : (r.player_name || '—'))}</td>
+      <td>${nameHtml} ${flTag}</td>
       <td>${r.side || '—'}</td>
       <td>${fmt.odds(r.requested_odds)}</td>
       <td>£${r.stake?.toFixed(2) || '—'}</td>
@@ -4941,8 +4955,36 @@ async function _refreshDqPresetDropdown() {
   select.innerHTML =
     `<option value="__delta_quality__">${DQ_PRESET_NAME} (per-strategy SQ delta)</option>` +
     userNames.map(n => `<option value="${n}">${n}</option>`).join('');
-  // Restore previous selection if still present
-  select.value = [...select.options].some(o => o.value === cur) ? cur : '__delta_quality__';
+
+  // Selection priority: keep the user's explicit choice if it's still a real
+  // preset; otherwise default to whichever preset is currently ACTIVE (matches
+  // the live BFBM gate), and only then fall back to the built-in default.
+  let target = userNames.includes(cur) ? cur : '__delta_quality__';
+  if (!userNames.includes(cur)) {
+    try {
+      const active = await fetch('/api/bfbm-filter').then(r => r.json());
+      const match  = active && userNames.find(n => _filtersEquivalent(userPresets[n], active));
+      if (match) target = match;
+    } catch (_) {}
+  }
+  select.value = [...select.options].some(o => o.value === target) ? target : '__delta_quality__';
+}
+
+// True when two saved filter objects describe the same criteria (ignoring the
+// savedAt/presetName metadata the BFBM gate carries). Lets us detect which saved
+// preset is the one currently applied as the live BFBM gate.
+function _filtersEquivalent(a, b) {
+  if (!a || !b) return false;
+  const strip = o => { const { savedAt, presetName, ...rest } = o; return rest; };
+  const deepEq = (x, y) => {
+    if (x === y) return true;
+    if (x == null || y == null) return x === y;
+    if (typeof x !== 'object' || typeof y !== 'object') return false;
+    const kx = Object.keys(x), ky = Object.keys(y);
+    if (kx.length !== ky.length) return false;
+    return kx.every(k => deepEq(x[k], y[k]));
+  };
+  return deepEq(strip(a), strip(b));
 }
 
 async function _resolveDqPreset() {
