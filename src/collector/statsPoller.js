@@ -932,7 +932,9 @@ class StatsPoller {
     const [rawA, rawB] = raw.split('-');
     const mapPt = v => {
       const s = String(v || '0').toUpperCase().trim();
-      return POINT_MAP[s] ?? parseInt(s) ?? 0;
+      if (POINT_MAP[s] != null) return POINT_MAP[s];
+      const n = parseInt(s, 10);   // `?? parseInt(s) ?? 0` left NaN through (NaN is not null)
+      return Number.isNaN(n) ? 0 : n;
     };
     return { playerA: mapPt(rawA), playerB: mapPt(rawB) };
   }

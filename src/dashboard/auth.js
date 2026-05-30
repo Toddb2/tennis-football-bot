@@ -59,7 +59,7 @@ function requireAuth(req, res, next) {
   if (req.path === '/login' || req.path === '/logout') return next();
   // public CSV feeds for BFBM Bot Manager (no auth — needed for HTTP polling)
   if (req.path === '/football/api/upload.csv' || req.path === '/football/api/bfbm-csv' ||
-      req.path === '/api/bfbm/export' || req.path === '/api/bfbm-signals.csv' || req.path === '/api/tennis.csv' || req.path === '/football/api/football.csv') return next();
+      req.path === '/api/bfbm/export' || req.path === '/api/bfbm-signals.csv' || req.path === '/api/tennis.csv') return next();
   if (isAuthed(req)) return next();
   // For API/XHR calls return 401; for page loads redirect to /login
   const accept = req.headers.accept || '';
