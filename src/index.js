@@ -1086,6 +1086,24 @@ async function handleEntry(matchState, decision, openMarkets, system) {
   const _momentumAtBet = (matchState.momentumIndex ?? null) === null ? null : matchState.momentumIndex * (playerKey === 'A' ? 1 : -1);
   const placeFn      = side === 'BACK' ? 'placeBack' : 'placeLay';
 
+  // ── SAFEGUARD: never bet the wrong player (P1/P2 reversal backstop) ────────
+  // The bet's slot name must NOT resolve to the OPPOSITE title player. If it does,
+  // the A/B alignment is broken — REFUSE the bet and log loudly rather than place it
+  // on the wrong side. The runner-array title-alignment makes this impossible in
+  // normal operation; this guarantees a mis-sided bet can never be placed silently.
+  const [_titleA, _titleB] = String(matchState.matchName || '').split(' v ').map(s => s.trim());
+  if (_titleA && _titleB) {
+    const _ownTitle = playerKey === 'A' ? _titleA : _titleB;
+    const _oppTitle = playerKey === 'A' ? _titleB : _titleA;
+    if (playerNamesMatch(playerLabel, _oppTitle) && !playerNamesMatch(playerLabel, _ownTitle)) {
+      logger.error('index: BET BLOCKED — player/side misaligned (P1/P2 reversal guard)', {
+        marketId, playerKey, playerName: playerLabel, titleA: _titleA, titleB: _titleB,
+        selectionId, runnerIdA: matchState.runnerIdA, runnerIdB: matchState.runnerIdB });
+      logRejection('SIDE_MISMATCH', `bet player "${playerLabel}" resolves to opposite title slot (${_oppTitle})`);
+      return;
+    }
+  }
+
   const order = await orderManager[placeFn](
     marketId,
     selectionId,
