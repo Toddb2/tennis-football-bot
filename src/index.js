@@ -112,6 +112,7 @@ const { computeMomentum }         = require('./algorithm/momentumDetector');
 const systemEvaluator   = require('./algorithm/systemEvaluator');
 const strategyEngine    = require('./algorithm/strategyEngine');
 const { isSetComplete } = strategyEngine;
+const { playerNamesMatch } = require('./utils/helpers');
 const riskManager       = require('./risk/riskManager');
 const OrderManager      = require('./execution/orderManager');
 const dashboard         = require('./dashboard/server');
@@ -273,6 +274,11 @@ function _checkPriceMilestones(matchState) {
 // Match logging — write a compact record when a live match ends
 const MATCH_LOG_PATH = path.join(__dirname, '../data/match_log.jsonl');
 const _prevLiveSnapshots = new Map();  // marketId → last matchState snapshot
+
+// Rate-limit the api-tennis settlement fallback so a match that ended off-feed
+// (or is still finishing) is polled at most once every few minutes, not every loop.
+const _lastApiSettleAttempt = new Map();  // marketId → ms of last api-tennis settle attempt
+const API_SETTLE_COOLDOWN_MS = 3 * 60 * 1000;
 
 function logCompletedMatch(snapshot) {
   // Settle any open DRY_RUN bet for this market now that the match is over
@@ -438,9 +444,11 @@ async function runMainLoop() {
       if (!_openBetIds.has(betId)) _pendingHedges.delete(betId);
     }
 
-    // Log completed matches (markets that were live last loop but are gone now)
+    // Log completed matches — only when a market has genuinely left the store
+    // (closed, or feed dropped). Markets that are merely SUSPENDED (between
+    // games/sets) remain in the store and must not be treated as finished.
     for (const [marketId, snapshot] of _prevLiveSnapshots.entries()) {
-      if (!liveMarketIds.has(marketId)) {
+      if (!stateStore.get(marketId)) {
         logCompletedMatch(snapshot);
         // Record match-end price milestone
         try {
@@ -459,8 +467,10 @@ async function runMainLoop() {
         _preMatchMilestoneRecorded.delete(marketId);
       }
     }
-    // Update snapshot store
-    for (const m of allLiveMatches) {
+    // Update snapshot store for every tracked match (including SUSPENDED) so the
+    // match-end record reflects the final score even if the match ended while the
+    // market was suspended and never returned to LIVE.
+    for (const m of stateStore.getAll()) {
       _prevLiveSnapshots.set(m.betfairMarketId, m.toSnapshot ? m.toSnapshot() : m);
     }
 
@@ -469,39 +479,50 @@ async function runMainLoop() {
       _checkPriceMilestones(matchState);
     }
 
-    // Settle stale DRY_RUN bets for markets that are no longer live
-    // (handles the case where bot restarted after a match ended, OR the
-    // Betfair stream dropped the market before settlement). Tries in order:
-    //   1. parse last DB snapshot and pass to settleDryRunOrder
-    //   2. if that gives up (sets tied, no extreme odds), query api-tennis
-    //      via external_match_id and force-settle with the official winner
+    // Settle stale DRY_RUN bets — the backstop for matches the bot did NOT watch
+    // to completion (bot restarted after the match ended, or the Betfair feed
+    // dropped the market before the final point). A market only qualifies as
+    // "stale" once it has left the store entirely; a merely SUSPENDED market is
+    // still tracked and is handled by the normal live/close paths. Order:
+    //   1. settle from the last DB snapshot if it shows a completed 2-set result
+    //   2. otherwise (feed lost mid-match / retirement) ask api-tennis for the
+    //      official winner — rate-limited so we don't poll every 5s.
     const _settledStaleMarkets = new Set();
     for (const [betId, order] of orderManager.openOrders.entries()) {
-      if (order.dryRun && !liveMarketIds.has(order.marketId) && !_settledStaleMarkets.has(order.marketId)) {
-        _settledStaleMarkets.add(order.marketId);
-        logger.info('index: settling stale DRY_RUN order — market no longer live', {
-          marketId: order.marketId, matchName: order.matchName,
-        });
-        try {
-          const snaps = snapshotRepo.getForMarket(order.marketId);
-          const lastSnap = snaps.length ? snaps[snaps.length - 1] : null;
-          // Parse JSON fields stored as strings in SQLite so settleDryRunOrder
-          // can read snapshot.sets as an array (raw DB row gives a string).
-          const parsedSnap = lastSnap ? {
-            ...lastSnap,
-            sets: (() => { try { return JSON.parse(lastSnap.sets || '[]'); } catch (_) { return []; } })(),
-            playerABack: lastSnap.player_a_back,
-            playerBBack: lastSnap.player_b_back,
-          } : {};
-          const settled = orderManager.settleDryRunOrder(order.marketId, parsedSnap);
-          if (settled !== false && orderManager.getOpenPositionForMarket(order.marketId)) {
-            // Snapshot couldn't determine winner — fall back to api-tennis.
+      if (!order.dryRun) continue;
+      if (stateStore.get(order.marketId)) continue;        // still tracked (live/suspended) — not stale
+      if (_settledStaleMarkets.has(order.marketId)) continue;
+      _settledStaleMarkets.add(order.marketId);
+      try {
+        const snaps = snapshotRepo.getForMarket(order.marketId);
+        const lastSnap = snaps.length ? snaps[snaps.length - 1] : null;
+        // Parse JSON fields stored as strings in SQLite so settleDryRunOrder
+        // can read snapshot.sets as an array (raw DB row gives a string).
+        const parsedSnap = lastSnap ? {
+          ...lastSnap,
+          sets: (() => { try { return JSON.parse(lastSnap.sets || '[]'); } catch (_) { return []; } })(),
+          playerABack: lastSnap.player_a_back,
+          playerBBack: lastSnap.player_b_back,
+        } : {};
+        const settled = orderManager.settleDryRunOrder(order.marketId, parsedSnap);
+        if (settled !== true && orderManager.getOpenPositionForMarket(order.marketId)) {
+          // Set scores couldn't decide it — fall back to the official api-tennis
+          // result, but no more often than API_SETTLE_COOLDOWN_MS per market.
+          const now = Date.now();
+          const last = _lastApiSettleAttempt.get(order.marketId) || 0;
+          if (now - last >= API_SETTLE_COOLDOWN_MS) {
+            _lastApiSettleAttempt.set(order.marketId, now);
+            logger.info('index: settling stale DRY_RUN order via api-tennis', {
+              marketId: order.marketId, matchName: order.matchName,
+            });
             await _settleViaApiTennis(order.marketId).catch(e =>
               logger.warn('index: api-tennis fallback failed', { marketId: order.marketId, message: e.message }));
           }
-        } catch (e) {
-          logger.warn('index: stale settle threw', { marketId: order.marketId, message: e.message });
+        } else if (settled === true) {
+          _lastApiSettleAttempt.delete(order.marketId);
         }
+      } catch (e) {
+        logger.warn('index: stale settle threw', { marketId: order.marketId, message: e.message });
       }
     }
 
@@ -856,16 +877,40 @@ async function _settleViaApiTennis(marketId) {
   if (!fx) return;
   const winnerLabel = fx.event_winner; // "First Player" | "Second Player" | null
   if (winnerLabel !== 'First Player' && winnerLabel !== 'Second Player') return;
-  const winner = winnerLabel === 'First Player' ? 'A' : 'B';
-  // Build a synthetic snapshot whose `sets` array forces the chosen winner.
-  // settleDryRunOrder's set-based path picks A if setsA > setsB (or B reversed).
-  const fakeSets = winner === 'A'
-    ? [{ playerA: 6, playerB: 0 }, { playerA: 6, playerB: 0 }]
-    : [{ playerA: 0, playerB: 6 }, { playerA: 0, playerB: 6 }];
-  logger.info('index: api-tennis settling stale match', {
-    marketId, matchName: market.match_name, winner, eventStatus: fx.event_status,
+
+  // Only settle on a genuinely finished match. api-tennis marks live matches with
+  // event_live === '1'; a finished fixture is event_live '0' (status "Finished" /
+  // "Retired" / "Walkover"). Guards against settling a match still in progress.
+  const stillLive = String(fx.event_live) === '1'
+    && String(fx.event_status || '').toLowerCase() !== 'finished';
+  if (stillLive) {
+    logger.info('index: api-tennis result not final yet — deferring settle', {
+      marketId, eventStatus: fx.event_status,
+    });
+    return;
+  }
+
+  // Map the winner to THIS market's A/B by player NAME, not by feed position —
+  // the api-tennis and Betfair feeds can order the two players differently, so a
+  // positional "First Player → A" mapping would settle the wrong side. Fall back
+  // to positional only if the names can't be matched.
+  const winnerName = winnerLabel === 'First Player' ? fx.event_first_player : fx.event_second_player;
+  let winner = null;
+  if (winnerName && market.player_a_name && playerNamesMatch(winnerName, market.player_a_name)) {
+    winner = 'A';
+  } else if (winnerName && market.player_b_name && playerNamesMatch(winnerName, market.player_b_name)) {
+    winner = 'B';
+  } else {
+    winner = winnerLabel === 'First Player' ? 'A' : 'B';
+    logger.warn('index: api-tennis winner name did not match market players — using positional', {
+      marketId, winnerName, playerA: market.player_a_name, playerB: market.player_b_name,
+    });
+  }
+
+  logger.info('index: api-tennis settling finished match', {
+    marketId, matchName: market.match_name, winner, winnerName, eventStatus: fx.event_status,
   });
-  orderManager.settleDryRunOrder(marketId, { sets: fakeSets });
+  orderManager.settleDryRunOrder(marketId, {}, { officialWinner: winner });
 }
 
 function checkDryRunMatchEnd(matchState) {
@@ -873,41 +918,30 @@ function checkDryRunMatchEnd(matchState) {
   const order = orderManager.getOpenPositionForMarket(betfairMarketId);
   if (!order || !order.dryRun) return false;
 
-  // If the bet has a set-result exit config, extreme odds mid-set are not a reliable
-  // match-end signal — a player can be at 1.02 while serving for the set at 5-4, then
-  // lose. Only the set-score path is safe for these bets.
-  const exitCfg = (() => { try { return JSON.parse(order.exitConfig || 'null'); } catch(_) { return null; } })();
-  const hasSetHedge = exitCfg?.type === 'set_result';
-
-  // (a) Extreme odds — one player has effectively won (skip for set-hedge bets)
-  const oddsA = matchState.playerABack;
-  const oddsB = matchState.playerBBack;
-  const oddsExtreme = !hasSetHedge &&
-    ((oddsA != null && oddsA <= 1.05) || (oddsB != null && oddsB <= 1.05));
-
-  // (b) Best-of-3 set winner determined from completed set scores
+  // Settle only when the match is genuinely decided: a best-of-3 winner from
+  // COMPLETED set scores (the bot blocks best-of-5, so 2 sets always decides).
+  // We deliberately do NOT trigger on "extreme odds" any more — a player can sit
+  // at ≤1.05 while serving for a set and then lose, and Betfair markets suspend
+  // between games/sets, so live odds are not a reliable match-end signal. The
+  // odds-based path previously settled bets early and on the wrong side.
   let setsWonA = 0;
   let setsWonB = 0;
   for (const s of (matchState.sets || [])) {
     if (!isSetComplete(s)) continue;
     if (s.playerA > s.playerB) setsWonA++; else setsWonB++;
   }
-  const setWinnerFound = setsWonA >= 2 || setsWonB >= 2;
+  if (setsWonA < 2 && setsWonB < 2) return false;
 
-  if (!oddsExtreme && !setWinnerFound) return false;
-
-  logger.info('index: dry-run match-end detected — force settling open position', {
+  logger.info('index: dry-run match-end detected — settling open position', {
     marketId:    betfairMarketId,
     matchName:   matchState.matchName,
-    oddsExtreme,
-    setWinnerFound,
     setsWonA,
     setsWonB,
   });
 
-  orderManager.settleDryRunOrder(betfairMarketId, matchState);
-  try { bfbmExport.removeMarketSignals(betfairMarketId); } catch (_) {}
-  return true;
+  const settled = orderManager.settleDryRunOrder(betfairMarketId, matchState);
+  if (settled) { try { bfbmExport.removeMarketSignals(betfairMarketId); } catch (_) {} }
+  return settled === true;
 }
 
 /**

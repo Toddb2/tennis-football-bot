@@ -70,7 +70,8 @@ function initTabs() {
       if (btn.dataset.tab === 'filter-lab') openFilterLab();
       if (btn.dataset.tab === 'analysis')   loadAnalysis();
       if (btn.dataset.tab === 'strategies') loadStrategies();
-      if (btn.dataset.tab === 'ai')         loadAiHistory();
+      if (btn.dataset.tab === 'strategy-lab') loadStrategyLab();
+      if (btn.dataset.tab === 'ai')         loadAiChat();
       if (btn.dataset.tab === 'exceptions') loadExceptions();
       if (btn.dataset.tab === 'system')     loadSystem();
     });
@@ -1207,7 +1208,13 @@ function _buildBetDetail(r, prefix = 'bch') {
     <div class="mdi-section">
       <div class="mdi-title">Context</div>
       ${kv('Strategy', r.strategy_name)}
-      ${kv('Signal', r.reason)}
+      ${(() => {
+        // Pull the strategy's CURRENT description from the live config (by name) so
+        // it always reflects what's in the Strategies tab — even after it's edited.
+        const sys = (S.strategies || []).find(x => x.name === r.strategy_name);
+        return sys && sys.description ? kv('Description', sys.description) : '';
+      })()}
+      ${kv('Signal at entry', r.reason)}
       ${kv('Market', mid)}
     </div>
   </div>
@@ -1762,9 +1769,7 @@ async function loadStrategies() {
       const names = [...new Set(perf.map(p => p.strategy_name).filter(Boolean))]
         .filter(n => !DELETED_STRATEGIES.has(n))
         .sort(_naturalStratCompare);
-      names.forEach(n => {
-        _populateBetsStrategyPop(sorted);
-      });
+      _populateBetsStrategyPop(names);
     }
   } catch (e) {
     $('strat-edit-container').innerHTML = `<div class="empty">Error: ${e.message}</div>`;
@@ -2290,7 +2295,266 @@ function initStrategiesTab() {
 }
 
 function initAiTab() {
-  initAiAnalysis();
+  initAiChat();
+}
+
+// ════════════════════════════════════════════════════════════════════════════
+// AI ANALYST — streaming chat with file upload + persistent conversations
+// ════════════════════════════════════════════════════════════════════════════
+let _aiChatConvId      = null;
+let _aiChatConvs       = [];
+let _aiChatAttachments = [];   // [{ name, content }]
+let _aiChatStreaming   = false;
+
+const AICHAT_PRESETS = [
+  { label: '🔍 Find new strategies', prompt: 'Do a deep dive across all my data and propose 3-5 new strategies with minimal overlap to my existing live strategies. Ship the strongest candidates to the Strategy Lab using the propose_new_strategy tool.' },
+  { label: '🎯 Review my filters',   prompt: 'Review my current filters against actual settled-bet performance. For each active filter, is it too tight or too loose? Give specific, quantified recommendations with data evidence.' },
+  { label: '📊 Performance deep dive', prompt: 'Give me a thorough performance breakdown by strategy, surface, and odds range. Where am I making and losing money, and what patterns explain it?' },
+  { label: '⚠️ What should I cut?',  prompt: 'Which of my live strategies are underperforming and worth disabling? Justify each with specific data.' },
+];
+
+function initAiChat() {
+  const presets = $('aichat-presets');
+  if (presets) presets.innerHTML = AICHAT_PRESETS.map((p, i) =>
+    `<button class="aichat-preset" onclick="_aiChatPreset(${i})">${_esc(p.label)}</button>`).join('');
+
+  $('aichat-new-btn').addEventListener('click', newAiChatConv);
+  $('aichat-send-btn').addEventListener('click', sendAiChat);
+  $('aichat-attach-btn').addEventListener('click', () => $('aichat-file').click());
+  $('aichat-file').addEventListener('change', e => { _aiChatAddFiles(e.target.files); e.target.value = ''; });
+
+  const input = $('aichat-input');
+  input.addEventListener('keydown', e => {
+    if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendAiChat(); }
+  });
+  input.addEventListener('input', () => { input.style.height = 'auto'; input.style.height = Math.min(input.scrollHeight, 160) + 'px'; });
+
+  loadAiChat();
+}
+
+function _aiChatPreset(i) {
+  const p = AICHAT_PRESETS[i];
+  if (!p) return;
+  $('aichat-input').value = p.prompt;
+  sendAiChat();
+}
+
+async function loadAiChat() {
+  try {
+    const data = await api('/api/ai-chat/conversations');
+    _aiChatConvs = data.conversations || [];
+    renderAiChatConvList();
+  } catch (_) {}
+}
+
+function renderAiChatConvList() {
+  const el = $('aichat-conv-list');
+  if (!el) return;
+  if (!_aiChatConvs.length) { el.innerHTML = '<div class="ai-hist-empty">No conversations yet</div>'; return; }
+  el.innerHTML = _aiChatConvs.map(c => {
+    const active = c.id === _aiChatConvId;
+    const when = c.updated_at ? new Date(c.updated_at).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' }) : '';
+    return `<div class="ai-hist-item${active ? ' active' : ''}" onclick="openAiChatConv(${c.id})">
+      <div class="ai-hist-when">${_esc(c.title || 'Conversation')}</div>
+      <div class="ai-hist-meta">${c.message_count || 0} msgs · ${when}
+        <span class="aichat-del" onclick="event.stopPropagation();deleteAiChatConv(${c.id})" title="Delete">✕</span></div>
+    </div>`;
+  }).join('');
+}
+
+function newAiChatConv() {
+  _aiChatConvId = null;
+  _aiChatAttachments = [];
+  renderAiChatAttachments();
+  $('aichat-thread').innerHTML = `<div class="ai-placeholder" id="aichat-empty">
+      <div class="ai-placeholder-icon">🤖</div>
+      <div class="ai-placeholder-title">AI Analyst</div>
+      <div class="ai-placeholder-sub">Ask anything about your bot's performance, or use a deep-dive preset below.</div>
+    </div>`;
+  renderAiChatConvList();
+  $('aichat-input').focus();
+}
+
+async function openAiChatConv(id) {
+  try {
+    const data = await api('/api/ai-chat/conversations/' + id);
+    _aiChatConvId = id;
+    renderAiChatConvList();
+    const thread = $('aichat-thread');
+    thread.innerHTML = '';
+    for (const m of (data.conversation.messages || [])) {
+      _aiChatAppendMessage(m.role, m.content, m.proposals, m.attachments, m.tokens_used);
+    }
+    thread.scrollTop = thread.scrollHeight;
+  } catch (e) { alert('Could not open conversation: ' + e.message); }
+}
+
+async function deleteAiChatConv(id) {
+  if (!confirm('Delete this conversation?')) return;
+  try {
+    await fetch('/api/ai-chat/conversations/' + id, { method: 'DELETE' });
+    if (_aiChatConvId === id) newAiChatConv();
+    await loadAiChat();
+  } catch (_) {}
+}
+
+function _aiChatAddFiles(fileList) {
+  for (const f of fileList) {
+    const isPdf = f.type === 'application/pdf' || /\.pdf$/i.test(f.name);
+    const cap = isPdf ? 12_000_000 : 2_000_000;
+    if (f.size > cap) { alert(`${f.name} is too large (max ${isPdf ? 12 : 2} MB).`); continue; }
+    const reader = new FileReader();
+    if (isPdf) {
+      reader.onload = () => {
+        const s = String(reader.result || '');
+        const b64 = s.slice(s.indexOf(',') + 1);   // strip "data:application/pdf;base64,"
+        _aiChatAttachments.push({ name: f.name, kind: 'pdf', data: b64 });
+        renderAiChatAttachments();
+      };
+      reader.readAsDataURL(f);
+    } else {
+      reader.onload = () => {
+        _aiChatAttachments.push({ name: f.name, kind: 'text', content: String(reader.result || '') });
+        renderAiChatAttachments();
+      };
+      reader.readAsText(f);
+    }
+  }
+}
+
+function renderAiChatAttachments() {
+  const el = $('aichat-attachments');
+  if (!el) return;
+  el.innerHTML = _aiChatAttachments.map((a, i) =>
+    `<span class="aichat-chip">📄 ${_esc(a.name)} <span onclick="_aiChatRemoveFile(${i})" style="cursor:pointer">✕</span></span>`).join('');
+}
+function _aiChatRemoveFile(i) { _aiChatAttachments.splice(i, 1); renderAiChatAttachments(); }
+
+// Render one persisted/finished message bubble. Returns the body element.
+function _aiChatAppendMessage(role, content, proposals, attachments, tokens) {
+  const empty = $('aichat-empty'); if (empty) empty.remove();
+  const thread = $('aichat-thread');
+  const wrap = document.createElement('div');
+  wrap.className = 'aichat-msg aichat-' + role;
+  const bodyHtml = role === 'assistant' ? _renderSectionBody('', content || '') : `<p class="ai-para">${_inlineMd(content || '')}</p>`;
+  const attachHtml = (attachments && attachments.length)
+    ? `<div class="aichat-msg-files">${attachments.map(a => `📄 ${_esc(a.name)}`).join(' ')}</div>` : '';
+  wrap.innerHTML = `<div class="aichat-role">${role === 'assistant' ? 'Claude' : 'You'}</div>
+    <div class="aichat-body">${bodyHtml}</div>${attachHtml}
+    <div class="aichat-proposals"></div>
+    ${role === 'assistant' ? '<div class="aichat-tokens"></div>' : ''}`;
+  thread.appendChild(wrap);
+  const propEl = wrap.querySelector('.aichat-proposals');
+  for (const p of (proposals || [])) _aiChatRenderProposal(propEl, p);
+  if (tokens) _aiChatSetTokens(wrap, { input_tokens: tokens });
+  thread.scrollTop = thread.scrollHeight;
+  return wrap.querySelector('.aichat-body');
+}
+
+function _aiChatSetTokens(wrap, usage) {
+  const el = wrap && wrap.querySelector('.aichat-tokens');
+  if (!el) return;
+  const total = (usage.input_tokens || 0) + (usage.output_tokens || 0);
+  if (!total) return;
+  const cached = usage.cache_read_input_tokens || 0;
+  el.textContent = `${total.toLocaleString()} tokens${cached ? ` · ${cached.toLocaleString()} cached` : ''}`;
+}
+
+function _aiChatRenderProposal(container, p) {
+  if (!container) return;
+  if (p.kind === 'propose_new_strategy') {
+    const s = p.input || {};
+    const shipped = p.saved && p.saved.strategyLabId;
+    container.innerHTML += `<div class="aichat-proposal">
+      <div class="aichat-proposal-h">💡 Proposed strategy: <b>${_esc(s.name || p.saved?.name || '?')}</b></div>
+      ${s.rationale ? `<div class="aichat-proposal-r">${_esc(s.rationale)}</div>` : ''}
+      <div class="aichat-proposal-act">
+        ${shipped
+          ? `<span class="ai-verdict ai-verdict-keep">✓ Shipped to Strategy Lab</span>
+             <button class="btn btn-sm" onclick="_goToStrategyLab()">Open in Strategy Lab →</button>`
+          : `<span class="ai-verdict">${p.saved?.duplicate ? 'already in Lab' : 'not saved'}</span>`}
+      </div>
+    </div>`;
+  } else if (p.kind === 'propose_disable_strategy') {
+    container.innerHTML += `<div class="aichat-proposal aichat-proposal-warn">
+      <div class="aichat-proposal-h">⚠️ Suggests disabling: <b>${_esc(p.input?.name || '?')}</b></div>
+      ${p.input?.reason ? `<div class="aichat-proposal-r">${_esc(p.input.reason)}</div>` : ''}
+      <div class="aichat-proposal-act"><span class="ai-verdict">advisory — change it on the Live Strategies tab</span></div>
+    </div>`;
+  }
+}
+
+function _goToStrategyLab() {
+  const btn = document.querySelector('.tab-btn[data-tab="strategy-lab"]');
+  if (btn) btn.click();
+}
+
+async function sendAiChat() {
+  if (_aiChatStreaming) return;
+  const input = $('aichat-input');
+  const message = input.value.trim();
+  const attachments = _aiChatAttachments.slice();
+  if (!message && !attachments.length) return;
+
+  // Render the user bubble + clear composer
+  _aiChatAppendMessage('user', message, [], attachments);
+  input.value = ''; input.style.height = 'auto';
+  _aiChatAttachments = []; renderAiChatAttachments();
+
+  // Assistant bubble (streaming target)
+  const bodyEl = _aiChatAppendMessage('assistant', '', [], []);
+  const propEl = bodyEl.parentElement.querySelector('.aichat-proposals');
+  bodyEl.innerHTML = '<span class="spinner"></span>';
+
+  const sendBtn = $('aichat-send-btn');
+  _aiChatStreaming = true; sendBtn.disabled = true; sendBtn.textContent = '…';
+  let buffer = '';
+  const thread = $('aichat-thread');
+
+  try {
+    const resp = await fetch('/api/ai-chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ conversationId: _aiChatConvId, message, attachments }),
+    });
+    if (!resp.ok || !resp.body) throw new Error('HTTP ' + resp.status);
+
+    const reader = resp.body.getReader();
+    const dec = new TextDecoder();
+    let sseBuf = '';
+    while (true) {
+      const { value, done } = await reader.read();
+      if (done) break;
+      sseBuf += dec.decode(value, { stream: true });
+      let idx;
+      while ((idx = sseBuf.indexOf('\n\n')) >= 0) {
+        const line = sseBuf.slice(0, idx); sseBuf = sseBuf.slice(idx + 2);
+        if (!line.startsWith('data: ')) continue;
+        let ev; try { ev = JSON.parse(line.slice(6)); } catch (_) { continue; }
+        if (ev.type === 'meta') {
+          if (ev.isNew) { _aiChatConvId = ev.conversationId; }
+        } else if (ev.type === 'delta') {
+          buffer += ev.text;
+          bodyEl.textContent = buffer;            // live plain-text stream
+          thread.scrollTop = thread.scrollHeight;
+        } else if (ev.type === 'proposal') {
+          _aiChatRenderProposal(propEl, ev.proposal);
+        } else if (ev.type === 'done') {
+          bodyEl.innerHTML = _renderSectionBody('', buffer || '_(no text)_');  // pretty markdown
+          if (ev.usage) _aiChatSetTokens(bodyEl.closest('.aichat-msg'), ev.usage);
+          thread.scrollTop = thread.scrollHeight;
+        } else if (ev.type === 'error') {
+          bodyEl.innerHTML = `<p class="ai-para" style="color:var(--red)">⚠️ ${_esc(ev.message)}</p>`;
+        }
+      }
+    }
+    if (buffer && bodyEl.querySelector('.spinner')) bodyEl.innerHTML = _renderSectionBody('', buffer);
+  } catch (e) {
+    bodyEl.innerHTML = `<p class="ai-para" style="color:var(--red)">⚠️ ${_esc(e.message)}</p>`;
+  } finally {
+    _aiChatStreaming = false; sendBtn.disabled = false; sendBtn.textContent = 'Send';
+    loadAiChat(); // refresh sidebar (title/updated_at/new conversation)
+  }
 }
 
 // ── APP SWITCHER (Tennis ↔ Football) ─────────────────────────────────────────
@@ -2322,6 +2586,482 @@ function switchApp(app) {
 }
 
 // ── AI STRATEGY ANALYSIS ──────────────────────────────────────────────────────
+
+// ════════════════════════════════════════════════════════════════════════════
+// STRATEGY LAB TAB
+// AI-discovered candidate strategies (review / promote / delete) + async AI runs
+// (strategy discovery & filter review). Runs are fire-and-forget on the server
+// (POST returns { runId } immediately, work happens in the background), so we
+// poll /api/ai-runs until the run leaves the 'running' state.
+// ════════════════════════════════════════════════════════════════════════════
+let _slRuns       = [];
+let _slCandidates = [];
+let _slPollTimer  = null;
+let _slPollTicks  = 0;
+let _slCandDetailId = null;   // candidate currently open in the detail view
+let _slSubtab       = 'config';
+
+async function loadStrategyLab() {
+  await Promise.all([loadSlRuns(), loadSlCandidates()]);
+  showSlCandidates();
+}
+
+async function loadSlRuns() {
+  try {
+    const data = await api('/api/ai-runs');
+    _slRuns = data.runs || [];
+    renderSlRunsList();
+  } catch (_) {}
+}
+
+async function loadSlCandidates() {
+  try {
+    const data = await api('/api/strategy-lab');
+    _slCandidates = data.strategies || [];
+    renderSlCandidates();
+  } catch (e) {
+    const el = $('sl-candidates');
+    if (el) el.innerHTML = `<div class="empty" style="color:var(--red)">Failed to load: ${_esc(e.message)}</div>`;
+  }
+}
+
+function _slStatusPill(status) {
+  if (status === 'completed') return '<span class="ai-verdict ai-verdict-keep">completed</span>';
+  if (status === 'error')     return '<span class="ai-verdict ai-verdict-drop">error</span>';
+  if (status === 'running')   return '<span class="ai-verdict ai-verdict-tune"><span class="spinner"></span> running</span>';
+  return `<span class="ai-verdict">${_esc(status || '?')}</span>`;
+}
+
+function renderSlRunsList() {
+  const el = $('sl-runs-list');
+  const countEl = $('sl-runs-count');
+  if (!el) return;
+  if (!_slRuns.length) {
+    el.innerHTML = '<div class="ai-hist-empty">No runs yet</div>';
+    if (countEl) countEl.textContent = '';
+    return;
+  }
+  if (countEl) countEl.textContent = `${_slRuns.length} runs`;
+  el.innerHTML = _slRuns.map(run => {
+    const d = run.started_at ? new Date(run.started_at) : null;
+    const when = d ? d.toLocaleString('en-GB', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }) : '';
+    const label = run.run_type === 'filter_review' ? 'Filter Review' : 'Strategy Discovery';
+    const meta = run.run_type === 'strategy_discovery'
+      ? `${run.strategies_found ?? 0} found`
+      : (run.status === 'completed' ? 'report ready' : '');
+    return `<div class="ai-hist-item" onclick="showSlRun(${run.id})">
+      <div class="ai-hist-when">${_esc(label)} <span class="ai-hist-time">${when}</span></div>
+      <div class="ai-hist-meta">${_slStatusPill(run.status)}${meta ? ' · ' + _esc(meta) : ''}</div>
+    </div>`;
+  }).join('');
+}
+
+function _slEntrySummary(cfg) {
+  const parts = [];
+  const bt = cfg.backtest || {};
+  const tr = bt.trigger || {};
+  const en = bt.entry || {};
+  if (tr.setNumber != null) parts.push(`set ${tr.setNumber}`);
+  if (tr.loserMustBe) parts.push(`loser: ${tr.loserMustBe}`);
+  if (en.side) parts.push(`${en.side}`);
+  if (en.minOdds != null || en.maxOdds != null) parts.push(`odds ${en.minOdds ?? '?'}–${en.maxOdds ?? '?'}`);
+  if (cfg.filters && Array.isArray(cfg.filters.surfaces) && cfg.filters.surfaces.length) parts.push(cfg.filters.surfaces.join('/'));
+  return parts.join(' · ');
+}
+
+function renderSlCandidates() {
+  const el = $('sl-candidates');
+  const countEl = $('sl-cand-count');
+  if (!el) return;
+  if (!_slCandidates.length) {
+    el.innerHTML = '<div class="empty">No candidate strategies yet — run Strategy Discovery to generate some.</div>';
+    if (countEl) countEl.textContent = '';
+    return;
+  }
+  if (countEl) countEl.textContent = `${_slCandidates.length}`;
+  el.innerHTML = _slCandidates.map(c => {
+    const cfg = c.config || {};
+    const promoted = c.status === 'promoted';
+    const statusPill = promoted
+      ? '<span class="ai-verdict ai-verdict-keep">promoted</span>'
+      : `<span class="ai-verdict">${_esc(c.status || 'draft')}</span>`;
+    const summary = _slEntrySummary(cfg);
+    const rationale = cfg.rationale || c.description || '';
+    return `<div class="sl-card">
+      <div class="sl-card-hdr">
+        <span class="sl-card-name sl-card-link" onclick="showSlCandidate(${c.id})">${_esc(c.name)}</span>
+        ${statusPill}
+        <span class="sl-card-src">${_esc(c.created_by || 'ai')}</span>
+        <div class="spacer"></div>
+        <button class="btn btn-sm" onclick="showSlCandidate(${c.id})">Details →</button>
+        ${promoted ? '' : `<button class="btn btn-sm btn-primary" onclick="promoteSlStrategy(${c.id})">Promote → live</button>`}
+        <button class="btn btn-sm" onclick="deleteSlStrategy(${c.id}, '${_esc(c.name).replace(/'/g, "\\'")}')">Delete</button>
+      </div>
+      ${_slCardMetrics(c)}
+      ${summary ? `<div class="sl-card-summary">${_esc(summary)}</div>` : ''}
+      ${rationale ? `<div class="sl-card-rationale">${_inlineMd(String(rationale))}</div>` : ''}
+    </div>`;
+  }).join('');
+
+  // While any candidate is still simulating, refresh the list periodically so
+  // results appear without a manual reload.
+  _slSchedulePendingPoll();
+}
+
+let _slPendingTimer = null;
+function _slSchedulePendingPoll() {
+  if (_slPendingTimer) { clearTimeout(_slPendingTimer); _slPendingTimer = null; }
+  const anyPending = _slCandidates.some(c => c.sim_status !== 'done');
+  if (!anyPending) return;
+  _slPendingTimer = setTimeout(() => {
+    // only keep polling while the Strategy Lab tab is visible
+    if (document.querySelector('.tab-btn[data-tab="strategy-lab"]')?.classList.contains('active')) {
+      loadSlCandidates();
+      // if the detail Performance tab is open on a candidate that just finished, refresh it
+      if (_slCandDetailId && _slSubtab === 'performance' && $('sl-candidate-detail').style.display !== 'none') {
+        loadSlPerformance(_slCandDetailId);
+      }
+    }
+  }, 20000);
+}
+
+// At-a-glance performance strip shown on each candidate card.
+function _slCardMetrics(c) {
+  const s = c.stats;
+  if (c.sim_status !== 'done') return `<div class="sl-card-metrics empty-metrics"><span class="spinner"></span> Simulating… performance appears shortly</div>`;
+  if (!s || !s.bets) return `<div class="sl-card-metrics empty-metrics">No qualifying bets in the last 120 days</div>`;
+  const pnlCls = s.pnl > 0 ? 'pos' : s.pnl < 0 ? 'neg' : 'neu';
+  const roiCls = s.roi > 0 ? 'pos' : s.roi < 0 ? 'neg' : 'neu';
+  const m = (val, lbl, cls = '') => `<span class="slm"><b class="${cls}">${val}</b> ${lbl}</span>`;
+  return `<div class="sl-card-metrics">
+    ${m('£' + s.pnl, 'P&L', pnlCls)}
+    ${m((s.roi != null ? s.roi + '%' : '—'), 'ROI', roiCls)}
+    ${m((s.winRate != null ? s.winRate + '%' : '—'), 'win rate')}
+    ${m('−£' + s.maxDrawdown, 'max DD', 'neg')}
+    ${m(s.bets, 'bets')}
+    ${m((s.avgOdds != null ? s.avgOdds : '—'), 'avg odds')}
+  </div>`;
+}
+
+function showSlCandidates() {
+  $('sl-candidates-view').style.display = '';
+  $('sl-run-detail').style.display = 'none';
+  $('sl-candidate-detail').style.display = 'none';
+}
+
+async function showSlRun(id) {
+  const detail = $('sl-run-detail');
+  const body   = $('sl-run-detail-body');
+  $('sl-candidates-view').style.display = 'none';
+  $('sl-candidate-detail').style.display = 'none';
+  detail.style.display = '';
+  $('sl-run-detail-title').textContent = '';
+  $('sl-run-detail-meta').textContent  = '';
+  body.innerHTML = '<div class="empty"><span class="spinner"></span> Loading…</div>';
+  try {
+    const data = await api('/api/ai-runs/' + id);
+    const run = data.run;
+    const isReview = run.run_type === 'filter_review';
+    $('sl-run-detail-title').textContent = isReview ? 'Filter Review' : 'Strategy Discovery';
+    const metaParts = [];
+    if (run.status) metaParts.push(run.status);
+    if (run.tokens_used) metaParts.push(`${run.tokens_used.toLocaleString()} tokens`);
+    if (run.completed_at) metaParts.push(new Date(run.completed_at).toLocaleString('en-GB'));
+    $('sl-run-detail-meta').textContent = metaParts.join(' · ');
+
+    if (run.status === 'running') {
+      body.innerHTML = '<div class="ai-placeholder"><div class="ai-placeholder-icon">🤖</div><div class="ai-placeholder-title">Still running…</div><div class="ai-placeholder-sub"><span class="spinner"></span> Claude is working. This usually takes 20–40 seconds.</div></div>';
+      return;
+    }
+    if (run.status === 'error') {
+      body.innerHTML = `<div class="ai-placeholder"><div class="ai-placeholder-icon">⚠️</div><div class="ai-placeholder-title" style="color:var(--red)">Run failed</div><div class="ai-placeholder-sub" style="color:var(--red)">${_esc(run.error || 'unknown error')}</div></div>`;
+      return;
+    }
+
+    if (isReview) {
+      // result is markdown with ## sections — reuse the AI-analysis renderer.
+      body.innerHTML = `<div id="ai-sections">${_renderAiSections(run.result || '_No content._')}</div>`;
+    } else {
+      // discovery: summarise + list candidates created by this run
+      const mine = _slCandidates.filter(c => String(c.ai_run_id) === String(run.id));
+      let html = `<div class="ai-section-card"><div class="ai-section-body">
+        <p class="ai-para"><strong>${run.strategies_found ?? 0}</strong> candidate ${(run.strategies_found === 1 ? 'strategy' : 'strategies')} discovered and saved to the Lab.</p>
+        ${mine.length ? `<p class="ai-para">From this run: ${mine.map(c => `<code>${_esc(c.name)}</code>`).join(', ')}</p>` : ''}
+        <p class="ai-para"><a href="#" onclick="showSlCandidates();return false;">View all candidates →</a></p>
+      </div></div>`;
+      body.innerHTML = html;
+    }
+  } catch (e) {
+    body.innerHTML = `<div class="empty" style="color:var(--red)">Failed to load run: ${_esc(e.message)}</div>`;
+  }
+}
+
+async function promoteSlStrategy(id) {
+  if (!confirm('Promote this strategy to the live config/strategies.json? It will be added (disabled) to the live system.')) return;
+  try {
+    const r = await fetch('/api/strategy-lab/' + id + '/promote', { method: 'POST' });
+    const data = await r.json();
+    if (!r.ok || data.error) throw new Error(data.error || ('HTTP ' + r.status));
+    await loadSlCandidates();
+    // If this candidate's detail is open, refresh its header (now promoted).
+    if (_slCandDetailId === id && $('sl-candidate-detail').style.display !== 'none') showSlCandidate(id);
+  } catch (e) { alert('Promote failed: ' + e.message); }
+}
+
+async function deleteSlStrategy(id, name) {
+  if (!confirm(`Delete candidate "${name}"? This cannot be undone.`)) return;
+  try {
+    const r = await fetch('/api/strategy-lab/' + id, { method: 'DELETE' });
+    const data = await r.json();
+    if (!r.ok || data.error) throw new Error(data.error || ('HTTP ' + r.status));
+    await loadSlCandidates();
+    if (_slCandDetailId === id) { _slCandDetailId = null; showSlCandidates(); }
+  } catch (e) { alert('Delete failed: ' + e.message); }
+}
+
+async function _slStartRun(endpoint, label) {
+  const dBtn = $('sl-discover-btn'), fBtn = $('sl-filter-btn');
+  const badge = $('sl-status-badge');
+  dBtn.disabled = true; fBtn.disabled = true;
+  badge.innerHTML = `<span class="spinner"></span> ${label} running…`;
+  try {
+    const r = await fetch(endpoint, { method: 'POST' });
+    const data = await r.json();
+    if (!r.ok || data.error) throw new Error(data.error || ('HTTP ' + r.status));
+    await loadSlRuns();
+    _slPollStart(data.runId);
+  } catch (e) {
+    badge.textContent = '';
+    dBtn.disabled = false; fBtn.disabled = false;
+    alert(`${label} failed to start: ` + e.message);
+  }
+}
+
+function _slPollStart(runId) {
+  _slPollStop();
+  _slPollTicks = 0;
+  _slPollTimer = setInterval(async () => {
+    _slPollTicks++;
+    await loadSlRuns();
+    const run = _slRuns.find(r => r.id === runId);
+    if (!run || run.status !== 'running' || _slPollTicks > 60) {
+      _slPollStop();
+      const badge = $('sl-status-badge');
+      $('sl-discover-btn').disabled = false;
+      $('sl-filter-btn').disabled = false;
+      await loadSlCandidates();
+      if (run && run.status !== 'running') {
+        badge.textContent = run.status === 'error' ? 'Last run errored' : 'Done';
+        // Auto-open the finished run only if the user is still on candidates view.
+        if ($('sl-run-detail').style.display === 'none') showSlRun(runId);
+        setTimeout(() => { if (badge.textContent === 'Done') badge.textContent = ''; }, 4000);
+      } else {
+        badge.textContent = '';
+      }
+    }
+  }, 3000);
+}
+
+function _slPollStop() {
+  if (_slPollTimer) { clearInterval(_slPollTimer); _slPollTimer = null; }
+}
+
+// ── Candidate detail view (Config / Performance / Simmed Bets) ────────────────
+function _slCandById(id) { return _slCandidates.find(c => c.id === id); }
+
+function showSlCandidate(id) {
+  const c = _slCandById(id);
+  if (!c) return;
+  _slCandDetailId = id;
+  $('sl-candidates-view').style.display = 'none';
+  $('sl-run-detail').style.display = 'none';
+  $('sl-candidate-detail').style.display = '';
+
+  $('sl-cand-detail-name').textContent = c.name;
+  const promoted = c.status === 'promoted';
+  $('sl-cand-detail-status').innerHTML = promoted
+    ? '<span class="ai-verdict ai-verdict-keep">promoted</span>'
+    : `<span class="ai-verdict">${_esc(c.status || 'draft')}</span>`;
+  const promoteBtn = $('sl-cand-promote-btn');
+  promoteBtn.style.display = promoted ? 'none' : '';
+
+  _slShowSubtab(_slSubtab || 'config');
+}
+
+function _slShowSubtab(name) {
+  _slSubtab = name;
+  document.querySelectorAll('.sl-subtab-btn').forEach(b =>
+    b.classList.toggle('active', b.dataset.sltab === name));
+  ['config', 'performance', 'bets'].forEach(n =>
+    $('sl-subtab-' + n).style.display = n === name ? '' : 'none');
+
+  const c = _slCandById(_slCandDetailId);
+  if (!c) return;
+  if (name === 'config')      renderSlConfig(c);
+  if (name === 'performance') loadSlPerformance(c.id);
+  if (name === 'bets')        loadSlBets(c.id);
+}
+
+// Friendly labels + value formatting for config keys.
+const SL_LABELS = {
+  surfaces: 'Surfaces', minFirstServeWonDiff: 'Min 1st-serve-won edge', maxFirstServeWonDiff: 'Max 1st-serve-won edge',
+  setNumber: 'Trigger after set', loserMustBe: 'Set loser must be', winnerMustBe: 'Set winner must be',
+  allowedSetScores: 'Allowed set scores', requireSplitSets: 'Require split sets',
+  preMatchOddsWinner: 'Pre-match odds (winner)', preMatchOddsLoser: 'Pre-match odds (loser)',
+  preMatchOddsA: 'Pre-match odds (A)', preMatchOddsB: 'Pre-match odds (B)',
+  player: 'Bet on', side: 'Side', minOdds: 'Min odds', maxOdds: 'Max odds',
+  stakeGBP: 'Stake (£)', type: 'Type', setNumber2: 'Set', hedgeWhen: 'Hedge when',
+};
+function _slLabel(k) { return SL_LABELS[k] || k.replace(/([A-Z])/g, ' $1').replace(/^./, s => s.toUpperCase()); }
+function _slVal(v) {
+  if (v == null) return '—';
+  if (Array.isArray(v)) return v.join(', ');
+  if (typeof v === 'object') {
+    if ('min' in v || 'max' in v) return `${v.min ?? '?'} – ${v.max ?? '?'}`;
+    return Object.entries(v).map(([k, x]) => `${_slLabel(k)}: ${_slVal(x)}`).join(', ');
+  }
+  if (typeof v === 'boolean') return v ? 'yes' : 'no';
+  return String(v);
+}
+function _slKvRows(obj) {
+  if (!obj || typeof obj !== 'object') return '';
+  return Object.entries(obj).map(([k, v]) =>
+    `<tr><td class="sl-kv-k">${_esc(_slLabel(k))}</td><td class="sl-kv-v">${_esc(_slVal(v))}</td></tr>`
+  ).join('');
+}
+
+// One-line plain-English summary of what the strategy does.
+function _slPlainEnglish(cfg) {
+  const bt = cfg.backtest || {}, tr = bt.trigger || {}, en = bt.entry || {};
+  const parts = [];
+  if (tr.setNumber) parts.push(`After set ${tr.setNumber}`);
+  if (tr.allowedSetScores?.length) parts.push(`(score ${tr.allowedSetScores.join(' or ')})`);
+  if (tr.loserMustBe) parts.push(`with player ${tr.loserMustBe} losing that set`);
+  const who = en.player === 'loser' ? 'the set loser' : en.player === 'winner' ? 'the set winner' : en.player;
+  if (en.side && who) parts.push(`— ${en.side} ${who}`);
+  if (en.minOdds != null || en.maxOdds != null) parts.push(`at odds ${en.minOdds ?? '?'}–${en.maxOdds ?? '?'}`);
+  const surf = cfg.filters?.surfaces;
+  if (surf?.length && surf.length < 3) parts.push(`on ${surf.join('/')}`);
+  const exit = cfg.exit?.type && cfg.exit.type !== 'none' ? `, hedge on ${cfg.exit.type}` : ', hold to settlement';
+  return parts.join(' ') + exit + '.';
+}
+
+function renderSlConfig(c) {
+  const cfg = c.config || {};
+  const bt = cfg.backtest || {};
+  const sec = (title, rows) => rows ? `<div class="sl-cfg-sec"><div class="sl-cfg-h">${title}</div><table class="sl-kv">${rows}</table></div>` : '';
+  const rationale = cfg.rationale || c.description || '';
+  $('sl-subtab-config').innerHTML = `
+    <div class="sl-plain">${_esc(_slPlainEnglish(cfg))}</div>
+    ${rationale ? `<div class="sl-card-rationale" style="margin-bottom:14px">${_inlineMd(String(rationale))}</div>` : ''}
+    <div class="sl-cfg-grid">
+      ${sec('Trigger — when it fires', _slKvRows(bt.trigger))}
+      ${sec('Entry — the bet', _slKvRows(bt.entry))}
+      ${sec('Filters', _slKvRows(cfg.filters))}
+      ${sec('Staking', _slKvRows(cfg.staking))}
+      ${sec('Exit', _slKvRows(cfg.exit))}
+    </div>
+    <details class="sl-card-json" style="margin-top:12px"><summary>raw config JSON</summary><pre>${_esc(JSON.stringify(cfg, null, 2))}</pre></details>`;
+}
+
+async function loadSlPerformance(id) {
+  const el = $('sl-subtab-performance');
+  const c = _slCandById(id);
+  if (c && c.sim_status !== 'done') {
+    el.innerHTML = `<div class="empty"><span class="spinner"></span> Simulating this strategy against ~120 days of history…<br><br>This takes a minute or two. The page refreshes automatically when it's ready.</div>`;
+    return;
+  }
+  el.innerHTML = '<div class="empty"><span class="spinner"></span> Loading…</div>';
+  try {
+    const data = await api('/api/strategy-lab/' + id + '/performance');
+    renderSlPerformance(data.stats);
+  } catch (e) { el.innerHTML = `<div class="empty" style="color:var(--red)">${_esc(e.message)}</div>`; }
+}
+
+function renderSlPerformance(s) {
+  const el = $('sl-subtab-performance');
+  if (!s || !s.bets) {
+    el.innerHTML = `<div class="empty">No qualifying bets in the last 120 days — this strategy's triggers were too rare to fire on any captured market.<br><br>
+      Hit <b>Re-simulate</b> to run it again (e.g. after more data has been captured).</div>`;
+    return;
+  }
+  const pnlCls = s.pnl > 0 ? 'pos' : s.pnl < 0 ? 'neg' : 'neu';
+  const box = (val, lbl, cls = '') => `<div class="sl-stat"><div class="sl-stat-v ${cls}">${val}</div><div class="sl-stat-l">${lbl}</div></div>`;
+  el.innerHTML = `
+    <div class="sl-stat-grid">
+      ${box(s.bets, 'Simmed bets')}
+      ${box(s.resolved, 'Resolved')}
+      ${box(`${s.wins}/${s.losses}`, 'W / L')}
+      ${box(s.winRate != null ? s.winRate + '%' : '—', 'Win rate')}
+      ${box(`£${s.pnl}`, 'P&L', pnlCls)}
+      ${box(s.roi != null ? s.roi + '%' : '—', 'ROI', s.roi > 0 ? 'pos' : s.roi < 0 ? 'neg' : '')}
+      ${box(`−£${s.maxDrawdown}`, 'Max drawdown', 'neg')}
+      ${box(s.avgOdds != null ? s.avgOdds : '—', 'Avg odds')}
+    </div>
+    <div style="font-size:11px;color:var(--muted);margin-top:10px">
+      ${s.backfillBets} from historical backtest · ${s.forwardBets} from forward paper-trading${s.firstBet ? ` · ${s.firstBet} → ${s.lastBet}` : ''}
+    </div>
+    <div style="font-size:11px;color:var(--muted);margin-top:4px">Simulated against captured market data using the live bet engine. Not real bets.</div>`;
+}
+
+async function loadSlBets(id) {
+  const el = $('sl-subtab-bets');
+  el.innerHTML = '<div class="empty"><span class="spinner"></span> Loading…</div>';
+  try {
+    const data = await api('/api/strategy-lab/' + id + '/bets');
+    renderSlBets(data.bets || []);
+  } catch (e) { el.innerHTML = `<div class="empty" style="color:var(--red)">${_esc(e.message)}</div>`; }
+}
+
+function renderSlBets(bets) {
+  const el = $('sl-subtab-bets');
+  if (!bets.length) { el.innerHTML = '<div class="empty">No simulated bets yet.</div>'; return; }
+  const rows = bets.map(b => {
+    const res = b.settlement === 'WIN' ? '<span class="pos">WIN</span>'
+              : b.settlement === 'LOSS' ? '<span class="neg">LOSS</span>' : '<span class="neu">—</span>';
+    const pnlCls = b.pnl > 0 ? 'pos' : b.pnl < 0 ? 'neg' : 'neu';
+    return `<tr>
+      <td>${_esc(b.bet_date || '—')}</td>
+      <td>${_esc((b.match_name || '—'))}</td>
+      <td>${_esc(b.surface || '')}</td>
+      <td>S${b.set_boundary ?? '?'}</td>
+      <td>${_esc(b.side || '')} ${_esc(b.player_key || '')}</td>
+      <td>${b.odds != null ? Number(b.odds).toFixed(2) : '—'}</td>
+      <td class="${pnlCls}">${b.pnl != null ? (b.pnl > 0 ? '+' : '') + '£' + b.pnl : '—'}</td>
+      <td>${res}</td>
+      <td><span class="sl-src-pill">${_esc(b.source || '')}</span></td>
+    </tr>`;
+  }).join('');
+  el.innerHTML = `<table class="sl-bets-tbl">
+    <thead><tr><th>Date</th><th>Match</th><th>Surface</th><th>Set</th><th>Bet</th><th>Odds</th><th>P&L</th><th>Result</th><th>Src</th></tr></thead>
+    <tbody>${rows}</tbody></table>`;
+}
+
+function initStrategyLabTab() {
+  $('sl-refresh').addEventListener('click', loadStrategyLab);
+  $('sl-back-btn').addEventListener('click', showSlCandidates);
+  $('sl-cand-back-btn').addEventListener('click', showSlCandidates);
+  document.querySelectorAll('.sl-subtab-btn').forEach(b =>
+    b.addEventListener('click', () => _slShowSubtab(b.dataset.sltab)));
+  $('sl-cand-promote-btn').addEventListener('click', () => { if (_slCandDetailId) promoteSlStrategy(_slCandDetailId); });
+  $('sl-cand-delete-btn').addEventListener('click', () => {
+    const c = _slCandById(_slCandDetailId);
+    if (c) deleteSlStrategy(c.id, c.name);
+  });
+  $('sl-cand-resim-btn').addEventListener('click', async () => {
+    if (!_slCandDetailId) return;
+    const id = _slCandDetailId;
+    const btn = $('sl-cand-resim-btn');
+    btn.disabled = true; btn.textContent = 'Re-simulating…';
+    try {
+      const r = await fetch('/api/strategy-lab/' + id + '/resim', { method: 'POST' });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      await loadSlCandidates();      // sim_status now 'pending' → greys cards + starts auto-refresh poll
+      _slShowSubtab('performance');  // show the "simulating…" state for this candidate
+    } catch (e) { alert('Re-simulate failed: ' + e.message); }
+    btn.disabled = false; btn.textContent = 'Re-simulate';
+  });
+}
 
 let _aiHistory    = [];
 let _aiHistoryIdx = -1; // index into _aiHistory of what's currently displayed; -1 = none
@@ -4588,7 +5328,9 @@ function _flReadFilters() {
 
 function _flWriteFilters(f) {
   const set = (id, v) => { const el = $(id); if (el) el.value = v == null ? '' : v; };
-  set('fl-period',      f.period || '-365 days');
+  // Period always defaults to All time on load (ignore any saved/narrower value);
+  // the user can still narrow it per-session via the dropdown.
+  set('fl-period',      '-365 days');
   set('fl-side',        f.side || '');
   set('fl-bet-on',      f.betOn || '');
   set('fl-odds-min', f.oddsMin); set('fl-odds-max', f.oddsMax);
@@ -4812,7 +5554,7 @@ function renderFlStats(baseRows, filtRows) {
 }
 
 // BFBM go-live boundary — bets placed at/after this date are the "after BFBM" era.
-const FL_LINE_IN_SAND = '2026-05-21';
+const FL_LINE_IN_SAND = '2026-06-01';
 
 let _flChart = null;
 
@@ -5158,10 +5900,15 @@ document.addEventListener('DOMContentLoaded', () => {
   initAnalysisTab();
   initEntryData();
   initStrategiesTab();
+  initStrategyLabTab();
   initAiTab();
   initExceptionsTab();
   initSystemTab();
   initHedgeCalc();
+
+  // Load strategy config up front so bet-detail can show each strategy's live
+  // description regardless of which tab the user opens first.
+  loadStrategies();
 
   connectWs();
 

@@ -24,6 +24,8 @@ const db = new Database(DB_PATH);
 db.pragma('journal_mode = WAL');
 db.pragma('foreign_keys = ON');
 db.pragma('synchronous = NORMAL');   // safe with WAL, faster than FULL
+db.pragma('busy_timeout = 15000');   // wait (don't throw) when another process holds the write lock
+                                     // — lets the candidateSim child process write while the bot runs
 
 // ---------------------------------------------------------------------------
 // Schema migrations — idempotent (IF NOT EXISTS everywhere)
@@ -347,6 +349,61 @@ db.exec(`
     recorded_at       TEXT DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
   );
   CREATE INDEX IF NOT EXISTS idx_scanner_played_at ON market_scanner(went_in_play_at);
+`);
+
+// candidate_paper_bets: simulated/paper bets for Strategy Lab candidates.
+// Populated by candidateSim.js — a backfill over history on candidate creation,
+// plus a nightly forward increment. One row per (candidate, market); the UNIQUE
+// constraint makes re-runs idempotent (INSERT OR IGNORE).
+db.exec(`
+  CREATE TABLE IF NOT EXISTS candidate_paper_bets (
+    id                INTEGER PRIMARY KEY AUTOINCREMENT,
+    strategy_lab_id   INTEGER NOT NULL,
+    strategy_name     TEXT,
+    source            TEXT,                 -- 'backfill' | 'forward'
+    bet_date          TEXT,                 -- YYYY-MM-DD the market ended
+    market_id         TEXT,
+    match_name        TEXT,
+    tournament        TEXT,
+    surface           TEXT,
+    player_key        TEXT,                 -- 'A' | 'B'
+    side              TEXT,                 -- 'BACK' | 'LAY'
+    odds              REAL,
+    stake             REAL,
+    pnl               REAL,
+    settlement        TEXT,                 -- 'WIN' | 'LOSS'
+    winner            TEXT,
+    set_boundary      INTEGER,
+    ts                TEXT,
+    created_at        TEXT DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+    UNIQUE(strategy_lab_id, market_id)
+  );
+  CREATE INDEX IF NOT EXISTS idx_cpb_lab ON candidate_paper_bets(strategy_lab_id);
+`);
+
+// Candidate simulation status: 'pending' until the backfill has run, then 'done'
+// (even if it produced 0 bets). Lets the UI show "simulating…" vs a real result.
+try { db.exec(`ALTER TABLE strategy_lab ADD COLUMN sim_status TEXT DEFAULT 'pending'`); } catch (_) {}
+
+// AI chat — persistent conversations + messages for the AI Analysis tab.
+db.exec(`
+  CREATE TABLE IF NOT EXISTS ai_conversations (
+    id          INTEGER PRIMARY KEY AUTOINCREMENT,
+    title       TEXT,
+    created_at  TEXT DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+    updated_at  TEXT DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+  );
+  CREATE TABLE IF NOT EXISTS ai_messages (
+    id              INTEGER PRIMARY KEY AUTOINCREMENT,
+    conversation_id INTEGER NOT NULL,
+    role            TEXT NOT NULL,          -- 'user' | 'assistant'
+    content         TEXT,
+    proposals       TEXT,                   -- JSON array of tool proposals (assistant turns)
+    attachments     TEXT,                   -- JSON array of {name,size} (user turns)
+    tokens_used     INTEGER,
+    created_at      TEXT DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+  );
+  CREATE INDEX IF NOT EXISTS idx_ai_messages_conv ON ai_messages(conversation_id);
 `);
 
 module.exports = db;

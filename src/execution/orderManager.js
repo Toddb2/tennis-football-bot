@@ -11,6 +11,19 @@ const OPEN_ORDERS_FILE = path.join(__dirname, '../../data/open_orders.json');
 const BETFAIR_MIN_BET  = 1.00;
 const HEDGE_RETRY_MS   = 60 * 1000; // back off 60s after a failed hedge attempt
 
+/**
+ * True when a set object has a definitive winner (≥6 games with a 2-game lead,
+ * or a 7-6 tiebreak win). Inlined here (rather than requiring strategyEngine) to
+ * avoid a circular dependency. Mirror of strategyEngine.isSetComplete.
+ */
+function isSetComplete(set) {
+  if (!set) return false;
+  if (set.playerA === 6 && set.playerB === 6) return false; // tiebreak in progress
+  const aWon = (set.playerA >= 6 && set.playerA - set.playerB >= 2) || set.playerA === 7;
+  const bWon = (set.playerB >= 6 && set.playerB - set.playerA >= 2) || set.playerB === 7;
+  return aWon || bWon;
+}
+
 function roundStake(v) { return Math.round(v * 100) / 100; }
 
 class OrderManager {
@@ -342,38 +355,46 @@ class OrderManager {
    * @param {string} marketId
    * @param {object} snapshot — final matchState snapshot
    */
-  settleDryRunOrder(marketId, snapshot) {
+  settleDryRunOrder(marketId, snapshot, opts = {}) {
     const orders = this.getOpenPositionsForMarket(marketId).filter(o => o.dryRun);
     if (orders.length === 0) return;
 
-    // Determine winner. Prefer set scores: at match end the in-play odds have
-    // often not yet converged (a 5-second snapshot lag after the final point
-    // can still show the loser favoured), so completed sets are the
-    // authoritative signal. Fall back to odds only if sets are unusable
-    // (e.g. mid-set retirement) and the odds clearly indicate a winner
-    // (one side ≤ 1.10, the other ≥ 5).
-    let winner = null;
-    if (Array.isArray(snapshot.sets) && snapshot.sets.length >= 2) {
-      const setsA = snapshot.sets.filter(s => (s.playerA ?? 0) > (s.playerB ?? 0)).length;
-      const setsB = snapshot.sets.filter(s => (s.playerB ?? 0) > (s.playerA ?? 0)).length;
-      if (setsA > setsB) winner = 'A';
-      else if (setsB > setsA) winner = 'B';
-    }
+    // Determine the winner. We ONLY settle when the match is genuinely decided,
+    // by exactly one of two authoritative signals:
+    //   1. opts.officialWinner ('A'|'B') supplied by the caller — from api-tennis
+    //      "Finished"/"Retired" or Betfair settlement. Handles retirements/walkovers.
+    //   2. a completed best-of-3 result: a player has won 2 COMPLETED sets.
+    //      (The bot blocks best-of-5, so 2 completed sets always decides the match.)
+    //
+    // We deliberately NEVER infer the winner from transient in-play odds. A player
+    // can be ≤1.05 while serving for a set at 5-4 and then lose; markets also
+    // suspend constantly between games/sets. Guessing from odds during those
+    // windows previously settled bets early and backwards (e.g. a backer of the
+    // eventual winner marked LOSS while their player was a set down). When the
+    // result isn't yet certain we defer and let a later loop settle it correctly.
+    let winner = (opts.officialWinner === 'A' || opts.officialWinner === 'B')
+      ? opts.officialWinner
+      : null;
 
-    if (!winner) {
-      const oddsA = snapshot.playerABack ?? snapshot.odds?.playerABack ?? null;
-      const oddsB = snapshot.playerBBack ?? snapshot.odds?.playerBBack ?? null;
-      if (oddsA != null && oddsB != null && oddsA > 1 && oddsB > 1) {
-        if (oddsA <= 1.10 && oddsB >= 5)      winner = 'A';
-        else if (oddsB <= 1.10 && oddsA >= 5) winner = 'B';
+    if (!winner && Array.isArray(snapshot.sets)) {
+      let setsA = 0, setsB = 0;
+      for (const s of snapshot.sets) {
+        if (!isSetComplete(s)) continue;            // ignore the in-progress set
+        if ((s.playerA ?? 0) > (s.playerB ?? 0)) setsA++;
+        else if ((s.playerB ?? 0) > (s.playerA ?? 0)) setsB++;
       }
+      if (setsA >= 2) winner = 'A';
+      else if (setsB >= 2) winner = 'B';
     }
 
     if (!winner) {
-      logger.info('OrderManager: DRY_RUN settlement skipped — cannot determine winner', {
+      // Not decided yet (mid-match suspension, 1-1 in sets, or feed lost before
+      // the end). Do NOT settle — leave the bet open so the next loop, or the
+      // api-tennis fallback once the match is officially Finished, settles it right.
+      logger.info('OrderManager: DRY_RUN settlement deferred — match not yet decided', {
         marketId, matchNames: orders.map(o => o.matchName),
       });
-      return;
+      return false;
     }
 
     for (const order of orders) {
@@ -416,6 +437,7 @@ class OrderManager {
     }
 
     this._saveOpenOrders();
+    return true;
   }
 
   /**

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tennis Bot</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=20260529k">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
 </head>
 <body>
@@ -28,7 +28,8 @@
   <button class="tab-btn" data-tab="bets">Bets</button>
   <button class="tab-btn" data-tab="filter-lab">Filter Lab</button>
   <button class="tab-btn" data-tab="analysis">Analysis</button>
-  <button class="tab-btn" data-tab="strategies">Strategies</button>
+  <button class="tab-btn" data-tab="strategies">Live Strategies</button>
+  <button class="tab-btn" data-tab="strategy-lab">Strategy Lab</button>
   <button class="tab-btn" data-tab="ai">AI Analysis</button>
   <button class="tab-btn" data-tab="exceptions">Exceptions</button>
   <button class="tab-btn" data-tab="system">Debug<span class="tab-badge" id="sys-badge" style="display:none">!</span></button>
@@ -633,7 +634,7 @@
 <!-- ════════════════════════════════════════════════════════ -->
 <div class="tab-panel" id="tab-strategies">
   <div class="flex gap8 items-center" style="margin-bottom:14px">
-    <h2 style="font-size:15px;font-weight:700">Strategies</h2>
+    <h2 style="font-size:15px;font-weight:700">Live Strategies</h2>
     <span id="strat-save-status" class="strat-save-status"></span>
     <div class="spacer"></div>
     <button class="btn btn-sm" id="strat-refresh">Refresh</button>
@@ -653,59 +654,124 @@
 </div>
 
 <!-- ════════════════════════════════════════════════════════ -->
-<!-- AI ANALYSIS TAB                                        -->
+<!-- STRATEGY LAB TAB                                       -->
 <!-- ════════════════════════════════════════════════════════ -->
-<div class="tab-panel" id="tab-ai">
-  <!-- Top bar -->
+<div class="tab-panel" id="tab-strategy-lab">
   <div class="flex gap8 items-center" style="margin-bottom:14px">
-    <h2 style="font-size:15px;font-weight:700">AI Strategy Analysis</h2>
-    <span id="ai-cache-badge" class="ai-cache-badge" style="display:none">cached</span>
+    <h2 style="font-size:15px;font-weight:700">Strategy Lab</h2>
+    <span id="sl-status-badge" style="font-size:11px;color:var(--muted)">Candidates arrive from the weekly AI job and from the AI Analyst chat. Review their simulated performance here, then promote to Live.</span>
     <div class="spacer"></div>
-    <span id="ai-generated-at" style="font-size:11px;color:var(--muted)"></span>
-    <button class="btn btn-primary btn-sm" id="ai-run-btn">Run Analysis</button>
+    <button class="btn btn-sm" id="sl-refresh">Refresh</button>
   </div>
 
-  <!-- Two-column layout: history sidebar + main -->
   <div class="ai-layout">
 
-    <!-- History sidebar -->
+    <!-- AI run history sidebar -->
     <div class="ai-sidebar">
       <div class="ai-sidebar-hdr">
-        <span>Run History</span>
-        <span id="ai-hist-count" style="font-size:10px;color:var(--muted)"></span>
+        <span>AI Runs</span>
+        <span id="sl-runs-count" style="font-size:10px;color:var(--muted)"></span>
       </div>
-      <div id="ai-history-list" class="ai-history-list">
-        <div class="ai-hist-empty">No runs yet</div>
+      <div id="sl-runs-list" class="ai-history-list">
+        <div class="ai-hist-empty">No runs yet — the discovery &amp; filter-review jobs run automatically every Sunday. Their results show here.</div>
       </div>
     </div>
 
     <!-- Main panel -->
-    <div class="ai-main" id="ai-main">
+    <div class="ai-main" id="sl-main">
 
-      <!-- Snapshot stat strip — shown after first run -->
-      <div id="ai-snapshot-strip" class="ai-snapshot-strip" style="display:none">
-        <div class="ai-snap-item"><span id="ai-snap-bets">—</span><span class="ai-snap-lbl">Bets analysed</span></div>
-        <div class="ai-snap-item"><span id="ai-snap-pnl">—</span><span class="ai-snap-lbl">Total P&L</span></div>
-        <div class="ai-snap-item"><span id="ai-snap-strats">—</span><span class="ai-snap-lbl">Strategies</span></div>
-        <div class="ai-snap-item"><span id="ai-snap-tokens">—</span><span class="ai-snap-lbl">Tokens used</span></div>
+      <!-- Candidate strategies view (default) -->
+      <div id="sl-candidates-view">
+        <div class="flex items-center gap8" style="margin-bottom:10px">
+          <span style="font-size:13px;font-weight:700">Candidate Strategies</span>
+          <span id="sl-cand-count" style="font-size:11px;color:var(--muted)"></span>
+        </div>
+        <div id="sl-candidates"><div class="empty">Loading…</div></div>
       </div>
 
-      <!-- Empty / loading / error state -->
-      <div id="ai-placeholder" class="card ai-placeholder">
-        <div class="ai-placeholder-icon">🤖</div>
-        <div class="ai-placeholder-title">AI Strategy Analysis</div>
-        <div class="ai-placeholder-sub">Claude will analyse your last 90 days of bet data across all strategies, surfaces and trends — then give you specific, actionable recommendations.</div>
-        <button class="btn btn-primary" id="ai-run-btn-2">Run Analysis</button>
+      <!-- Single-run detail view (filter review markdown / discovery summary) -->
+      <div id="sl-run-detail" style="display:none">
+        <div class="flex items-center gap8" style="margin-bottom:10px">
+          <button class="btn btn-sm" id="sl-back-btn">← Candidates</button>
+          <span id="sl-run-detail-title" style="font-size:13px;font-weight:700"></span>
+          <div class="spacer"></div>
+          <span id="sl-run-detail-meta" style="font-size:11px;color:var(--muted)"></span>
+        </div>
+        <div id="sl-run-detail-body"></div>
       </div>
 
-      <!-- Sections rendered here after response -->
-      <div id="ai-sections"></div>
+      <!-- Single-candidate detail view (Config / Performance / Simmed Bets) -->
+      <div id="sl-candidate-detail" style="display:none">
+        <div class="flex items-center gap8" style="margin-bottom:10px">
+          <button class="btn btn-sm" id="sl-cand-back-btn">← Candidates</button>
+          <span id="sl-cand-detail-name" style="font-size:14px;font-weight:700"></span>
+          <span id="sl-cand-detail-status"></span>
+          <div class="spacer"></div>
+          <button class="btn btn-sm" id="sl-cand-resim-btn" title="Re-run the simulation over history">Re-simulate</button>
+          <button class="btn btn-sm btn-primary" id="sl-cand-promote-btn">Promote → live</button>
+          <button class="btn btn-sm" id="sl-cand-delete-btn">Delete</button>
+        </div>
+        <div class="flex" style="gap:2px;border-bottom:1px solid var(--border);margin-bottom:12px">
+          <button class="sl-subtab-btn active" data-sltab="config">Config</button>
+          <button class="sl-subtab-btn" data-sltab="performance">Performance</button>
+          <button class="sl-subtab-btn" data-sltab="bets">Simmed Bets</button>
+        </div>
+        <div id="sl-subtab-config"      class="sl-subtab-panel"></div>
+        <div id="sl-subtab-performance" class="sl-subtab-panel" style="display:none"></div>
+        <div id="sl-subtab-bets"        class="sl-subtab-panel" style="display:none"></div>
+      </div>
 
-      <!-- Token footer -->
-      <div id="ai-token-info" class="ai-token-footer" style="display:none"></div>
-
-    </div><!-- /ai-main -->
+    </div><!-- /sl-main -->
   </div><!-- /ai-layout -->
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- AI ANALYSIS TAB — chat                                 -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-ai">
+  <div class="flex gap8 items-center" style="margin-bottom:14px">
+    <h2 style="font-size:15px;font-weight:700">AI Analyst</h2>
+    <span id="aichat-subtitle" style="font-size:11px;color:var(--muted)">Chat with Claude about your bot's data — it can read every bet, propose strategies straight to the Lab, and review your filters.</span>
+  </div>
+
+  <div class="ai-layout">
+
+    <!-- Conversation sidebar -->
+    <div class="ai-sidebar">
+      <div class="ai-sidebar-hdr">
+        <span>Conversations</span>
+        <button class="btn btn-sm" id="aichat-new-btn" style="padding:2px 8px">+ New</button>
+      </div>
+      <div id="aichat-conv-list" class="ai-history-list">
+        <div class="ai-hist-empty">No conversations yet</div>
+      </div>
+    </div>
+
+    <!-- Chat main -->
+    <div class="aichat-main">
+      <div id="aichat-thread" class="aichat-thread">
+        <div class="ai-placeholder" id="aichat-empty">
+          <div class="ai-placeholder-icon">🤖</div>
+          <div class="ai-placeholder-title">AI Analyst</div>
+          <div class="ai-placeholder-sub">Ask anything about your bot's performance, or use a deep-dive preset below. Attach a CSV/JSON or a PDF (e.g. example filters or a research note) and Claude will factor it in. Strategies it proposes ship straight to the Strategy Lab.</div>
+        </div>
+      </div>
+
+      <!-- Deep-dive presets -->
+      <div id="aichat-presets" class="aichat-presets"></div>
+
+      <!-- Composer -->
+      <div class="aichat-composer">
+        <div id="aichat-attachments" class="aichat-attachments"></div>
+        <div class="aichat-input-row">
+          <button class="btn btn-sm" id="aichat-attach-btn" title="Attach CSV / JSON / PDF">📎</button>
+          <input type="file" id="aichat-file" accept=".csv,.json,.txt,.tsv,.pdf,text/csv,application/json,application/pdf" multiple style="display:none">
+          <textarea id="aichat-input" class="aichat-input" rows="1" placeholder="Ask about your data… (Enter to send, Shift+Enter for newline)"></textarea>
+          <button class="btn btn-primary" id="aichat-send-btn">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- ════════════════════════════════════════════════════════ -->
@@ -877,6 +943,6 @@
   </div>
 </div>
 
-<script src="app.js"></script>
+<script src="app.js?v=20260529k"></script>
 </body>
 </html>

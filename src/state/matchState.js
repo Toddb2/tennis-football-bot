@@ -4,6 +4,16 @@ const logger = require('../utils/logger');
 const { recordGameResult } = require('../algorithm/momentumDetector');
 
 /**
+ * Sanitise an incoming odds value. Valid decimal odds are finite and in
+ * (1, 1000]; Betfair never trades at ≤ 1.0. Anything else (null, 0, NaN, a
+ * negative, or an absurd value) returns null so the caller keeps the last good
+ * price instead of storing garbage (e.g. a 0 that would make 1/odds = ∞).
+ */
+function validOdds(v) {
+  return (typeof v === 'number' && isFinite(v) && v > 1 && v <= 1000) ? v : null;
+}
+
+/**
  * One instance per live match.
  * Holds the unified view of everything the algorithm needs.
  */
@@ -153,12 +163,25 @@ class MatchState {
     if (Array.isArray(runners) && runners.length >= 2) {
       const [a, b] = runners;
       if (a) {
-        this.playerABack = a.backPrice ?? this.playerABack;
-        this.playerALay  = a.layPrice  ?? this.playerALay;
+        const ab = validOdds(a.backPrice), al = validOdds(a.layPrice);
+        if (ab != null) this.playerABack = ab;   // ignore null/0/≤1/NaN — keep last good price
+        if (al != null) this.playerALay  = al;
       }
       if (b) {
-        this.playerBBack = b.backPrice ?? this.playerBBack;
-        this.playerBLay  = b.layPrice  ?? this.playerBLay;
+        const bb = validOdds(b.backPrice), bl = validOdds(b.layPrice);
+        if (bb != null) this.playerBBack = bb;
+        if (bl != null) this.playerBLay  = bl;
+      }
+      // Flag a crossed book (back > lay) — should not happen on a healthy market;
+      // usually a transient during a fast move or a bad tick. We keep the values
+      // (they may be momentarily valid) but log so persistent crossing is visible.
+      if (this.playerABack != null && this.playerALay != null && this.playerABack > this.playerALay + 1e-9) {
+        logger.debug('matchState: crossed book playerA (back > lay)', {
+          marketId: this.betfairMarketId, back: this.playerABack, lay: this.playerALay });
+      }
+      if (this.playerBBack != null && this.playerBLay != null && this.playerBBack > this.playerBLay + 1e-9) {
+        logger.debug('matchState: crossed book playerB (back > lay)', {
+          marketId: this.betfairMarketId, back: this.playerBBack, lay: this.playerBLay });
       }
       // Use the sum of runner volumes if total isn't provided directly
       if (!matchedVolume) {
@@ -172,13 +195,19 @@ class MatchState {
     // If both runners are < 1.5 the market is already deep in-play (e.g. 5-0 in set 3).
     const oddsLookPreMatch = this.playerABack != null && this.playerBBack != null
       ? !(this.playerABack < 1.5 && this.playerBBack < 1.5)
+        && (1 / this.playerABack + 1 / this.playerBBack) <= 1.20   // plausible pre-match overround
       : (this.playerABack != null && this.playerABack >= 1.1);
-    // Prefer ppPrices (Betfair pre-play) from CBB stream — always accurate regardless of when bot saw market
-    const ppA = oddsData.prePlayOddsA;
-    const ppB = oddsData.prePlayOddsB;
-    if (ppA != null && ppA > 1.05 && !this.preMatchOddsA) {
+    // Prefer ppPrices (Betfair pre-play) from CBB stream — accurate regardless of
+    // when the bot first saw the market. But sanity-check them: a real pre-match
+    // book can't have both players short (e.g. both < 1.2 → overround ~1.67).
+    // When both prices are present their overround must be plausible (≤ 1.20);
+    // otherwise the "pre-play" value is actually an in-play price and we reject it.
+    const ppA = validOdds(oddsData.prePlayOddsA);
+    const ppB = validOdds(oddsData.prePlayOddsB);
+    const ppOverroundOk = ppB == null || (1 / ppA + 1 / ppB) <= 1.20;
+    if (ppA != null && ppA > 1.05 && ppOverroundOk && !this.preMatchOddsA) {
       this.preMatchOddsA  = ppA;
-      this.preMatchOddsB  = ppB ?? null;
+      this.preMatchOddsB  = ppB;
       this.preMatchVolume = this.matchedVolume ?? 0;
       try {
         require('../database/marketRepo').updatePreMatchOdds(this.betfairMarketId, {

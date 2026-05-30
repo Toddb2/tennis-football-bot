@@ -132,7 +132,10 @@ function evaluateStrategies(matchState, systems, firedSet, config = {}) {
 
   for (const system of systems) {
     if (!system.enabled) continue;
-    if (!system.backtest?.trigger || !system.backtest?.entry) continue;
+    // Require a trigger + a usable entry. Guard entry.side specifically — an empty
+    // entry object ({}) is truthy but would crash later on entry.side.toLowerCase().
+    // (setNumber is intentionally NOT required — it defaults to 1 below.)
+    if (!system.backtest?.trigger || !system.backtest?.entry?.side) continue;
     if (firedSet.has(system.name)) continue;
 
     const trigger = system.backtest.trigger;
