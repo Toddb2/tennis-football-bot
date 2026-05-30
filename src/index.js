@@ -845,9 +845,10 @@ async function checkSetHedge(matchState, order) {
  * Used when the stream goes quiet instead of sending a CLOSED status, which
  * would normally trigger settleDryRunOrder via the _prevLiveSnapshots mechanism.
  *
- * Considers the match over if:
- *   (a) One player's back price collapses to ≤ 1.05 (winner essentially decided), OR
- *   (b) The set scores show a best-of-3 winner (2 completed sets won by same player).
+ * Considers the match over ONLY when the set scores show a best-of-3 winner
+ * (2 completed sets won by the same player). Odds are never used to decide a
+ * winner — in tennis the price swings wildly in-play (a player can be ≤1.05 and
+ * still lose), so "favourite" tells us nothing about who actually won.
  *
  * Returns true if settlement was triggered.
  */
