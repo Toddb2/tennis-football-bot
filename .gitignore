@@ -15,5 +15,15 @@ logs/
 *.log.*
 bot.log*
 
-# Historical data (large)
-data/historical/
+# Runtime DB, state files & historical data (the DB itself also matches *.db above)
+data/
+
+# Scratch / one-off debug & analysis files (root-level, underscore-prefixed)
+/_*
+
+# Editor & source backups
+*.bak
+*.bak.*
+
+# Screenshots
+/Screenshot*.png
