@@ -385,6 +385,11 @@ db.exec(`
 // (even if it produced 0 bets). Lets the UI show "simulating…" vs a real result.
 try { db.exec(`ALTER TABLE strategy_lab ADD COLUMN sim_status TEXT DEFAULT 'pending'`); } catch (_) {}
 
+// Flag for bets whose runner landed on the OPPOSITE player to the strategy's
+// P1/P2 intent (Betfair delivered the runner array reversed vs the match title,
+// before the title-alignment fix). Lets the dashboard surface mis-sided bets.
+try { db.exec(`ALTER TABLE bets ADD COLUMN side_reversed INTEGER DEFAULT 0`); } catch (_) {}
+
 // AI chat — persistent conversations + messages for the AI Analysis tab.
 db.exec(`
   CREATE TABLE IF NOT EXISTS ai_conversations (

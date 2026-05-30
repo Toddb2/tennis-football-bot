@@ -909,6 +909,12 @@ class BetfairStream extends EventEmitter {
       ? storedVolume
       : runnerList.reduce((sum, r) => sum + (r.matchedVolume ?? 0), 0);
 
+    // Betfair's authoritative result: when a market settles, the marketDefinition
+    // marks the winning runner status: 'WINNER' (tied to its selectionId). This is
+    // ordering-proof — it identifies the exact runner that won, regardless of how
+    // A/B happen to be ordered.
+    const winnerDef = runnerDefs.find(d => d.status === 'WINNER');
+
     return {
       marketId,
       eventId:       cat.eventId    || null,
@@ -919,6 +925,7 @@ class BetfairStream extends EventEmitter {
       inPlay:        cat.inPlay     ?? false,
       status:        cat.status     || 'OPEN',
       matchedVolume: totalVolume,
+      winnerSelectionId: winnerDef ? String(winnerDef.id) : null,
       timestamp,
     };
   }

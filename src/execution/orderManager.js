@@ -376,6 +376,14 @@ class OrderManager {
       ? opts.officialWinner
       : null;
 
+    // Betfair's authoritative settled result: the winning selectionId → A/B via the
+    // stored runner ids. Ordering-proof (independent of A/B labelling) and exact, so
+    // it takes precedence over set-score inference.
+    if (!winner && snapshot.winnerSelectionId && (snapshot.runnerIdA || snapshot.runnerIdB)) {
+      if (String(snapshot.winnerSelectionId) === String(snapshot.runnerIdA)) winner = 'A';
+      else if (String(snapshot.winnerSelectionId) === String(snapshot.runnerIdB)) winner = 'B';
+    }
+
     if (!winner && Array.isArray(snapshot.sets)) {
       let setsA = 0, setsB = 0;
       for (const s of snapshot.sets) {

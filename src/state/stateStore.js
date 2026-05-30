@@ -108,6 +108,7 @@ class StateStore {
 
     switch (type) {
       case 'odds':
+        if (update.winnerSelectionId) state.winnerSelectionId = update.winnerSelectionId;
         state.applyOddsUpdate(update);
         if (state.status === 'CLOSED') {
           this.close(marketId);
@@ -215,16 +216,25 @@ class StateStore {
     // Persist close to DB (non-fatal)
     try {
       const sets = snapshot.sets?.filter(s => s && (s.playerA != null || s.playerB != null)) || [];
-      // Determine winner from final odds or set scores
+      // Determine winner. Prefer Betfair's authoritative settled result (winning
+      // selectionId → A/B via the stored runner ids) — ordering-proof and exact.
+      // Fall back to final odds, then set scores, only if Betfair didn't mark a winner.
       let winner = null;
-      const oddsA = snapshot.playerABack, oddsB = snapshot.playerBBack;
-      if (oddsA != null && oddsB != null && oddsA > 1 && oddsB > 1) {
-        winner = oddsA < oddsB ? 'A' : 'B';
-      } else if (sets.length >= 2) {
-        const sA = sets.filter(s => (s.playerA ?? 0) > (s.playerB ?? 0)).length;
-        const sB = sets.filter(s => (s.playerB ?? 0) > (s.playerA ?? 0)).length;
-        if (sA > sB) winner = 'A';
-        else if (sB > sA) winner = 'B';
+      const wsel = snapshot.winnerSelectionId;
+      if (wsel && (snapshot.runnerIdA || snapshot.runnerIdB)) {
+        if (String(wsel) === String(snapshot.runnerIdA)) winner = 'A';
+        else if (String(wsel) === String(snapshot.runnerIdB)) winner = 'B';
+      }
+      if (!winner) {
+        const oddsA = snapshot.playerABack, oddsB = snapshot.playerBBack;
+        if (oddsA != null && oddsB != null && oddsA > 1 && oddsB > 1) {
+          winner = oddsA < oddsB ? 'A' : 'B';
+        } else if (sets.length >= 2) {
+          const sA = sets.filter(s => (s.playerA ?? 0) > (s.playerB ?? 0)).length;
+          const sB = sets.filter(s => (s.playerB ?? 0) > (s.playerA ?? 0)).length;
+          if (sA > sB) winner = 'A';
+          else if (sB > sA) winner = 'B';
+        }
       }
       marketRepo.close(marketId, {
         endedAt:   new Date().toISOString(),

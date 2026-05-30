@@ -390,6 +390,9 @@ class MatchState {
       surface:          this.surface,
       tournament:       this.tournament,
       betfairEventName: this.betfairEventName,
+      runnerIdA:        this.runnerIdA,
+      runnerIdB:        this.runnerIdB,
+      winnerSelectionId: this.winnerSelectionId,   // Betfair's settled winner (selectionId), if received
       sets:            this.sets,
       currentGame:     this.currentGame,
       currentServer:   this.currentServer,

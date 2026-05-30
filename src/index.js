@@ -1401,6 +1401,20 @@ async function main() {
 
   marketRecorder = new MarketRecorder();
 
+  // Betfair's stream sometimes delivers the runner array in the reverse order to
+  // the event title ("X v Y"). We define player A = the title's FIRST player and
+  // B = the second, consistently — so strategy P1/P2, the bet's runner, the stored
+  // name, the markets row, and settlement all agree. Returns [runnerForA, runnerForB]
+  // re-ordered to match the title; only swaps on clear name evidence, else leaves
+  // the array as-is (so an unresolvable case can never make things worse).
+  const _orderRunnersByTitle = (runners, nameA, nameB) => {
+    const r0 = runners?.[0] || null, r1 = runners?.[1] || null;
+    if (!r0 || !r1 || !r0.name || !r1.name) return [r0, r1];
+    const reversed = playerNamesMatch(r0.name, nameB) && playerNamesMatch(r1.name, nameA)
+                  && !(playerNamesMatch(r0.name, nameA) && playerNamesMatch(r1.name, nameB));
+    return reversed ? [r1, r0] : [r0, r1];
+  };
+
   const onMarketUpdate = (update) => {
     marketRecorder.record(update);
     const isNew = !stateStore.get(update.marketId);
@@ -1410,14 +1424,15 @@ async function main() {
       const [nameA, nameB] = update.matchName.split(' v ').map(s => s.trim());
       if (nameA && nameB) {
         const hist = historicalLoader.buildMatchHistoricalStats(nameA, nameB, null);
+        const [rA, rB] = _orderRunnersByTitle(update.runners, nameA, nameB);
         stateStore.upsert(update.marketId, {
           matchName:       update.matchName,
           historicalStats: hist,
-          // Store runner IDs for order placement
-          runnerIdA:  update.runners?.[0]?.selectionId || null,
-          runnerIdB:  update.runners?.[1]?.selectionId || null,
-          playerAName: update.runners?.[0]?.name || nameA,
-          playerBName: update.runners?.[1]?.name || nameB,
+          // Store runner IDs for order placement — aligned to TITLE order (A = first-named)
+          runnerIdA:  rA?.selectionId || null,
+          runnerIdB:  rB?.selectionId || null,
+          playerAName: rA?.name || nameA,
+          playerBName: rB?.name || nameB,
         }, 'init');
       }
     }
@@ -1446,12 +1461,15 @@ async function main() {
     if (_state && (!_state.playerAName || !_state.playerBName) && update.matchName) {
       const [_nameA, _nameB] = update.matchName.split(' v ').map(s => s.trim());
       if (_nameA && _nameB) {
-        _state.playerAName = update.runners?.[0]?.name || _nameA;
-        _state.playerBName = update.runners?.[1]?.name || _nameB;
-        logger.info('index: player names backfilled', {
+        const [rA, rB] = _orderRunnersByTitle(update.runners, _nameA, _nameB);
+        _state.playerAName = rA?.name || _nameA;
+        _state.playerBName = rB?.name || _nameB;
+        if (rA?.selectionId) _state.runnerIdA = rA.selectionId;   // keep runner ids title-aligned too
+        if (rB?.selectionId) _state.runnerIdB = rB.selectionId;
+        logger.info('index: player names backfilled (title-aligned)', {
           marketId: update.marketId,
-          playerAName: update.runners?.[0]?.name || _nameA,
-          playerBName: update.runners?.[1]?.name || _nameB,
+          playerAName: _state.playerAName,
+          playerBName: _state.playerBName,
         });
       }
     }

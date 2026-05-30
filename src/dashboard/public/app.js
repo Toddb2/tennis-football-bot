@@ -1060,12 +1060,15 @@ function renderBetsTable(rows) {
           ? `<span class="badge badge-green" title="Passes the active BFBM filter — included in filtered bets">filtered</span>`
           : `<span class="badge badge-gray" title="Excluded by the active BFBM filter — not in filtered bets">excluded</span>`)
       : '';
+    const revTag = r.side_reversed
+      ? `<span class="badge badge-red" title="This bet landed on the OPPOSITE player to the strategy's P1/P2 — Betfair delivered the runner order reversed vs the match title. Fixed going forward.">⚠ reversed</span>`
+      : '';
 
     return `<tr class="bet-row" data-betidx="${i}" data-betid="${r.bet_id}" style="cursor:pointer">
       <td class="wrap"><strong>${r.match_name || '—'}</strong></td>
       <td class="score">${scoreStr}</td>
       <td>${r.strategy_name || '—'}</td>
-      <td>${nameHtml} ${flTag}</td>
+      <td>${nameHtml} ${flTag} ${revTag}</td>
       <td>${r.side || '—'}</td>
       <td>${fmt.odds(r.requested_odds)}</td>
       <td>£${r.stake?.toFixed(2) || '—'}</td>
@@ -4963,8 +4966,16 @@ async function _refreshDqPresetDropdown() {
   if (!userNames.includes(cur)) {
     try {
       const active = await fetch('/api/bfbm-filter').then(r => r.json());
-      const match  = active && userNames.find(n => _filtersEquivalent(userPresets[n], active));
-      if (match) target = match;
+      if (active) {
+        // Prefer the explicit preset name stamped when the gate was saved; fall back
+        // to matching criteria for gates saved before that stamp existed.
+        if (active.presetName && userNames.includes(active.presetName)) {
+          target = active.presetName;
+        } else {
+          const match = userNames.find(n => _filtersEquivalent(userPresets[n], active));
+          if (match) target = match;
+        }
+      }
     } catch (_) {}
   }
   select.value = [...select.options].some(o => o.value === target) ? target : '__delta_quality__';
@@ -5862,10 +5873,17 @@ async function saveAsBfbmFilter() {
   const f = _flReadFilters();
   if (!confirm(`Save these filter criteria as the BFBM gate?\n\nFrom now until you clear it, ONLY strategy signals matching this filter will be written to bfbm-signals.csv. Other signals will be logged but skipped.`)) return;
   try {
+    // Stamp the matching saved-preset name (if the current form equals one) so the
+    // Filtered Bets dropdown can reliably default to the active preset.
+    let presetName = null;
+    try {
+      const presets = await fetch('/api/filter-lab/presets').then(r => r.json());
+      presetName = Object.keys(presets || {}).find(n => _filtersEquivalent(presets[n], f)) || null;
+    } catch (_) {}
     const r = await fetch('/api/bfbm-filter', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(f),
+      body: JSON.stringify({ ...f, presetName }),
     }).then(r => r.json());
     if (r.error) throw new Error(r.error);
     await refreshBfbmFilterStatus();
