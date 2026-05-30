@@ -52,6 +52,16 @@ const _close = db.prepare(`
     AND ended_at IS NULL
 `);
 
+// Set the authoritative result on a market regardless of whether it's already
+// closed (used by the api-tennis settlement path, which is the source of truth).
+const _setResult = db.prepare(`
+  UPDATE markets
+  SET winner     = @winner,
+      final_sets = COALESCE(@finalSets, final_sets),
+      ended_at   = COALESCE(ended_at, @endedAt)
+  WHERE betfair_market_id = @betfairMarketId
+`);
+
 const _getById = db.prepare(`
   SELECT * FROM markets WHERE betfair_market_id = ?
 `);
@@ -120,6 +130,13 @@ function upsert(fields) {
 }
 
 /** Mark a market as closed with its final score. */
+function setResult(betfairMarketId, { winner, finalSets = null, endedAt = null }) {
+  _setResult.run({
+    betfairMarketId, winner: winner ?? null, finalSets: finalSets ?? null,
+    endedAt: endedAt || new Date().toISOString(),
+  });
+}
+
 function close(betfairMarketId, { endedAt, finalSets, winner }) {
   _close.run({
     betfairMarketId,
@@ -202,4 +219,4 @@ function backfillFinalSetsFromSnapshots() {
   return { filled: result.changes };
 }
 
-module.exports = { upsert, close, getById, getAll, getRecent, getUnlinked, setLinked, updateSurface, updatePreMatchOdds, backfillFinalSetsFromSnapshots };
+module.exports = { upsert, close, setResult, getById, getAll, getRecent, getUnlinked, setLinked, updateSurface, updatePreMatchOdds, backfillFinalSetsFromSnapshots };

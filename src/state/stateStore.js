@@ -216,25 +216,33 @@ class StateStore {
     // Persist close to DB (non-fatal)
     try {
       const sets = snapshot.sets?.filter(s => s && (s.playerA != null || s.playerB != null)) || [];
-      // Determine winner. Prefer Betfair's authoritative settled result (winning
-      // selectionId → A/B via the stored runner ids) — ordering-proof and exact.
-      // Fall back to final odds, then set scores, only if Betfair didn't mark a winner.
+      // Determine winner — AUTHORITATIVE sources only. Prefer Betfair's settled
+      // result (winning selectionId → A/B via the stored runner ids; ordering-proof).
+      // We deliberately do NOT infer from odds: the old `oddsA < oddsB ? A : B` assumed
+      // the favourite always wins, which mis-settled every upset AND, by settling first,
+      // blocked the authoritative api-tennis correction. If neither Betfair nor a
+      // DECISIVE completed-set result is available, leave winner null and let the
+      // api-tennis fallback settle it correctly by name.
       let winner = null;
       const wsel = snapshot.winnerSelectionId;
       if (wsel && (snapshot.runnerIdA || snapshot.runnerIdB)) {
         if (String(wsel) === String(snapshot.runnerIdA)) winner = 'A';
         else if (String(wsel) === String(snapshot.runnerIdB)) winner = 'B';
       }
-      if (!winner) {
-        const oddsA = snapshot.playerABack, oddsB = snapshot.playerBBack;
-        if (oddsA != null && oddsB != null && oddsA > 1 && oddsB > 1) {
-          winner = oddsA < oddsB ? 'A' : 'B';
-        } else if (sets.length >= 2) {
-          const sA = sets.filter(s => (s.playerA ?? 0) > (s.playerB ?? 0)).length;
-          const sB = sets.filter(s => (s.playerB ?? 0) > (s.playerA ?? 0)).length;
-          if (sA > sB) winner = 'A';
-          else if (sB > sA) winner = 'B';
+      if (!winner && sets.length) {
+        const isComplete = s => {
+          const a = s.playerA ?? 0, b = s.playerB ?? 0;
+          if (a === 6 && b === 6) return false;                 // tiebreak in progress
+          return (a >= 6 && a - b >= 2) || a === 7 || (b >= 6 && b - a >= 2) || b === 7;
+        };
+        let sA = 0, sB = 0;
+        for (const s of sets) {
+          if (!isComplete(s)) continue;
+          if ((s.playerA ?? 0) > (s.playerB ?? 0)) sA++;
+          else if ((s.playerB ?? 0) > (s.playerA ?? 0)) sB++;
         }
+        if (sA >= 2) winner = 'A';
+        else if (sB >= 2) winner = 'B';
       }
       marketRepo.close(marketId, {
         endedAt:   new Date().toISOString(),

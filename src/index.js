@@ -907,6 +907,19 @@ async function _settleViaApiTennis(marketId) {
     });
   }
 
+  // Persist the authoritative result on the market (winner + title-ordered final
+  // sets) so markets.winner is correct and the integrity monitor can verify it —
+  // not just settle the open bets.
+  const firstIsA = winnerName && market.player_a_name
+    && playerNamesMatch(fx.event_first_player, market.player_a_name)
+    && !playerNamesMatch(fx.event_first_player, market.player_b_name);
+  const finalSets = Array.isArray(fx.scores) && fx.scores.length
+    ? JSON.stringify(fx.scores.map(s => firstIsA
+        ? [parseInt(s.score_first) || 0, parseInt(s.score_second) || 0]
+        : [parseInt(s.score_second) || 0, parseInt(s.score_first) || 0]))
+    : null;
+  try { marketRepo.setResult(marketId, { winner, finalSets }); } catch (_) {}
+
   logger.info('index: api-tennis settling finished match', {
     marketId, matchName: market.match_name, winner, winnerName, eventStatus: fx.event_status,
   });
