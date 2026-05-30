@@ -1416,6 +1416,16 @@ async function main() {
   };
 
   const onMarketUpdate = (update) => {
+    // Align the runner array to the match-title order UP FRONT, so everything that
+    // reads runners by position — odds (matchState.applyOddsUpdate reads runners[0]/[1]),
+    // names, runner ids, recorded snapshots — uses the same title-consistent A/B as the
+    // stats (which orient to matchName). Betfair sometimes sends runners reversed vs the
+    // title; without this, odds and name/runner could end up on different players.
+    if (Array.isArray(update.runners) && update.runners.length === 2) {
+      const titleName = stateStore.get(update.marketId)?.matchName || update.matchName || '';
+      const [tA, tB] = titleName.split(' v ').map(s => s.trim());
+      if (tA && tB) update.runners = _orderRunnersByTitle(update.runners, tA, tB);
+    }
     marketRecorder.record(update);
     const isNew = !stateStore.get(update.marketId);
 
