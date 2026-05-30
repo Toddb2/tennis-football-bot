@@ -351,7 +351,7 @@ function evaluateStrategies(matchState, systems, firedSet, config = {}) {
     // ── Momentum filters ─────────────────────────────────────────────────
     const mom = matchState.momentumIndex ?? null;
     if (f.momentumFavoursBetPlayer && mom != null) {
-      const inFavour = betPlayerKey === 'playerA' ? mom > 0 : mom < 0;
+      const inFavour = betPlayerKey === 'A' ? mom > 0 : mom < 0;
       if (!inFavour) rej('MOMENTUM', `Momentum ${mom.toFixed(0)} not in favour of ${betPlayerKey}`);
     }
     if (f.minAbsMomentum != null && mom != null && Math.abs(mom) < f.minAbsMomentum)

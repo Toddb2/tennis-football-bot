@@ -460,7 +460,9 @@ function handlePatchBet(req, res) {
 }
 
 async function handleFetchResult(req, res) {
-  res.json(await fetchAndSaveResult(req.params.id));
+  try {
+    res.json(await fetchAndSaveResult(req.params.id));
+  } catch (err) { res.status(500).json({ error: err.message }); }
 }
 
 async function handleLiveSnapshot(req, res) {
@@ -747,8 +749,10 @@ async function handleFootballAnalysisRun(req, res) {
     if (cached) return res.json({ ...cached, fromCache: true });
     return res.json({ error: 'No analysis yet. Click + New to generate one.' });
   }
-  const result = await footballAnalyser.runAnalysis({ forceRefresh });
-  res.json(result);
+  try {
+    const result = await footballAnalyser.runAnalysis({ forceRefresh });
+    res.json(result);
+  } catch (err) { res.status(500).json({ error: err.message }); }
 }
 
 function handleFootballAnalysisHistory(req, res) {
