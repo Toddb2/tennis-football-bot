@@ -2325,8 +2325,8 @@ function apiDbMarketScanner(req, res) {
       WHERE m.ended_at IS NOT NULL
         AND COALESCE(pm_end.matched_volume, pm_s1.matched_volume, pm_pre.matched_volume, 0) >= 200000
       ORDER BY m.went_in_play_at DESC
-      LIMIT 500
     `).all();
+    // (No LIMIT — the scanner CSV records every qualifying match, uncapped.)
     // Flatten serve_stats blobs into per-set objects + compute 1st-serve-won %
     // differentials per set + match. The clients (AI tools / CSV download) can
     // consume these without JSON parsing or re-derivation.

@@ -67,7 +67,26 @@ function startStrategyDiscovery() {
 
 async function _doStrategyDiscovery(runId) {
   const markets = db.prepare(`SELECT match_name, surface, tournament, tournament_round, pre_match_odds_a, pre_match_odds_b, winner, final_sets, went_in_play_at FROM markets WHERE winner IS NOT NULL AND pre_match_odds_a IS NOT NULL ORDER BY went_in_play_at DESC LIMIT 2000`).all();
-  const scanner = db.prepare(`SELECT match_name, tournament, surface, went_in_play_at, pre_match_odds_a, pre_match_odds_b, set1_end_odds_a, set1_end_odds_b, set2_end_odds_a, set2_end_odds_b, peak_volume, winner, final_sets FROM market_scanner ORDER BY went_in_play_at DESC LIMIT 500`).all();
+  // Real high-volume scanner data with price movement, derived from markets +
+  // price_milestones (the same source the scanner CSV uses) — NOT the empty
+  // market_scanner table. Capped at 500 for the model's context window.
+  const scanner = db.prepare(`
+    SELECT m.match_name, m.tournament, m.surface, m.went_in_play_at,
+           m.pre_match_odds_a, m.pre_match_odds_b,
+           pm_s1.player_a_back AS set1_end_odds_a, pm_s1.player_b_back AS set1_end_odds_b,
+           pm_s2.player_a_back AS set2_end_odds_a, pm_s2.player_b_back AS set2_end_odds_b,
+           COALESCE(pm_end.matched_volume, pm_s2.matched_volume, pm_s1.matched_volume, pm_pre.matched_volume) AS peak_volume,
+           m.winner, m.final_sets
+    FROM markets m
+    LEFT JOIN price_milestones pm_pre ON pm_pre.betfair_market_id = m.betfair_market_id AND pm_pre.milestone = 'pre_match'
+    LEFT JOIN price_milestones pm_s1  ON pm_s1.betfair_market_id  = m.betfair_market_id AND pm_s1.milestone  = 'set_1_end'
+    LEFT JOIN price_milestones pm_s2  ON pm_s2.betfair_market_id  = m.betfair_market_id AND pm_s2.milestone  = 'set_2_end'
+    LEFT JOIN price_milestones pm_end ON pm_end.betfair_market_id = m.betfair_market_id AND pm_end.milestone = 'match_end'
+    WHERE m.ended_at IS NOT NULL
+      AND COALESCE(pm_end.matched_volume, pm_s1.matched_volume, pm_pre.matched_volume, 0) >= 200000
+    ORDER BY m.went_in_play_at DESC
+    LIMIT 500
+  `).all();
   const betStats = db.prepare(`SELECT strategy_name, COUNT(*) as bets, SUM(CASE WHEN pnl > 0 THEN 1 ELSE 0 END) as wins, ROUND(SUM(pnl),2) as total_pnl, ROUND(AVG(requested_odds),3) as avg_odds FROM bets WHERE pnl IS NOT NULL GROUP BY strategy_name`).all();
   const allBets = db.prepare(`SELECT b.strategy_name, b.player_key, b.side, b.requested_odds, b.pnl, b.placed_at, b.momentum_at_bet, m.surface, m.tournament, m.pre_match_odds_a, m.pre_match_odds_b FROM bets b LEFT JOIN markets m ON b.betfair_market_id = m.betfair_market_id WHERE b.pnl IS NOT NULL ORDER BY b.placed_at DESC`).all();
   const existingStrats = _readJson(path.join(CONFIG_DIR, 'strategies.json'), { systems: [] });
