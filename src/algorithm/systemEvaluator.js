@@ -266,22 +266,9 @@ function passesFilters(matchState, filters) {
     }
   }
 
-  // Favourite/underdog filter
-  if (filters.onlyBackFavourite) {
-    const backingA    = (matchState.edgeA || 0) >= (matchState.edgeB || 0);
-    const aIsFavourite = (matchState.playerABack || Infinity) < (matchState.playerBBack || Infinity);
-    if (backingA !== aIsFavourite) {
-      return { passes: false, reason: 'Not backing favourite' };
-    }
-  }
-
-  if (filters.onlyBackUnderdog) {
-    const backingA    = (matchState.edgeA || 0) >= (matchState.edgeB || 0);
-    const aIsFavourite = (matchState.playerABack || Infinity) < (matchState.playerBBack || Infinity);
-    if (backingA === aIsFavourite) {
-      return { passes: false, reason: 'Not backing underdog' };
-    }
-  }
+  // (Removed: onlyBackFavourite / onlyBackUnderdog filters. In tennis the in-play
+  // price swings too much for "favourite" to mean anything reliable, so we no
+  // longer gate bets on favourite/underdog by odds.)
 
   // --- Advanced metrics (backed-player relative) ---
   const backedPlayerKey = (matchState.edgeA || 0) >= (matchState.edgeB || 0) ? 'playerA' : 'playerB';

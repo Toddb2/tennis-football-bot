@@ -420,8 +420,6 @@ class TelegramNotifier {
       if (f.minOddsToBack != null)      parts.push(`Odds ${f.minOddsToBack}–${f.maxOddsToBack ?? '∞'}`);
       if (f.minMatchedVolume)           parts.push(`Vol ≥${(f.minMatchedVolume / 1000).toFixed(0)}k`);
       if (f.requireBreakInCurrentSet)   parts.push('Break req.');
-      if (f.onlyBackFavourite)          parts.push('Fav only');
-      if (f.onlyBackUnderdog)           parts.push('Dog only');
       if (f.minFirstServeWinPct)        parts.push(`1st srv ≥${f.minFirstServeWinPct}%`);
       if (f.minFirstServeInPct)         parts.push(`1st in ≥${f.minFirstServeInPct}%`);
       if (f.maxDoubleFaults != null)    parts.push(`DFs ≤${f.maxDoubleFaults}`);
