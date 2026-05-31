@@ -503,6 +503,7 @@
     <button class="an-subtab-btn active" data-subtab="overview" style="padding:7px 16px;font-size:13px;font-weight:600;background:none;border:none;border-bottom:2px solid var(--blue);margin-bottom:-2px;color:var(--blue);cursor:pointer">Overview</button>
     <button class="an-subtab-btn" data-subtab="scanner" style="padding:7px 16px;font-size:13px;font-weight:600;background:none;border:none;border-bottom:2px solid transparent;margin-bottom:-2px;color:var(--muted);cursor:pointer">Market Scanner</button>
     <button class="an-subtab-btn" data-subtab="entry" style="padding:7px 16px;font-size:13px;font-weight:600;background:none;border:none;border-bottom:2px solid transparent;margin-bottom:-2px;color:var(--muted);cursor:pointer">Entry Data</button>
+    <button class="an-subtab-btn" data-subtab="matrix" style="padding:7px 16px;font-size:13px;font-weight:600;background:none;border:none;border-bottom:2px solid transparent;margin-bottom:-2px;color:var(--muted);cursor:pointer">Matrix</button>
   </div>
 
   <!-- ── Overview sub-panel ───────────────────────────────── -->
@@ -625,6 +626,23 @@
       <button class="btn btn-sm" id="an-entry-load-btn">Load</button>
     </div>
     <div id="an-entry-body"></div>
+  </div>
+
+  <!-- ── Matrix (strategy heatmap) sub-panel ──────────────── -->
+  <div id="an-sub-matrix" style="display:none">
+    <div class="flex gap8 items-center" style="margin-bottom:6px">
+      <div style="font-size:12px;color:var(--muted)">Every settled bet, classified by entry point × backed player's set result × pre-match role. Colour = P&amp;L.</div>
+      <div class="spacer"></div>
+      <div class="flex gap4" id="mx-period-btns">
+        <button class="btn btn-sm mx-period" data-since="-7 days">7d</button>
+        <button class="btn btn-sm mx-period" data-since="-30 days">30d</button>
+        <button class="btn btn-sm mx-period" data-since="-90 days">90d</button>
+        <button class="btn btn-sm mx-period active" data-since="-3650 days">All</button>
+      </div>
+      <button class="btn btn-sm" id="mx-refresh">Refresh</button>
+    </div>
+    <div id="mx-grid"><div class="empty">Loading…</div></div>
+    <div id="mx-note" style="font-size:11px;color:var(--muted);margin-top:10px"></div>
   </div>
 
 </div>
@@ -943,6 +961,6 @@
   </div>
 </div>
 
-<script src="app.js?v=20260530b"></script>
+<script src="app.js?v=20260531a"></script>
 </body>
 </html>

@@ -209,6 +209,7 @@ function start() {
     app.get('/api/analysis/strategies',          apiGetAnalysis);
     app.post('/api/analysis/strategies/refresh', apiRefreshAnalysis);
     app.get('/api/analysis/history',             apiGetAnalysisHistory);
+    app.get('/api/analysis/matrix',              apiAnalysisMatrix);
 
     // AI chat (streaming + persistent conversations)
     app.get   ('/api/ai-chat/conversations',     apiAiChatList);
@@ -1062,6 +1063,71 @@ function apiGetDebugMarkets(req, res) {
       };
     });
   res.json(markets);
+}
+
+// ── Strategy matrix heatmap ───────────────────────────────────────────────
+// Classifies every settled bet into one of 8 cells:
+//   entry set (1|2) × backed-player's result in that set (winner|loser) × pre-match
+//   role (fav|dog). Entry set comes from the strategy config; the set result from the
+//   actual final_sets; the role from pre-match odds of the backed runner. "Either"
+//   strategies naturally split into their fav and dog halves here.
+function apiAnalysisMatrix(req, res) {
+  try {
+    const since = req.query.since || '-3650 days';
+    const setByStrat = {};
+    try {
+      const cfg = JSON.parse(fs.readFileSync(STRATEGIES_PATH, 'utf8'));
+      for (const s of (cfg.systems || [])) {
+        const n = s.backtest && s.backtest.trigger && s.backtest.trigger.setNumber;
+        if (n) setByStrat[s.name] = n;
+      }
+    } catch (_) {}
+    try {
+      for (const r of db.prepare(`SELECT name, config FROM strategy_lab`).all()) {
+        try { const c = JSON.parse(r.config); const n = c.backtest && c.backtest.trigger && c.backtest.trigger.setNumber; if (n) setByStrat[r.name] = n; } catch (_) {}
+      }
+    } catch (_) {}
+
+    const bets = db.prepare(`
+      SELECT b.strategy_name, b.player_key, b.side, b.pnl, b.stake,
+             m.final_sets, m.pre_match_odds_a, m.pre_match_odds_b
+      FROM bets b JOIN markets m ON b.betfair_market_id = m.betfair_market_id
+      WHERE b.settlement_type IN ('DRY_WIN','DRY_LOSS')
+        AND b.placed_at >= datetime('now', ?)
+    `).all(since);
+
+    const cells = {};
+    for (const s of [1, 2]) for (const r of ['winner', 'loser']) for (const f of ['fav', 'dog'])
+      cells[`S${s}_${r}_${f}`] = { entrySet: s, role: r, fav: f, count: 0, wins: 0, pnl: 0, stake: 0 };
+    let unclassified = 0;
+
+    for (const b of bets) {
+      const entrySet = setByStrat[b.strategy_name];
+      if (entrySet !== 1 && entrySet !== 2) { unclassified++; continue; }
+      let sets; try { sets = JSON.parse(b.final_sets || '[]'); } catch { sets = []; }
+      const row = Array.isArray(sets) ? sets[entrySet - 1] : null;
+      if (!row) { unclassified++; continue; }
+      const ga = Array.isArray(row) ? row[0] : row.playerA;
+      const gb = Array.isArray(row) ? row[1] : row.playerB;
+      const idx = b.player_key === 'A' ? 0 : 1;
+      const mine = idx === 0 ? ga : gb, opp = idx === 0 ? gb : ga;
+      if (mine == null || opp == null || mine === opp) { unclassified++; continue; }
+      const role = mine > opp ? 'winner' : 'loser';
+      const myOdds = b.player_key === 'A' ? b.pre_match_odds_a : b.pre_match_odds_b;
+      const opOdds = b.player_key === 'A' ? b.pre_match_odds_b : b.pre_match_odds_a;
+      if (myOdds == null || opOdds == null) { unclassified++; continue; }
+      const fav = myOdds < opOdds ? 'fav' : 'dog';
+      const c = cells[`S${entrySet}_${role}_${fav}`];
+      c.count++; c.pnl += b.pnl || 0; c.stake += b.stake || 0; if ((b.pnl || 0) > 0) c.wins++;
+    }
+    for (const k in cells) {
+      const c = cells[k];
+      c.pnl = Math.round(c.pnl * 100) / 100;
+      c.roi = c.stake > 0 ? Math.round((c.pnl / c.stake) * 1000) / 10 : null;
+      c.winRate = c.count > 0 ? Math.round((c.wins / c.count) * 1000) / 10 : null;
+    }
+    res.json({ cells, unclassified, totalBets: bets.length });
+  } catch (e) { res.status(500).json({ error: e.message }); }
 }
 
 async function apiGetAnalysis(req, res) {

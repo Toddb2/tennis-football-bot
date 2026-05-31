@@ -3986,7 +3986,7 @@ let _anSubtab = 'overview';
 
 function switchAnSubtab(name) {
   _anSubtab = name;
-  ['overview', 'scanner', 'entry'].forEach(id => {
+  ['overview', 'scanner', 'entry', 'matrix'].forEach(id => {
     $('an-sub-' + id).style.display = id === name ? '' : 'none';
   });
   document.querySelectorAll('.an-subtab-btn').forEach(b => {
@@ -3994,6 +3994,55 @@ function switchAnSubtab(name) {
     b.style.color       = active ? 'var(--blue)' : 'var(--muted)';
     b.style.borderBottom = active ? '2px solid var(--blue)' : '2px solid transparent';
   });
+  if (name === 'matrix') loadMatrix();
+}
+
+// ── STRATEGY MATRIX HEATMAP ───────────────────────────────────────────────
+let _mxSince = '-3650 days';
+
+async function loadMatrix() {
+  try {
+    const data = await api('/api/analysis/matrix?since=' + encodeURIComponent(_mxSince));
+    renderMatrix(data);
+  } catch (e) { $('mx-grid').innerHTML = '<div class="empty">Failed to load matrix</div>'; }
+}
+
+function _mxColor(pnl, count) {
+  if (!count) return 'var(--surface2)';
+  const a = (Math.min(1, Math.abs(pnl) / 30) * 0.5 + 0.12).toFixed(2);
+  return pnl >= 0 ? `rgba(46,160,67,${a})` : `rgba(248,81,73,${a})`;
+}
+
+function renderMatrix(data) {
+  const c = data.cells || {};
+  const rows = [
+    { key: 'S1_winner', label: 'End S1 · back the set-1 <b>winner</b>' },
+    { key: 'S1_loser',  label: 'End S1 · back the set-1 <b>loser</b>' },
+    { key: 'S2_winner', label: 'End S2 · back the set-2 <b>winner</b>' },
+    { key: 'S2_loser',  label: 'End S2 · back the set-2 <b>loser</b>' },
+  ];
+  const td = (k) => {
+    const d = c[k] || { count: 0, pnl: 0, roi: null, winRate: null };
+    const bg = _mxColor(d.pnl, d.count);
+    if (!d.count) return `<td style="background:${bg};text-align:center;color:var(--muted);padding:12px;border:1px solid var(--border)">—</td>`;
+    const col = d.pnl >= 0 ? 'var(--green)' : 'var(--red)';
+    return `<td style="background:${bg};text-align:center;padding:12px;border:1px solid var(--border)">
+      <div style="font-size:17px;font-weight:700;color:${col}">${d.pnl >= 0 ? '+' : ''}£${d.pnl.toFixed(2)}</div>
+      <div style="font-size:11px;color:var(--muted);margin-top:2px">${d.count} bets · ROI ${d.roi != null ? d.roi + '%' : '—'} · WR ${d.winRate != null ? d.winRate + '%' : '—'}</div>
+    </td>`;
+  };
+  let html = `<table style="width:100%;border-collapse:collapse;font-size:12px">
+    <thead><tr>
+      <th style="text-align:left;padding:8px;border:1px solid var(--border)">Recipe</th>
+      <th style="padding:8px;border:1px solid var(--border);width:38%">Backed the FAVOURITE</th>
+      <th style="padding:8px;border:1px solid var(--border);width:38%">Backed the UNDERDOG</th>
+    </tr></thead><tbody>`;
+  for (const r of rows) {
+    html += `<tr><td style="padding:8px;border:1px solid var(--border);font-weight:600">${r.label}</td>${td(r.key + '_fav')}${td(r.key + '_dog')}</tr>`;
+  }
+  html += '</tbody></table>';
+  $('mx-grid').innerHTML = html;
+  $('mx-note').textContent = `${data.totalBets} settled bets · ${data.unclassified} unclassified (missing odds / set score / entry set). Empty cells = no bets fit that recipe.`;
 }
 
 // ── MARKET SCANNER ────────────────────────────────────────────────────────────
@@ -4176,6 +4225,17 @@ function initAnalysisTab() {
   document.querySelectorAll('.an-subtab-btn').forEach(btn => {
     btn.addEventListener('click', () => switchAnSubtab(btn.dataset.subtab));
   });
+
+  // Matrix heatmap controls
+  document.querySelectorAll('.mx-period').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.mx-period').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      _mxSince = btn.dataset.since;
+      loadMatrix();
+    });
+  });
+  $('mx-refresh')?.addEventListener('click', loadMatrix);
 
   document.querySelectorAll('.an-period').forEach(btn => {
     btn.addEventListener('click', () => {
